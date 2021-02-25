@@ -1,0 +1,3462 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet type="text/css" href="../css/oxygen.css"?>
+
+<?xml-stylesheet type="text/xml" href="../xslt/TransformingTabletoBiblStruct.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Books of Shaykh Muṣṭafā Salāmah al-Najjārī (d.1870)</title>
+            <title>An Extended Bibliographical Database, vol. 2: The Manuscripts</title>
+            <respStmt xml:lang="en">
+               <resp xml:lang="en">Prepared by</resp>
+               <persName  xml:lang="en"> <forename xml:lang="en">Adam</forename> <surname xml:lang="en">Mestyan</surname></persName>
+  
+            </respStmt>
+            
+         </titleStmt>
+         <editionStmt>
+            <edition> <date when="2021-06-01" xml:lang="en">1 June 2021</date></edition>
+            <respStmt xml:lang="en">
+               <resp xml:lang="en">edited and contributed with data</resp>
+               <persName xml:lang="en" xml:id="pAM"><forename xml:lang="en">Adam</forename> <surname xml:lang="en">Mestyan</surname></persName>
+               
+            </respStmt>
+            <respStmt xml:lang="en">
+               <resp xml:lang="en">TEI XML consultant</resp>
+               <persName xml:id="pHC" xml:lang="en">Hugh Cayless</persName>
+            </respStmt>
+            
+         </editionStmt>
+         <publicationStmt>
+            <distributor xml:lang="en">Zenodo</distributor>
+            <idno xml:lang="en">DOI ....</idno>
+            <availability xml:lang="en">
+               <p xml:lang="en">This is an open access work licensed under the Creative Commons <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>.</p>
+            </availability>
+         </publicationStmt>
+         
+         <sourceDesc xml:lang="en">
+            <p xml:lang="en">Born digital document.</p>
+            <p xml:lang="en">Based on a probate inventory document, written by a government official after Muṣtafā Salāmah al-Najjārī's death, dated 24 Dhū al-Ḥijjah 1286 / 27 March 1870, which is now part of the archival unit “Awrāq al-ifrāj ‘an tarikat al-Shaykh Muṣṭafā Salāmah al-Najjārī,” Bayt-i Māl-i Miṣr 3002-012642, Dār al-Wathā’iq al-Qawmīyah (Egyptian National Archives).  </p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc xml:lang="en">
+         <projectDesc xml:lang="en">
+            
+            <p xml:lang="en">The basis of this TEI file is an Excel file, based on a Google Sheet document by Adam Mestyan, automatically converted on <date>5 February 2021</date> using <rs ref="https://oxgarage2.tei-c.org/">OxyGarage</rs>. After this transformation, Mestyan transformed the TEI XML file from list to BiblStruct schema on...  </p>
+            <p xml:lang="en">The basis of the data in the Google Sheet document is the list of titles in a probate inventory document, written by a government official after Muṣtafā Salāmah al-Najjārī's death, dated <date>24 Dhū al-Ḥijjah 1286</date> / <date>27 March 1870</date>, which is now part of the archival unit “Awrāq al-ifrāj ‘an tarikat al-Shaykh Muṣṭafā Salāmah al-Najjārī,” Bayt-i Māl-i Miṣr 3002-012642, Dār al-Wathā’iq al-Qawmīyah (Egyptian National Archives). </p>
+            <p> The original transcription from the daftar in DWQ was made by <persName>Adam Mestyan</persName> in <date>December 2016</date>, double-checked by <persName>Rezq Nori</persName> in <date>July 2020</date>.</p>
+         </projectDesc>
+         
+         <editorialDecl xml:lang="en">
+            <p xml:lang="en">This project uses the <ref target="https://www.loc.gov/catdir/cpso/romanization/arabic.pdf">ALA-LC</ref> standards for Arabic
+               transliteration.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <particDesc>
+            <listPerson>
+               <person xml:id="hMS" xml:lang="ar-Latn">
+                  <persName>
+                     <surname>Al-Najjārī</surname>
+                     <forename>Muṣṭafā</forename>
+                     <forename>Salāmah</forename>
+                  </persName>
+               </person>
+               
+            </listPerson>
+         </particDesc>
+         <langUsage>
+            <language ident="und-Latn">Undetermined language in Latin transliteration</language>
+            <language ident="mul">Multiple languages</language>
+            <language ident="en">English</language>
+            <language ident="ar">Arabic</language>
+            <language ident="ar-Latn-x-lc">Arabic in Latin (ALA-LC) transliteration</language>
+            <language ident="tr">Turkish</language>
+            <language ident="ota">Ottoman Turkish</language>
+            <language ident="ota-Latn-x-lc">Ottoman Turkish in Latin (ALA-LC) transliteration</language>
+            <language ident="fa">Persian</language>
+            <language ident="fa-Latn-x-lc">Persian in Latin (ALA-LC) transliteration</language>
+            <language ident="de">German</language>
+            <language ident="fr">French</language>
+            <language ident="it">Italian</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <head>
+            <title>The Books of Shaykh Muṣṭafā Salāmah al-Najjārī (d.1870)</title>
+            <title>An Extended Bibliographical Database, vol. 2: The Manuscripts</title>
+         </head>
+         <div>
+            <p>Data collection, TEI XML markup, and concept by <persName ref="#pAM">Adam Mestyan</persName> </p> 
+            
+            <p>TEI consultant: <persName ref="#pHC">Hugh Cayless</persName></p>
+   
+            
+         </div>
+         <div type="introduction">  
+            <head>Introduction</head>
+            <p>This page is based on the inventory of books belonging to <persName xml:lang="ar-Latn" ref="#hMS">Muṣṭafā Salāmah al-Najjārī</persName> (d. 1286/1870), a nineteenth-century Egyptian intellectual. We have identified the titles, enriched with bibliographical data, and located available scans of the copies.
+               Thus this list reconstructs the books as we imagine them. The bibliographical data is searchible. We used the Library of Congress Arabic transliteration standard. [Here is the Arabic version.]
+               The data also contains prices of the books as they were recorded in the inventory, with comparative prices (see below). The list can be read as the online supplement to <persName ref="#hMS" xml:lang="ar-Latn">Muṣṭafā Salāmah al-Najjārī</persName>, <title>T</title> (Cairo: Ifao, 2019), translated and introduced by <persName ref="#pAM">Adam Mestyan</persName>.</p>
+            
+            <p><persName xml:lang="ar-Latn" ref="#hMS">Sheikh Muṣṭafā Salāmah al-Najjārī</persName> was an Egyptian literary scholar, poet, editor of the government bulletin during 1283–1284/1866–1867, and editor of printed books. He was closely associated with the entourage of <name>Said</name> and <name>Ismail</name> Pashas, the Ottoman governors of Egypt. Sheikh <persName xml:lang="ar-Latn" ref="#hMS">Salāmah</persName>, as he was known, was also part of an important enterprise in the 1860s, the <title>“Society for Education”</title> (<title xml:lang="ar-Latn" xml:id="oJM">Jamʿīyat al-Maʿārif</title>), and of an association of Muslim notables who bought a printing press for the Society. When he died on 11 Dhū al-Qaʿdah 1286/12 February 1870 there remained unfinished business behind him (he owned and he was owned) thus his family complained and the government confiscated his estate in order to make a proper legal process to settle the debts.</p>   
+            
+            <p>This website is based on the list of book titles found in the handwritten Arabic inheritance inventory of Sheikh Muṣṭafā Salāmah al-Najjārī.  The inventory was made by the government official of the Probate Administration of the Cairo Governorate (Bayt-i Māl-i Miṣr): it is now part of the archival unit "Awrāq al-ifrāj ʿan tarikat al-Shaykh Muṣṭafā Salāmah al-Najjārī," dated 24 Dhū al-Ḥijjah 1286 (27 March 1870), unnumbered pages 8-25, 3002-012642, Dār al-Wathāʾiq al-Qawmīyah (Egyptian National Archives).</p> 
+            
+            <p>The website is more than the list of his books. It is an attempt to reconstruct the material collection at the moment of death of the sheikh hence there are scanned copies of the titles of the same editions. Though behind the project there is scholarly work, the making of this website involved some imagination and play. I hope it will give pleasure to the users.</p>
+            <p> Our work was documented <ref target="https://anegyptiansheikhsliteraryworld.umasscreate.net/">here</ref></p>
+         </div>
+         <div> 
+            
+            <head>Abbreviations</head>
+            <div>
+               <p>D / د = daftar / دفتر; the inventory of the heritage of Muṣṭafā Salāmah al-Najjārī, daftar dated 24 Dhū al-Ḥijjah 1286 (27 March 1870), pages 8-25; cf. Mestyan, Magical History and Muslim Printing (forthcoming).
+               </p>
+               <p>DWQ = Dār al-Wathāʾiq al-Qawmīya, The Egyptian National Archives.</p>
+               
+               <p> C / ن = physical or digitized copy of a given title. / نسخة</p>
+               
+               <p> ALA-LC = Library of Congress transliteration standard for Arabic.
+               </p>
+               <p>Q = as in undated table, Qāʾima bi-ʿilm al-Kutub al-Maṭbūʿah fī Būlāq, in Box 2, ABC 50, Eli Smith Papers, Houghton Library, Harvard University.
+               </p>
+               <p> K1 = Fihrist al-Kutub al-Mawjūdah bi-l-Kutubkhānah al-Khidīwīyah al-Miṣrīya al-Kubrā al-Kāʾinah bi-Sarāy Darb al-Jamāmiz al-ʿĀmirah bi-Miṣr al-Qāhirah (Cairo: Maṭbaʿat Wādī al-Nīl, 1289 [1872]).</p>
+               
+               <p>            K2 = Fihrist al-Kutub al-ʿArabīyah al-Maḥfūẓa bi-l-Kutubkhānah al-Khidīwīyah al-Kāʾinah bi-Sarāy Darb al-Jamāmiz bi-Miṣr al-Maḥrūsah al-Muʿizzīyah (Cairo: Maṭbaʿat al-Shaykh ʿUthmān ʿAbd al-Rāziq, 1311 [1893]).
+               </p>            
+               <p>            B = Bayān mā Ṭubiʿa min al-Kutub al-Kathīra min mundhu Tasharrafat al-Maṭbaʿah bi-Dukhūlihā fī Ḥawzat al-Dāʾirah al-Munīrah ([Cairo? 1872?]
+               </p>            </div>
+            <div>
+               <p>
+                  A useful Arabic Wiki for Arabic categories of the bibliographic record: https://tinyurl.com/45m24nq6
+               </p>
+            </div>
+            
+         </div>
+      </front>
+      <body>
+         <table>
+            <row>
+               <cell n="1">ID</cell>
+               <cell n="2" xml:lang="ar">العنوان في "د"</cell>
+               <cell n="3">ALA-LC title in D</cell>
+               <cell n="4">Arabic Title on M</cell>
+               <cell n="5">Link to PDF of M</cell>
+               <cell n="6">ALA-LC title of M</cell>
+               <cell n="7">Author of M in Arabic</cell>
+               <cell n="8">Author of M in ALA-LC</cell>
+               <cell n="14" xml:lang="ar">قيمة في "د" (قرش)</cell>
+               <cell n="10">Value in D (Qirsh)</cell>
+               <cell n="11">Selling Value of M in English</cell>
+               <cell n="12">Selling Value of M in Arabic</cell>
+               <cell n="13">ملاحظات في "د"</cell>
+               <cell n="14">Notes</cell>
+            </row>
+            <row>
+               <cell n="1">n2m1</cell>
+               <cell n="2">ديوان ابن خفاجة</cell>
+               <cell n="3">Dīwān Ibn Khafājah</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">١٢</cell>
+               <cell n="10">12</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13">خط بجلد</cell>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m2</cell>
+               <cell n="2">مجموع فوايد</cell>
+               <cell n="3">Majmū' Fawāyid</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٨</cell>
+               <cell n="10">8</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13">خط بجلد</cell>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m3</cell>
+               <cell n="2">شرح بعض ديوان المتنبي</cell>
+               <cell n="3">Sharḥ baʿḍ Dīwān al-Mutanabbī</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">١٠</cell>
+               <cell n="10">10</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m4</cell>
+               <cell n="2">ديوان الحماسة</cell>
+               <cell n="3">Dīwān al-Ḥamāsah</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٣٠</cell>
+               <cell n="10">30</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13">خط بجلد</cell>
+               <cell n="14">3 copies listed in Fihrist: https://www.fihrist.org.uk/catalog/work_2077</cell>
+            </row>
+            <row>
+               <cell n="1">n2m5</cell>
+               <cell n="2">ديوان الخفاجة (!)</cell>
+               <cell n="3">Dīwān al-Khafājah (!)</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">١٥</cell>
+               <cell n="10">15</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m6</cell>
+               <cell n="2">ديوان كشاجم</cell>
+               <cell n="3">Dīwān Kashājim</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٤٠</cell>
+               <cell n="10">40</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m7</cell>
+               <cell n="2">بلوغ الامنية ؟</cell>
+               <cell n="3">Bulūgh al-Amniyah ?</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٣</cell>
+               <cell n="10">3</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m8</cell>
+               <cell n="2">متن الالفية</cell>
+               <cell n="3">Matn al-Alfiyah</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٢</cell>
+               <cell n="10">2</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m9</cell>
+               <cell n="2">الشقائق النعمانية</cell>
+               <cell n="3">Al-Shaqāʾiq al-Nuʿmānīyah</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٥٠</cell>
+               <cell n="10">50</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m10</cell>
+               <cell n="2">شرح الانموزج خط ومعه كتاب الاسرية ؟ للجبرتي وكتاب الاقناع في احكام السماع</cell>
+               <cell n="3">Sharḥ al-Anmūzij khaṭṭ wa-maʿhu Kitāb al-Asariyya ? li-l-Jabartī wa-Kitāb al-Iqnāʿ fī Aḥkām al-Samāʿ</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٥٠</cell>
+               <cell n="10">50</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m11</cell>
+               <cell n="2">شرح منلة المصلى ؟ خط ومعه كتاب الطراظ المنقوش في فضل محاسن الحوش وبه كتاب رفع الحجاب عن وجد اعمال الحساب</cell>
+               <cell n="3">Sharḥ Munila al-Muṣallī ? khaṭṭ wa-maʿ-hu Kitāb al-Ṭirāẓ al-Manqūsh fī Faḍl Maḥāsin al-Ḥūsh wa-bi-hi kitāb Rafʿ al-Ḥijāb ʿan Wajd Aʿmāl al-Ḥisāb</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٦٠</cell>
+               <cell n="10">60</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m12</cell>
+               <cell n="2">جهينة الأخبار</cell>
+               <cell n="3">Juhaynat al-Akhbār</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">١٥</cell>
+               <cell n="10">15</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m13</cell>
+               <cell n="2">ذيل الشقائق النعمانية</cell>
+               <cell n="3">Dhayl al-Shaqāʾiq al-Nuʿmānīyah</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٢٥</cell>
+               <cell n="10">25</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m14</cell>
+               <cell n="2">مجموع رسائل مغربي</cell>
+               <cell n="3">Majmūʿ Rasāʾil Maghribi</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٢٥</cell>
+               <cell n="10">25</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m15</cell>
+               <cell n="2">شرح التلخيص</cell>
+               <cell n="3">Sharḥ al-Talkhīṣ </cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٨٠</cell>
+               <cell n="10">80</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13">بجلد</cell>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m16</cell>
+               <cell n="2">متن المواهب اللدنية؟</cell>
+               <cell n="3">Matn al-Mawāhib al-Ladiniyya ? </cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٢٥٠</cell>
+               <cell n="10">250</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13">بجلد وظرف، جزين</cell>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m17</cell>
+               <cell n="2">صرف العناية</cell>
+               <cell n="3">Ṣarf al-ʿInāya</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٧٠</cell>
+               <cell n="10">70</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m18</cell>
+               <cell n="2">شرح الجغميني للقاضي زاده</cell>
+               <cell n="3">Sharḥ al-Jaghmīnī li-l-Qāḍī-Zādeh</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٤٠</cell>
+               <cell n="10">40</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m19</cell>
+               <cell n="2">النوادر العظام في معرفة الأحكام ويليه فضائل النجوم</cell>
+               <cell n="3">Al-Nawādir al-ʿAẓẓām fī Maʿrifat al-Aḥkām  wa-yalī-hi Faḍāʾil al-Nujūm </cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٤٠</cell>
+               <cell n="10">40</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m20</cell>
+               <cell n="2">الدره الفاخرة في وصف الأشكال الفاصرة؟</cell>
+               <cell n="3">Al-Durrah al-Fākhira fī Waṣf al-Ashkāl al-Fāṣira ?</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٣٠</cell>
+               <cell n="10">30</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13">بجلد وظرف</cell>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m21</cell>
+               <cell n="2">شرح منظومة الشيباني</cell>
+               <cell n="3">Sharḥ Manẓūmah al-Shaybānī</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٢٠</cell>
+               <cell n="10">20</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13">بجلد وظرف</cell>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m22</cell>
+               <cell n="2">كتاب لابن فرخان الطبري في الأحكام</cell>
+               <cell n="3">Kitāb li-Ibn Farkhān al-Ṭabarī fī al-Aḥkām</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٢٠</cell>
+               <cell n="10">20</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m23</cell>
+               <cell n="2">شرح الحيض؟</cell>
+               <cell n="3">Sharḥ al-Ḥayḍ?</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">١٠</cell>
+               <cell n="10">10</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m24</cell>
+               <cell n="2">رسائل لابن المجدي في الدر اليتيم</cell>
+               <cell n="3">Rasāʾil li-Ibn al-Majdī fī al-Durr al-Yatīm</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٥٠</cell>
+               <cell n="10">50</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m25</cell>
+               <cell n="2">كتاب التلخيص لابن البنا في الحساب</cell>
+               <cell n="3">Kitāb al-Talkhīṣ li-Ibn al-Bannā fī al-Ḥisāb</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٤٠</cell>
+               <cell n="10">40</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m26</cell>
+               <cell n="2">اختلاجات الاعضا؟ ومعها رسالة التبحير في العلم التغيير (!؟)</cell>
+               <cell n="3">Ikhtilājāt  al-Aʿḍā ? wa-maʿ-hā Risālah al-Tabḥīr fī al-ʿIlm al-Taghyīr (!?)</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">١٠</cell>
+               <cell n="10">10</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m27</cell>
+               <cell n="2">الطب النبوي</cell>
+               <cell n="3">Al-Ṭibb al-Nabawī</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٥</cell>
+               <cell n="10">5</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m28</cell>
+               <cell n="2">تقويم الكواكب على طريقة الدر التميم (٧ عدد)</cell>
+               <cell n="3">Taqwīm al-Kawākib ʿalā Ṭarīqat al-Durr al-Tamīm (7 ʿadad)</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٨٠</cell>
+               <cell n="10">80</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13">داخل ظرف</cell>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m29</cell>
+               <cell n="2">اللمعة في حل الكواكب السبعة</cell>
+               <cell n="3">Al-Lumʿa fī Ḥall al-Kawākib al-Sabʿa</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7">الخدري؟؟ </cell>
+               <cell n="8"/>
+               <cell n="9">٥٠</cell>
+               <cell n="10">50</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m30</cell>
+               <cell n="2">مصحف صلات مبولي?</cell>
+               <cell n="3">Maṣḥaf Ṣalāt Mabūlī ? / mutawallī?</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">١٢٥</cell>
+               <cell n="10">125</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13">بماء الذهب قديم</cell>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m31</cell>
+               <cell n="2">كتاب أبو العانيس الضمري في علم الرمل والأوقاف (٢ عدد) ?</cell>
+               <cell n="3">Kitāb Abū al-ʿĀnīs al-Ḍamarī fī ʿIlm al-Raml wa-l-Awfāq (2 ʿadad) ?</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">١٠٠</cell>
+               <cell n="10">100</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13">بجلد وظرف</cell>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m32</cell>
+               <cell n="2">مجموع في الأدب </cell>
+               <cell n="3">Majmūʿ fī al-Adab </cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٢٥</cell>
+               <cell n="10">25</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13">ناقص من اوله</cell>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m33</cell>
+               <cell n="2">ارجوزة ابن ابي الرجال في علم الاحكام</cell>
+               <cell n="3">Arjūza Ibn Abī al-Rijāl fī ʿIlm al-Aḥkām </cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٣٠</cell>
+               <cell n="10">30</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13">بجلد وظرف</cell>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m34</cell>
+               <cell n="2">جامع الاحكام لقاسم باشا</cell>
+               <cell n="3">Jāmiʿ al-Aḥkām li-Qāsim Bāsha </cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٥٠</cell>
+               <cell n="10">50</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m35</cell>
+               <cell n="2">مجموع اوله ادب البحت</cell>
+               <cell n="3">Majmūʿ awwaluhu Adab al-Baḥt </cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">١٢</cell>
+               <cell n="10">12</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13">بجلد</cell>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m36</cell>
+               <cell n="2">رسالة في علم الحساب</cell>
+               <cell n="3">Risāla fī ʿIlm al-Ḥisāb</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٥</cell>
+               <cell n="10">5</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m37</cell>
+               <cell n="2">منقد ؟ الملهوف</cell>
+               <cell n="3">Munqid ? al-Malhūf</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٤</cell>
+               <cell n="10">4</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m38</cell>
+               <cell n="2">حصن الحصينة</cell>
+               <cell n="3">Ḥuṣn al-Ḥaṣīna </cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">١٠</cell>
+               <cell n="10">10</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m39</cell>
+               <cell n="2">مجموع خط اوله حاوي المختصرات في الميقات</cell>
+               <cell n="3">Majmūʿ Khaṭṭ Awwaluh Ḥāwī al-Mukhtaṣarāt fī al-Mīqāt </cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٢٠</cell>
+               <cell n="10">20</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13">بجلد وظرف</cell>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m40</cell>
+               <cell n="2">مصحف اسلامبولي </cell>
+               <cell n="3">Maṣḥaf Islāmbūlī</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">١٥٠</cell>
+               <cell n="10">150</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13">صغير</cell>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m41</cell>
+               <cell n="2">كتاب ابن طالب الأديب الحلبي</cell>
+               <cell n="3">Kitāb ibn Ṭālib al-Adīb al-Ḥalabī </cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٢٥</cell>
+               <cell n="10">25</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m42</cell>
+               <cell n="2">نظام الغريب في اللغة</cell>
+               <cell n="3">Niẓām al-Gharīb fī al-Lugha </cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٣٠</cell>
+               <cell n="10">30</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13">بجلد وظرف</cell>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m43</cell>
+               <cell n="2">مجموع رسائل مقامات</cell>
+               <cell n="3">Majmūʿ Rasāʾil Maqāmāt</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">١٥</cell>
+               <cell n="10">15</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13">بجلد وظرف</cell>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m44</cell>
+               <cell n="2">قطعة من اقصا الارب في ترجمة مقدمة الادب</cell>
+               <cell n="3">Qiṭaʿa min Aqṣā al-Adab fī Tarjamat Muqaddimat al-Adab</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7">زمخشري</cell>
+               <cell n="8"/>
+               <cell n="9">٥٠</cell>
+               <cell n="10">50</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13">بجلد وظرف</cell>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m45</cell>
+               <cell n="2">كتاب في احكام النجوم لابي يوسف يعقوب</cell>
+               <cell n="3">Kitāb fī Aḥkām al-Nujūm li-Abī Yūsuf Yaʿqūb </cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">١٠٠</cell>
+               <cell n="10">100</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13">بجلد وظرف</cell>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m46</cell>
+               <cell n="2">شرح المطول</cell>
+               <cell n="3">Sharḥ al-Mutawwal </cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٨٠</cell>
+               <cell n="10">80</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13">بجلد وظرف</cell>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m47</cell>
+               <cell n="2">المصباح في النحو</cell>
+               <cell n="3">Al-Miṣbāḥ fī al-Naḥw</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٥</cell>
+               <cell n="10">5</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m48</cell>
+               <cell n="2">ديوان التهامي</cell>
+               <cell n="3">Dīwān al-Tihāmī</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٤٠</cell>
+               <cell n="10">40</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13">بجلد وظرف</cell>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m49</cell>
+               <cell n="2">جملة قصايد</cell>
+               <cell n="3">Jumlat Qaṣāyid</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">١٥</cell>
+               <cell n="10">15</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m50</cell>
+               <cell n="2">كتاب الافادة</cell>
+               <cell n="3">Kitāb al-Ifādah</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">١٥</cell>
+               <cell n="10">15</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m51</cell>
+               <cell n="2">ختاٰءي ؟ على المختصر ومعه حاشية ابن قاسم على المختصر</cell>
+               <cell n="3">Khatāʾī ? ʿalā al-Mukhtaṣar wa-maʿ-hu Ḥāshiyat Ibn Qāsimʿalā al-Mukhtaṣar</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٢٥</cell>
+               <cell n="10">25</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m52</cell>
+               <cell n="2">شفاء الغليل</cell>
+               <cell n="3">Shifāʾ al-Ghalīl</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">١٥</cell>
+               <cell n="10">15</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13">بجلد وظرف</cell>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m53</cell>
+               <cell n="2">الرسالة الوجودية</cell>
+               <cell n="3">Al-Risālah al-Wujūdīyah</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7">ابن العربي؟</cell>
+               <cell n="8"/>
+               <cell n="9">١٠</cell>
+               <cell n="10">10</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13">بجلد وظرف</cell>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m54</cell>
+               <cell n="2">كتاب في الحساب</cell>
+               <cell n="3">Kitāb fī al-Ḥisāb</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">١٠</cell>
+               <cell n="10">10</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13">تركي</cell>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m55</cell>
+               <cell n="2">شرح زاد المسافر في المسيقات؟؟</cell>
+               <cell n="3">Sharḥ Zād al-Musāfir fī al-Masīqāt/Mīqāt؟؟</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٣٠</cell>
+               <cell n="10">30</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m56</cell>
+               <cell n="2">الدر اليتيم لابن المهدي</cell>
+               <cell n="3">Al-Durr al-Yatīm li-Ibn al-Mahdī</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٥٠</cell>
+               <cell n="10">50</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m57</cell>
+               <cell n="2">تعريف الهندسة</cell>
+               <cell n="3">Taʿrīf al-Handasah</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">١٠</cell>
+               <cell n="10">10</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m58</cell>
+               <cell n="2">ادب الكاتب</cell>
+               <cell n="3">Adab al-Kātib</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٢٥</cell>
+               <cell n="10">25</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m59</cell>
+               <cell n="2">شرح الياسمنية</cell>
+               <cell n="3">Sharḥ al-Yāsminīyah</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٥</cell>
+               <cell n="10">5</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m60</cell>
+               <cell n="2">نظم البهجة</cell>
+               <cell n="3">Naẓm al-Bahjah</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">١٠</cell>
+               <cell n="10">10</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m61</cell>
+               <cell n="2">طبقا الفقهاء</cell>
+               <cell n="3">Ṭabaqā al-Fuqahāʾ</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٥</cell>
+               <cell n="10">5</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13">ناقص من اوله</cell>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m62</cell>
+               <cell n="2">شرح الغني لعبد الرحيم</cell>
+               <cell n="3">Sharḥ al-Ghanī li-ʿAbd al-Raḥīm</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">١٠</cell>
+               <cell n="10">10</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13">بجلد</cell>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m63</cell>
+               <cell n="2">غاية الحكيم</cell>
+               <cell n="3">Ghāyat al-Ḥakīm</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٧٠</cell>
+               <cell n="10">70</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13">بجلد وظرف</cell>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m64</cell>
+               <cell n="2">ديوان المعتوق</cell>
+               <cell n="3">Dīwān Ibn Maʿtūq</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">١٥</cell>
+               <cell n="10">15</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13">بجلد</cell>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m65</cell>
+               <cell n="2">اللمعة في حل الكواكب السبعة</cell>
+               <cell n="3">Al-Lumʿa fī Ḥall al-Kawākib al-Sabʿa</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7">الخدري؟؟  2nd</cell>
+               <cell n="8"/>
+               <cell n="9">٢٥</cell>
+               <cell n="10">25</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13">بجلد وظرف</cell>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m66</cell>
+               <cell n="2">اعمل الاعمال في اشكل الاشكال</cell>
+               <cell n="3">Aʿmal al-Aʿmāl fī Ashkal al-Ashkāl</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">١٥</cell>
+               <cell n="10">15</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13">بجلد</cell>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m67</cell>
+               <cell n="2">رسائل في التجويد ومعها رسالتين اخر</cell>
+               <cell n="3">Rasāʾil fī al-Tajwīd wa-maʿ-hā risālatayn akhir</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٥</cell>
+               <cell n="10">5</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m68</cell>
+               <cell n="2">حل عقد الاشكال</cell>
+               <cell n="3">Ḥall ʿIqd al-Ashkāl/Ishkāl</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٥</cell>
+               <cell n="10">5</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13">بجلد</cell>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m69</cell>
+               <cell n="2">كتاب الصادح والباغم</cell>
+               <cell n="3">Kitāb al-Ṣādiḥ wa-l-Bāghum</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">١٢</cell>
+               <cell n="10">12</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m70</cell>
+               <cell n="2">كتاب الضاق والمنوب؟؟</cell>
+               <cell n="3">Kitāb al-Ḍāq wa-l-Manūb ؟</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٨٠</cell>
+               <cell n="10">80</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13">بجلد وظرف</cell>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m71</cell>
+               <cell n="2">فرجة الاريب وفرج الاديب</cell>
+               <cell n="3">Furjat al-Arīb wa-Farj al-Adīb</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٣٠</cell>
+               <cell n="10">30</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m72</cell>
+               <cell n="2">فوايد ابي غانم المقدسي</cell>
+               <cell n="3">Fawāyid Abī Ghānim al-Maqdisī</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٢٥</cell>
+               <cell n="10">25</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m73</cell>
+               <cell n="2">ترجمان الاشواق</cell>
+               <cell n="3">Tarjumān al-Ashwāq</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٨</cell>
+               <cell n="10">8</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m74</cell>
+               <cell n="2">قطعة من مصارع العشاق</cell>
+               <cell n="3">Qiṭaʿa min Maṣāriʿ al-ʿUshshāq </cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">١٥</cell>
+               <cell n="10">15</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13">بجلد</cell>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m75</cell>
+               <cell n="2">هدية المهتدي في الهندسة</cell>
+               <cell n="3">Hadiyat al-Muhtadī fī al-Handasa</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٤٠</cell>
+               <cell n="10">40</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m76</cell>
+               <cell n="2">تفسير غريب القران </cell>
+               <cell n="3">Tafsīr Gharīb al-Qurān </cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">١٥</cell>
+               <cell n="10">15</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13">ناقص من اخره</cell>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m77</cell>
+               <cell n="2">كتاب جادبردي؟؟</cell>
+               <cell n="3">????</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٢٠</cell>
+               <cell n="10">20</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m78</cell>
+               <cell n="2">مجموع مشتمل على سبع رسائل اولهم شروط الامامة</cell>
+               <cell n="3">Majmūʿ mushtamal ʿalā sabʿ rasāʾil awwaluhum Shurūṭ al-Imāma </cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٢٠</cell>
+               <cell n="10">20</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13">داخل ظرف</cell>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m79</cell>
+               <cell n="2">رسائل اولهم نزهة الادباء</cell>
+               <cell n="3">Rasāʾil awwaluhum Nuzhat al-Udabāʾ</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٧٠</cell>
+               <cell n="10">70</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13">داخل ظرف</cell>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m80</cell>
+               <cell n="2">رسائل اولهم قصيدة العوض</cell>
+               <cell n="3">Rasāʾil awwaluhum Qaṣīdat al-ʿAwḍ </cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">١٢</cell>
+               <cell n="10">12</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13">داخل ظرف</cell>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m81</cell>
+               <cell n="2">رسايل في ميقات</cell>
+               <cell n="3">Rasāyil fī Mīqāt </cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٣٠</cell>
+               <cell n="10">30</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13">داخل ظرف صغير</cell>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m82</cell>
+               <cell n="2">جر الاسقال؟؟</cell>
+               <cell n="3">Jarr al-Isqāl ??</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٨</cell>
+               <cell n="10">8</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m83</cell>
+               <cell n="2">نتيجة في اعمال الليل والنهار</cell>
+               <cell n="3">Natījah fī Aʿmāl al-Layl wa-l-Nihār</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٥</cell>
+               <cell n="10">5</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m84</cell>
+               <cell n="2">كتاب في الجبر والمقابلة</cell>
+               <cell n="3">Kitāb fī al-Jabr wa-l-Muqābilah</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٥</cell>
+               <cell n="10">5</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m85</cell>
+               <cell n="2">منهاج العابدية ؟</cell>
+               <cell n="3">Minhāj al-ʿĀbidīyah ?</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٥</cell>
+               <cell n="10">5</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m86</cell>
+               <cell n="2">كتاب ترجمان تركي وعربي ومعه رسالة</cell>
+               <cell n="3">Kitāb Tarjumān Turkī wa-ʿArabī wa-maʿ-hu Risāla</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٨</cell>
+               <cell n="10">8</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m87</cell>
+               <cell n="2">كتاب الكشف عن مجاوزة الامة الالف مجزع؟</cell>
+               <cell n="3">Kitāb al-Kashf ʿan Mujāwazah al-Ummah al-Alf mujzaʿ ?</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٢</cell>
+               <cell n="10">2</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m88</cell>
+               <cell n="2">مجموع به رسائل اوله رسالة اوسطلاب؟؟</cell>
+               <cell n="3">؟؟</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٥</cell>
+               <cell n="10">5</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m89</cell>
+               <cell n="2">الدرة المنيفة</cell>
+               <cell n="3">Al-Durrah al-Munīfah</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">١٠</cell>
+               <cell n="10">10</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m90</cell>
+               <cell n="2">شرح السنسوري ؟</cell>
+               <cell n="3">Sharḥ al-Sansūrī?</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٥</cell>
+               <cell n="10">5</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m91</cell>
+               <cell n="2">رسالة في الربع</cell>
+               <cell n="3">Risālah fī al-Rubʿ</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">١</cell>
+               <cell n="10">1</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m92</cell>
+               <cell n="2">الفية ابن الوردي في المنامات</cell>
+               <cell n="3">Alfīyat Ibn al-Wardī fī al-Munāmāt </cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٢</cell>
+               <cell n="10">2</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m93</cell>
+               <cell n="2">مجموع رست ؟ اوله خطبة عيد الفطر</cell>
+               <cell n="3">Majmūʿ Rast ? awwaluhu Khuṭbat ʿĪd al-Fiṭr</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">١</cell>
+               <cell n="10">1</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m94</cell>
+               <cell n="2">كتاب في الهندسة</cell>
+               <cell n="3">Kitāb fī al-Handasah</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٢</cell>
+               <cell n="10">2</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13">قديم</cell>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m95</cell>
+               <cell n="2">كتاب شرح الجزرية</cell>
+               <cell n="3">Kitāb Sharḥ al-Jazarīyah ?</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٣</cell>
+               <cell n="10">3</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m96</cell>
+               <cell n="2">كتاب في الهندسة</cell>
+               <cell n="3">Kitāb fī al-Handasa </cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٣</cell>
+               <cell n="10">3</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13">ناقص</cell>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m97</cell>
+               <cell n="2">كتاب في الطريف؟</cell>
+               <cell n="3">Kitāb fī al-Ṭarīf ? </cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">١</cell>
+               <cell n="10">1</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m98</cell>
+               <cell n="2">رسايل </cell>
+               <cell n="3">Rasāyil</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">١٢</cell>
+               <cell n="10">12</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13">داخل ظرف</cell>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m99</cell>
+               <cell n="2">شرح جغميني</cell>
+               <cell n="3">Sharḥ Jaghmīnī</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">١٥</cell>
+               <cell n="10">15</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13">صغير</cell>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m100</cell>
+               <cell n="2">مجموع به رسايل اولهم شرح الاربعين لابن جماعة</cell>
+               <cell n="3">Majmūʿ bi-hi Rasāyil awwaluhum Sharḥ al-Arbaʿīn li-Ibn Jumāʿa</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٦٠</cell>
+               <cell n="10">60</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m101</cell>
+               <cell n="2">مجموع به رسايل في الميقات اولهم نتيجة الافكار</cell>
+               <cell n="3">Majmūʿ bi-hi Rasāyil fī al-Mīqāt awwaluhum Natījat al-Afkār</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٦٥</cell>
+               <cell n="10">65</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m102</cell>
+               <cell n="2">شرح حزب الشاذلي للمدابغي</cell>
+               <cell n="3">Sharḥ Ḥizb al-Shādhilī li-l-Mudābighī</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٥</cell>
+               <cell n="10">5</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m103</cell>
+               <cell n="2">الدرة اليتيمة في الميقات</cell>
+               <cell n="3">al-Durrah al-Yatīmah fī al-Mīqāt</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٣٥</cell>
+               <cell n="10">35</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m104</cell>
+               <cell n="2">الفيض العميم في معرفة التقويم</cell>
+               <cell n="3">Al-Fayḍ al-ʿAmīm fī Maʿrifat al-Taqwīm</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٢٥</cell>
+               <cell n="10">25</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m105</cell>
+               <cell n="2">ديوان النابغة</cell>
+               <cell n="3">Dīwān al-Nābagha</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٧٥</cell>
+               <cell n="10">75</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m106</cell>
+               <cell n="2">كتاب البارع في أحكام النجوم</cell>
+               <cell n="3">Kitāb al-Bāriʿ fī Ahkām al-Nujūm</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">١٢٥</cell>
+               <cell n="10">125</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m107</cell>
+               <cell n="2">مختارات ابن نابغة?</cell>
+               <cell n="3">Mukhtārāt Ibn Nābagha?</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٢٥</cell>
+               <cell n="10">25</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m108</cell>
+               <cell n="2">كشف النقاب</cell>
+               <cell n="3">Kashf al-Niqāb</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٥</cell>
+               <cell n="10">5</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m109</cell>
+               <cell n="2">مسألة تمثيل الميقات في علم الأوقات</cell>
+               <cell n="3">Masʾalat Tamthīl al-Mīqāt fī ʿIlm al-Awqāt</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٤</cell>
+               <cell n="10">4</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m110</cell>
+               <cell n="2">مجموع به رسايل أولهم المقسود والحمد</cell>
+               <cell n="3">Majmūʿ bi-hi Rasāyil Awwaluhum al-Maqsūd wa-l-Ḥamd</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">١٢</cell>
+               <cell n="10">12</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m111</cell>
+               <cell n="2">كتاب لابن طلحة</cell>
+               <cell n="3">Kitāb li-Ibn Ṭalḥa</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٣</cell>
+               <cell n="10">3</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m112</cell>
+               <cell n="2">المنهج الاقرب في تصليح العقرب</cell>
+               <cell n="3">Al-Minhaj al-Aqrab fī Taṣlīḥ al-ʿAqrab</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٤</cell>
+               <cell n="10">4</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m113</cell>
+               <cell n="2">أطباق الذهب</cell>
+               <cell n="3">Atbāq al-Dhahab</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٣</cell>
+               <cell n="10">3</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m114</cell>
+               <cell n="2">حاوي المختصرات</cell>
+               <cell n="3">Ḥāwī al-Mukhtaṣarāt</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">١٠</cell>
+               <cell n="10">10</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m115</cell>
+               <cell n="2">متن المفتي</cell>
+               <cell n="3">Matn al-Muftī</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٤٠</cell>
+               <cell n="10">40</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m116</cell>
+               <cell n="2">شرح الخلاصة في الحساب</cell>
+               <cell n="3">Sharḥ al-Khulāṣah fī al-Ḥisāb</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">١٠</cell>
+               <cell n="10">10</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13">ناقص من أوله</cell>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m117</cell>
+               <cell n="2">فضايل رمضان</cell>
+               <cell n="3">Faḍāyil Ramaḍān</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٥</cell>
+               <cell n="10">5</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m118</cell>
+               <cell n="2">منلنات بقودر??</cell>
+               <cell n="3">؟</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">١٥</cell>
+               <cell n="10">15</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m119</cell>
+               <cell n="2">حاشية الأمير على المفتي</cell>
+               <cell n="3">Ḥāshiyat al-Amīr ʿalā al-Muftī</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٦٠</cell>
+               <cell n="10">60</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m120</cell>
+               <cell n="2">لواعج الغرام </cell>
+               <cell n="3">Lawāʿij al-Gharām</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٦٠</cell>
+               <cell n="10">60</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13">ومعه رسايل</cell>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m121</cell>
+               <cell n="2">ديوان المتنبي</cell>
+               <cell n="3">Dīwān al-Mutanabbī</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">١٠</cell>
+               <cell n="10">10</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m122</cell>
+               <cell n="2">النجم النافي ؟ علی كافية ابن حاجب</cell>
+               <cell n="3">Al-Najm al-Nāfī ? ʿalā Kāfiyat Ibn Ḥājib</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٣٠</cell>
+               <cell n="10">30</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m123</cell>
+               <cell n="2">مجموع فوايد ونوادر</cell>
+               <cell n="3">Majmūʿ Fawāyid wa-Nawādir</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">١٠</cell>
+               <cell n="10">10</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m124</cell>
+               <cell n="2">تاريخ؟ رضوان أفندي</cell>
+               <cell n="3">Tārīkh Riḍwān Afandī</cell>
+               <cell n="4"/>
+               <cell n="5">https://catalog.hathitrust.org/Record/002594341 ؟؟؟</cell>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">١٠</cell>
+               <cell n="10">100</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m125</cell>
+               <cell n="2">الاعجاز والايجاز</cell>
+               <cell n="3">Al-Iʿjāz wa-l-Ījāz</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">١٢</cell>
+               <cell n="10">12</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13">بجلد</cell>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m126</cell>
+               <cell n="2">كتاب قهوة الانشا لابن حموي</cell>
+               <cell n="3">Kitāb Qahwat al-Inshā li-Ibn Ḥamawī</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٦٠</cell>
+               <cell n="10">60</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13">بجلد وظرف</cell>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m127</cell>
+               <cell n="2">الدر التنويح بتعريف موامرات التاريخ الجديد</cell>
+               <cell n="3">Al-Durr al-Tanwīḥ bi-Taʿrīf Mu[ʾ]āmarāt al-Tārīkh al-Jadīd</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٤٠</cell>
+               <cell n="10">40</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13">بجلد</cell>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m128</cell>
+               <cell n="2">جمهرة العرب </cell>
+               <cell n="3">Jamharat al-ʿArab</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">١٥</cell>
+               <cell n="10">15</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13">بجلد وظرف</cell>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m129</cell>
+               <cell n="2">شرح الكافية المتوسط</cell>
+               <cell n="3">Sharḥ al-Kāfiya al-Mutawassiṭ </cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">١٢</cell>
+               <cell n="10">12</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13">بجلد</cell>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m130</cell>
+               <cell n="2">قطعة من ديوان ابن نباتة</cell>
+               <cell n="3">Qiṭʿah min Dīwān Ibn Nabāta</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">١٢</cell>
+               <cell n="10">12</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m131</cell>
+               <cell n="2">الدر المنظم</cell>
+               <cell n="3">Al-Durr al-Munaẓẓam</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">١٥</cell>
+               <cell n="10">15</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13">بجلد وظرف</cell>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m132</cell>
+               <cell n="2">الحجة في سرقات ابن حجة</cell>
+               <cell n="3">Al-Ḥujja fī Sariqāt ibn Ḥujja</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٣٥</cell>
+               <cell n="10">35</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m133</cell>
+               <cell n="2">مدخل الأحكام</cell>
+               <cell n="3">Madkhal al-Aḥkām</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">١٥</cell>
+               <cell n="10">15</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m134</cell>
+               <cell n="2">مرزبان نامه</cell>
+               <cell n="3">Marzubān Nāmeh</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">١٠</cell>
+               <cell n="10">10</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13">بجلد</cell>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m135</cell>
+               <cell n="2">شقا? الاقسام</cell>
+               <cell n="3">Shaqā? al-Aqsām</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">١٠</cell>
+               <cell n="10">10</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m136</cell>
+               <cell n="2">شرح الموجب في الطب</cell>
+               <cell n="3">Sharḥ al-Mawjib fī al-Ṭibb</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٢٠</cell>
+               <cell n="10">20</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13">بجلد وظرف</cell>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m137</cell>
+               <cell n="2">شرح ابن عقيل</cell>
+               <cell n="3">Sharḥ Ibn 'Aqīl</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">١٥</cell>
+               <cell n="10">15</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13">بجلد وظرف</cell>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m138</cell>
+               <cell n="2">سفينة</cell>
+               <cell n="3">Safīna</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٢٠</cell>
+               <cell n="10">20</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13">بجلد وظرف</cell>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m139</cell>
+               <cell n="2">الثاني من من مطالع البدور</cell>
+               <cell n="3">Al-Thānī min Muṭāliʿ al-Budūr</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">١٥</cell>
+               <cell n="10">15</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13">بجلد</cell>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m140</cell>
+               <cell n="2">الدلالات</cell>
+               <cell n="3">Al-Dalālāt</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">١٠</cell>
+               <cell n="10">10</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13">بجلد</cell>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m141</cell>
+               <cell n="2">شرح عقود الجمان</cell>
+               <cell n="3">Sharḥ ʿUqūd al-Jumān</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٤٠</cell>
+               <cell n="10">40</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m142</cell>
+               <cell n="2">حاشية البرجندي</cell>
+               <cell n="3">Ḥāshiyat al-Birjandī</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٢٠</cell>
+               <cell n="10">20</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13">بجلد</cell>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m143</cell>
+               <cell n="2">جمع العوائد</cell>
+               <cell n="3">Jamʿ al-ʿAwāʾid</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">١٥</cell>
+               <cell n="10">15</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m144</cell>
+               <cell n="2">شرح درة العوائد</cell>
+               <cell n="3">Sharḥ Durrat al-ʿAwāʾid</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٢٥</cell>
+               <cell n="10">25</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m145</cell>
+               <cell n="2">الخلاصة النعيمة؟</cell>
+               <cell n="3">Al-Khulāṣah al-Naʿīmah?</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٢٠</cell>
+               <cell n="10">20</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13">بجلد وظرف</cell>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m146</cell>
+               <cell n="2">الثاني من بستان الزهادية؟</cell>
+               <cell n="3">Al-Thānī min Bustān al-Zahādiyyah?</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">١٠</cell>
+               <cell n="10">10</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13">بجلد</cell>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m147</cell>
+               <cell n="2">شرح الطوالع</cell>
+               <cell n="3">Sharḥ al-Ṭawāliʿ</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٢٥</cell>
+               <cell n="10">25</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13">بجلد وظرف</cell>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m148</cell>
+               <cell n="2">أشكال الوسايط</cell>
+               <cell n="3">Ashkāl al-Wasāyiṭ</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">١٠</cell>
+               <cell n="10">10</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m149</cell>
+               <cell n="2">ديوان ابن نباتة ؟ الصغير</cell>
+               <cell n="3">Dīwān Ibn Nabātah? al-ṣaghīr</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">١٠</cell>
+               <cell n="10">10</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13">بجلد وظرف</cell>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m150</cell>
+               <cell n="2">بداية الهداية</cell>
+               <cell n="3">Bidāyat al-Hidāyah</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٨</cell>
+               <cell n="10">8</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13">بجلد وظرف</cell>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m151</cell>
+               <cell n="2">ملحمة الدانيال</cell>
+               <cell n="3">Malḥamat al-Dāniyāl</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٢٥</cell>
+               <cell n="10">25</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m152</cell>
+               <cell n="2">التذهيب على تهذيب وعليه حاشية الشيخ يسه</cell>
+               <cell n="3">Al-Tadhhīb ʿalā Tahdhīb wa-ʿalayhi Ḥāshiyat al-Shaykh Yasa?</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٣٠</cell>
+               <cell n="10">30</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m153</cell>
+               <cell n="2">المنهج الغاخر</cell>
+               <cell n="3">Al-Minhaj al-Ghākhir</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">١٠</cell>
+               <cell n="10">10</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13">بجلد</cell>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m154</cell>
+               <cell n="2">قطعة من الجغرافية</cell>
+               <cell n="3">Qiṭʿah min Jughrāfīyah</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٥</cell>
+               <cell n="10">5</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m155</cell>
+               <cell n="2">كتاب الزرجا? </cell>
+               <cell n="3">????</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">١٥</cell>
+               <cell n="10">15</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m156</cell>
+               <cell n="2">ديوان ابن النبية</cell>
+               <cell n="3">Dīwān Ibn al-Nabiyyah</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٥</cell>
+               <cell n="10">5</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m157</cell>
+               <cell n="2">تلخيص في معاني</cell>
+               <cell n="3">Talkhīṣ fī Maʿānī</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٥</cell>
+               <cell n="10">5</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m158</cell>
+               <cell n="2">تحفة الاساطين</cell>
+               <cell n="3">Tuḥfat al-Asāṭīn</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٣</cell>
+               <cell n="10">3</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m159</cell>
+               <cell n="2">ديوان ابن سهل</cell>
+               <cell n="3">Dīwān Ibn Sahl</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٣</cell>
+               <cell n="10">3</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m160</cell>
+               <cell n="2">مجموع به رسايل</cell>
+               <cell n="3">Majmūʿ bi-hi Rasāyil</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">١٠</cell>
+               <cell n="10">10</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m161</cell>
+               <cell n="2">الجوادر? على الياقوتية</cell>
+               <cell n="3">Al-Jawādir? ʿalā al-Yāqūtiyyah</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٤</cell>
+               <cell n="10">4</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m162</cell>
+               <cell n="2">رسالة في القولنج</cell>
+               <cell n="3">Risālah fī al-Qūlanj</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8">Ibn Sīna? https://www.wdl.org/en/item/15437/</cell>
+               <cell n="9">١٠</cell>
+               <cell n="10">10</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m163</cell>
+               <cell n="2">سبع مجامع</cell>
+               <cell n="3">Sabʿ Majāmiʿ</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">١٢</cell>
+               <cell n="10">12</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"> داخل جلد وظرف</cell>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m164</cell>
+               <cell n="2">كتاب اصفحاني</cell>
+               <cell n="3">Kitāb Iṣfaḥānī</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٧</cell>
+               <cell n="10">7</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13">ناقص</cell>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m165</cell>
+               <cell n="2">رسايل ---!!!!</cell>
+               <cell n="3">Rasāyil (19 titles but I did not copy them !!)</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٦٠</cell>
+               <cell n="10">60</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13">داخل ورق دست ؟</cell>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m166</cell>
+               <cell n="2">الأول والثاني من حيات الحيوان</cell>
+               <cell n="3">Al-Awwal wa-l-Thāni min Ḥayāt al-Ḥayawān</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٩٠</cell>
+               <cell n="10">90</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13">بجلد وظرف</cell>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m167</cell>
+               <cell n="2">مفتاح الفرج</cell>
+               <cell n="3">Miftāḥ al-Faraj</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٦٠</cell>
+               <cell n="10">60</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13">ناقص من أوله</cell>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m168</cell>
+               <cell n="2">ديوان الصفا الحلي</cell>
+               <cell n="3">Dīwān al-ṣafā al-Ḥillī?</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٤٠</cell>
+               <cell n="10">40</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13">بجلد وظرف</cell>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m169</cell>
+               <cell n="2">شرح التذكرة في الهيئة</cell>
+               <cell n="3">Sharḥ al-Tadhkara fī al-Ḥayʾah</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">١٢٠</cell>
+               <cell n="10">120</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13">بجلد وظرف</cell>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m170</cell>
+               <cell n="2">مجموع المهندسين</cell>
+               <cell n="3">Majmūʿ al-Muhandisīn</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٥٠</cell>
+               <cell n="10">50</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13">بجلد وظرف</cell>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m171</cell>
+               <cell n="2">قرة العين وبه رسايل</cell>
+               <cell n="3">Qurrat al-ʿAyn wa-bi-hi Rasāyil</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٢٥</cell>
+               <cell n="10">25</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13">بجلد</cell>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m172</cell>
+               <cell n="2">بديعة صفي الدين وشرحه</cell>
+               <cell n="3">Badīʿat ṣafī al-Dīn wa-Sharḥuhu</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">١٥</cell>
+               <cell n="10">15</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13">بجلد وظرف</cell>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m173</cell>
+               <cell n="2">مجموع خط !!</cell>
+               <cell n="3">Majmūʿ Khaṭṭ (7 but I did note the titles !!)</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٨٥</cell>
+               <cell n="10">85</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13">داخل ظرف</cell>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m174</cell>
+               <cell n="2">مجموع خط !!</cell>
+               <cell n="3">Majmūʿ Khaṭṭ (10 but I did note the titles !!)</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">١٥</cell>
+               <cell n="10">15</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13">داخل ظرف</cell>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m175</cell>
+               <cell n="2">كتاب المختار من احسن ما سمعت</cell>
+               <cell n="3">Kitāb al-Mukhtār min Ahsan Mā Sumiʿat ?</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">١٥</cell>
+               <cell n="10">15</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13">بجلد</cell>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m176</cell>
+               <cell n="2">شرح الجوهرة لعبد المصطفى ؟</cell>
+               <cell n="3">Sharḥ al-Jawharah li-ʿAbd al-Muṣṭafā</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٧</cell>
+               <cell n="10">7</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13">بجلد وظرف</cell>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m177</cell>
+               <cell n="2">عوامل الجرجاني</cell>
+               <cell n="3">ʿAwāmil al-Jurjānī</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٦</cell>
+               <cell n="10">6</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13">بجلد وظرف</cell>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m178</cell>
+               <cell n="2">مجموع ظريف للشيخ حسن البوريني</cell>
+               <cell n="3">Majmūʿ Ẓarīf li-l-Shaykh Ḥasan al-Būrīnī</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٧</cell>
+               <cell n="10">7</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13">بجلد</cell>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m179</cell>
+               <cell n="2">المختار في الكلام شرف الدين اليوصلي؟/الموصلي</cell>
+               <cell n="3">Al-Mukhtār fī al-Kalām Sharaf al-Dīn al-Yūṣilī/Mawṣilī</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">١٥</cell>
+               <cell n="10">15</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13">بجلد وظرف</cell>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m180</cell>
+               <cell n="2">مجموع خط !!</cell>
+               <cell n="3">Majmūʿ Khaṭṭ (11 but I did note the titles !!)</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٧٠</cell>
+               <cell n="10">70</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13">داخل ظرف</cell>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m181</cell>
+               <cell n="2">النقايض بين جرير والفرزدق</cell>
+               <cell n="3">Al-Naqāyiḍ bayna Jarīr wa-l-Firazdaq</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٤٥</cell>
+               <cell n="10">45</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m182</cell>
+               <cell n="2">قواعد الخطوط وبه رقع؟ويرده؟</cell>
+               <cell n="3">Qawāʿid al-Khuṭūṭ wa-bi-hi ?</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٥٠</cell>
+               <cell n="10">50</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13">بجلد وظرف</cell>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m183</cell>
+               <cell n="2">ترجمة كتاب الأصول في الهندسة</cell>
+               <cell n="3">Tarjamat Kitāb al-Uṣūl fī al-Handasah</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٢٠</cell>
+               <cell n="10">20</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13">بجلد وظرف</cell>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m184</cell>
+               <cell n="2">المطالب العليا</cell>
+               <cell n="3">Al-Maṭālib al-ʿUlyā</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">١٢</cell>
+               <cell n="10">12</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m185</cell>
+               <cell n="2">عنوان الشرف الوافي</cell>
+               <cell n="3">ʿUnwān al-Sharaf al-Wāfī</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٧</cell>
+               <cell n="10">7</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m186</cell>
+               <cell n="2">مجموع ظريف ١ قطعة دست ١ نفح الارواح ١ رسالة للقلعي ١ ارفنسان ؟ ١عيون الحقايق ١رسالة في عمل الهلال ١ القول على النص الشرعي ١ كتاب اوله ناقص ١ كتاب في احكام النجوم ١ قطع من الشفاء ١ ديوان تركي ١ متن الجوهر</cell>
+               <cell n="3">Majmuʿ Ẓarīf ....</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٧٧</cell>
+               <cell n="10">77</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m187</cell>
+               <cell n="2">العمده في محاسن الصغرى</cell>
+               <cell n="3">Al-ʿUmdah fī Maḥāsin al-ṣughrā</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٤٥</cell>
+               <cell n="10">45</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m188</cell>
+               <cell n="2">مدخل كوشيار</cell>
+               <cell n="3">Madkhal Kūshyār </cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">١٧</cell>
+               <cell n="10">17</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m189</cell>
+               <cell n="2">ديوان وفا وبه رسالة</cell>
+               <cell n="3">Dīwān Wafā wa-bi-hi Risālah</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٨</cell>
+               <cell n="10">8</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m190</cell>
+               <cell n="2">دلايل خيرات صفوة فبه ؟؟</cell>
+               <cell n="3">Dalāyil Khayrāt ṣafwat fa-bi-hi???</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٣٠</cell>
+               <cell n="10">30</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13">بجلد وظرف</cell>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m191</cell>
+               <cell n="2">كتاب في اللغة</cell>
+               <cell n="3">Kitāb fī al-Lughah</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٢٥</cell>
+               <cell n="10">25</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m192</cell>
+               <cell n="2">تاريخ الجبرتي (٦ عدد)</cell>
+               <cell n="3">Tārīkh al-Jabartī (6 'adad)</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٣٥٠</cell>
+               <cell n="10">350</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13">بجلد وظرف</cell>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m193</cell>
+               <cell n="2">غنيه ذوي الاحكام</cell>
+               <cell n="3">Ghaniyyah Dhawī al-Ahkām</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">٨</cell>
+               <cell n="10">8</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m194</cell>
+               <cell n="2">دشه؟ في الكتب</cell>
+               <cell n="3">Dashshah? fī al-Kutub</cell>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9">١٢٥</cell>
+               <cell n="10">125</cell>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m195</cell>
+               <cell n="2"/>
+               <cell n="3"/>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9"/>
+               <cell n="10"/>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m196</cell>
+               <cell n="2"/>
+               <cell n="3"/>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9"/>
+               <cell n="10"/>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m197</cell>
+               <cell n="2"/>
+               <cell n="3"/>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9"/>
+               <cell n="10"/>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m198</cell>
+               <cell n="2"/>
+               <cell n="3"/>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9"/>
+               <cell n="10"/>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m199</cell>
+               <cell n="2"/>
+               <cell n="3"/>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9"/>
+               <cell n="10"/>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m200</cell>
+               <cell n="2"/>
+               <cell n="3"/>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9"/>
+               <cell n="10"/>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m201</cell>
+               <cell n="2"/>
+               <cell n="3"/>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9"/>
+               <cell n="10"/>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m202</cell>
+               <cell n="2"/>
+               <cell n="3"/>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9"/>
+               <cell n="10"/>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m203</cell>
+               <cell n="2"/>
+               <cell n="3"/>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9"/>
+               <cell n="10"/>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m204</cell>
+               <cell n="2"/>
+               <cell n="3"/>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9"/>
+               <cell n="10"/>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m205</cell>
+               <cell n="2"/>
+               <cell n="3"/>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9"/>
+               <cell n="10"/>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1">n2m206</cell>
+               <cell n="2"/>
+               <cell n="3"/>
+               <cell n="4"/>
+               <cell n="5"/>
+               <cell n="6"/>
+               <cell n="7"/>
+               <cell n="8"/>
+               <cell n="9"/>
+               <cell n="10"/>
+               <cell n="11"/>
+               <cell n="12"/>
+               <cell n="13"/>
+               <cell n="14"/>
+            </row>
+            <row>
+               <cell n="1"/>
+            </row>
+         </table>
+      </body>
+   </text>
+</TEI>
