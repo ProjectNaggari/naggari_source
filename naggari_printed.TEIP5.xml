@@ -95,32 +95,38 @@
       </profileDesc>
    </teiHeader>
    <text>
-      <front>
+      <front xml:id="dFront" xml:lang="en">
+         <div type="frontpage" xml:id="nTitle" xml:lang="en">
          <head>
-            <title>The Books of Shaykh Muṣṭafā Salāmah al-Najjārī (d.1870)</title>
-            <title>An Extended Bibliographical Database, vol. 1: The Printed Books</title>
+            <title>The Books of Muṣṭafā Salāmah al-Najjārī</title>
+            <title>A Digital Humanities Project</title>
          </head>
-         <div>
-            <p>Data collection, TEI XML markup, and concept by <persName ref="#pAM">Adam Mestyan</persName> and <persName ref="pKS">Kathryn Schwartz</persName></p> 
-            <p>With contributions from <persName ref="#pSS">Sean Swanick</persName>, and <persName ref="pRN"><forename xml:lang="en">Rezk</forename> <surname xml:lang="en">Nori</surname></persName> </p>
-         <p>TEI consultant: <persName ref="#pHC">Hugh Cayless</persName></p>
-         <p>With help from<persName ref="#pJbP">Joseph Ben Prestel</persName>, <persName ref="#pDL">Daniel Lowe</persName>, and <persName ref="#pYSH">Yahia Shawkat</persName></p>
-
+        </div>
+         <div type="resp">
+            <p>Data collection, design of categories, and editing by <persName ref="#pAM">Adam Mestyan</persName> and <persName ref="pKS">Kathryn Schwartz</persName></p>
+            <p>TEI XML transformation, markup, codes and concept of HTML website by <persName ref="#pAM">Adam Mestyan</persName> </p>
+            <p>Visualization by <persName ref="pKS">Kathryn Schwartz</persName></p>
+            <p>TEI consultant: <persName ref="#pHC">Hugh Cayless</persName></p>
          </div>
          <div type="introduction">  
             <head>Introduction</head>
-            <p>This website is based on the inventory of books belonging to <persName xml:lang="ar-Latn" ref="#hMS">Muṣṭafā Salāmah al-Najjārī</persName> (d. 1286/1870), a nineteenth-century Egyptian intellectual. We have identified the titles, enriched with bibliographical data, and located available scans of the copies.
-               Thus this list reconstructs the books as we imagine them. The bibliographical data is searchible. We used the Library of Congress Arabic transliteration standard. [Here is the Arabic version.]
-               The data also contains prices of the books as they were recorded in the inventory, with comparative prices (see below). The list can be read as the online supplement to <persName ref="#hMS" xml:lang="ar-Latn">Muṣṭafā Salāmah al-Najjārī</persName>, <title>T</title> (Cairo: Ifao, 2019), translated and introduced by <persName ref="#pAM">Adam Mestyan</persName>.</p>
-            
+            <p>This website is based on the inventory of books belonging to <persName xml:lang="ar-Latn" ref="#hMS">Muṣṭafā Salāmah al-Najjārī</persName> (d. 1286/1870), a nineteenth-century Egyptian intellectual. 
+               We have identified the titles, enriched with bibliographical data, and located available scans of the copies.
+              
+               This website is an online supplement to <persName ref="#pAM">Adam Mestyan</persName>  (Cairo: Ifao, 2021) and <persName ref="pKS">Kathryn Schwartz</persName> (forthcoming).</p>
+         </div>
+         <div type="life">
             <p><persName xml:lang="ar-Latn" ref="#hMS">Sheikh Muṣṭafā Salāmah al-Najjārī</persName> was an Egyptian literary scholar, poet, editor of the government bulletin during 1283–1284/1866–1867, and editor of printed books. He was closely associated with the entourage of <name>Said</name> and <name>Ismail</name> Pashas, the Ottoman governors of Egypt. Sheikh <persName xml:lang="ar-Latn" ref="#hMS">Salāmah</persName>, as he was known, was also part of an important enterprise in the 1860s, the <title>“Society for Education”</title> (<title xml:lang="ar-Latn" xml:id="oJM">Jamʿīyat al-Maʿārif</title>), and of an association of Muslim notables who bought a printing press for the Society. When he died on 11 Dhū al-Qaʿdah 1286/12 February 1870 there remained unfinished business behind him (he owned and he was owned) thus his family complained and the government confiscated his estate in order to make a proper legal process to settle the debts.</p>   
-            
+          <div>
             <p>This website is based on the list of book titles found in the handwritten Arabic inheritance inventory of Sheikh Muṣṭafā Salāmah al-Najjārī.  The inventory was made by the government official of the Probate Administration of the Cairo Governorate (Bayt-i Māl-i Miṣr): it is now part of the archival unit "Awrāq al-ifrāj ʿan tarikat al-Shaykh Muṣṭafā Salāmah al-Najjārī," dated 24 Dhū al-Ḥijjah 1286 (27 March 1870), unnumbered pages 8-25, 3002-012642, Dār al-Wathāʾiq al-Qawmīyah (Egyptian National Archives).</p> 
             
             <p>The website is more than the list of his books. It is an attempt to reconstruct the material collection at the moment of death of the sheikh hence there are scanned copies of the titles of the same editions. Though behind the project there is scholarly work, the making of this website involved some imagination and play. I hope it will give pleasure to the users.</p>
             <p> Our work was documented <ref target="https://anegyptiansheikhsliteraryworld.umasscreate.net/">here</ref></p>
+            <p> We used the Library of Congress Arabic transliteration standard. [Here is the Arabic version.]</p>
          </div>
          <div> 
+            
+            
             
             <head>Abbreviations</head>
             <div>
@@ -145,11 +151,24 @@
                   A useful Arabic Wiki for Arabic categories of the bibliographic record: https://tinyurl.com/45m24nq6
                </p>
             </div>
-            
+         </div>
          </div>
       </front>
       <body>
-         <table>
+          
+         <div>
+         <head>
+            <title>The Books of Shaykh Muṣṭafā Salāmah al-Najjārī (d.1870)</title>
+            <title>An Extended Bibliographical Database, vol. 1: The Printed Books</title>
+         </head>
+         </div>
+         <div>
+            <p>Data collection by <persName ref="#pAM">Adam Mestyan</persName> and <persName ref="pKS">Kathryn Schwartz</persName></p> 
+            <p>With contributions from <persName ref="#pSS">Sean Swanick</persName>, and <persName ref="pRN"><forename xml:lang="en">Rezk</forename> <surname xml:lang="en">Nori</surname></persName> </p>
+            <p>With help from<persName ref="#pJbP">Joseph Ben Prestel</persName>, <persName ref="#pDL">Daniel Lowe</persName>, and <persName ref="#pYSH">Yahia Shawkat</persName></p>
+         </div>
+         <div type="table" xml:id="nTables">
+         <table xml:id="t1">
             <row>
                <cell n="1">ID</cell>
                <cell n="2" xml:lang="ar"> العنوان في "د"</cell>
@@ -14052,6 +14071,7 @@
                <cell n="1"/>
             </row>
          </table>
+         </div>
       </body>
    </text>
 </TEI>
