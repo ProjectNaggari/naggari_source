@@ -95,13 +95,13 @@
       </profileDesc>
    </teiHeader>
    <text>
-      <front xml:id="dFront" xml:lang="en">
+      <front xml:id="nFront" xml:lang="en">
          <div type="frontpage" xml:id="nTitle" xml:lang="en">
             <head>
                <title>The Books of Muṣṭafā Salāmah al-Najjārī</title>
                <title>A Digital Humanities Project</title>
             </head>
-            <p>Data collection, design of categories, and editing by <persName ref="#pAM">Adam Mestyan</persName> and <persName ref="pKS">Kathryn Schwartz</persName></p>
+            <p>Data collection, design of categories, and editing by <ref target="https://scholars.duke.edu/person/Adam.Mestyan"><persName ref="#pAM">Adam Mestyan</persName></ref> and <ref target="https://www.umass.edu/history/member/kathryn-schwartz"><persName ref="pKS">Kathryn Schwartz</persName></ref></p>
             <p>TEI XML transformation, markup, codes and concept of HTML website by <persName ref="#pAM">Adam Mestyan</persName> </p>
             <p>Visualization by <persName ref="pKS">Kathryn Schwartz</persName></p>
             <p>TEI consultant: <persName ref="#pHC">Hugh Cayless</persName></p>
