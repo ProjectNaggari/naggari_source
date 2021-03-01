@@ -106,7 +106,7 @@
             <p>Visualization by <persName ref="pKS">Kathryn Schwartz</persName></p>
             <p>TEI consultant: <persName ref="#pHC">Hugh Cayless</persName></p>
          </div>
-         <div xml:id="dCopyright" xml:lang="en">
+         <div xml:id="nCopyright" xml:lang="en">
             <p>This database and website are under the Creative Commons copyright of <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref></p>
          </div>
          <div xml:id="nCetei" xml:lang="en">
@@ -162,12 +162,10 @@
       <body>
           
          <div>
-         <head>
+         <head xml:id="nT1Title">
             <title>The Books of Shaykh Muṣṭafā Salāmah al-Najjārī (d.1870)</title>
             <title>An Extended Bibliographical Database, vol. 1: The Printed Books</title>
          </head>
-         </div>
-         <div>
             <p>Data collection by <persName ref="#pAM">Adam Mestyan</persName> and <persName ref="pKS">Kathryn Schwartz</persName></p> 
             <p>With contributions from <persName ref="#pSS">Sean Swanick</persName>, and <persName ref="pRN"><forename xml:lang="en">Rezk</forename> <surname xml:lang="en">Nori</surname></persName> </p>
             <p>With help from<persName ref="#pJbP">Joseph Ben Prestel</persName>, <persName ref="#pDL">Daniel Lowe</persName>, and <persName ref="#pYSH">Yahia Shawkat</persName></p>
