@@ -87,19 +87,19 @@
    </teiHeader>
    <text>
       <front>
-         
+         <div xml:id="nIntroMS">
          <head>
             <title>The Books of Shaykh Muṣṭafā Salāmah al-Najjārī (d.1870)</title>
             <title>An Extended Bibliographical Database, vol. 2: The Manuscripts</title>
          </head>
-         <div>
+        
             <p>Data collection, TEI XML markup, and concept by <persName ref="#pAM">Adam Mestyan</persName> </p> 
             
             <p>TEI consultant: <persName ref="#pHC">Hugh Cayless</persName></p>
          </div>
       </front>
       <body>
-         <table>
+         <table xml:id="t2">
             <row>
                <cell n="1">ID</cell>
                <cell n="2" xml:lang="ar">العنوان في "د"</cell>
