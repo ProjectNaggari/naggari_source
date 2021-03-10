@@ -98,8 +98,9 @@
    <standOff>
      <listBibl>
         <bibl xml:id="d">Registry-book (daftar) dated 24 Dhū al-Ḥijjah 1286 (27 March 1870), pages 8-25, 3002-012642, Dār al-Wathāʾiq al-Qawmīyah (Egyptian National Archives).</bibl>
-        <bibl xml:id="c">Physical copy of the given title in a collection, analyzed either through an available scan or in person.</bibl>
+        
      </listBibl>
+      <note>Physical copy of the given title in a collection, analyzed either through an available scan or in person, is given an automatic id through an xsl variable and referred to.</note>
    </standOff>
    <text>
       
