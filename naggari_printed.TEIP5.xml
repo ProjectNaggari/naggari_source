@@ -95,12 +95,12 @@
          </langUsage>
       </profileDesc>
    </teiHeader>
-   <standOff>
+   <standOff xml:id="nStandOff">
      <listBibl>
-        <bibl xml:id="d">Registry-book (daftar) dated 24 Dhū al-Ḥijjah 1286 (27 March 1870), pages 8-25, 3002-012642, Dār al-Wathāʾiq al-Qawmīyah (Egyptian National Archives).</bibl>
+        <bibl xml:id="d">The list of books in the registry-book (daftar) dated 24 Dhū al-Ḥijjah 1286 (27 March 1870), pages 8-25, 3002-012642, Bayt Māl Miṣr, Dār al-Wathāʾiq al-Qawmīyah (Egyptian National Archives).</bibl>
         
      </listBibl>
-      <note>Physical copy of the given title in a collection, analyzed either through an available scan or in person, is given an automatic id through an xsl variable and referred to.</note>
+      <note> The copy of a title in a collection, analyzed either through an available scan or in person, is given an automatic id through an xsl variable and referred to consistantly.</note>
    </standOff>
    <text>
       
