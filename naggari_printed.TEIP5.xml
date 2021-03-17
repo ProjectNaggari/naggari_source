@@ -97,7 +97,7 @@
    </teiHeader>
    <standOff xml:id="nStandOff">
      <listBibl>
-        <bibl xml:id="d">The list of books in the registry-book (daftar) dated 24 Dhū al-Ḥijjah 1286 (27 March 1870), pages 8-25, 3002-012642, Bayt Māl Miṣr, Dār al-Wathāʾiq al-Qawmīyah (Egyptian National Archives).</bibl>
+        <bibl xml:id="d">The list of books in the probate inventory-book (daftar) dated 24 Dhū al-Ḥijjah 1286 (27 March 1870), pages 8-25, 3002-012642, Bayt Māl Miṣr, Dār al-Wathāʾiq al-Qawmīyah (Egyptian National Archives).</bibl>
         
      </listBibl>
       <note> The other source of data is the copy of a given title in a collection, studied either in an available scan or in person. This copy is given an automatic id through an XSL variable in an XSLT code and referred to consistantly.</note>
