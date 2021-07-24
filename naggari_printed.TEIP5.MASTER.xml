@@ -209,9 +209,9 @@
                   <cell n="20">Source of Official Sale Value in English</cell>
                   <cell n="21" xml:lang="ar">مورد قيمة البيع الرسمي</cell>
                   <cell n="22" xml:lang="ar">نوع (طبع/خط) في "د"</cell>
-                  <cell n="23">Type in D in English (mīrī/barrānī)</cell>
+                  <cell n="23">Type of print in D in English </cell>
                   <cell n="24" xml:lang="ar">نوع الطبع (ميري/براني)</cell>
-                  <cell n="25">Type of print in D in English</cell>
+                  <cell n="25">Type in D in English (mīrī/barrānī)</cell>
                   <cell n="26" xml:lang="ar">عدد المجلدات في "د"</cell>
                   <cell n="27">Number of volumes as indicated in D</cell>
                   <cell n="28" xml:lang="ar">عدد المجلدات في "ن"</cell>
@@ -14616,15 +14616,9 @@
                   <cell n="40"/>
                   <cell n="41">١٢٦٦</cell>
                   <cell n="42">1266</cell>
-                  
                   <cell n="43">1266</cell>
-                     
-                     
                   <cell n="44">1846</cell>
-                     
-                     
                   <cell n="45">British Library</cell>
-
                   <cell n="46">                  المكتبة البريطانية</cell>
                   <cell n="47"/>
                   <cell n="48"/>
@@ -14876,9 +14870,6 @@
                   <cell n="59"/>
                   <cell n="60"/>
                   <cell n="61">5-71</cell>
-               </row>
-               <row>
-                  <cell n="1"/>
                </row>
             </table>
             <table xml:id="t3">
