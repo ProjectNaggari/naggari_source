@@ -99,7 +99,7 @@
          </div>
       </front>
       <body>
-         <table xml:id="t2">
+         <table xml:id="tm1">
             <row>
                <cell n="1">ID</cell>
                <cell n="2" xml:lang="ar">العنوان في "د"</cell>
