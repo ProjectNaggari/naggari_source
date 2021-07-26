@@ -15,7 +15,7 @@
                <persName  xml:lang="en"> <forename xml:lang="en">Adam</forename> <surname xml:lang="en">Mestyan</surname></persName>
                <persName xml:lang="en"><forename xml:lang="en">Kathryn</forename> <surname xml:lang="en">Schwartz</surname></persName>
                <note xml:lang="en">With the contribution of
-                  <persName xml:lang="en"><forename xml:lang="en">Sean</forename> <surname xml:lang="en">Swanick</surname></persName>, <persName xml:lang="en"><forename xml:lang="en">Rezk</forename> <surname xml:lang="en">Nori</surname></persName>
+                  <persName xml:lang="en"><forename xml:lang="en">Sean</forename> <surname xml:lang="en">Swanick</surname></persName> and <persName xml:lang="en"><forename xml:lang="en">Rezk</forename> <surname xml:lang="en">Nori</surname></persName>
                </note>
             </respStmt>
 
@@ -35,7 +35,7 @@
                <persName xml:id="pHC" xml:lang="en">Hugh Cayless</persName>
             </respStmt>
             <respStmt>
-               <resp>We received help from</resp> <name xml:id="pJBP">Joseph Ben Prestel</name> <name xml:id="pDL">Daniel Lowe</name> <name xml:id="pYSH">Yahia Shawkat</name>  
+               <resp>We received help from</resp> <name xml:id="pJBP">Joseph Ben Prestel</name>, <name xml:id="pDL">Daniel Lowe</name> and <name xml:id="pYSH">Yahia Shawkat</name>  
             </respStmt>
             
          </editionStmt>
@@ -56,7 +56,7 @@
          <projectDesc xml:lang="en">
             
             <p xml:lang="en">The basis of this TEI file is an Excel file, based on a Google Sheet document by Adam Mestyan, Kathryn Schwartz with input Sean Swanick and Rezq Nori, automatically converted on <date>22 January 2021</date> using <rs ref="https://oxgarage2.tei-c.org/">OxyGarage</rs>. After this transformation, Mestyan transformed the TEI XML file from list to BiblStruct schema on...  </p>
-            <p xml:lang="en">The basis of the data in the Google Sheet document is the list of titles in a probate inventory document, written by a government official after Muṣtafā Salāmah al-Najjārī's death, dated <date>24 Dhū al-Ḥijjah 1286</date> / <date>27 March 1870</date>, which is now part of the archival unit “Awrāq al-ifrāj ‘an tarikat al-Shaykh Muṣṭafā Salāmah al-Najjārī,” Bayt-i Māl-i Miṣr 3002-012642, Dār al-Wathā’iq al-Qawmīyah (Egyptian National Archives). </p>
+            <p xml:lang="en">The basis of the data in the Google Sheet document is the list of titles in a probate inventory document, written by a government official after Muṣtafā Salāmah al-Najjārī's death, dated <date>24 Dhū al-Ḥijjah 1286</date> / <date>27 March 1870</date>, which is now part of the archival unit “Awrāq al-ifrāj ‘an tarikat al-Shaykh Muṣṭafā Salāmah al-Najjārī,” Bayt Māl-i Miṣr 3002-012642, Dār al-Wathā’iq al-Qawmīyah (Egyptian National Archives). </p>
             <p> The original transcription from the daftar in DWQ was made by <persName>Adam Mestyan</persName> in <date>December 2016</date>, double-checked by <persName>Rezq Nori</persName> in <date>July 2020</date>.</p>
          </projectDesc>
          
@@ -176,11 +176,11 @@
             </head>
             <p>Data collection by <persName ref="#pAM">Adam Mestyan</persName> and <persName
                   ref="pKS">Kathryn Schwartz</persName></p>
-            <p>With contributions from <persName ref="#pSS">Sean Swanick</persName>, and <persName
+            <p>With contributions from <persName ref="#pSS">Sean Swanick</persName> and <persName
                   ref="pRN"><forename xml:lang="en">Rezk</forename>
                   <surname xml:lang="en">Nori</surname></persName>
             </p>
-            <p>With help from<persName ref="#pJbP">Joseph Ben Prestel</persName>, <persName
+            <p>With help from <persName ref="#pJbP">Joseph Ben Prestel</persName>, <persName
                   ref="#pDL">Daniel Lowe</persName>, and <persName ref="#pYSH">Yahia
                   Shawkat</persName></p>
          </div>
