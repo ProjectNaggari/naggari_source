@@ -35,7 +35,7 @@
                <persName xml:id="pHC" xml:lang="en">Hugh Cayless</persName>
             </respStmt>
             <respStmt>
-               <resp>We received help from</resp> <name xml:id="pJBP">Joseph Ben Prestel</name>, <name xml:id="pDL">Daniel Lowe</name> and <name xml:id="pYSH">Yahia Shawkat</name>  
+               <resp>We received help from</resp> <name xml:id="pJBP">Joseph Ben Prestel</name> <name xml:id="pDL">Daniel Lowe</name> <name xml:id="pYSH">Yahia Shawkat</name>  
             </respStmt>
             
          </editionStmt>
