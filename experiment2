@@ -254,9 +254,10 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc">10</biblScope>
                         <biblScope unit="volume" source="#d1e418" xml:lang="ar">١٠</biblScope>
                         <biblScope unit="volume" source="#d1e418" xml:lang="ar-Latn-x-lc">10</biblScope>
+                        <biblScope unit="page" from="" to="" source="#d1e418">2-597; 3-543; 2-510; 2-513; 2-490; 2-531; 2-544; 2-546; 2-511;
+                     2-553</biblScope>
                      </imprint>
                      <edition source="#d1e418">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e418"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٣٠٠</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -324,9 +325,10 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc">10</biblScope>
                         <biblScope unit="volume" source="#d1e525" xml:lang="ar">٢٠ جزء في ٥ مجلد</biblScope>
                         <biblScope unit="volume" source="#d1e525" xml:lang="ar-Latn-x-lc">20 parts in 5 volumes</biblScope>
+                        <biblScope unit="page" from="" to="" source="#d1e525">3-189; 3-197; 3-192; 3-190; 3-195; 3-213; 3-190; 3-197; 3-185; 3-174;
+                     3-173; 3-179; 3-170; 3-179; 3-168; 3-170; 3-168; 3-218; 3-169; 3-188</biblScope>
                      </imprint>
                      <edition source="#d1e525">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e525"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٣٥٠</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -391,9 +393,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e636" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e636" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e636">3-644</biblScope>
                      </imprint>
                      <edition source="#d1e636">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e636"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٧٠</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -459,9 +461,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc">4</biblScope>
                         <biblScope unit="volume" source="#d1e742" xml:lang="ar">٤</biblScope>
                         <biblScope unit="volume" source="#d1e742" xml:lang="ar-Latn-x-lc">4</biblScope>
+                        <biblScope unit="page" from="" to="" source="#d1e742">2-640; 2-1284; 2-410; 2-890</biblScope>
                      </imprint>
                      <edition source="#d1e742">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e742"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">١٨٠</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -526,9 +528,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e849" xml:lang="ar">٢</biblScope>
                         <biblScope unit="volume" source="#d1e849" xml:lang="ar-Latn-x-lc">2</biblScope>
+                        <biblScope unit="page" from="" to="" source="#d1e849">3-288; 3-285</biblScope>
                      </imprint>
                      <edition source="#d1e849">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e849"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٢٠</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -597,9 +599,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc">7</biblScope>
                         <biblScope unit="volume" source="#d1e952" xml:lang="ar">٧</biblScope>
                         <biblScope unit="volume" source="#d1e952" xml:lang="ar-Latn-x-lc">7</biblScope>
+                        <biblScope unit="page" from="" to="" source="#d1e952">2-534; 2-328 &amp; 2-190; 2-543; 2-521; 2-563; 2-424; 2-464</biblScope>
                      </imprint>
                      <edition source="#d1e952">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e952"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٢٧٠</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -664,9 +666,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc">2</biblScope>
                         <biblScope unit="volume" source="#d1e1058" xml:lang="ar">٢</biblScope>
                         <biblScope unit="volume" source="#d1e1058" xml:lang="ar-Latn-x-lc">2</biblScope>
+                        <biblScope unit="page" from="" to="" source="#d1e1058">2-434; 2-454</biblScope>
                      </imprint>
                      <edition source="#d1e1058">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e1058"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٧٠</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -731,9 +733,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e1166" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e1166" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e1166">3-571</biblScope>
                      </imprint>
                      <edition source="#d1e1166">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e1166"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٧٠</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -798,9 +800,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e1269" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e1269" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e1269">2-439</biblScope>
                      </imprint>
                      <edition source="#d1e1269">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e1269"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٤٥</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -865,9 +867,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc">2</biblScope>
                         <biblScope unit="volume" source="#d1e1372" xml:lang="ar">٢</biblScope>
                         <biblScope unit="volume" source="#d1e1372" xml:lang="ar-Latn-x-lc">2</biblScope>
+                        <biblScope unit="page" from="" to="" source="#d1e1372">3-384; 1-360</biblScope>
                      </imprint>
                      <edition source="#d1e1372">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e1372"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٣٠</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -937,9 +939,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e1477" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e1477" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e1477">2-504</biblScope>
                      </imprint>
                      <edition source="#d1e1477">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e1477"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٢٨</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -1004,9 +1006,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc">2</biblScope>
                         <biblScope unit="volume" source="#d1e1582" xml:lang="ar">٢</biblScope>
                         <biblScope unit="volume" source="#d1e1582" xml:lang="ar-Latn-x-lc">2</biblScope>
+                        <biblScope unit="page" from="" to="" source="#d1e1582">2-516; 3-438</biblScope>
                      </imprint>
                      <edition source="#d1e1582">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e1582"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">١١٠</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -1071,9 +1073,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc">2</biblScope>
                         <biblScope unit="volume" source="#d1e1688" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e1688" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e1688"/>
                      </imprint>
                      <edition source="#d1e1688">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e1688"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar"/>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -1138,9 +1140,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc">5</biblScope>
                         <biblScope unit="volume" source="#d1e1766" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e1766" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e1766"/>
                      </imprint>
                      <edition source="#d1e1766">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e1766"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">١٢٠</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -1207,9 +1209,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc">2</biblScope>
                         <biblScope unit="volume" source="#d1e1848" xml:lang="ar">٣</biblScope>
                         <biblScope unit="volume" source="#d1e1848" xml:lang="ar-Latn-x-lc">3</biblScope>
+                        <biblScope unit="page" from="" to="" source="#d1e1848">3-943; 3-939; 3-973</biblScope>
                      </imprint>
                      <edition source="#d1e1848">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e1848"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٢٠٠</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -1275,9 +1277,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e1958" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e1958" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e1958">1-499</biblScope>
                      </imprint>
                      <edition source="#d1e1958">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e1958"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٧٠</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -1343,9 +1345,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc">2</biblScope>
                         <biblScope unit="volume" source="#d1e2066" xml:lang="ar">٢</biblScope>
                         <biblScope unit="volume" source="#d1e2066" xml:lang="ar-Latn-x-lc">2</biblScope>
+                        <biblScope unit="page" from="" to="" source="#d1e2066">2-498; 4-521</biblScope>
                      </imprint>
                      <edition source="#d1e2066">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e2066"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٦٠</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -1410,9 +1412,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e2172" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e2172" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e2172">3-608</biblScope>
                      </imprint>
                      <edition source="#d1e2172">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e2172"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٢٠</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -1477,9 +1479,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc">3</biblScope>
                         <biblScope unit="volume" source="#d1e2273" xml:lang="ar">٣</biblScope>
                         <biblScope unit="volume" source="#d1e2273" xml:lang="ar-Latn-x-lc">3</biblScope>
+                        <biblScope unit="page" from="" to="" source="#d1e2273">X; 3-469; X</biblScope>
                      </imprint>
                      <edition source="#d1e2273">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e2273"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٦٥</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -1544,9 +1546,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e2368" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e2368" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e2368"/>
                      </imprint>
                      <edition source="#d1e2368">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e2368"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">١٥</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -1611,9 +1613,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e2445" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e2445" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e2445">2-242</biblScope>
                      </imprint>
                      <edition source="#d1e2445">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e2445"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">١٥</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -1678,9 +1680,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e2548" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e2548" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e2548"/>
                      </imprint>
                      <edition source="#d1e2548">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e2548"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">١٣</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -1747,9 +1749,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc">2</biblScope>
                         <biblScope unit="volume" source="#d1e2625" xml:lang="ar">٢</biblScope>
                         <biblScope unit="volume" source="#d1e2625" xml:lang="ar-Latn-x-lc">2</biblScope>
+                        <biblScope unit="page" from="" to="" source="#d1e2625">3-499; 3-327</biblScope>
                      </imprint>
                      <edition source="#d1e2625">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e2625"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٢٠</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -1814,9 +1816,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e2729" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e2729" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e2729">3-430</biblScope>
                      </imprint>
                      <edition source="#d1e2729">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e2729"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٦٠</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -1880,9 +1882,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e2830" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e2830" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e2830"/>
                      </imprint>
                      <edition source="#d1e2830">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e2830"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">١٢٥</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -1946,9 +1948,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e2908" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e2908" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e2908"/>
                      </imprint>
                      <edition source="#d1e2908">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e2908"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٢٠</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -2015,9 +2017,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc">2</biblScope>
                         <biblScope unit="volume" source="#d1e2984" xml:lang="ar">٢</biblScope>
                         <biblScope unit="volume" source="#d1e2984" xml:lang="ar-Latn-x-lc">2</biblScope>
+                        <biblScope unit="page" from="" to="" source="#d1e2984">3-499; 3-327</biblScope>
                      </imprint>
                      <edition source="#d1e2984">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e2984"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">١٥</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -2082,9 +2084,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc">2</biblScope>
                         <biblScope unit="volume" source="#d1e3088" xml:lang="ar">الجزء الأول و الجزء الثاني </biblScope>
                         <biblScope unit="volume" source="#d1e3088" xml:lang="ar-Latn-x-lc">2 volumes</biblScope>
+                        <biblScope unit="page" from="" to="" source="#d1e3088">1-216; 1-217</biblScope>
                      </imprint>
                      <edition source="#d1e3088">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e3088"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">١٥</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -2149,9 +2151,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc">2</biblScope>
                         <biblScope unit="volume" source="#d1e3193" xml:lang="ar">جزآن في مجلد</biblScope>
                         <biblScope unit="volume" source="#d1e3193" xml:lang="ar-Latn-x-lc">2 parts in one volume</biblScope>
+                        <biblScope unit="page" from="" to="" source="#d1e3193">2-218; 3-228</biblScope>
                      </imprint>
                      <edition source="#d1e3193">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e3193"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٤٠</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -2219,9 +2221,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc">2</biblScope>
                         <biblScope unit="volume" source="#d1e3301" xml:lang="ar">٢</biblScope>
                         <biblScope unit="volume" source="#d1e3301" xml:lang="ar-Latn-x-lc">2</biblScope>
+                        <biblScope unit="page" from="" to="" source="#d1e3301">2-636; 3-582</biblScope>
                      </imprint>
                      <edition source="#d1e3301">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e3301"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">١٤٠</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -2286,9 +2288,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e3409" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e3409" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e3409"/>
                      </imprint>
                      <edition source="#d1e3409">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e3409"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٣٥</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -2353,9 +2355,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e3481" xml:lang="ar">٢</biblScope>
                         <biblScope unit="volume" source="#d1e3481" xml:lang="ar-Latn-x-lc">2</biblScope>
+                        <biblScope unit="page" from="" to="" source="#d1e3481">1-360; 1-710</biblScope>
                      </imprint>
                      <edition source="#d1e3481">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e3481"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٣٠</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -2420,9 +2422,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc">2</biblScope>
                         <biblScope unit="volume" source="#d1e3582" xml:lang="ar">٢</biblScope>
                         <biblScope unit="volume" source="#d1e3582" xml:lang="ar-Latn-x-lc">2</biblScope>
+                        <biblScope unit="page" from="" to="" source="#d1e3582">2-380; 3-412</biblScope>
                      </imprint>
                      <edition source="#d1e3582">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e3582"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٥٠</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -2488,9 +2490,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e3689" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e3689" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e3689">3-340</biblScope>
                      </imprint>
                      <edition source="#d1e3689">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e3689"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٢٥</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -2558,9 +2560,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e3792" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e3792" xml:lang="ar-Latn-x-lc">part 1/3</biblScope>
+                        <biblScope unit="page" from="" to="" source="#d1e3792">2-626</biblScope>
                      </imprint>
                      <edition source="#d1e3792">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e3792"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">١٨</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -2625,9 +2627,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc">2</biblScope>
                         <biblScope unit="volume" source="#d1e3896" xml:lang="ar">٢</biblScope>
                         <biblScope unit="volume" source="#d1e3896" xml:lang="ar-Latn-x-lc">2</biblScope>
+                        <biblScope unit="page" from="" to="" source="#d1e3896">2-753; 2-634</biblScope>
                      </imprint>
                      <edition source="#d1e3896">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e3896"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٢٥٠</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -2692,9 +2694,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e4002" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e4002" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e4002">2-680</biblScope>
                      </imprint>
                      <edition source="#d1e4002">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e4002"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٣٥</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -2758,9 +2760,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e4104" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e4104" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e4104">1-425</biblScope>
                      </imprint>
                      <edition source="#d1e4104">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e4104"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٢٥</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -2827,9 +2829,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc">2</biblScope>
                         <biblScope unit="volume" source="#d1e4199" xml:lang="ar">٤</biblScope>
                         <biblScope unit="volume" source="#d1e4199" xml:lang="ar-Latn-x-lc">4</biblScope>
+                        <biblScope unit="page" from="" to="" source="#d1e4199">2-206; 3-252; 2-225; 3-169</biblScope>
                      </imprint>
                      <edition source="#d1e4199">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e4199"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٥٥</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -2895,9 +2897,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e4307" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e4307" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e4307">3-240</biblScope>
                      </imprint>
                      <edition source="#d1e4307">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e4307"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٢٥</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -2962,9 +2964,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e4394" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e4394" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e4394">2-224</biblScope>
                      </imprint>
                      <edition source="#d1e4394">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e4394"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٧</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -3031,9 +3033,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e4497" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e4497" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e4497">6-292</biblScope>
                      </imprint>
                      <edition source="#d1e4497">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e4497"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">١٠</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -3100,9 +3102,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e4597" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e4597" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e4597">2-483</biblScope>
                      </imprint>
                      <edition source="#d1e4597">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e4597"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٢٠</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -3170,9 +3172,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e4698" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e4698" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e4698"/>
                      </imprint>
                      <edition source="#d1e4698">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e4698"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">١٢</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -3239,9 +3241,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e4792" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e4792" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e4792"/>
                      </imprint>
                      <edition source="#d1e4792">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e4792"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٥</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -3308,9 +3310,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e4868" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e4868" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e4868">1-305</biblScope>
                      </imprint>
                      <edition source="#d1e4868">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e4868"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٩</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -3375,9 +3377,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e4967" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e4967" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e4967">2-284</biblScope>
                      </imprint>
                      <edition source="#d1e4967">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e4967"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">١٠</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -3447,9 +3449,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e5064" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e5064" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e5064"/>
                      </imprint>
                      <edition source="#d1e5064">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e5064"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٤</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -3516,9 +3518,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e5164" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e5164" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e5164">2-386</biblScope>
                      </imprint>
                      <edition source="#d1e5164">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e5164"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">١٠</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -3583,9 +3585,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e5263" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e5263" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e5263">5-432</biblScope>
                      </imprint>
                      <edition source="#d1e5263">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e5263"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٢٠</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -3650,9 +3652,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e5360" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e5360" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e5360"/>
                      </imprint>
                      <edition source="#d1e5360">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e5360"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٥</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -3720,9 +3722,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e5437" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e5437" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e5437"/>
                      </imprint>
                      <edition source="#d1e5437">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e5437"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٥</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -3793,9 +3795,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e5515" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e5515" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e5515">3-380</biblScope>
                      </imprint>
                      <edition source="#d1e5515">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e5515"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">١٠</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -3859,9 +3861,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e5621" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e5621" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e5621">2-187</biblScope>
                      </imprint>
                      <edition source="#d1e5621">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e5621"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">١٠</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -3926,9 +3928,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e5730" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e5730" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e5730">1-304</biblScope>
                      </imprint>
                      <edition source="#d1e5730">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e5730"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٥</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -3993,9 +3995,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e5831" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e5831" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e5831"/>
                      </imprint>
                      <edition source="#d1e5831">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e5831"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٥</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -4064,9 +4066,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e5906" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e5906" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e5906">3-264</biblScope>
                      </imprint>
                      <edition source="#d1e5906">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e5906"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٣</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -4132,9 +4134,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e6001" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e6001" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e6001">2-182</biblScope>
                      </imprint>
                      <edition source="#d1e6001">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e6001"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">١٠</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -4199,9 +4201,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e6109" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e6109" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e6109"/>
                      </imprint>
                      <edition source="#d1e6109">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e6109"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٤</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -4266,9 +4268,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc">2</biblScope>
                         <biblScope unit="volume" source="#d1e6209" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e6209" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e6209">3-135</biblScope>
                      </imprint>
                      <edition source="#d1e6209">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e6209"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">١٢</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -4333,9 +4335,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e6313" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e6313" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e6313"/>
                      </imprint>
                      <edition source="#d1e6313">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e6313"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٢</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -4404,9 +4406,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e6388" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e6388" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e6388">2-223</biblScope>
                      </imprint>
                      <edition source="#d1e6388">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e6388"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">١٠</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -4471,9 +4473,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e6491" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e6491" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e6491">3-250</biblScope>
                      </imprint>
                      <edition source="#d1e6491">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e6491"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٣</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -4538,9 +4540,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e6593" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e6593" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e6593"/>
                      </imprint>
                      <edition source="#d1e6593">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e6593"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٥</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -4606,9 +4608,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e6668" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e6668" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e6668"/>
                      </imprint>
                      <edition source="#d1e6668">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e6668"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٢</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -4673,9 +4675,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e6743" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e6743" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e6743">1-214</biblScope>
                      </imprint>
                      <edition source="#d1e6743">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e6743"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٢</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -4740,9 +4742,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e6836" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e6836" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e6836">2-50</biblScope>
                      </imprint>
                      <edition source="#d1e6836">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e6836"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">١٠</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -4812,9 +4814,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e6936" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e6936" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e6936">79-76</biblScope>
                      </imprint>
                      <edition source="#d1e6936">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e6936"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٤</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -4879,9 +4881,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e7034" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e7034" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e7034"/>
                      </imprint>
                      <edition source="#d1e7034">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e7034"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٣</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -4946,9 +4948,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e7108" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e7108" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e7108">2-134</biblScope>
                      </imprint>
                      <edition source="#d1e7108">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e7108"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٨</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -5015,9 +5017,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e7211" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e7211" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e7211">2-53</biblScope>
                      </imprint>
                      <edition source="#d1e7211">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e7211"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٢</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -5085,9 +5087,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e7309" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e7309" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e7309"/>
                      </imprint>
                      <edition source="#d1e7309">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e7309"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٢</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -5152,9 +5154,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e7386" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e7386" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e7386"/>
                      </imprint>
                      <edition source="#d1e7386">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e7386"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٣</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -5219,9 +5221,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e7462" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e7462" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e7462"/>
                      </imprint>
                      <edition source="#d1e7462">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e7462"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٣</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -5286,9 +5288,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e7538" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e7538" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e7538">2-214</biblScope>
                      </imprint>
                      <edition source="#d1e7538">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e7538"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٨</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -5357,9 +5359,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e7639" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e7639" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e7639">3-90</biblScope>
                      </imprint>
                      <edition source="#d1e7639">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e7639"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٥</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -5424,9 +5426,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc">4</biblScope>
                         <biblScope unit="volume" source="#d1e7735" xml:lang="ar">٤</biblScope>
                         <biblScope unit="volume" source="#d1e7735" xml:lang="ar-Latn-x-lc">4</biblScope>
+                        <biblScope unit="page" from="" to="" source="#d1e7735">1-502; 2-475; 2-495; 2-512</biblScope>
                      </imprint>
                      <edition source="#d1e7735">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e7735"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">١١٥</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -5491,9 +5493,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e7839" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e7839" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e7839">3-245</biblScope>
                      </imprint>
                      <edition source="#d1e7839">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e7839"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٧</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -5558,9 +5560,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e7939" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e7939" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e7939">1-147</biblScope>
                      </imprint>
                      <edition source="#d1e7939">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e7939"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٥</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -5625,9 +5627,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e8042" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e8042" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e8042"/>
                      </imprint>
                      <edition source="#d1e8042">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e8042"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٢٠</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -5694,9 +5696,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e8119" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e8119" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e8119">2-307</biblScope>
                      </imprint>
                      <edition source="#d1e8119">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e8119"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٢٠</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -5761,9 +5763,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e8221" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e8221" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e8221">2-191</biblScope>
                      </imprint>
                      <edition source="#d1e8221">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e8221"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٧</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -5828,9 +5830,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e8321" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e8321" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e8321"/>
                      </imprint>
                      <edition source="#d1e8321">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e8321"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٣</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -5895,9 +5897,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e8398" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e8398" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e8398">3-66</biblScope>
                      </imprint>
                      <edition source="#d1e8398">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e8398"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٢</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -5962,9 +5964,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e8499" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e8499" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e8499"/>
                      </imprint>
                      <edition source="#d1e8499">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e8499"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٤</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -6028,9 +6030,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e8576" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e8576" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e8576">2-319</biblScope>
                      </imprint>
                      <edition source="#d1e8576">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e8576"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٨</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -6095,9 +6097,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e8671" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e8671" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e8671">3-123</biblScope>
                      </imprint>
                      <edition source="#d1e8671">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e8671"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٤</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -6162,9 +6164,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e8770" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e8770" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e8770"/>
                      </imprint>
                      <edition source="#d1e8770">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e8770"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٣</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -6229,9 +6231,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e8846" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e8846" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e8846">3-135</biblScope>
                      </imprint>
                      <edition source="#d1e8846">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e8846"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٣</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -6296,9 +6298,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e8944" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e8944" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e8944">3-160</biblScope>
                      </imprint>
                      <edition source="#d1e8944">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e8944"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٨</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -6368,9 +6370,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e9046" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e9046" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e9046">3-279</biblScope>
                      </imprint>
                      <edition source="#d1e9046">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e9046"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٥</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -6435,9 +6437,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e9151" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e9151" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e9151">3-182</biblScope>
                      </imprint>
                      <edition source="#d1e9151">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e9151"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٣</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -6502,9 +6504,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e9249" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e9249" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e9249"/>
                      </imprint>
                      <edition source="#d1e9249">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e9249"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">١٠</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -6570,9 +6572,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e9326" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e9326" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e9326">3-208</biblScope>
                      </imprint>
                      <edition source="#d1e9326">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e9326"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">١٠</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -6637,9 +6639,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e9428" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e9428" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e9428"/>
                      </imprint>
                      <edition source="#d1e9428">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e9428"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٤</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -6704,9 +6706,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e9504" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e9504" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e9504">3-215</biblScope>
                      </imprint>
                      <edition source="#d1e9504">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e9504"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٤</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -6772,9 +6774,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e9604" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e9604" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e9604">2-118</biblScope>
                      </imprint>
                      <edition source="#d1e9604">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e9604"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٣</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -6839,9 +6841,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e9700" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e9700" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e9700"/>
                      </imprint>
                      <edition source="#d1e9700">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e9700"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٣</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -6907,9 +6909,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e9778" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e9778" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e9778">3-175</biblScope>
                      </imprint>
                      <edition source="#d1e9778">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e9778"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">١٠</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -6974,9 +6976,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e9882" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e9882" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e9882">3-259</biblScope>
                      </imprint>
                      <edition source="#d1e9882">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e9882"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٧</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -7041,9 +7043,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e9983" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e9983" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e9983">1-[2]69</biblScope>
                      </imprint>
                      <edition source="#d1e9983">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e9983"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">١٠</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -7108,9 +7110,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e10087" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e10087" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e10087"/>
                      </imprint>
                      <edition source="#d1e10087">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e10087"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٤</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -7178,9 +7180,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e10163" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e10163" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e10163">3-75</biblScope>
                      </imprint>
                      <edition source="#d1e10163">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e10163"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٤</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -7251,9 +7253,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e10263" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e10263" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e10263">3-79</biblScope>
                      </imprint>
                      <edition source="#d1e10263">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e10263"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٥</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -7322,9 +7324,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e10367" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e10367" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e10367">3-87</biblScope>
                      </imprint>
                      <edition source="#d1e10367">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e10367"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٢</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -7395,9 +7397,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e10470" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e10470" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e10470">3-48</biblScope>
                      </imprint>
                      <edition source="#d1e10470">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e10470"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٥</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -7462,9 +7464,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e10568" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e10568" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e10568"/>
                      </imprint>
                      <edition source="#d1e10568">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e10568"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">١</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -7533,9 +7535,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e10644" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e10644" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e10644">3-86</biblScope>
                      </imprint>
                      <edition source="#d1e10644">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e10644"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٢</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -7605,9 +7607,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e10747" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e10747" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e10747"/>
                      </imprint>
                      <edition source="#d1e10747">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e10747"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٣</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -7676,9 +7678,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e10841" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e10841" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e10841">3-90</biblScope>
                      </imprint>
                      <edition source="#d1e10841">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e10841"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٢</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -7748,9 +7750,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e10938" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e10938" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e10938">3-336</biblScope>
                      </imprint>
                      <edition source="#d1e10938">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e10938"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">١٥</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -7815,9 +7817,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e11038" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e11038" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e11038"/>
                      </imprint>
                      <edition source="#d1e11038">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e11038"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٤</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -7886,9 +7888,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e11118" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e11118" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e11118">3-140</biblScope>
                      </imprint>
                      <edition source="#d1e11118">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e11118"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٣</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -7953,9 +7955,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e11221" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e11221" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e11221"/>
                      </imprint>
                      <edition source="#d1e11221">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e11221"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٧</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -8029,9 +8031,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e11298" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e11298" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e11298"/>
                      </imprint>
                      <edition source="#d1e11298">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e11298"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">١</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -8096,9 +8098,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e11374" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e11374" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e11374"/>
                      </imprint>
                      <edition source="#d1e11374">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e11374"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٢</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -8166,9 +8168,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e11450" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e11450" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e11450">3-82</biblScope>
                      </imprint>
                      <edition source="#d1e11450">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e11450"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٢</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -8233,9 +8235,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e11550" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e11550" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e11550"/>
                      </imprint>
                      <edition source="#d1e11550">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e11550"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٢</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -8305,9 +8307,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e11627" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e11627" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e11627">3-112</biblScope>
                      </imprint>
                      <edition source="#d1e11627">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e11627"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">١</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -8372,9 +8374,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e11722" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e11722" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e11722"/>
                      </imprint>
                      <edition source="#d1e11722">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e11722"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">١٥</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -8443,9 +8445,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e11800" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e11800" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e11800">2-196</biblScope>
                      </imprint>
                      <edition source="#d1e11800">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e11800"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٥</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -8510,9 +8512,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e11901" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e11901" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e11901"/>
                      </imprint>
                      <edition source="#d1e11901">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e11901"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">١٠</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -8582,9 +8584,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e11977" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e11977" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e11977">2-351</biblScope>
                      </imprint>
                      <edition source="#d1e11977">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e11977"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">١٠</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -8653,9 +8655,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e12083" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e12083" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e12083">2-103</biblScope>
                      </imprint>
                      <edition source="#d1e12083">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e12083"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٣</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -8719,9 +8721,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e12181" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e12181" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e12181"/>
                      </imprint>
                      <edition source="#d1e12181">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e12181"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٥</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -8790,9 +8792,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e12258" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e12258" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e12258">2-260</biblScope>
                      </imprint>
                      <edition source="#d1e12258">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e12258"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٢٠</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -8860,9 +8862,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e12360" xml:lang="ar">جزآن في مجلد</biblScope>
                         <biblScope unit="volume" source="#d1e12360" xml:lang="ar-Latn-x-lc">2 parts in one volume</biblScope>
+                        <biblScope unit="page" from="" to="" source="#d1e12360">2-288; 2-362</biblScope>
                      </imprint>
                      <edition source="#d1e12360">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e12360"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٣٠</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -8932,9 +8934,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e12465" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e12465" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e12465">2-419</biblScope>
                      </imprint>
                      <edition source="#d1e12465">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e12465"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٣٠</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -9004,9 +9006,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e12568" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e12568" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e12568">1-398</biblScope>
                      </imprint>
                      <edition source="#d1e12568">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e12568"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٢٠</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -9075,9 +9077,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e12672" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e12672" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e12672">2-38</biblScope>
                      </imprint>
                      <edition source="#d1e12672">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e12672"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٢</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -9142,9 +9144,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e12771" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e12771" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e12771"/>
                      </imprint>
                      <edition source="#d1e12771">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e12771"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">١</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -9211,9 +9213,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e12849" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e12849" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e12849">3-40</biblScope>
                      </imprint>
                      <edition source="#d1e12849">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e12849"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">١</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -9282,9 +9284,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e12945" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e12945" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e12945">[unnumbered but 83 page openings and circa 165 pp</biblScope>
                      </imprint>
                      <edition source="#d1e12945">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e12945"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">١٠</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -9349,9 +9351,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e13050" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e13050" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e13050"/>
                      </imprint>
                      <edition source="#d1e13050">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e13050"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">١٠</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -9419,9 +9421,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e13127" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e13127" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e13127">3-304</biblScope>
                      </imprint>
                      <edition source="#d1e13127">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e13127"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٥</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -9490,9 +9492,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e13228" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e13228" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e13228">2-196</biblScope>
                      </imprint>
                      <edition source="#d1e13228">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e13228"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٨</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -9563,9 +9565,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e13330" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e13330" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e13330">3-215</biblScope>
                      </imprint>
                      <edition source="#d1e13330">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e13330"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٥</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -9633,9 +9635,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e13426" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e13426" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e13426">2-288</biblScope>
                      </imprint>
                      <edition source="#d1e13426">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e13426"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٥</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -9703,9 +9705,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e13525" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e13525" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e13525">3-408</biblScope>
                      </imprint>
                      <edition source="#d1e13525">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e13525"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٥</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -9770,9 +9772,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e13626" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e13626" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e13626"/>
                      </imprint>
                      <edition source="#d1e13626">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e13626"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٣</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -9841,9 +9843,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e13703" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e13703" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e13703">2-467 &amp; 2-50</biblScope>
                      </imprint>
                      <edition source="#d1e13703">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e13703"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">١٠</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -9908,9 +9910,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e13806" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e13806" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e13806"/>
                      </imprint>
                      <edition source="#d1e13806">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e13806"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">١٠</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -9978,9 +9980,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc">2</biblScope>
                         <biblScope unit="volume" source="#d1e13883" xml:lang="ar">٢</biblScope>
                         <biblScope unit="volume" source="#d1e13883" xml:lang="ar-Latn-x-lc">2</biblScope>
+                        <biblScope unit="page" from="" to="" source="#d1e13883">1-105; 3-112</biblScope>
                      </imprint>
                      <edition source="#d1e13883">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e13883"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٥</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -10048,9 +10050,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e13990" xml:lang="ar">٦</biblScope>
                         <biblScope unit="volume" source="#d1e13990" xml:lang="ar-Latn-x-lc">6</biblScope>
+                        <biblScope unit="page" from="" to="" source="#d1e13990">2-316; 2-214; 2-276 &amp; 3-66; 2-137; 1-159; 3-71</biblScope>
                      </imprint>
                      <edition source="#d1e13990">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e13990"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٧٠</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -10118,9 +10120,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e14092" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e14092" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e14092">3-163</biblScope>
                      </imprint>
                      <edition source="#d1e14092">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e14092"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٢</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -10185,9 +10187,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e14194" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e14194" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e14194"/>
                      </imprint>
                      <edition source="#d1e14194">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e14194"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">١</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -10258,9 +10260,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e14272" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e14272" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e14272">3-63</biblScope>
                      </imprint>
                      <edition source="#d1e14272">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e14272"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">١</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -10326,9 +10328,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e14367" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e14367" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e14367"/>
                      </imprint>
                      <edition source="#d1e14367">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e14367"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٢</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -10393,9 +10395,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e14443" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e14443" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e14443"/>
                      </imprint>
                      <edition source="#d1e14443">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e14443"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٣</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -10463,9 +10465,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e14520" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e14520" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e14520">2-284</biblScope>
                      </imprint>
                      <edition source="#d1e14520">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e14520"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">١</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -10530,9 +10532,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc">14</biblScope>
                         <biblScope unit="volume" source="#d1e14622" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e14622" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e14622"/>
                      </imprint>
                      <edition source="#d1e14622">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e14622"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">١٤</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -10597,9 +10599,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc">12</biblScope>
                         <biblScope unit="volume" source="#d1e14700" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e14700" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e14700"/>
                      </imprint>
                      <edition source="#d1e14700">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e14700"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٣٥</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -10664,9 +10666,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc">10</biblScope>
                         <biblScope unit="volume" source="#d1e14776" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e14776" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e14776"/>
                      </imprint>
                      <edition source="#d1e14776">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e14776"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">١٠</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -10731,9 +10733,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e14854" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e14854" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e14854"/>
                      </imprint>
                      <edition source="#d1e14854">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e14854"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar"/>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -10798,9 +10800,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc">3</biblScope>
                         <biblScope unit="volume" source="#d1e14927" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e14927" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e14927"/>
                      </imprint>
                      <edition source="#d1e14927">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e14927"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">١١٠</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -10869,9 +10871,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc">3</biblScope>
                         <biblScope unit="volume" source="#d1e15005" xml:lang="ar">٣</biblScope>
                         <biblScope unit="volume" source="#d1e15005" xml:lang="ar-Latn-x-lc">3</biblScope>
+                        <biblScope unit="page" from="" to="" source="#d1e15005">(v. 1) 3-494; (v. 2) 3-485 ; (v. 3) 3-372; </biblScope>
                      </imprint>
                      <edition source="#d1e15005">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e15005"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٦٠</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -10945,9 +10947,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc">2</biblScope>
                         <biblScope unit="volume" source="#d1e15111" xml:lang="ar">٢</biblScope>
                         <biblScope unit="volume" source="#d1e15111" xml:lang="ar-Latn-x-lc">2</biblScope>
+                        <biblScope unit="page" from="" to="" source="#d1e15111">(v.1) 3-798; (v.2) 4-698</biblScope>
                      </imprint>
                      <edition source="#d1e15111">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e15111"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">١٥٠</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -11018,9 +11020,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc">8</biblScope>
                         <biblScope unit="volume" source="#d1e15217" xml:lang="ar">٨</biblScope>
                         <biblScope unit="volume" source="#d1e15217" xml:lang="ar-Latn-x-lc">8</biblScope>
+                        <biblScope unit="page" from="" to="" source="#d1e15217"/>
                      </imprint>
                      <edition source="#d1e15217">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e15217"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٦٠</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -11089,9 +11091,10 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc">6</biblScope>
                         <biblScope unit="volume" source="#d1e15322" xml:lang="ar">6</biblScope>
                         <biblScope unit="volume" source="#d1e15322" xml:lang="ar-Latn-x-lc">6</biblScope>
+                        <biblScope unit="page" from="" to="" source="#d1e15322">(v.1) 3-842; (v.2) 3-705; (v.3) 3-779; (v.4) 3-709; (v.5) 3-678;
+                     (v.6) 3-689</biblScope>
                      </imprint>
                      <edition source="#d1e15322">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e15322"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٥٠٠</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -11162,9 +11165,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e15428" xml:lang="ar">2 مج فى 1 </biblScope>
                         <biblScope unit="volume" source="#d1e15428" xml:lang="ar-Latn-x-lc">2 vols in one</biblScope>
+                        <biblScope unit="page" from="" to="" source="#d1e15428">(v.1) 3-317, (v.2) 3-344, at the end separate 4 pages added</biblScope>
                      </imprint>
                      <edition source="#d1e15428">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e15428"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">١٥</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -11228,9 +11231,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e15530" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e15530" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e15530"/>
                      </imprint>
                      <edition source="#d1e15530">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e15530"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">١٠</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -11297,9 +11300,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e15607" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e15607" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e15607"/>
                      </imprint>
                      <edition source="#d1e15607">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e15607"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">١٥</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -11371,9 +11374,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e15684" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e15684" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e15684">2-334</biblScope>
                      </imprint>
                      <edition source="#d1e15684">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e15684"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٨٠</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -11443,9 +11446,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc">4 of 5</biblScope>
                         <biblScope unit="volume" source="#d1e15777" xml:lang="ar"> ٤ من ٥</biblScope>
                         <biblScope unit="volume" source="#d1e15777" xml:lang="ar-Latn-x-lc">4 of 5</biblScope>
+                        <biblScope unit="page" from="" to="" source="#d1e15777">(v. 1) 2-956; (v. 2) 3-948; (v. 3) 2-704; (v. 5) 1-801</biblScope>
                      </imprint>
                      <edition source="#d1e15777">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e15777"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٢٤٠</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -11513,9 +11516,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e15887" xml:lang="ar">٢</biblScope>
                         <biblScope unit="volume" source="#d1e15887" xml:lang="ar-Latn-x-lc">2</biblScope>
+                        <biblScope unit="page" from="" to="" source="#d1e15887">(v.2) 3-314</biblScope>
                      </imprint>
                      <edition source="#d1e15887">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e15887"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٧٥</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -11585,9 +11588,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e15995" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e15995" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e15995"/>
                      </imprint>
                      <edition source="#d1e15995">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e15995"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">١٥</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -11654,9 +11657,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e16077" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e16077" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e16077"/>
                      </imprint>
                      <edition source="#d1e16077">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e16077"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٢٠</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -11725,9 +11728,10 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc">2</biblScope>
                         <biblScope unit="volume" source="#d1e16153" xml:lang="ar">٢</biblScope>
                         <biblScope unit="volume" source="#d1e16153" xml:lang="ar-Latn-x-lc">2</biblScope>
+                        <biblScope unit="page" from="" to="" source="#d1e16153">(v. 1) 5-444 (ToC has its own pp); (v. 2) 3-263 (ToC has its onw
+                     pp)</biblScope>
                      </imprint>
                      <edition source="#d1e16153">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e16153"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٢٥</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -11792,9 +11796,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e16258" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e16258" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e16258"/>
                      </imprint>
                      <edition source="#d1e16258">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e16258"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٢٥</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -11862,9 +11866,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e16335" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e16335" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e16335">2-164</biblScope>
                      </imprint>
                      <edition source="#d1e16335">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e16335"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٥</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -11929,9 +11933,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e16435" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e16435" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e16435"/>
                      </imprint>
                      <edition source="#d1e16435">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e16435"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٨</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -12002,9 +12006,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc">4</biblScope>
                         <biblScope unit="volume" source="#d1e16512" xml:lang="ar">١ من ٤</biblScope>
                         <biblScope unit="volume" source="#d1e16512" xml:lang="ar-Latn-x-lc">1 of 4</biblScope>
+                        <biblScope unit="page" from="" to="" source="#d1e16512">(v. 3) 1-505</biblScope>
                      </imprint>
                      <edition source="#d1e16512">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e16512"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٨٠</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -12073,9 +12077,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e16612" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e16612" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e16612">2-341</biblScope>
                      </imprint>
                      <edition source="#d1e16612">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e16612"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">١٣</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -12150,9 +12154,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e16720" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e16720" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e16720">3-251</biblScope>
                      </imprint>
                      <edition source="#d1e16720">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e16720"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٥</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -12217,9 +12221,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e16825" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e16825" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e16825"/>
                      </imprint>
                      <edition source="#d1e16825">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e16825"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٥</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -12286,9 +12290,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e16903" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e16903" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e16903">3-104</biblScope>
                      </imprint>
                      <edition source="#d1e16903">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e16903"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٣</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -12352,9 +12356,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e17005" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e17005" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e17005"/>
                      </imprint>
                      <edition source="#d1e17005">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e17005"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٣</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -12419,9 +12423,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e17083" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e17083" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e17083"/>
                      </imprint>
                      <edition source="#d1e17083">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e17083"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٣</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -12489,9 +12493,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e17158" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e17158" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e17158">3-206</biblScope>
                      </imprint>
                      <edition source="#d1e17158">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e17158"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٨</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -12561,9 +12565,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e17258" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e17258" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e17258">2-234</biblScope>
                      </imprint>
                      <edition source="#d1e17258">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e17258"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٥</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -12628,9 +12632,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e17352" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e17352" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e17352"/>
                      </imprint>
                      <edition source="#d1e17352">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e17352"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٨</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -12698,9 +12702,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e17427" xml:lang="ar">٢</biblScope>
                         <biblScope unit="volume" source="#d1e17427" xml:lang="ar-Latn-x-lc">2</biblScope>
+                        <biblScope unit="page" from="" to="" source="#d1e17427">(v. 1) 3-162; (v. 2) 2-100</biblScope>
                      </imprint>
                      <edition source="#d1e17427">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e17427"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٤</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -12767,9 +12771,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e17530" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e17530" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e17530"/>
                      </imprint>
                      <edition source="#d1e17530">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e17530"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٢</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -12836,9 +12840,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e17606" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e17606" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e17606">2-125</biblScope>
                      </imprint>
                      <edition source="#d1e17606">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e17606"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٤</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -12903,9 +12907,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e17705" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e17705" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e17705"/>
                      </imprint>
                      <edition source="#d1e17705">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e17705"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٣</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -12972,9 +12976,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e17780" xml:lang="ar">٢</biblScope>
                         <biblScope unit="volume" source="#d1e17780" xml:lang="ar-Latn-x-lc">2</biblScope>
+                        <biblScope unit="page" from="" to="" source="#d1e17780">(v. 1) 2-260; (v. 2) 1-246</biblScope>
                      </imprint>
                      <edition source="#d1e17780">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e17780"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٢٥</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -13042,9 +13046,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e17884" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e17884" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e17884">2-23[9]</biblScope>
                      </imprint>
                      <edition source="#d1e17884">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e17884"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">١٤</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -13111,9 +13115,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e17985" xml:lang="ar">٢</biblScope>
                         <biblScope unit="volume" source="#d1e17985" xml:lang="ar-Latn-x-lc">2</biblScope>
+                        <biblScope unit="page" from="" to="" source="#d1e17985">(v. 1) 3-207; (v. 2) 3-267</biblScope>
                      </imprint>
                      <edition source="#d1e17985">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e17985"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٣٠</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -13177,9 +13181,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e18090" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e18090" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e18090"/>
                      </imprint>
                      <edition source="#d1e18090">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e18090"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">١٥٠</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -13244,9 +13248,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e18164" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e18164" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e18164"/>
                      </imprint>
                      <edition source="#d1e18164">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e18164"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٢٠</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -13319,9 +13323,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e18239" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e18239" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e18239">3-237</biblScope>
                      </imprint>
                      <edition source="#d1e18239">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e18239"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">١٠</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -13389,9 +13393,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e18338" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e18338" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e18338">3-60</biblScope>
                      </imprint>
                      <edition source="#d1e18338">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e18338"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٣</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -13456,9 +13460,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e18439" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e18439" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e18439"/>
                      </imprint>
                      <edition source="#d1e18439">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e18439"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٣</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -13535,9 +13539,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e18514" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e18514" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e18514">3-292</biblScope>
                      </imprint>
                      <edition source="#d1e18514">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e18514"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٨</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -13605,9 +13609,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e18615" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e18615" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e18615">3-160</biblScope>
                      </imprint>
                      <edition source="#d1e18615">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e18615"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٥</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -13677,9 +13681,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e18717" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e18717" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e18717">3-176</biblScope>
                      </imprint>
                      <edition source="#d1e18717">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e18717"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٧</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -13743,9 +13747,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e18819" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e18819" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e18819"/>
                      </imprint>
                      <edition source="#d1e18819">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e18819"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٥</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -13811,9 +13815,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e18895" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e18895" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e18895"/>
                      </imprint>
                      <edition source="#d1e18895">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e18895"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">١٠</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -13881,9 +13885,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e18970" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e18970" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e18970"/>
                      </imprint>
                      <edition source="#d1e18970">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e18970"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٨</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -13953,9 +13957,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e19045" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e19045" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e19045">2-160</biblScope>
                      </imprint>
                      <edition source="#d1e19045">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e19045"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٨</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -14022,9 +14026,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e19148" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e19148" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e19148">2-224</biblScope>
                      </imprint>
                      <edition source="#d1e19148">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e19148"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٣</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -14092,9 +14096,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e19248" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e19248" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e19248">2-181</biblScope>
                      </imprint>
                      <edition source="#d1e19248">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e19248"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٤</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -14158,9 +14162,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e19353" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e19353" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e19353"/>
                      </imprint>
                      <edition source="#d1e19353">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e19353"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">١</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -14225,9 +14229,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e19428" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e19428" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e19428"/>
                      </imprint>
                      <edition source="#d1e19428">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e19428"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٤</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -14295,9 +14299,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e19503" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e19503" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e19503">3-154</biblScope>
                      </imprint>
                      <edition source="#d1e19503">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e19503"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">١</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -14362,9 +14366,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e19601" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e19601" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e19601"/>
                      </imprint>
                      <edition source="#d1e19601">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e19601"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٥</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -14433,9 +14437,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc">4</biblScope>
                         <biblScope unit="volume" source="#d1e19676" xml:lang="ar">٣</biblScope>
                         <biblScope unit="volume" source="#d1e19676" xml:lang="ar-Latn-x-lc">3</biblScope>
+                        <biblScope unit="page" from="" to="" source="#d1e19676">(v.1)3-382, (v.2)3-406, (v.3)3-356</biblScope>
                      </imprint>
                      <edition source="#d1e19676">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e19676"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٥٠</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -14500,9 +14504,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e19785" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e19785" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e19785"/>
                      </imprint>
                      <edition source="#d1e19785">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e19785"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٤</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -14567,9 +14571,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e19860" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e19860" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e19860"/>
                      </imprint>
                      <edition source="#d1e19860">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e19860"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">١</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -14637,9 +14641,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e19937" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e19937" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e19937">2-428</biblScope>
                      </imprint>
                      <edition source="#d1e19937">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e19937"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٢</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -14704,9 +14708,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e20037" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e20037" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e20037"/>
                      </imprint>
                      <edition source="#d1e20037">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e20037"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">١٠</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -14773,9 +14777,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e20112" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e20112" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e20112">2-255</biblScope>
                      </imprint>
                      <edition source="#d1e20112">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e20112"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٥</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -14841,9 +14845,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc">13</biblScope>
                         <biblScope unit="volume" source="#d1e20208" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e20208" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e20208"/>
                      </imprint>
                      <edition source="#d1e20208">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e20208"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٣٥</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -14908,9 +14912,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc">2</biblScope>
                         <biblScope unit="volume" source="#d1e20284" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e20284" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e20284"/>
                      </imprint>
                      <edition source="#d1e20284">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e20284"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٢٠</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -14978,9 +14982,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e20360" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e20360" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e20360">3-483</biblScope>
                      </imprint>
                      <edition source="#d1e20360">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e20360"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar">٦٩٢٠</num>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -15044,9 +15048,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e20463" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e20463" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e20463"/>
                      </imprint>
                      <edition source="#d1e20463">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e20463"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar"/>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -15113,9 +15117,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e20530" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e20530" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e20530"/>
                      </imprint>
                      <edition source="#d1e20530">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e20530"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar"/>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -15180,9 +15184,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e20594" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e20594" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e20594"/>
                      </imprint>
                      <edition source="#d1e20594">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e20594"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar"/>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -15247,9 +15251,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e20657" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e20657" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e20657"/>
                      </imprint>
                      <edition source="#d1e20657">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e20657"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar"/>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -15314,9 +15318,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e20720" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e20720" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e20720"/>
                      </imprint>
                      <edition source="#d1e20720">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e20720"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar"/>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -15381,9 +15385,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e20783" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e20783" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e20783"/>
                      </imprint>
                      <edition source="#d1e20783">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e20783"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar"/>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -15448,9 +15452,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e20846" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e20846" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e20846"/>
                      </imprint>
                      <edition source="#d1e20846">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e20846"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar"/>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -15517,9 +15521,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e20910" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e20910" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e20910">3-49</biblScope>
                      </imprint>
                      <edition source="#d1e20910">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e20910"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar"/>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -15587,9 +15591,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e20999" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e20999" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e20999">3-119 </biblScope>
                      </imprint>
                      <edition source="#d1e20999">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e20999"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar"/>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -15654,9 +15658,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e21095" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e21095" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e21095"/>
                      </imprint>
                      <edition source="#d1e21095">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e21095"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar"/>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -15720,9 +15724,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e21158" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e21158" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e21158"/>
                      </imprint>
                      <edition source="#d1e21158">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e21158"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar"/>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -15786,9 +15790,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e21222" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e21222" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e21222"/>
                      </imprint>
                      <edition source="#d1e21222">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e21222"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar"/>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -15856,9 +15860,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e21284" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e21284" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e21284">5-71</biblScope>
                      </imprint>
                      <edition source="#d1e21284">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e21284"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar"/>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -15932,9 +15936,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e21444" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e21444" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e21444">3-78</biblScope>
                      </imprint>
                      <edition source="#d1e21444">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e21444"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar"/>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -16002,9 +16006,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e21541" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e21541" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e21541">3-96</biblScope>
                      </imprint>
                      <edition source="#d1e21541">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e21541"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar"/>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -16071,9 +16075,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e21634" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e21634" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e21634">3-86</biblScope>
                      </imprint>
                      <edition source="#d1e21634">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e21634"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar"/>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -16141,9 +16145,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e21728" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e21728" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e21728">14-136</biblScope>
                      </imprint>
                      <edition source="#d1e21728">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e21728"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar"/>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -16213,9 +16217,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e21818" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e21818" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e21818">3-71</biblScope>
                      </imprint>
                      <edition source="#d1e21818">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e21818"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar"/>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -16280,9 +16284,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e21915" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e21915" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e21915"/>
                      </imprint>
                      <edition source="#d1e21915">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e21915"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar"/>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -16353,9 +16357,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e21983" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e21983" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e21983"/>
                      </imprint>
                      <edition source="#d1e21983">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e21983"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar"/>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -16419,9 +16423,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e22062" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e22062" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e22062"/>
                      </imprint>
                      <edition source="#d1e22062">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e22062"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar"/>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -16487,9 +16491,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e22130" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e22130" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e22130"/>
                      </imprint>
                      <edition source="#d1e22130">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e22130"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar"/>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -16554,9 +16558,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e22197" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e22197" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e22197"/>
                      </imprint>
                      <edition source="#d1e22197">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e22197"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar"/>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -16621,9 +16625,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e22265" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e22265" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e22265"/>
                      </imprint>
                      <edition source="#d1e22265">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e22265"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar"/>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -16688,9 +16692,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e22332" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e22332" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e22332"/>
                      </imprint>
                      <edition source="#d1e22332">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e22332"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar"/>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -16757,9 +16761,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e22476" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e22476" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e22476"/>
                      </imprint>
                      <edition source="#d1e22476">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e22476"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar"/>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -16826,9 +16830,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e22551" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e22551" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e22551">3-307</biblScope>
                      </imprint>
                      <edition source="#d1e22551">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e22551"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar"/>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -16896,9 +16900,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e22648" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e22648" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e22648">3-493</biblScope>
                      </imprint>
                      <edition source="#d1e22648">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e22648"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar"/>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -16963,9 +16967,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc">2</biblScope>
                         <biblScope unit="volume" source="#d1e22745" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e22745" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e22745"/>
                      </imprint>
                      <edition source="#d1e22745">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e22745"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar"/>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -17030,9 +17034,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e22820" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e22820" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e22820"/>
                      </imprint>
                      <edition source="#d1e22820">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e22820"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar"/>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -17097,9 +17101,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc">2</biblScope>
                         <biblScope unit="volume" source="#d1e22892" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e22892" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e22892"/>
                      </imprint>
                      <edition source="#d1e22892">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e22892"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar"/>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -17164,9 +17168,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e22967" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e22967" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e22967"/>
                      </imprint>
                      <edition source="#d1e22967">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e22967"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar"/>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -17233,9 +17237,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc">2</biblScope>
                         <biblScope unit="volume" source="#d1e23040" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e23040" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e23040">2-284</biblScope>
                      </imprint>
                      <edition source="#d1e23040">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e23040"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar"/>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -17302,9 +17306,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e23144" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e23144" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e23144">3-511</biblScope>
                      </imprint>
                      <edition source="#d1e23144">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e23144"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar"/>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -17368,9 +17372,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e23243" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e23243" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e23243"/>
                      </imprint>
                      <edition source="#d1e23243">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e23243"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar"/>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -17435,9 +17439,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc">2</biblScope>
                         <biblScope unit="volume" source="#d1e23316" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e23316" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e23316"/>
                      </imprint>
                      <edition source="#d1e23316">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e23316"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar"/>
                         <unit type="currency" xml:lang="ar">قرش</unit>
@@ -17502,9 +17506,9 @@
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e23391" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d1e23391" xml:lang="ar-Latn-x-lc"/>
+                        <biblScope unit="page" from="" to="" source="#d1e23391"/>
                      </imprint>
                      <edition source="#d1e23391">XXXX edition</edition>
-                     <biblScope unit="page" from="" to="" source="#d1e23391"/>
                      <measure type="value" source="#d" xml:lang="ar">
                         <num xml:lang="ar"/>
                         <unit type="currency" xml:lang="ar">قرش</unit>
