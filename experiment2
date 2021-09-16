@@ -279,7 +279,10 @@
                         <publisher xml:lang="ar-Latn-x-lc" source="#d1e418">Dār al-Ṭibāʻah al-ʻĀmirah</publisher>
                         <date xml:lang="ar" type="hijri" source="#d1e418" when-custom="١٢٨٥">١٢٨٥</date>
                         <date xml:lang="en" type="Gregorian" source="#d1e418" when="1868">1868</date>
-                        <date xml:lang="en" type="taqriz/tarikh" source="#d1e418" when="1285">1285</date>
+                        <date xml:lang="en"
+                              type="taqriz/tarikh"
+                              source="#d1e418"
+                              when-custom="1285">1285</date>
                         <biblScope unit="volume" source="#d" xml:lang="ar">١٠</biblScope>
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc">10</biblScope>
                         <biblScope unit="volume" source="#d1e418" xml:lang="ar">١٠</biblScope>
@@ -412,7 +415,10 @@
                               type="Gregorian"
                               source="#d1e525"
                               when-custom="1868-1869">1868-1869</date>
-                        <date xml:lang="en" type="taqriz/tarikh" source="#d1e525" when="1285">1285</date>
+                        <date xml:lang="en"
+                              type="taqriz/tarikh"
+                              source="#d1e525"
+                              when-custom="1285">1285</date>
                         <biblScope unit="volume" source="#d" xml:lang="ar">١٠</biblScope>
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc">10</biblScope>
                         <biblScope unit="volume" source="#d1e525" xml:lang="ar">٢٠ جزء في ٥ مجلد</biblScope>
@@ -542,7 +548,10 @@
                         <publisher xml:lang="ar-Latn-x-lc" source="#d1e636">Dār al-Ṭibāʻah al-Miṣrīyah</publisher>
                         <date xml:lang="ar" type="hijri" source="#d1e636" when-custom="١٢٧٤">١٢٧٤</date>
                         <date xml:lang="en" type="Gregorian" source="#d1e636" when="1857">1857</date>
-                        <date xml:lang="en" type="taqriz/tarikh" source="#d1e636" when="1274">1274</date>
+                        <date xml:lang="en"
+                              type="taqriz/tarikh"
+                              source="#d1e636"
+                              when-custom="1274">1274</date>
                         <biblScope unit="volume" source="#d" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e636" xml:lang="ar"/>
@@ -937,7 +946,10 @@
                         <publisher xml:lang="ar-Latn-x-lc" source="#d1e952">Dār al-Ṭibā‘ah al-‘Āmirah</publisher>
                         <date xml:lang="ar" type="hijri" source="#d1e952" when-custom="١٢٨٤">١٢٨٤</date>
                         <date xml:lang="en" type="Gregorian" source="#d1e952" when="1867">1867</date>
-                        <date xml:lang="en" type="taqriz/tarikh" source="#d1e952" when="1284">1284</date>
+                        <date xml:lang="en"
+                              type="taqriz/tarikh"
+                              source="#d1e952"
+                              when-custom="1284">1284</date>
                         <biblScope unit="volume" source="#d" xml:lang="ar">٧</biblScope>
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc">7</biblScope>
                         <biblScope unit="volume" source="#d1e952" xml:lang="ar">٧</biblScope>
@@ -1069,7 +1081,7 @@
                         <date xml:lang="en"
                               type="taqriz/tarikh"
                               source="#d1e1058"
-                              when="1284">1284</date>
+                              when-custom="1284">1284</date>
                         <biblScope unit="volume" source="#d" xml:lang="ar">٢</biblScope>
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc">2</biblScope>
                         <biblScope unit="volume" source="#d1e1058" xml:lang="ar">٢</biblScope>
@@ -1201,7 +1213,7 @@
                         <date xml:lang="en"
                               type="taqriz/tarikh"
                               source="#d1e1166"
-                              when="1273">1273</date>
+                              when-custom="1273">1273</date>
                         <biblScope unit="volume" source="#d" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e1166" xml:lang="ar"/>
@@ -1333,7 +1345,7 @@
                         <date xml:lang="en"
                               type="taqriz/tarikh"
                               source="#d1e1269"
-                              when="1273">1273</date>
+                              when-custom="1273">1273</date>
                         <biblScope unit="volume" source="#d" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e1269" xml:lang="ar"/>
@@ -1465,7 +1477,7 @@
                         <date xml:lang="en"
                               type="taqriz/tarikh"
                               source="#d1e1372"
-                              when="1285/1868">1285/1868</date>
+                              when-custom="1285">1285</date>
                         <biblScope unit="volume" source="#d" xml:lang="ar">٢</biblScope>
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc">2</biblScope>
                         <biblScope unit="volume" source="#d1e1372" xml:lang="ar">٢</biblScope>
@@ -1602,7 +1614,7 @@
                         <date xml:lang="en"
                               type="taqriz/tarikh"
                               source="#d1e1477"
-                              when="1282">1282</date>
+                              when-custom="1282">1282</date>
                         <biblScope unit="volume" source="#d" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e1477" xml:lang="ar"/>
@@ -2123,7 +2135,7 @@
                         <date xml:lang="en"
                               type="taqriz/tarikh"
                               source="#d1e1848"
-                              when="1250">1250</date>
+                              when-custom="1250">1250</date>
                         <biblScope unit="volume" source="#d" xml:lang="ar">٢</biblScope>
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc">2</biblScope>
                         <biblScope unit="volume" source="#d1e1848" xml:lang="ar">٣</biblScope>
@@ -2257,7 +2269,7 @@
                         <date xml:lang="en"
                               type="taqriz/tarikh"
                               source="#d1e1958"
-                              when="1282">1282</date>
+                              when-custom="1282">1282</date>
                         <biblScope unit="volume" source="#d" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e1958" xml:lang="ar"/>
@@ -3940,7 +3952,7 @@
                         <date xml:lang="en"
                               type="taqriz/tarikh"
                               source="#d1e3193"
-                              when="1286">1286</date>
+                              when-custom="1286">1286</date>
                         <biblScope unit="volume" source="#d" xml:lang="ar">٢</biblScope>
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc">2</biblScope>
                         <biblScope unit="volume" source="#d1e3193" xml:lang="ar">جزآن في مجلد</biblScope>
@@ -4076,7 +4088,7 @@
                         <date xml:lang="en"
                               type="taqriz/tarikh"
                               source="#d1e3301"
-                              when="1282">1282</date>
+                              when-custom="1282">1282</date>
                         <biblScope unit="volume" source="#d" xml:lang="ar">٢</biblScope>
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc">2</biblScope>
                         <biblScope unit="volume" source="#d1e3301" xml:lang="ar">٢</biblScope>
@@ -4724,7 +4736,7 @@
                               type="hijri"
                               source="#d1e3792"
                               when-custom="[٤]١٢٧">[٤]١٢٧</date>
-                        <date xml:lang="en" type="Gregorian" source="#d1e3792" when="185[8]">185[8]</date>
+                        <date xml:lang="en" type="Gregorian" source="#d1e3792" when="1858">1858</date>
                         <date xml:lang="en" type="taqriz/tarikh" source="#d1e3792"/>
                         <biblScope unit="volume" source="#d" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
@@ -4986,7 +4998,7 @@
                         <date xml:lang="en"
                               type="taqriz/tarikh"
                               source="#d1e4002"
-                              when="1255">1255</date>
+                              when-custom="1255">1255</date>
                         <biblScope unit="volume" source="#d" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e4002" xml:lang="ar"/>
@@ -5249,7 +5261,7 @@
                         <date xml:lang="en"
                               type="taqriz/tarikh"
                               source="#d1e4199"
-                              when="1[28]1">1[28]1</date>
+                              when-custom="1281">1281</date>
                         <biblScope unit="volume" source="#d" xml:lang="ar">٢</biblScope>
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc">2</biblScope>
                         <biblScope unit="volume" source="#d1e4199" xml:lang="ar">٤</biblScope>
@@ -7086,7 +7098,7 @@
                         <date xml:lang="en"
                               type="taqriz/tarikh"
                               source="#d1e5515"
-                              when="1277">1277</date>
+                              when-custom="1277">1277</date>
                         <biblScope unit="volume" source="#d" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e5515" xml:lang="ar"/>
@@ -7217,7 +7229,7 @@
                         <date xml:lang="en"
                               type="taqriz/tarikh"
                               source="#d1e5621"
-                              when="1277">1277</date>
+                              when-custom="1277">1277</date>
                         <biblScope unit="volume" source="#d" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e5621" xml:lang="ar"/>
@@ -7741,7 +7753,7 @@
                         <date xml:lang="en"
                               type="taqriz/tarikh"
                               source="#d1e6001"
-                              when="1263">1263</date>
+                              when-custom="1263">1263</date>
                         <biblScope unit="volume" source="#d" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e6001" xml:lang="ar"/>
@@ -7873,7 +7885,7 @@
                         <date xml:lang="en"
                               type="taqriz/tarikh"
                               source="#d1e6109"
-                              when="1286">1286</date>
+                              when-custom="1286">1286</date>
                         <biblScope unit="volume" source="#d" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e6109" xml:lang="ar"/>
@@ -8005,7 +8017,7 @@
                         <date xml:lang="en"
                               type="taqriz/tarikh"
                               source="#d1e6209"
-                              when="1286">1286</date>
+                              when-custom="1286">1286</date>
                         <biblScope unit="volume" source="#d" xml:lang="ar">٢</biblScope>
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc">2</biblScope>
                         <biblScope unit="volume" source="#d1e6209" xml:lang="ar"/>
@@ -8271,7 +8283,7 @@
                         <date xml:lang="en"
                               type="taqriz/tarikh"
                               source="#d1e6388"
-                              when="1275">1275</date>
+                              when-custom="1275">1275</date>
                         <biblScope unit="volume" source="#d" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e6388" xml:lang="ar"/>
@@ -8403,7 +8415,7 @@
                         <date xml:lang="en"
                               type="taqriz/tarikh"
                               source="#d1e6491"
-                              when="1285">1285</date>
+                              when-custom="1285">1285</date>
                         <biblScope unit="volume" source="#d" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e6491" xml:lang="ar"/>
@@ -8923,7 +8935,7 @@
                         <date xml:lang="en"
                               type="taqriz/tarikh"
                               source="#d1e6836"
-                              when="1284">1284</date>
+                              when-custom="1284">1284</date>
                         <biblScope unit="volume" source="#d" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e6836" xml:lang="ar"/>
@@ -9449,7 +9461,7 @@
                         <date xml:lang="en"
                               type="taqriz/tarikh"
                               source="#d1e7211"
-                              when="1275">1275</date>
+                              when-custom="1275">1275</date>
                         <biblScope unit="volume" source="#d" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e7211" xml:lang="ar"/>
@@ -9971,7 +9983,7 @@
                         <date xml:lang="en"
                               type="taqriz/tarikh"
                               source="#d1e7538"
-                              when="1275">1275</date>
+                              when-custom="1275">1275</date>
                         <biblScope unit="volume" source="#d" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e7538" xml:lang="ar"/>
@@ -10883,7 +10895,7 @@
                         <date xml:lang="en"
                               type="taqriz/tarikh"
                               source="#d1e8221"
-                              when="1274">1274</date>
+                              when-custom="1274">1274</date>
                         <biblScope unit="volume" source="#d" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e8221" xml:lang="ar"/>
@@ -12052,7 +12064,7 @@
                         <date xml:lang="en"
                               type="taqriz/tarikh"
                               source="#d1e9046"
-                              when="1277">1277</date>
+                              when-custom="1277">1277</date>
                         <biblScope unit="volume" source="#d" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e9046" xml:lang="ar"/>
@@ -12701,7 +12713,7 @@
                         <date xml:lang="en"
                               type="taqriz/tarikh"
                               source="#d1e9504"
-                              when="1278">1278</date>
+                              when-custom="1278">1278</date>
                         <biblScope unit="volume" source="#d" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e9504" xml:lang="ar"/>
@@ -13096,7 +13108,7 @@
                         <date xml:lang="en"
                               type="taqriz/tarikh"
                               source="#d1e9778"
-                              when="1283">1283</date>
+                              when-custom="1283">1283</date>
                         <biblScope unit="volume" source="#d" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e9778" xml:lang="ar"/>
@@ -13618,7 +13630,7 @@
                         <date xml:lang="en"
                               type="taqriz/tarikh"
                               source="#d1e10163"
-                              when="1286">1286</date>
+                              when-custom="1286">1286</date>
                         <biblScope unit="volume" source="#d" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e10163" xml:lang="ar"/>
@@ -13756,7 +13768,7 @@
                         <date xml:lang="en"
                               type="taqriz/tarikh"
                               source="#d1e10263"
-                              when="1286">1286</date>
+                              when-custom="1286">1286</date>
                         <biblScope unit="volume" source="#d" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e10263" xml:lang="ar"/>
@@ -14289,7 +14301,7 @@
                         <date xml:lang="en"
                               type="taqriz/tarikh"
                               source="#d1e10644"
-                              when="1281">1281</date>
+                              when-custom="1281">1281</date>
                         <biblScope unit="volume" source="#d" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e10644" xml:lang="ar"/>
@@ -14955,7 +14967,7 @@
                         <date xml:lang="en"
                               type="taqriz/tarikh"
                               source="#d1e11118"
-                              when="1262">1262</date>
+                              when-custom="1262">1262</date>
                         <biblScope unit="volume" source="#d" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e11118" xml:lang="ar"/>
@@ -16274,7 +16286,7 @@
                         <date xml:lang="en"
                               type="taqriz/tarikh"
                               source="#d1e11977"
-                              when="[1254]">[1254]</date>
+                              when-custom="1254">1254</date>
                         <biblScope unit="volume" source="#d" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e11977" xml:lang="ar"/>
@@ -16803,7 +16815,7 @@
                         <date xml:lang="en"
                               type="taqriz/tarikh"
                               source="#d1e12360"
-                              when="1285">1285</date>
+                              when-custom="1285">1285</date>
                         <biblScope unit="volume" source="#d" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e12360" xml:lang="ar">جزآن في مجلد</biblScope>
@@ -17462,8 +17474,8 @@
                         <date xml:lang="ar"
                               type="hijri"
                               source="#d1e12849"
-                              when-custom="[١٨٥٩]">[١٨٥٩]</date>
-                        <date xml:lang="en" type="Gregorian" source="#d1e12849" when="[1859]">[1859]</date>
+                              when-custom="١٨٥٩">١٨٥٩</date>
+                        <date xml:lang="en" type="Gregorian" source="#d1e12849" when="1859">1859</date>
                         <date xml:lang="en" type="taqriz/tarikh" source="#d1e12849"/>
                         <biblScope unit="volume" source="#d" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
@@ -17600,7 +17612,7 @@
                         <date xml:lang="en"
                               type="taqriz/tarikh"
                               source="#d1e12945"
-                              when="1256">1256</date>
+                              when-custom="1256">1256</date>
                         <biblScope unit="volume" source="#d" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e12945" xml:lang="ar"/>
@@ -18269,7 +18281,7 @@
                         <date xml:lang="en"
                               type="taqriz/tarikh"
                               source="#d1e13426"
-                              when="1858">1858</date>
+                              when-custom="1858">1858</date>
                         <biblScope unit="volume" source="#d" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e13426" xml:lang="ar"/>
@@ -18667,7 +18679,7 @@
                         <date xml:lang="en"
                               type="taqriz/tarikh"
                               source="#d1e13703"
-                              when="1285">1285</date>
+                              when-custom="1285">1285</date>
                         <biblScope unit="volume" source="#d" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e13703" xml:lang="ar"/>
@@ -19845,8 +19857,8 @@
                         <date xml:lang="ar"
                               type="hijri"
                               source="#d1e14520"
-                              when-custom="[١٢٥٥]">[١٢٥٥]</date>
-                        <date xml:lang="en" type="Gregorian" source="#d1e14520" when="[1839]">[1839]</date>
+                              when-custom="١٢٥٥">١٢٥٥</date>
+                        <date xml:lang="en" type="Gregorian" source="#d1e14520" when="1839">1839</date>
                         <date xml:lang="en" type="taqriz/tarikh" source="#d1e14520"/>
                         <biblScope unit="volume" source="#d" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
@@ -20630,7 +20642,7 @@
                         <date xml:lang="en"
                               type="taqriz/tarikh"
                               source="#d1e15005"
-                              when="1281">1281</date>
+                              when-custom="1281">1281</date>
                         <biblScope unit="volume" source="#d" xml:lang="ar">٣</biblScope>
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc">3</biblScope>
                         <biblScope unit="volume" source="#d1e15005" xml:lang="ar">٣</biblScope>
@@ -20770,7 +20782,7 @@
                         <date xml:lang="en"
                               type="taqriz/tarikh"
                               source="#d1e15111"
-                              when="1275">1275</date>
+                              when-custom="1275">1275</date>
                         <biblScope unit="volume" source="#d" xml:lang="ar">٢</biblScope>
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc">2</biblScope>
                         <biblScope unit="volume" source="#d1e15111" xml:lang="ar">٢</biblScope>
@@ -21041,7 +21053,7 @@
                         <date xml:lang="en"
                               type="taqriz/tarikh"
                               source="#d1e15322"
-                              when="1278">1278</date>
+                              when-custom="1278">1278</date>
                         <biblScope unit="volume" source="#d" xml:lang="ar">٦</biblScope>
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc">6</biblScope>
                         <biblScope unit="volume" source="#d1e15322" xml:lang="ar">6</biblScope>
@@ -21180,7 +21192,7 @@
                         <date xml:lang="en"
                               type="taqriz/tarikh"
                               source="#d1e15428"
-                              when="1276">1276</date>
+                              when-custom="1276">1276</date>
                         <biblScope unit="volume" source="#d" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e15428" xml:lang="ar">2 مج فى 1 </biblScope>
@@ -21715,7 +21727,7 @@
                         <date xml:lang="en"
                               type="taqriz/tarikh"
                               source="#d1e15777"
-                              when="1286">1286</date>
+                              when-custom="1286">1286</date>
                         <biblScope unit="volume" source="#d" xml:lang="ar">٤ من ٥</biblScope>
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc">4 of 5</biblScope>
                         <biblScope unit="volume" source="#d1e15777" xml:lang="ar"> ٤ من ٥</biblScope>
@@ -22251,7 +22263,7 @@
                         <date xml:lang="en"
                               type="taqriz/tarikh"
                               source="#d1e16153"
-                              when="1250">1250</date>
+                              when-custom="1250">1250</date>
                         <biblScope unit="volume" source="#d" xml:lang="ar">٢</biblScope>
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc">2</biblScope>
                         <biblScope unit="volume" source="#d1e16153" xml:lang="ar">٢</biblScope>
@@ -22776,7 +22788,7 @@
                         <date xml:lang="en"
                               type="Gregorian"
                               source="#d1e16512"
-                              when="[1862/3]">[1862/3]</date>
+                              when-custom="[1862/3]">[1862/3]</date>
                         <date xml:lang="en" type="taqriz/tarikh" source="#d1e16512"/>
                         <biblScope unit="volume" source="#d" xml:lang="ar">٤</biblScope>
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc">4</biblScope>
@@ -22913,7 +22925,7 @@
                         <date xml:lang="en"
                               type="taqriz/tarikh"
                               source="#d1e16612"
-                              when="1273">1273</date>
+                              when-custom="1273">1273</date>
                         <biblScope unit="volume" source="#d" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e16612" xml:lang="ar"/>
@@ -23058,7 +23070,7 @@
                         <date xml:lang="en"
                               type="taqriz/tarikh"
                               source="#d1e16720"
-                              when="1282">1282</date>
+                              when-custom="1282">1282</date>
                         <biblScope unit="volume" source="#d" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e16720" xml:lang="ar"/>
@@ -23321,7 +23333,7 @@
                         <date xml:lang="en"
                               type="taqriz/tarikh"
                               source="#d1e16903"
-                              when="1276">1276</date>
+                              when-custom="1276">1276</date>
                         <biblScope unit="volume" source="#d" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e16903" xml:lang="ar"/>
@@ -23713,7 +23725,7 @@
                         <date xml:lang="en"
                               type="taqriz/tarikh"
                               source="#d1e17158"
-                              when="1267">1267</date>
+                              when-custom="1267">1267</date>
                         <biblScope unit="volume" source="#d" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e17158" xml:lang="ar"/>
@@ -24765,7 +24777,7 @@
                         <date xml:lang="en"
                               type="taqriz/tarikh"
                               source="#d1e17884"
-                              when="1265">1265</date>
+                              when-custom="1265">1265</date>
                         <biblScope unit="volume" source="#d" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e17884" xml:lang="ar"/>
@@ -24899,7 +24911,7 @@
                         <date xml:lang="en"
                               type="taqriz/tarikh"
                               source="#d1e17985"
-                              when="1277">1277</date>
+                              when-custom="1277">1277</date>
                         <biblScope unit="volume" source="#d" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e17985" xml:lang="ar">٢</biblScope>
@@ -25428,7 +25440,7 @@
                         <date xml:lang="en"
                               type="taqriz/tarikh"
                               source="#d1e18338"
-                              when="1272">1272</date>
+                              when-custom="1272">1272</date>
                         <biblScope unit="volume" source="#d" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e18338" xml:lang="ar"/>
@@ -25701,7 +25713,7 @@
                         <date xml:lang="en"
                               type="taqriz/tarikh"
                               source="#d1e18514"
-                              when="1281/1276/1276">1281/1276/1276</date>
+                              when-custom="1281/1276/1276">1281/1276/1276</date>
                         <biblScope unit="volume" source="#d" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e18514" xml:lang="ar"/>
@@ -26757,7 +26769,7 @@
                         <date xml:lang="en"
                               type="taqriz/tarikh"
                               source="#d1e19248"
-                              when="1252">1252</date>
+                              when-custom="1252">1252</date>
                         <biblScope unit="volume" source="#d" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e19248" xml:lang="ar"/>
@@ -27414,7 +27426,7 @@
                         <date xml:lang="en"
                               type="taqriz/tarikh"
                               source="#d1e19676"
-                              when="1280">1280</date>
+                              when-custom="1280">1280</date>
                         <biblScope unit="volume" source="#d" xml:lang="ar">٤</biblScope>
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc">4</biblScope>
                         <biblScope unit="volume" source="#d1e19676" xml:lang="ar">٣</biblScope>
@@ -28459,7 +28471,7 @@
                         <date xml:lang="en"
                               type="taqriz/tarikh"
                               source="#d1e20360"
-                              when="1271, 1284">1271, 1284</date>
+                              when-custom="1271, 1284">1271, 1284</date>
                         <biblScope unit="volume" source="#d" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
                         <biblScope unit="volume" source="#d1e20360" xml:lang="ar"/>
@@ -31073,7 +31085,7 @@
                         <date xml:lang="en"
                               type="Gregorian"
                               source="#d1e21983"
-                              when="Princeton University Library">Princeton University Library</date>
+                              when-custom="Princeton University Library">Princeton University Library</date>
                         <date xml:lang="en" type="taqriz/tarikh" source="#d1e21983"/>
                         <biblScope unit="volume" source="#d" xml:lang="ar"/>
                         <biblScope unit="volume" source="#d" xml:lang="ar-Latn-x-lc"/>
@@ -33340,5 +33352,3 @@
       </body>
    </text>
 </TEI>
-
-
