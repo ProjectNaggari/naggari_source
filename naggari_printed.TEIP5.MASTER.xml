@@ -12,72 +12,104 @@
             <title>An Extended Bibliographical Database, vol. 1: The Printed Books</title>
             <respStmt xml:lang="en">
                <resp xml:lang="en">Prepared by</resp>
-               <persName  xml:lang="en"> <forename xml:lang="en">Adam</forename> <surname xml:lang="en">Mestyan</surname></persName>
-               <persName xml:lang="en"><forename xml:lang="en">Kathryn</forename> <surname xml:lang="en">Schwartz</surname></persName>
-               <note xml:lang="en">With the contribution of
-                  <persName xml:lang="en"><forename xml:lang="en">Sean</forename> <surname xml:lang="en">Swanick</surname></persName> and <persName xml:lang="en"><forename xml:lang="en">Rezk</forename> <surname xml:lang="en">Nori</surname></persName>
+               <persName xml:lang="en">
+                  <forename xml:lang="en">Adam</forename>
+                  <surname xml:lang="en">Mestyan</surname></persName>
+               <persName xml:lang="en"><forename xml:lang="en">Kathryn</forename>
+                  <surname xml:lang="en">Schwartz</surname></persName>
+               <note xml:lang="en">With the contribution of <persName xml:lang="en"><forename
+                        xml:lang="en">Sean</forename>
+                     <surname xml:lang="en">Swanick</surname></persName> and <persName xml:lang="en"
+                        ><forename xml:lang="en">Rezk</forename>
+                     <surname xml:lang="en">Nori</surname></persName>
                </note>
             </respStmt>
 
          </titleStmt>
          <editionStmt>
-            <edition> <date when="2021-06-01" xml:lang="en">1 June 2021</date></edition>
+            <edition>
+               <date when="2021-06-01" xml:lang="en">1 June 2021</date></edition>
             <respStmt xml:lang="en">
-            <resp xml:lang="en">edited and contributed with data</resp>
-               <persName xml:lang="en" xml:id="pAM"><forename xml:lang="en">Adam</forename> <surname xml:lang="en">Mestyan</surname></persName>
-               <persName xml:lang="en" xml:id="pKS"><forename xml:lang="en">Kathryn</forename> <surname xml:lang="en">Schwartz</surname></persName>
-               <persName xml:lang="en" xml:id="pSS"><forename xml:lang="en">Sean</forename> <surname xml:lang="en">Swanick</surname></persName>
-               <persName xml:lang="en" xml:id="pRN"><forename xml:lang="en">Rezk</forename> <surname xml:lang="en">Nori</surname></persName>
-               
+               <resp xml:lang="en">edited and contributed with data</resp>
+               <persName xml:lang="en" xml:id="pAM"><forename xml:lang="en">Adam</forename>
+                  <surname xml:lang="en">Mestyan</surname></persName>
+               <persName xml:lang="en" xml:id="pKS"><forename xml:lang="en">Kathryn</forename>
+                  <surname xml:lang="en">Schwartz</surname></persName>
+               <persName xml:lang="en" xml:id="pSS"><forename xml:lang="en">Sean</forename>
+                  <surname xml:lang="en">Swanick</surname></persName>
+               <persName xml:lang="en" xml:id="pRN"><forename xml:lang="en">Rezk</forename>
+                  <surname xml:lang="en">Nori</surname></persName>
+
             </respStmt>
             <respStmt xml:lang="en">
                <resp xml:lang="en">TEI XML consultant</resp>
                <persName xml:id="pHC" xml:lang="en">Hugh Cayless</persName>
             </respStmt>
             <respStmt>
-               <resp>We received help from</resp> <name xml:id="pJBP">Joseph Ben Prestel</name> <name xml:id="pDL">Daniel Lowe</name> <name xml:id="pYSH">Yahia Shawkat</name>  
+               <resp>We received help from</resp>
+               <name xml:id="pJBP">Joseph Ben Prestel</name>
+               <name xml:id="pDL">Daniel Lowe</name>
+               <name xml:id="pYSH">Yahia Shawkat</name>
             </respStmt>
-            
+
          </editionStmt>
          <publicationStmt>
             <distributor xml:lang="en">Zenodo</distributor>
             <idno xml:lang="en">DOI ....</idno>
-         <availability xml:lang="en">
-            <p xml:lang="en">This is an open access work licensed under the Creative Commons <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>.</p>
-         </availability>
+            <availability xml:lang="en">
+               <p xml:lang="en">This is an open access work licensed under the Creative Commons <ref
+                     target="https://creativecommons.org/licenses/by-nc/4.0/"
+                     >Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref>.</p>
+            </availability>
          </publicationStmt>
-         
+
          <sourceDesc xml:lang="en">
             <p xml:lang="en">Born digital document.</p>
-            <p xml:lang="en">Based on a probate inventory document, written by a government official after Muṣtafā Salāmah al-Najjārī's death, dated 24 Dhū al-Ḥijjah 1286 / 27 March 1870, which is now part of the archival unit “Awrāq al-ifrāj ‘an tarikat al-Shaykh Muṣṭafā Salāmah al-Najjārī,” Bayt-i Māl-i Miṣr 3002-012642, Dār al-Wathā’iq al-Qawmīyah (Egyptian National Archives).  </p>
+            <p xml:lang="en">Based on a probate inventory document, written by a government official
+               after Muṣtafā Salāmah al-Najjārī's death, dated 24 Dhū al-Ḥijjah 1286 / 27 March
+               1870, which is now part of the archival unit “Awrāq al-ifrāj ‘an tarikat al-Shaykh
+               Muṣṭafā Salāmah al-Najjārī,” Bayt-i Māl-i Miṣr 3002-012642, Dār al-Wathā’iq
+               al-Qawmīyah (Egyptian National Archives). </p>
          </sourceDesc>
       </fileDesc>
       <encodingDesc xml:lang="en">
          <projectDesc xml:lang="en">
-            
-            <p xml:lang="en">The basis of this TEI file is an Excel file, based on a Google Sheet document by Adam Mestyan, Kathryn Schwartz with input Sean Swanick and Rezq Nori, automatically converted on <date>22 January 2021</date> using <rs ref="https://oxgarage2.tei-c.org/">OxyGarage</rs>. After this transformation, Mestyan transformed the TEI XML file from list to BiblStruct schema on...  </p>
-            <p xml:lang="en">The basis of the data in the Google Sheet document is the list of titles in a probate inventory document, written by a government official after Muṣtafā Salāmah al-Najjārī's death, dated <date>24 Dhū al-Ḥijjah 1286</date> / <date>27 March 1870</date>, which is now part of the archival unit “Awrāq al-ifrāj ‘an tarikat al-Shaykh Muṣṭafā Salāmah al-Najjārī,” Bayt Māl-i Miṣr 3002-012642, Dār al-Wathā’iq al-Qawmīyah (Egyptian National Archives). </p>
-            <p> The original transcription from the daftar in DWQ was made by <persName>Adam Mestyan</persName> in <date>December 2016</date>, double-checked by <persName>Rezq Nori</persName> in <date>July 2020</date>.</p>
+
+            <p xml:lang="en">The basis of this TEI file is an Excel file, based on a Google Sheet
+               document by Adam Mestyan, Kathryn Schwartz with input Sean Swanick and Rezq Nori,
+               automatically converted on <date>22 January 2021</date> using <rs
+                  ref="https://oxgarage2.tei-c.org/">OxyGarage</rs>. After this transformation,
+               Mestyan transformed the TEI XML file from list to BiblStruct schema on... </p>
+            <p xml:lang="en">The basis of the data in the Google Sheet document is the list of
+               titles in a probate inventory document, written by a government official after
+               Muṣtafā Salāmah al-Najjārī's death, dated <date>24 Dhū al-Ḥijjah 1286</date> /
+                  <date>27 March 1870</date>, which is now part of the archival unit “Awrāq al-ifrāj
+               ‘an tarikat al-Shaykh Muṣṭafā Salāmah al-Najjārī,” Bayt Māl-i Miṣr 3002-012642, Dār
+               al-Wathā’iq al-Qawmīyah (Egyptian National Archives). </p>
+            <p> The original transcription from the daftar in DWQ was made by <persName>Adam
+                  Mestyan</persName> in <date>December 2016</date>, double-checked by <persName>Rezq
+                  Nori</persName> in <date>July 2020</date>.</p>
          </projectDesc>
-         
+
          <editorialDecl xml:lang="en">
-            <p xml:lang="en">This project uses the <ref target="https://www.loc.gov/catdir/cpso/romanization/arabic.pdf">ALA-LC</ref> standards for Arabic
-               transliteration.</p>
+            <p xml:lang="en">This project uses the <ref
+                  target="https://www.loc.gov/catdir/cpso/romanization/arabic.pdf">ALA-LC</ref>
+               standards for Arabic transliteration.</p>
          </editorialDecl>
       </encodingDesc>
       <profileDesc>
-            <particDesc>
-               <listPerson>
-                  <person xml:id="hMS" xml:lang="ar-Latn">
-                     <persName>
-                        <surname>Al-Najjārī</surname>
-                        <forename>Muṣṭafā</forename>
-                        <forename>Salāmah</forename>
-                     </persName>
-                  </person>
-                  
-               </listPerson>
-            </particDesc>
+         <particDesc>
+            <listPerson>
+               <person xml:id="hMS" xml:lang="ar-Latn">
+                  <persName>
+                     <surname>Al-Najjārī</surname>
+                     <forename>Muṣṭafā</forename>
+                     <forename>Salāmah</forename>
+                  </persName>
+               </person>
+
+            </listPerson>
+         </particDesc>
          <langUsage>
             <language ident="und-Latn">Undetermined language in Latin transliteration</language>
             <language ident="mul">Multiple languages</language>
@@ -86,7 +118,8 @@
             <language ident="ar-Latn-x-lc">Arabic in Latin (ALA-LC) transliteration</language>
             <language ident="tr">Turkish</language>
             <language ident="ota">Ottoman Turkish</language>
-            <language ident="ota-Latn-x-lc">Ottoman Turkish in Latin (ALA-LC) transliteration</language>
+            <language ident="ota-Latn-x-lc">Ottoman Turkish in Latin (ALA-LC)
+               transliteration</language>
             <language ident="fa">Persian</language>
             <language ident="fa-Latn-x-lc">Persian in Latin (ALA-LC) transliteration</language>
             <language ident="de">German</language>
@@ -96,77 +129,119 @@
       </profileDesc>
    </teiHeader>
    <standOff xml:id="nStandOff">
-     <listBibl>
-        <bibl xml:id="d">The list of books in the probate inventory-book (daftar) dated 24 Dhū al-Ḥijjah 1286 (27 March 1870), pages 8-25, 3002-012642, Bayt Māl Miṣr, Dār al-Wathāʾiq al-Qawmīyah (Egyptian National Archives).</bibl>
-        
-     </listBibl>
-      <note> The other source of data is the copy of a given title in a collection, studied either in an available scan or in person. This copy is given an automatic id through an XSL variable in an XSLT code and referred to consistantly.</note>
+      <listBibl>
+         <bibl xml:id="d">The list of books in the probate inventory-book (daftar) dated 24 Dhū
+            al-Ḥijjah 1286 (27 March 1870), pages 8-25, 3002-012642, Bayt Māl Miṣr, Dār al-Wathāʾiq
+            al-Qawmīyah (Egyptian National Archives).</bibl>
+
+      </listBibl>
+      <note> The other source of data is the copy of a given title in a collection, studied either
+         in an available scan or in person. This copy is given an automatic id through an XSL
+         variable in an XSLT code and referred to consistantly.</note>
    </standOff>
    <text>
-      
+
       <front xml:id="nFront" xml:lang="en">
          <div type="frontpage" xml:id="nTitle" xml:lang="en">
             <head>
                <title>The Books of Muṣṭafā Salāmah al-Najjārī</title>
                <title>A Digital Humanities Project</title>
             </head>
-            <p>Data collection, design of categories, and editing by <ref target="https://scholars.duke.edu/person/Adam.Mestyan"><persName ref="#pAM">Adam Mestyan</persName></ref> and <ref target="https://www.umass.edu/history/member/kathryn-schwartz"><persName ref="pKS">Kathryn Schwartz</persName></ref></p>
-            <p>TEI XML transformation, markup, codes and concept of HTML website by <persName ref="#pAM">Adam Mestyan</persName> </p>
+            <p>Data collection, design of categories, and editing by <ref
+                  target="https://scholars.duke.edu/person/Adam.Mestyan"><persName ref="#pAM">Adam
+                     Mestyan</persName></ref> and <ref
+                  target="https://www.umass.edu/history/member/kathryn-schwartz"><persName ref="pKS"
+                     >Kathryn Schwartz</persName></ref></p>
+            <p>TEI XML transformation, markup, codes and concept of HTML website by <persName
+                  ref="#pAM">Adam Mestyan</persName>
+            </p>
             <p>Visualization by <persName ref="pKS">Kathryn Schwartz</persName></p>
             <p>TEI consultant: <persName ref="#pHC">Hugh Cayless</persName></p>
          </div>
          <div xml:id="nCopyright" xml:lang="en">
-            <p>This database and website are under the Creative Commons copyright of <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</ref></p>
+            <p>This database and website are under the Creative Commons copyright of <ref
+                  target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial
+                  4.0 International (CC BY-NC 4.0)</ref></p>
          </div>
          <div xml:id="nCetei" xml:lang="en">
-            <p>This website uses <ref target="https://github.com/TEIC/CETEIcean">CETEICEan</ref> by Hugh Cayless and Raffaele Viglianti to display the umodified TEI file in HTML</p>
+            <p>This website uses <ref target="https://github.com/TEIC/CETEIcean">CETEICEan</ref> by
+               Hugh Cayless and Raffaele Viglianti to display the umodified TEI file in HTML</p>
          </div>
-         
-         <div type="chapter" xml:id="nIntro">  
+
+         <div type="chapter" xml:id="nIntro">
             <head>Introduction</head>
-            <p>This website is based on the inventory of books belonging to <persName xml:lang="ar-Latn" ref="#hMS">Muṣṭafā Salāmah al-Najjārī</persName> (d. 1286/1870), a nineteenth-century Egyptian intellectual. 
-               We have identified the titles, enriched with bibliographical data, and located available scans of the copies.
-              
-              This website is an online supplement to <persName ref="#pAM">Adam Mestyan</persName>, <title>Primordial History, Print Capitalism, and Egyptology in Nineteenth-Century Cairo, Muṣṭafā Salāma al-Naǧǧārī’s The Garden of Ismail’s Praise</title> (Cairo: Ifao, 2021) and <persName ref="pKS">Kathryn Schwartz</persName>, <title>Print and the People of Cairo </title>(forthcoming).</p>
-        
-         <p> Our work was documented <ref target="https://anegyptiansheikhsliteraryworld.umasscreate.net/">at our blog 2019-2021.</ref></p>
+            <p>This website is based on the inventory of books belonging to <persName
+                  xml:lang="ar-Latn" ref="#hMS">Muṣṭafā Salāmah al-Najjārī</persName> (d.
+               1286/1870), a nineteenth-century Egyptian intellectual. We have identified the
+               titles, enriched with bibliographical data, and located available scans of the
+               copies. This website is an online supplement to <persName ref="#pAM">Adam
+                  Mestyan</persName>, <title>Primordial History, Print Capitalism, and Egyptology in
+                  Nineteenth-Century Cairo, Muṣṭafā Salāma al-Naǧǧārī’s The Garden of Ismail’s
+                  Praise</title> (Cairo: Ifao, 2021) and <persName ref="pKS">Kathryn
+                  Schwartz</persName>, <title>Print and the People of Cairo
+               </title>(forthcoming).</p>
+
+            <p> Our work was documented <ref
+                  target="https://anegyptiansheikhsliteraryworld.umasscreate.net/">at our blog
+                  2019-2021.</ref></p>
          </div>
          <div xml:id="nLife">
-            <p><persName xml:lang="ar-Latn" ref="#hMS">Sheikh Muṣṭafā Salāmah al-Najjārī</persName> was an Egyptian literary scholar, poet, editor of the government bulletin during 1283–1284/1866–1867, and editor of printed books. He was closely associated with the entourage of <name>Said</name> and <name>Ismail</name> Pashas, the Ottoman governors of Egypt. Sheikh <persName xml:lang="ar-Latn" ref="#hMS">Salāmah</persName>, as he was known, was also part of an important enterprise in the 1860s, the <title>“Society for Education”</title> (<title xml:lang="ar-Latn" xml:id="oJM">Jamʿīyat al-Maʿārif</title>), and of an association of Muslim notables who bought a printing press for the Society. When he died on 11 Dhū al-Qaʿdah 1286/12 February 1870 there remained unfinished business behind him (he owned and he was owned) thus his family complained and the government confiscated his estate in order to make a proper legal process to settle the debts.</p>   
+            <p><persName xml:lang="ar-Latn" ref="#hMS">Sheikh Muṣṭafā Salāmah al-Najjārī</persName>
+               was an Egyptian literary scholar, poet, editor of the government bulletin during
+               1283–1284/1866–1867, and editor of printed books. He was closely associated with the
+               entourage of <name>Said</name> and <name>Ismail</name> Pashas, the Ottoman governors
+               of Egypt. Sheikh <persName xml:lang="ar-Latn" ref="#hMS">Salāmah</persName>, as he
+               was known, was also part of an important enterprise in the 1860s, the <title>“Society
+                  for Education”</title> (<title xml:lang="ar-Latn" xml:id="oJM">Jamʿīyat
+                  al-Maʿārif</title>), and of an association of Muslim notables who bought a
+               printing press for the Society. When he died on 11 Dhū al-Qaʿdah 1286/12 February
+               1870 there remained unfinished business behind him (he owned and he was owned) thus
+               his family complained and the government confiscated his estate in order to make a
+               proper legal process to settle the debts.</p>
          </div>
-            <div xml:id="nSource">
-               <head>Source</head>
-            <p>This website is based on the list of book titles found in the handwritten Arabic inheritance inventory of Sheikh Muṣṭafā Salāmah al-Najjārī.  The inventory was made by the government official of the Probate Administration of the Cairo Governorate (Bayt-i Māl-i Miṣr): it is now part of the archival unit "Awrāq al-ifrāj ʿan tarikat al-Shaykh Muṣṭafā Salāmah al-Najjārī," dated 24 Dhū al-Ḥijjah 1286 (27 March 1870), unnumbered pages 8-25, 3002-012642, Dār al-Wathāʾiq al-Qawmīyah (Egyptian National Archives).</p>           
+         <div xml:id="nSource">
+            <head>Source</head>
+            <p>This website is based on the list of book titles found in the handwritten Arabic
+               inheritance inventory of Sheikh Muṣṭafā Salāmah al-Najjārī. The inventory was made by
+               the government official of the Probate Administration of the Cairo Governorate
+               (Bayt-i Māl-i Miṣr): it is now part of the archival unit "Awrāq al-ifrāj ʿan tarikat
+               al-Shaykh Muṣṭafā Salāmah al-Najjārī," dated 24 Dhū al-Ḥijjah 1286 (27 March 1870),
+               unnumbered pages 8-25, 3002-012642, Dār al-Wathāʾiq al-Qawmīyah (Egyptian National
+               Archives).</p>
          </div>
          <div>
-            <p> We used the Library of Congress Arabic transliteration standard. [Here is the Arabic version.]</p>
+            <p> We used the Library of Congress Arabic transliteration standard. [Here is the Arabic
+               version.]</p>
          </div>
-         <div xml:id="nAbbrev"> 
+         <div xml:id="nAbbrev">
             <head>Abbreviations</head>
-            
-            <p>D / د = daftar / دفتر; the  probate inventory of the bequest of Muṣṭafā Salāmah al-Najjārī, daftar dated 24 Dhū al-Ḥijjah 1286 (27 March 1870), pages 8-25; cf. Mestyan, Magical History and Muslim Printing (forthcoming).
-            </p>
+
+            <p>D / د = daftar / دفتر; the probate inventory of the bequest of Muṣṭafā Salāmah
+               al-Najjārī, daftar dated 24 Dhū al-Ḥijjah 1286 (27 March 1870), pages 8-25; cf.
+               Mestyan, Magical History and Muslim Printing (forthcoming). </p>
             <p>DWQ = Dār al-Wathāʾiq al-Qawmīya, The Egyptian National Archives.</p>
-            
-           <p> C / ن = physical or digitized copy of a given title. / نسخة</p>
-            
-           <p> ALA-LC = Library of Congress transliteration standard for Arabic.
-            </p>
-            <p>Q = as in undated table, Qāʾima bi-ʿilm al-Kutub al-Maṭbūʿah fī Būlāq, in Box 2, ABC 50, Eli Smith Papers, Houghton Library, Harvard University.
-            </p>
-           <p> K1 = Fihrist al-Kutub al-Mawjūdah bi-l-Kutubkhānah al-Khidīwīyah al-Miṣrīya al-Kubrā al-Kāʾinah bi-Sarāy Darb al-Jamāmiz al-ʿĀmirah bi-Miṣr al-Qāhirah (Cairo: Maṭbaʿat Wādī al-Nīl, 1289 [1872]).</p>
-            
-<p>            K2 = Fihrist al-Kutub al-ʿArabīyah al-Maḥfūẓa bi-l-Kutubkhānah al-Khidīwīyah al-Kāʾinah bi-Sarāy Darb al-Jamāmiz bi-Miṣr al-Maḥrūsah al-Muʿizzīyah (Cairo: Maṭbaʿat al-Shaykh ʿUthmān ʿAbd al-Rāziq, 1311 [1893]).
-</p>            
-<p>            B = Bayān mā Ṭubiʿa min al-Kutub al-Kathīra min mundhu Tasharrafat al-Maṭbaʿah bi-Dukhūlihā fī Ḥawzat al-Dāʾirah al-Munīrah ([Cairo? 1872?]
-</p>            </div>
-            <div>
-               <p>
-                  A useful Arabic Wiki for Arabic categories of the bibliographic record: https://tinyurl.com/45m24nq6
-               </p>
-            </div>
-         
-        
+
+            <p> C / ن = physical or digitized copy of a given title. / نسخة</p>
+
+            <p> ALA-LC = Library of Congress transliteration standard for Arabic. </p>
+            <p>Q = as in undated table, Qāʾima bi-ʿilm al-Kutub al-Maṭbūʿah fī Būlāq, in Box 2, ABC
+               50, Eli Smith Papers, Houghton Library, Harvard University. </p>
+            <p> K1 = Fihrist al-Kutub al-Mawjūdah bi-l-Kutubkhānah al-Khidīwīyah al-Miṣrīya al-Kubrā
+               al-Kāʾinah bi-Sarāy Darb al-Jamāmiz al-ʿĀmirah bi-Miṣr al-Qāhirah (Cairo: Maṭbaʿat
+               Wādī al-Nīl, 1289 [1872]).</p>
+
+            <p> K2 = Fihrist al-Kutub al-ʿArabīyah al-Maḥfūẓa bi-l-Kutubkhānah al-Khidīwīyah
+               al-Kāʾinah bi-Sarāy Darb al-Jamāmiz bi-Miṣr al-Maḥrūsah al-Muʿizzīyah (Cairo:
+               Maṭbaʿat al-Shaykh ʿUthmān ʿAbd al-Rāziq, 1311 [1893]). </p>
+            <p> B = Bayān mā Ṭubiʿa min al-Kutub al-Kathīra min mundhu Tasharrafat al-Maṭbaʿah
+               bi-Dukhūlihā fī Ḥawzat al-Dāʾirah al-Munīrah ([Cairo? 1872?] </p>
+         </div>
+         <div>
+            <p> A useful Arabic Wiki for Arabic categories of the bibliographic record:
+               https://tinyurl.com/45m24nq6 </p>
+         </div>
+
+
       </front>
       <body>
          <div>
@@ -14103,9 +14178,7 @@
                   <cell n="60"/>
                   <cell n="61">3-483</cell>
                </row>
-               <row>
-                  <cell n="1"/>
-               </row>
+               
             </table>
             <table xml:id="t2">
                <row>
@@ -14164,6 +14237,12 @@
                   <cell n="53"/>
                   <cell n="54"/>
                   <cell n="55"/>
+                  <cell n="56"/>
+                  <cell n="57"/>
+                  <cell n="58"/>
+                  <cell n="59"/>
+                  <cell n="60"/>
+                  <cell n="61"/>
                </row>
                <row>
                   <cell n="1">n1t151/2</cell>
@@ -14222,6 +14301,12 @@
                   <cell n="53"/>
                   <cell n="54"/>
                   <cell n="55"/>
+                  <cell n="56"/>
+                  <cell n="57"/>
+                  <cell n="58"/>
+                  <cell n="59"/>
+                  <cell n="60"/>
+                  <cell n="61"/>
                </row>
                <row>
                   <cell n="1">n1t151/3</cell>
@@ -14279,6 +14364,12 @@
                   <cell n="53"/>
                   <cell n="54"/>
                   <cell n="55"/>
+                  <cell n="56"/>
+                  <cell n="57"/>
+                  <cell n="58"/>
+                  <cell n="59"/>
+                  <cell n="60"/>
+                  <cell n="61"/>
                </row>
                <row>
                   <cell n="1">n1t151/4</cell>
@@ -14336,6 +14427,12 @@
                   <cell n="53"/>
                   <cell n="54"/>
                   <cell n="55"/>
+                  <cell n="56"/>
+                  <cell n="57"/>
+                  <cell n="58"/>
+                  <cell n="59"/>
+                  <cell n="60"/>
+                  <cell n="61"/>
                </row>
                <row>
                   <cell n="1">n1t151/5</cell>
@@ -14393,6 +14490,12 @@
                   <cell n="53"/>
                   <cell n="54"/>
                   <cell n="55"/>
+                  <cell n="56"/>
+                  <cell n="57"/>
+                  <cell n="58"/>
+                  <cell n="59"/>
+                  <cell n="60"/>
+                  <cell n="61"/>
                </row>
                <row>
                   <cell n="1">n1t151/6</cell>
@@ -14450,6 +14553,12 @@
                   <cell n="53"/>
                   <cell n="54"/>
                   <cell n="55"/>
+                  <cell n="56"/>
+                  <cell n="57"/>
+                  <cell n="58"/>
+                  <cell n="59"/>
+                  <cell n="60"/>
+                  <cell n="61"/>
                </row>
                <row>
                   <cell n="1">n1t151/7</cell>
@@ -14507,6 +14616,12 @@
                   <cell n="53"/>
                   <cell n="54"/>
                   <cell n="55"/>
+                  <cell n="56"/>
+                  <cell n="57"/>
+                  <cell n="58"/>
+                  <cell n="59"/>
+                  <cell n="60"/>
+                  <cell n="61"/>
                </row>
                <row>
                   <cell n="1">n1t151/8</cell>
@@ -14552,10 +14667,10 @@
                   <cell n="40"/>
                   <cell n="41">١٨٤٨</cell>
                   <cell n="42">1848</cell>
-                  <cell n="43">1264</cell>  
+                  <cell n="43">1264</cell>
                   <cell n="44">1848</cell>
                   <cell n="45">British Library</cell>
-                  <cell n="46">                     المكتبة البريطانية</cell>
+                  <cell n="46"> المكتبة البريطانية</cell>
                   <cell n="47"/>
                   <cell n="48"/>
                   <cell n="49"/>
@@ -14619,7 +14734,7 @@
                   <cell n="43">1266</cell>
                   <cell n="44">1846</cell>
                   <cell n="45">British Library</cell>
-                  <cell n="46">                  المكتبة البريطانية</cell>
+                  <cell n="46"> المكتبة البريطانية</cell>
                   <cell n="47"/>
                   <cell n="48"/>
                   <cell n="49"/>
@@ -14692,6 +14807,12 @@
                   <cell n="53"/>
                   <cell n="54"/>
                   <cell n="55"/>
+                  <cell n="56"/>
+                  <cell n="57"/>
+                  <cell n="58"/>
+                  <cell n="59"/>
+                  <cell n="60"/>
+                  <cell n="61"/>
                </row>
                <row>
                   <cell n="1">n1t151/11</cell>
@@ -14749,6 +14870,12 @@
                   <cell n="53"/>
                   <cell n="54"/>
                   <cell n="55"/>
+                  <cell n="56"/>
+                  <cell n="57"/>
+                  <cell n="58"/>
+                  <cell n="59"/>
+                  <cell n="60"/>
+                  <cell n="61"/>
                </row>
                <row>
                   <cell n="1">n1t151/12</cell>
@@ -14806,6 +14933,12 @@
                   <cell n="53"/>
                   <cell n="54"/>
                   <cell n="55"/>
+                  <cell n="56"/>
+                  <cell n="57"/>
+                  <cell n="58"/>
+                  <cell n="59"/>
+                  <cell n="60"/>
+                  <cell n="61"/>
                </row>
                <row>
                   <cell n="1">n1t151/13</cell>
@@ -14851,10 +14984,10 @@
                   <cell n="40">Dār al-Ṭibāʻa al-ʻĀmira</cell>
                   <cell n="41">١٢٨٣</cell>
                   <cell n="42">1283</cell>
-                  <cell n="43">1283</cell>   
+                  <cell n="43">1283</cell>
                   <cell n="44">1867</cell>
                   <cell n="45">British Library</cell>
-                  <cell n="46">                     المكتبة البريطانية</cell>
+                  <cell n="46"> المكتبة البريطانية</cell>
                   <cell n="47"/>
                   <cell n="48"/>
                   <cell n="49"/>
@@ -14934,6 +15067,9 @@
                   <cell n="56"/>
                   <cell n="57"/>
                   <cell n="58"/>
+                  <cell n="59"/>
+                  <cell n="60"/>
+                  <cell n="61"/>
                </row>
                <row>
                   <cell n="1">n1t152/2</cell>
@@ -15321,6 +15457,9 @@
                   <cell n="56"/>
                   <cell n="57"/>
                   <cell n="58"/>
+                  <cell n="59"/>
+                  <cell n="60"/>
+                  <cell n="61"/>
                </row>
                <row>
                   <cell n="1">n1t152/8</cell>
@@ -15371,7 +15510,7 @@
                   <cell n="46"/>
                   <cell n="47"/>
                   <cell n="48"/>
-                  <cell n="49"/>  
+                  <cell n="49"/>
                   <cell n="50"/>
                   <cell n="51"/>
                   <cell n="52"/>
@@ -15446,6 +15585,9 @@
                   <cell n="56"/>
                   <cell n="57"/>
                   <cell n="58"/>
+                  <cell n="59"/>
+                  <cell n="60"/>
+                  <cell n="61"/>
                </row>
                <row>
                   <cell n="1">n1t152/10</cell>
@@ -15506,6 +15648,9 @@
                   <cell n="56"/>
                   <cell n="57"/>
                   <cell n="58"/>
+                  <cell n="59"/>
+                  <cell n="60"/>
+                  <cell n="61"/>
                </row>
                <row>
                   <cell n="1">n1t152/11</cell>
@@ -15566,6 +15711,9 @@
                   <cell n="56"/>
                   <cell n="57"/>
                   <cell n="58"/>
+                  <cell n="59"/>
+                  <cell n="60"/>
+                  <cell n="61"/>
                </row>
                <row>
                   <cell n="1">n1t152/12</cell>
@@ -15626,6 +15774,9 @@
                   <cell n="56"/>
                   <cell n="57"/>
                   <cell n="58"/>
+                  <cell n="59"/>
+                  <cell n="60"/>
+                  <cell n="61"/>
                </row>
                <row>
                   <cell n="1">n1t152/13</cell>
@@ -15686,6 +15837,9 @@
                   <cell n="56"/>
                   <cell n="57"/>
                   <cell n="58"/>
+                  <cell n="59"/>
+                  <cell n="60"/>
+                  <cell n="61"/>
                </row>
             </table>
             <table xml:id="t4">
@@ -16323,7 +16477,7 @@
                   <cell n="59">Ibrāhīm Ṣā'ib</cell>
                   <cell n="60">ابراهيم صائب</cell>
                   <cell n="61">3-511</cell>
-                
+
                </row>
                <row>
                   <cell n="1">n1t213-11</cell>
@@ -16515,7 +16669,7 @@
                   <cell n="59"/>
                   <cell n="60"/>
                   <cell n="61"/>
-               </row>   
+               </row>
             </table>
          </div>
       </body>
