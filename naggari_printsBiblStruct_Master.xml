@@ -257,7 +257,7 @@
             <listBibl xml:id="d1e289">
                <biblStruct>
                   <analytic>
-                     <idno>n1t1</idno>
+                     <idno n="titleID">n1t1</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e418" xml:id="d1e434">أحمد بن محمد قسطلاني</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e418" ref="#d1e434">Aḥmad ibn Muḥammad Qasṭallānī</persName>
@@ -390,7 +390,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t2</idno>
+                     <idno n="titleID">n1t2</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e525" xml:id="d1e541">أبو الفرج الاصبهاني</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e525" ref="#d1e541">Abū al-Faraj al-Iṣbahānī</persName>
@@ -526,7 +526,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t3</idno>
+                     <idno n="titleID">n1t3</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e636" xml:id="d1e652">عبد الرحيم بن عبد الرحمن بن احمد العباسي</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e636" ref="#d1e652">ʻAbd al-Raḥīm ibn ʻAbd al-Raḥmān ibn Aḥmad al-ʻAbbāsī</persName>
@@ -661,7 +661,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t4</idno>
+                     <idno n="titleID">n1t4</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e742" xml:id="d1e758">المقري</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e742" ref="#d1e758">Al-Maqqarī</persName>
@@ -791,7 +791,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t5</idno>
+                     <idno n="titleID">n1t5</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e849" xml:id="d1e865">رحمة الله بن خليل الرحمن</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e849" ref="#d1e865">Raḥmat Allāh ibn Khalīl al-Raḥmān</persName>
@@ -922,7 +922,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t6</idno>
+                     <idno n="titleID">n1t6</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e952" xml:id="d1e968">عبد الرحمان ابن خلدون</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e952" ref="#d1e968">‘Abd al-Raḥmān ibn Khaldūn</persName>
@@ -1056,7 +1056,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t7</idno>
+                     <idno n="titleID">n1t7</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e1058" xml:id="d1e1074">ابو العباس الشريشي</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e1058" ref="#d1e1074">Abū al-‘Abbās Aḥmad ibn ‘Abd al-Mu’min al-Qīsī al-Sharīshī</persName>
@@ -1188,7 +1188,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t8</idno>
+                     <idno n="titleID">n1t8</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e1166" xml:id="d1e1182">تقي الدين أبو بكر ابن حجة الحموي</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e1166" ref="#d1e1182">Taqī al-Dīn Abū Bakr ibn Ḥijjah al-Ḥamawī</persName>
@@ -1320,7 +1320,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t9</idno>
+                     <idno n="titleID">n1t9</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e1269" xml:id="d1e1285">شهاب الدين محمود الخفاجي</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e1269" ref="#d1e1285">Shihāb al-Dīn Maḥmūd al-Khafājī</persName>
@@ -1452,7 +1452,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t10</idno>
+                     <idno n="titleID">n1t10</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e1372" xml:id="d1e1388">زين الدين عمر بن الوردي</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e1372" ref="#d1e1388">Zayn al-Dīn ‘Umar ibn al-Wardī</persName>
@@ -1584,7 +1584,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t11</idno>
+                     <idno n="titleID">n1t11</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e1477" xml:id="d1e1493">ضياء الدين أبو الفتح نصر الله بن محمد بن محمد بن عبد
                      الكريم الموصلي</persName>
@@ -1721,7 +1721,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t12</idno>
+                     <idno n="titleID">n1t12</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e1582" xml:id="d1e1598">كاتب جلبي</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e1582" ref="#d1e1598">Kātib Çelebi</persName>
@@ -1850,7 +1850,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t13</idno>
+                     <idno n="titleID">n1t13</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e1688" xml:id="d1e1702"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e1688" ref="#d1e1702"/>
@@ -1978,7 +1978,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t14</idno>
+                     <idno n="titleID">n1t14</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e1766" xml:id="d1e1779"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e1766" ref="#d1e1779"/>
@@ -2108,7 +2108,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t15</idno>
+                     <idno n="titleID">n1t15</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e1848" xml:id="d1e1864">[محمد بن يعقوب الفيروزابادي]</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e1848" ref="#d1e1864">[Muḥammad ibn Yaʻqūb al-Fīrūzābādī]</persName>
@@ -2243,7 +2243,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t16</idno>
+                     <idno n="titleID">n1t16</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e1958" xml:id="d1e1974">أبو العباس أحمد بن يوسف بن أحمد الدمشقي القرماني</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e1958" ref="#d1e1974">Abū al-‘Abbās Aḥmad ibn Yūsuf ibn Aḥmad al-Dimashqī
@@ -2376,7 +2376,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t17</idno>
+                     <idno n="titleID">n1t17</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e2066" xml:id="d1e2082">تقى الدين احمد بن على بن عبد القادر بن محمد
                      المقريزي</persName>
@@ -2506,7 +2506,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t18</idno>
+                     <idno n="titleID">n1t18</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e2172" xml:id="d1e2188">أحمد فارس الشدياق</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e2172" ref="#d1e2188">Aḥmad Fāris al-Shidyāq</persName>
@@ -2635,7 +2635,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t19</idno>
+                     <idno n="titleID">n1t19</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e2273" xml:id="d1e2290">نورالدين على الحلبى </persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e2273" ref="#d1e2290">Nūr al-Dīn ‘Alī al-Ḥalabī</persName>
@@ -2764,7 +2764,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t20</idno>
+                     <idno n="titleID">n1t20</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e2368" xml:id="d1e2381"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e2368" ref="#d1e2381"/>
@@ -2893,7 +2893,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t21</idno>
+                     <idno n="titleID">n1t21</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e2445" xml:id="d1e2461">أبو القاسم عبد الكريم بن هوازن القشيري</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e2445" ref="#d1e2461">Abū al-Qāsim ‘Abd al-Karīm ibn Hawāzin al-Qushayrī</persName>
@@ -3022,7 +3022,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t22</idno>
+                     <idno n="titleID">n1t22</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e2548" xml:id="d1e2561"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e2548" ref="#d1e2561"/>
@@ -3151,7 +3151,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t23</idno>
+                     <idno n="titleID">n1t23</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e2625" xml:id="d1e2641">عبد الهادي نجا الابياري</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e2625" ref="#d1e2641">‘Abd al-Hādī Najā al-Abyārī</persName>
@@ -3282,7 +3282,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t24</idno>
+                     <idno n="titleID">n1t24</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e2729" xml:id="d1e2746">أبو البقاء الحسيني الكفوي</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e2729" ref="#d1e2746">Abū al-Baqāʼ al-Ḥusaynī al-Kaffawī</persName>
@@ -3410,7 +3410,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t25</idno>
+                     <idno n="titleID">n1t25</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e2830" xml:id="d1e2844"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e2830" ref="#d1e2844"/>
@@ -3538,7 +3538,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t26</idno>
+                     <idno n="titleID">n1t26</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e2908" xml:id="d1e2920"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e2908" ref="#d1e2920"/>
@@ -3667,7 +3667,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t27</idno>
+                     <idno n="titleID">n1t27</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e2984" xml:id="d1e3000">عبد الهادي نجا الابياري</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e2984" ref="#d1e3000">‘Abd al-Hādī Najā al-Abyārī</persName>
@@ -3798,7 +3798,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t28</idno>
+                     <idno n="titleID">n1t28</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e3088" xml:id="d1e3105">عبد الرحمن الصفوري </persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e3088" ref="#d1e3105">ʻAbd al-Raḥmān al-Ṣaffūrī</persName>
@@ -3927,7 +3927,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t29</idno>
+                     <idno n="titleID">n1t29</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e3193" xml:id="d1e3209">يوسف بن طاهر خوي</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e3193" ref="#d1e3209">Yūsuf ibn Ṭāhir Khuwayyī</persName>
@@ -4059,7 +4059,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t30</idno>
+                     <idno n="titleID">n1t30</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e3301" xml:id="d1e3317">أبو نصراسماعيل بن حماد الجوهري</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e3301" ref="#d1e3317">Abū Naṣr Ismāʻīl Ḥammād al-Jawharī</persName>
@@ -4195,7 +4195,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t31</idno>
+                     <idno n="titleID">n1t31</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e3409" xml:id="d1e3421"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e3409" ref="#d1e3421"/>
@@ -4324,7 +4324,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t32</idno>
+                     <idno n="titleID">n1t32</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e3481" xml:id="d1e3497">أبو اليمن القاضي مجير الدين</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e3481" ref="#d1e3497">Abū al-Yaman al-Qāḍī Mujīr al-Dīn</persName>
@@ -4453,7 +4453,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t33</idno>
+                     <idno n="titleID">n1t33</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e3582" xml:id="d1e3598">صلاح الكتبي</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e3582" ref="#d1e3598">Ṣalāḥ al-Kutubī</persName>
@@ -4582,7 +4582,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t34</idno>
+                     <idno n="titleID">n1t34</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e3689" xml:id="d1e3706">شمس الدين محمد بن الحسن النواجى </persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e3689" ref="#d1e3706">Shams al-Dīn Muḥammad ibn al-Ḥasan al-Nawājī</persName>
@@ -4712,7 +4712,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t35</idno>
+                     <idno n="titleID">n1t35</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e3792" xml:id="d1e3809">ابن خلدون</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e3792" ref="#d1e3809">Ibn Khaldūn</persName>
@@ -4844,7 +4844,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t36</idno>
+                     <idno n="titleID">n1t36</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e3896" xml:id="d1e3912">القاضي أحمد الشهير بابن خلكان</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e3896" ref="#d1e3912">Al-Qāḍī Aḥmad al-shahīr bi-Ibn Khallikān</persName>
@@ -4973,7 +4973,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t37</idno>
+                     <idno n="titleID">n1t37</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e4002" xml:id="d1e4019">الإمام الراغب</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e4002" ref="#d1e4019">Al-Imām al-Rāghib</persName>
@@ -5104,7 +5104,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t38</idno>
+                     <idno n="titleID">n1t38</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e4104" xml:id="d1e4121">بطرس بن بولس بن عبد الله البستاني</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e4104" ref="#d1e4121">Buṭrus ibn Būlus ibn ʻAbd Allah al-Bustānī</persName>
@@ -5235,7 +5235,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t39</idno>
+                     <idno n="titleID">n1t39</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e4199" xml:id="d1e4216">محمد بيك الشافعي الطبيب</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e4199" ref="#d1e4216">Muḥammad Bīk al-Shāfiʻī al-Ṭabīb</persName>
@@ -5368,7 +5368,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t40</idno>
+                     <idno n="titleID">n1t40</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e4307" xml:id="d1e4323">جلال الدين السيوطي</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e4307" ref="#d1e4323">Jalāl al-Dīn al-Suyūṭī</persName>
@@ -5497,7 +5497,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t41</idno>
+                     <idno n="titleID">n1t41</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e4394" xml:id="d1e4410">أبو سالم محمد طلحه</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e4394" ref="#d1e4410">Abū Sālim Muḥammad Ṭalḥah</persName>
@@ -5626,7 +5626,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t42</idno>
+                     <idno n="titleID">n1t42</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e4497" xml:id="d1e4514">احمد ابن الحسين ابي الطيب المتنبي الكندي</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e4497" ref="#d1e4514">Aḥmad ibn al-Ḥusayn Abū al-Ṭayyab al-Mutanabbī al-Kindī</persName>
@@ -5757,7 +5757,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t43</idno>
+                     <idno n="titleID">n1t43</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e4597" xml:id="d1e4613">أبو اسحاق برهان الدين ابراهيم بن يحي بن علي الكتبي
                      المعروف بالوطواط</persName>
@@ -5888,7 +5888,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t44</idno>
+                     <idno n="titleID">n1t44</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e4698" xml:id="d1e4711"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e4698" ref="#d1e4711"/>
@@ -6022,7 +6022,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t45</idno>
+                     <idno n="titleID">n1t45</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e4792" xml:id="d1e4804"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e4792" ref="#d1e4804"/>
@@ -6151,7 +6151,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t46</idno>
+                     <idno n="titleID">n1t46</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e4868" xml:id="d1e4885">سراج الدين ابى حفص عمر بن الوردي</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e4868" ref="#d1e4885">Sirāj al-Dīn Abū Ḥafiṣ ʻUmar ibn al-Wardī </persName>
@@ -6282,7 +6282,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t47</idno>
+                     <idno n="titleID">n1t47</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e4967" xml:id="d1e4984">لژاندر</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e4967" ref="#d1e4984">Lizāndr</persName>
@@ -6411,7 +6411,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t48</idno>
+                     <idno n="titleID">n1t48</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e5064" xml:id="d1e5080">أبو بكر عاصم بن أيوب </persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e5064" ref="#d1e5080">Abū Bakr ʻĀṣim ibn Ayyūb</persName>
@@ -6546,7 +6546,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t49</idno>
+                     <idno n="titleID">n1t49</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e5164" xml:id="d1e5181">احمد فارس الشدياق</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e5164" ref="#d1e5181">Aḥmad Fāris al-Shidyāq</persName>
@@ -6677,7 +6677,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t50</idno>
+                     <idno n="titleID">n1t50</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e5263" xml:id="d1e5279">ناصف اليازجي</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e5263" ref="#d1e5279">Nāṣif al-Yāzijī</persName>
@@ -6806,7 +6806,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t51</idno>
+                     <idno n="titleID">n1t51</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e5360" xml:id="d1e5373"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e5360" ref="#d1e5373"/>
@@ -6937,7 +6937,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t52</idno>
+                     <idno n="titleID">n1t52</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e5437" xml:id="d1e5451"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e5437" ref="#d1e5451"/>
@@ -7067,7 +7067,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t53</idno>
+                     <idno n="titleID">n1t53</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e5515" xml:id="d1e5532">محمد شهاب الدين</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e5515" ref="#d1e5532">Muḥammad Shihāb al-Dīn</persName>
@@ -7204,7 +7204,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t54</idno>
+                     <idno n="titleID">n1t54</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e5621" xml:id="d1e5638">أبو عبد الله الحسين بن أحمد بن الحسين الزوزني</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e5621" ref="#d1e5638">Abū ʻAbd Allāh al-Ḥusayn ibn Aḥmad ibn al-Ḥusayn al-Zawzanī</persName>
@@ -7336,7 +7336,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t55</idno>
+                     <idno n="titleID">n1t55</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e5730" xml:id="d1e5747">محمد دياب الاتليدي</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e5730" ref="#d1e5747">Muḥammad Diyāb al-Itlīdī</persName>
@@ -7465,7 +7465,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t56</idno>
+                     <idno n="titleID">n1t56</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e5831" xml:id="d1e5844"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e5831" ref="#d1e5844"/>
@@ -7593,7 +7593,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t57</idno>
+                     <idno n="titleID">n1t57</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e5906" xml:id="d1e5923">ابو الثناء شهاب الدين محمود الحسنى الحسينى الالوسى
                      البغدادي</persName>
@@ -7726,7 +7726,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t58</idno>
+                     <idno n="titleID">n1t58</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e6001" xml:id="d1e6017">السعدي</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e6001" ref="#d1e6017">Al-Saʻdī </persName>
@@ -7860,7 +7860,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t59</idno>
+                     <idno n="titleID">n1t59</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e6109" xml:id="d1e6125">علي بن موسى بن سعيد المغربي </persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e6109" ref="#d1e6125">ʻAlī ibn Mūsa ibn Saʻīd al-Maghribī</persName>
@@ -7992,7 +7992,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t60</idno>
+                     <idno n="titleID">n1t60</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e6209" xml:id="d1e6225">أبو اسحاق ابراهيم بن خفاجة الأندلسي</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e6209" ref="#d1e6225">Abū Isḥāq Ibrāhīm ibn Khafājah al-Andalusī</persName>
@@ -8124,7 +8124,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t61</idno>
+                     <idno n="titleID">n1t61</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e6313" xml:id="d1e6326"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e6313" ref="#d1e6326"/>
@@ -8253,7 +8253,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t62</idno>
+                     <idno n="titleID">n1t62</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e6388" xml:id="d1e6404">نصر الوفائى الهوريني</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e6388" ref="#d1e6404">Naṣr al-Wafā’ī al-Hūrīnī</persName>
@@ -8390,7 +8390,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t63</idno>
+                     <idno n="titleID">n1t63</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e6491" xml:id="d1e6507">محمد بن على الصبان</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e6491" ref="#d1e6507">Muḥammad ibn ʻAlī al-Ṣabbān</persName>
@@ -8522,7 +8522,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t64</idno>
+                     <idno n="titleID">n1t64</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e6593" xml:id="d1e6606"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e6593" ref="#d1e6606"/>
@@ -8652,7 +8652,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t65</idno>
+                     <idno n="titleID">n1t65</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e6668" xml:id="d1e6680"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e6668" ref="#d1e6680"/>
@@ -8781,7 +8781,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t66</idno>
+                     <idno n="titleID">n1t66</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e6743" xml:id="d1e6759">ناصيف اليازجي اللبناني </persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e6743" ref="#d1e6759">Nāṣīf al-Yāzijī al-Lubnānī</persName>
@@ -8910,7 +8910,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t67</idno>
+                     <idno n="titleID">n1t67</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e6836" xml:id="d1e6852"> خير الدين التونسي</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e6836" ref="#d1e6852">Khayr al-Dīn al-Tūnisī</persName>
@@ -9042,7 +9042,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t68</idno>
+                     <idno n="titleID">n1t68</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e6936" xml:id="d1e6952">مصطفى الذهبي</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e6936" ref="#d1e6952">Musṭafā al-Dhahabī</persName>
@@ -9176,7 +9176,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t69</idno>
+                     <idno n="titleID">n1t69</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e7034" xml:id="d1e7046"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e7034" ref="#d1e7046"/>
@@ -9305,7 +9305,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t70</idno>
+                     <idno n="titleID">n1t70</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e7108" xml:id="d1e7124">أبو زيد عبد الرحمن بن عبد العزيز</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e7108" ref="#d1e7124">Abū Zayd ʻAbd al-Raḥman ibn ʻAbd al-ʻAzīz</persName>
@@ -9434,7 +9434,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t71</idno>
+                     <idno n="titleID">n1t71</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e7211" xml:id="d1e7228">أحمد الدردير</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e7211" ref="#d1e7228">Aḥmad al-Dardīr</persName>
@@ -9571,7 +9571,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t72</idno>
+                     <idno n="titleID">n1t72</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e7309" xml:id="d1e7322"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e7309" ref="#d1e7322"/>
@@ -9700,7 +9700,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t73</idno>
+                     <idno n="titleID">n1t73</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e7386" xml:id="d1e7398"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e7386" ref="#d1e7398"/>
@@ -9829,7 +9829,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t74</idno>
+                     <idno n="titleID">n1t74</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e7462" xml:id="d1e7474"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e7462" ref="#d1e7474"/>
@@ -9958,7 +9958,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t75</idno>
+                     <idno n="titleID">n1t75</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e7538" xml:id="d1e7555">ابو منصور الثعالبى;ابو نصر احمد بن عبد الرزاق</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e7538" ref="#d1e7555">Abu Naṣr Aḥmad ibn ʻAbd al-Razzāq; Abu Manṣūr al-Tha'ālibī</persName>
@@ -10091,7 +10091,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t76</idno>
+                     <idno n="titleID">n1t76</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e7639" xml:id="d1e7655">محمود افندى صفوت</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e7639" ref="#d1e7655">Maḥmūd Afandī Ṣafwat</persName>
@@ -10223,7 +10223,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t77</idno>
+                     <idno n="titleID">n1t77</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e7735" xml:id="d1e7751">محمد المحبي</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e7735" ref="#d1e7751">Muḥammad al-Muḥibbī</persName>
@@ -10352,7 +10352,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t78</idno>
+                     <idno n="titleID">n1t78</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e7839" xml:id="d1e7855">شهاب الدين أحمد الخفاجي</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e7839" ref="#d1e7855">Shihāb al-Dīn Aḥmad al-Khafājī</persName>
@@ -10481,7 +10481,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t79</idno>
+                     <idno n="titleID">n1t79</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e7939" xml:id="d1e7955">[جان دي لا فانتين]</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e7939" ref="#d1e7955">Jān Dī Lā Fāntayn</persName>
@@ -10610,7 +10610,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t80</idno>
+                     <idno n="titleID">n1t80</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e8042" xml:id="d1e8055"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e8042" ref="#d1e8055"/>
@@ -10740,7 +10740,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t81</idno>
+                     <idno n="titleID">n1t81</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e8119" xml:id="d1e8135">أبو نصر الفتح بن محمد بن عبد الله بن خاقان القيسى </persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e8119" ref="#d1e8135">Abū Naṣr ibn al-Fatḥ ibn Muḥammad ibn ʻAbd Allāh ibn Khaqān
@@ -10870,7 +10870,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t82</idno>
+                     <idno n="titleID">n1t82</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e8221" xml:id="d1e8237">أحمد شهاب الدين القليوبي</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e8221" ref="#d1e8237">Aḥmad Shibāb al-Dīn al-Qalyūbī</persName>
@@ -11002,7 +11002,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t83</idno>
+                     <idno n="titleID">n1t83</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e8321" xml:id="d1e8334"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e8321" ref="#d1e8334"/>
@@ -11131,7 +11131,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t84</idno>
+                     <idno n="titleID">n1t84</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e8398" xml:id="d1e8414">جمال الدين محمد بن عمر بن مبارك الحضرمي</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e8398" ref="#d1e8414">Jamāl al-Dīn Muḥammad ibn ʻAmr ibn Mubārak al-Ḥaḍramī</persName>
@@ -11261,7 +11261,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t85</idno>
+                     <idno n="titleID">n1t85</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e8499" xml:id="d1e8512"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e8499" ref="#d1e8512"/>
@@ -11389,7 +11389,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t86</idno>
+                     <idno n="titleID">n1t86</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e8576" xml:id="d1e8592">[أبو بكر بن عبد الله بدري]</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e8576" ref="#d1e8592">[Abū Bakr ibn ʻAbd Allāh Badrī]</persName>
@@ -11518,7 +11518,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t87</idno>
+                     <idno n="titleID">n1t87</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e8671" xml:id="d1e8687">كرنيليوس ڨان ديك</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e8671" ref="#d1e8687">Karnīlīyūs Fān Dīk</persName>
@@ -11647,7 +11647,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t88</idno>
+                     <idno n="titleID">n1t88</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e8770" xml:id="d1e8782"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e8770" ref="#d1e8782"/>
@@ -11776,7 +11776,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t89</idno>
+                     <idno n="titleID">n1t89</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e8846" xml:id="d1e8862">عمر بن الفارض</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e8846" ref="#d1e8862">ʻUmar ibn al-Fāriḍ</persName>
@@ -11905,7 +11905,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t90</idno>
+                     <idno n="titleID">n1t90</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e8944" xml:id="d1e8960">ابو القاسم محمد بن هانى الازدى الاندلسى</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e8944" ref="#d1e8960">Abū al-Qāsim Muḥammad ibn Hānī al-Azdaī al-Andalusī</persName>
@@ -12034,7 +12034,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t91</idno>
+                     <idno n="titleID">n1t91</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e9046" xml:id="d1e9063">أبو علي الحسن بن هاني بن عبد الأول ابن الصباح المعروف
                      بابى نواس</persName>
@@ -12171,7 +12171,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t92</idno>
+                     <idno n="titleID">n1t92</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e9151" xml:id="d1e9167">الحريري</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e9151" ref="#d1e9167">Al-Ḥarīrī</persName>
@@ -12300,7 +12300,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t93</idno>
+                     <idno n="titleID">n1t93</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e9249" xml:id="d1e9262"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e9249" ref="#d1e9262"/>
@@ -12428,7 +12428,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t94</idno>
+                     <idno n="titleID">n1t94</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e9326" xml:id="d1e9342">الخوارزمي</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e9326" ref="#d1e9342">Al-Khwārizmī</persName>
@@ -12559,7 +12559,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t95</idno>
+                     <idno n="titleID">n1t95</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e9428" xml:id="d1e9440"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e9428" ref="#d1e9440"/>
@@ -12688,7 +12688,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t96</idno>
+                     <idno n="titleID">n1t96</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e9504" xml:id="d1e9520">ابن معتوق</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e9504" ref="#d1e9520">Ibn Maʻtūq </persName>
@@ -12823,7 +12823,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t97</idno>
+                     <idno n="titleID">n1t97</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e9604" xml:id="d1e9620">عبد الله الشبراوي</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e9604" ref="#d1e9620">ʻAbd Allāh al-Shabrāwī</persName>
@@ -12953,7 +12953,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t98</idno>
+                     <idno n="titleID">n1t98</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e9700" xml:id="d1e9713"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e9700" ref="#d1e9713"/>
@@ -13083,7 +13083,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t99</idno>
+                     <idno n="titleID">n1t99</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e9778" xml:id="d1e9795">علي بن محمد الجرجاني</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e9778" ref="#d1e9795">ʻAlī ibn Muḥammad al-Jurjānī</persName>
@@ -13215,7 +13215,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t100</idno>
+                     <idno n="titleID">n1t100</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e9882" xml:id="d1e9898">شهاب الدين أحمد بن أبي حجلة المغربي</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e9882" ref="#d1e9898">Shihāb al-Dīn Aḥmad ibn Abī Ḥajalah al-Maghrabī</persName>
@@ -13344,7 +13344,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t101</idno>
+                     <idno n="titleID">n1t101</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e9983" xml:id="d1e10000">شهاب الدين أحمد بن محمد الخفاجي</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e9983" ref="#d1e10000">Shihāb al-Dīn Aḥmad ibn Muḥammad al-Khafājī</persName>
@@ -13473,7 +13473,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t102 </idno>
+                     <idno n="titleID">n1t102 </idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e10087" xml:id="d1e10099"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e10087" ref="#d1e10099"/>
@@ -13602,7 +13602,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t103</idno>
+                     <idno n="titleID">n1t103</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e10163" xml:id="d1e10179">نور الدين على ابن ابى عمران </persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e10163" ref="#d1e10179">Nūr al-Dīn ʻAlī ibn Abī ʻUmrān </persName>
@@ -13737,7 +13737,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t104</idno>
+                     <idno n="titleID">n1t104</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e10263" xml:id="d1e10280">خالد الأزهري</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e10263" ref="#d1e10280">Khālid al-Azharī</persName>
@@ -13874,7 +13874,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t105</idno>
+                     <idno n="titleID">n1t105</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e10367" xml:id="d1e10384">حسام الدين عيسی بن سنجر ابن بهرام الاربلي الحاجري</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e10367" ref="#d1e10384">Ḥusām al-Dīn ʻĪsā ibn Sanjar ibn Bahrām al-Irbilī al-Ḥājirī</persName>
@@ -14008,7 +14008,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t106</idno>
+                     <idno n="titleID">n1t106</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e10470" xml:id="d1e10486"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e10470" ref="#d1e10486"/>
@@ -14143,7 +14143,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t107</idno>
+                     <idno n="titleID">n1t107</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e10568" xml:id="d1e10580"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e10568" ref="#d1e10580"/>
@@ -14272,7 +14272,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t108</idno>
+                     <idno n="titleID">n1t108</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e10644" xml:id="d1e10661">محمد ابن سليمان العفيف التلمساني</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e10644" ref="#d1e10661">Muḥammad ibn Sulaymān al-ʻAfīf al-Tilimsānī</persName>
@@ -14408,7 +14408,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t109</idno>
+                     <idno n="titleID">n1t109</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e10747" xml:id="d1e10762">أبو اسحاق ابراهيم بن اسمعيل ابن عبد الله الاجدابي
                      الطرابلسي</persName>
@@ -14543,7 +14543,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t110</idno>
+                     <idno n="titleID">n1t110</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e10841" xml:id="d1e10857">خليل افندي الخوري</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e10841" ref="#d1e10857">Khalīl Afandī al-Khūrī</persName>
@@ -14675,7 +14675,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t111</idno>
+                     <idno n="titleID">n1t111</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e10938" xml:id="d1e10954">محب الدين أفندى </persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e10938" ref="#d1e10954">Muḥibb al-Dīn Afandī</persName>
@@ -14809,7 +14809,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t112</idno>
+                     <idno n="titleID">n1t112</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e11038" xml:id="d1e11051"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e11038" ref="#d1e11051"/>
@@ -14939,7 +14939,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t113</idno>
+                     <idno n="titleID">n1t113</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e11118" xml:id="d1e11135">شيخ العطار</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e11118" ref="#d1e11135">Shaykh al-ʻAṭṭār</persName>
@@ -15074,7 +15074,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t114</idno>
+                     <idno n="titleID">n1t114</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e11221" xml:id="d1e11234"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e11221" ref="#d1e11234"/>
@@ -15212,7 +15212,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t115</idno>
+                     <idno n="titleID">n1t115</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e11298" xml:id="d1e11310"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e11298" ref="#d1e11310"/>
@@ -15341,7 +15341,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t116</idno>
+                     <idno n="titleID">n1t116</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e11374" xml:id="d1e11386"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e11374" ref="#d1e11386"/>
@@ -15470,7 +15470,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t117</idno>
+                     <idno n="titleID">n1t117</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e11450" xml:id="d1e11466">عبد الله الشرقاوى</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e11450" ref="#d1e11466">ʻAbd Allāh al-Sharqāwī</persName>
@@ -15602,7 +15602,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t118</idno>
+                     <idno n="titleID">n1t118</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e11550" xml:id="d1e11563"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e11550" ref="#d1e11563"/>
@@ -15731,7 +15731,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t119</idno>
+                     <idno n="titleID">n1t119</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e11627" xml:id="d1e11643">الحكيم لقمان</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e11627" ref="#d1e11643">al-Ḥakīm Luqmān</persName>
@@ -15865,7 +15865,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t120</idno>
+                     <idno n="titleID">n1t120</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e11722" xml:id="d1e11735"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e11722" ref="#d1e11735"/>
@@ -15993,7 +15993,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t121</idno>
+                     <idno n="titleID">n1t121</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e11800" xml:id="d1e11816">اوغسطوس مارييت بك</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e11800" ref="#d1e11816">Awgusṭūs Mārīyīt</persName>
@@ -16127,7 +16127,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t122</idno>
+                     <idno n="titleID">n1t122</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e11901" xml:id="d1e11913"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e11901" ref="#d1e11913"/>
@@ -16256,7 +16256,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t123</idno>
+                     <idno n="titleID">n1t123</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e11977" xml:id="d1e11993">ابو السعود</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e11977" ref="#d1e11993">Abū al-Suʻūd</persName>
@@ -16393,7 +16393,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t124</idno>
+                     <idno n="titleID">n1t124</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e12083" xml:id="d1e12100">جلال الدين سيدي عبد الرحمان السيوطي ; حسن العطار</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e12083" ref="#d1e12100">Jalāl al-Dīn Sayyidī ʻAbd al-Raḥmān al-Suyūṭī; Ḥasan al-ʻAṭṭār</persName>
@@ -16525,7 +16525,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t125</idno>
+                     <idno n="titleID">n1t125</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e12181" xml:id="d1e12194"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e12181" ref="#d1e12194"/>
@@ -16655,7 +16655,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t126</idno>
+                     <idno n="titleID">n1t126</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e12258" xml:id="d1e12274">برنس</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e12258" ref="#d1e12274">Barns</persName>
@@ -16787,7 +16787,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t127</idno>
+                     <idno n="titleID">n1t127</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e12360" xml:id="d1e12377">شهاب الدين أحمد الابشيهى</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e12360" ref="#d1e12377">Shihāb al-Dīn Aḥmad al-Ibshīhī</persName>
@@ -16921,7 +16921,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t128</idno>
+                     <idno n="titleID">n1t128</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e12465" xml:id="d1e12482">ابو محمد القاسم بن علي بن محمد ابن عثمان الحريري
                      البصري</persName>
@@ -17056,7 +17056,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t129</idno>
+                     <idno n="titleID">n1t129</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e12568" xml:id="d1e12585">احمد ابن احمد السجاعي</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e12568" ref="#d1e12585">Aḥmad ibn Aḥmad al-Sujāʻī</persName>
@@ -17191,7 +17191,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t130</idno>
+                     <idno n="titleID">n1t130</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e12672" xml:id="d1e12688"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e12672" ref="#d1e12688"/>
@@ -17323,7 +17323,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t131</idno>
+                     <idno n="titleID">n1t131</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e12771" xml:id="d1e12784"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e12771" ref="#d1e12784"/>
@@ -17451,7 +17451,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t132</idno>
+                     <idno n="titleID">n1t132</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e12849" xml:id="d1e12866">بطرس البستاني</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e12849" ref="#d1e12866">Buṭrus al-Bustānī</persName>
@@ -17582,7 +17582,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t133</idno>
+                     <idno n="titleID">n1t133</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e12945" xml:id="d1e12961">[محمد بن سليمان الجزولي]</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e12945" ref="#d1e12961">[Muḥammad ibn Sulaymān al-Jazūlī]</persName>
@@ -17722,7 +17722,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t134</idno>
+                     <idno n="titleID">n1t134</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e13050" xml:id="d1e13063"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e13050" ref="#d1e13063"/>
@@ -17851,7 +17851,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t135</idno>
+                     <idno n="titleID">n1t135</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e13127" xml:id="d1e13144">محمد دياب الإتليدى</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e13127" ref="#d1e13144">Muḥammad Diyāb al-Itlīdī</persName>
@@ -17982,7 +17982,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t136</idno>
+                     <idno n="titleID">n1t136</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e13228" xml:id="d1e13245">اوغسطوس مارية بك</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e13228" ref="#d1e13245">Awgusṭūs Māryīt Bik</persName>
@@ -18116,7 +18116,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t137</idno>
+                     <idno n="titleID">n1t137</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e13330" xml:id="d1e13346">عبد الرحمن ابن علي ابن الجوزي</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e13330" ref="#d1e13346">‘Abd al-Raḥmān ibn ‘Alī ibn al-Jawzī</persName>
@@ -18251,7 +18251,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t138</idno>
+                     <idno n="titleID">n1t138</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e13426" xml:id="d1e13442">اسكندر اغا ابكاريوس</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e13426" ref="#d1e13442">Iskandar Aghā Abkāriyūs</persName>
@@ -18388,7 +18388,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t139</idno>
+                     <idno n="titleID">n1t139</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e13525" xml:id="d1e13541">اسكندر اغا ابكاريوس</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e13525" ref="#d1e13541">Iskandar Aghā Abkāriyūs</persName>
@@ -18521,7 +18521,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t140 </idno>
+                     <idno n="titleID">n1t140 </idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e13626" xml:id="d1e13639"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e13626" ref="#d1e13639"/>
@@ -18651,7 +18651,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t141</idno>
+                     <idno n="titleID">n1t141</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e13703" xml:id="d1e13720">خير الدين تونسي</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e13703" ref="#d1e13720">Khayr al-Dīn Tūnisī</persName>
@@ -18786,7 +18786,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t142</idno>
+                     <idno n="titleID">n1t142</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e13806" xml:id="d1e13818"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e13806" ref="#d1e13818"/>
@@ -18915,7 +18915,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t143</idno>
+                     <idno n="titleID">n1t143</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e13883" xml:id="d1e13899">الخواجا دبنغ</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e13883" ref="#d1e13899">al-Khawājā Dapingh</persName>
@@ -19047,7 +19047,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t144</idno>
+                     <idno n="titleID">n1t144</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e13990" xml:id="d1e14006"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e13990" ref="#d1e14006"/>
@@ -19179,7 +19179,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t145</idno>
+                     <idno n="titleID">n1t145</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e14092" xml:id="d1e14109">اوبير ثرولد</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e14092" ref="#d1e14109">Awbīr Tharwald</persName>
@@ -19311,7 +19311,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t146</idno>
+                     <idno n="titleID">n1t146</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e14194" xml:id="d1e14207"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e14194" ref="#d1e14207">Ibn Mālik</persName>
@@ -19440,7 +19440,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t147</idno>
+                     <idno n="titleID">n1t147</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e14272" xml:id="d1e14289"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e14272" ref="#d1e14289"/>
@@ -19576,7 +19576,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t148</idno>
+                     <idno n="titleID">n1t148</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e14367" xml:id="d1e14379"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e14367" ref="#d1e14379"/>
@@ -19705,7 +19705,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t149</idno>
+                     <idno n="titleID">n1t149</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e14443" xml:id="d1e14456"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e14443" ref="#d1e14456"/>
@@ -19834,7 +19834,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t150</idno>
+                     <idno n="titleID">n1t150</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e14520" xml:id="d1e14537">لژاندر</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e14520" ref="#d1e14537">Lizāndr</persName>
@@ -19966,7 +19966,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t151</idno>
+                     <idno n="titleID">n1t151</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e14622" xml:id="d1e14634"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e14622" ref="#d1e14634"/>
@@ -20095,7 +20095,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t152</idno>
+                     <idno n="titleID">n1t152</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e14700" xml:id="d1e14712"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e14700" ref="#d1e14712"/>
@@ -20224,7 +20224,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t153</idno>
+                     <idno n="titleID">n1t153</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e14776" xml:id="d1e14789"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e14776" ref="#d1e14789"/>
@@ -20353,7 +20353,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t154</idno>
+                     <idno n="titleID">n1t154</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e14854" xml:id="d1e14867"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e14854" ref="#d1e14867"/>
@@ -20482,7 +20482,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t155</idno>
+                     <idno n="titleID">n1t155</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e14927" xml:id="d1e14940"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e14927" ref="#d1e14940"/>
@@ -20612,7 +20612,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t156</idno>
+                     <idno n="titleID">n1t156</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e15005" xml:id="d1e15022">جالينوس و الشيخ داود الضرير الانطاكي</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e15005" ref="#d1e15022">Galenus and Dāwud al-Anṭākī the Blind</persName>
@@ -20749,7 +20749,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t157</idno>
+                     <idno n="titleID">n1t157</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e15111" xml:id="d1e15127">ابو السعود</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e15111" ref="#d1e15127">Abū al-Suʻūd</persName>
@@ -20889,7 +20889,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t158</idno>
+                     <idno n="titleID">n1t158</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e15217" xml:id="d1e15234">محمد بن اسماعيل البخاري</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e15217" ref="#d1e15234">Muḥammad b. Ismāʻil al-Bukhārī</persName>
@@ -21025,7 +21025,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t159</idno>
+                     <idno n="titleID">n1t159</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e15322" xml:id="d1e15338"> فخر الدين محمد ابن عمر رازي</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e15322" ref="#d1e15338">Fakhr al-Dīn Muḥammad ibn ʻUmar al-Rāzī</persName>
@@ -21161,7 +21161,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t160</idno>
+                     <idno n="titleID">n1t160</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e15428" xml:id="d1e15445"> القاضى عياض، حسن العدوى الحمزاوي</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e15428" ref="#d1e15445">Al-Qāḍī ʻIyāḍ, Ḥasan al-ʻIdwī al-Ḥamzāwī</persName>
@@ -21298,7 +21298,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t161</idno>
+                     <idno n="titleID">n1t161</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e15530" xml:id="d1e15543"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e15530" ref="#d1e15543"/>
@@ -21429,7 +21429,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t162</idno>
+                     <idno n="titleID">n1t162</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e15607" xml:id="d1e15620"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e15607" ref="#d1e15620"/>
@@ -21562,7 +21562,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t163</idno>
+                     <idno n="titleID">n1t163</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e15684" xml:id="d1e15701">[ابن هشام]</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e15684" ref="#d1e15701">[Ibn Hishām]</persName>
@@ -21699,7 +21699,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t164</idno>
+                     <idno n="titleID">n1t164</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e15777" xml:id="d1e15794">السيد محمد أمين ابن عابدين</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e15777" ref="#d1e15794">Al-Sayyid Muḥammad Amīn Ibn ʻĀbidīn</persName>
@@ -21834,7 +21834,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t165</idno>
+                     <idno n="titleID">n1t165</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e15887" xml:id="d1e15904">حامد بن علي عمادي</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e15887" ref="#d1e15904">Ḥāmid b. ʻAlī ʻImādī</persName>
@@ -21974,7 +21974,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t166</idno>
+                     <idno n="titleID">n1t166</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e15995" xml:id="d1e16008"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e15995" ref="#d1e16008"/>
@@ -22105,7 +22105,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t167</idno>
+                     <idno n="titleID">n1t167</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e16077" xml:id="d1e16090"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e16077" ref="#d1e16090"/>
@@ -22235,7 +22235,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t168</idno>
+                     <idno n="titleID">n1t168</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e16153" xml:id="d1e16169">محمد الهراوي/ ت دفينيو</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e16153" ref="#d1e16169">Muḥammad al-Harāwī/T. Duvigneau</persName>
@@ -22371,7 +22371,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t169</idno>
+                     <idno n="titleID">n1t169</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e16258" xml:id="d1e16271"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e16258" ref="#d1e16271"/>
@@ -22500,7 +22500,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t170</idno>
+                     <idno n="titleID">n1t170</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e16335" xml:id="d1e16351">عبد الوهاب الشعراني</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e16335" ref="#d1e16351">Abd al-Wahhāb al-Sha‘arānī</persName>
@@ -22632,7 +22632,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t171</idno>
+                     <idno n="titleID">n1t171</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e16435" xml:id="d1e16448"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e16435" ref="#d1e16448"/>
@@ -22761,7 +22761,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t172</idno>
+                     <idno n="titleID">n1t172</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e16512" xml:id="d1e16528">أبي حامد محمد بن محمد بن محمد الغزالي</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e16512" ref="#d1e16528">Abī Ḥāmid Muḥammad b. Muḥammad b. Muḥammad al-Ghazzālī</persName>
@@ -22897,7 +22897,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t173</idno>
+                     <idno n="titleID">n1t173</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e16612" xml:id="d1e16628">حسن العدوي الحمزاوي</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e16612" ref="#d1e16628">Ḥasan al-ʻIdwī al-Ḥamzāwī</persName>
@@ -23035,7 +23035,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t174</idno>
+                     <idno n="titleID">n1t174</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e16720" xml:id="d1e16736">محمد بن محمد الأمير، عبد السلام بن ابراهيم اللقاني،
                      ابراهيم اللقاني</persName>
@@ -23177,7 +23177,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t175</idno>
+                     <idno n="titleID">n1t175</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e16825" xml:id="d1e16838"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e16825" ref="#d1e16838"/>
@@ -23305,7 +23305,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t176</idno>
+                     <idno n="titleID">n1t176</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e16903" xml:id="d1e16920">حسن العدوي الحمزاوي</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e16903" ref="#d1e16920">Ḥasan al-ʻIdwī al-Ḥamzāwī</persName>
@@ -23439,7 +23439,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t177</idno>
+                     <idno n="titleID">n1t177</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e17005" xml:id="d1e17019"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e17005" ref="#d1e17019"/>
@@ -23568,7 +23568,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t178</idno>
+                     <idno n="titleID">n1t178</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e17083" xml:id="d1e17096"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e17083" ref="#d1e17096"/>
@@ -23697,7 +23697,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t179</idno>
+                     <idno n="titleID">n1t179</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e17158" xml:id="d1e17174">عبد الوهاب الشعراوي</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e17158" ref="#d1e17174">ʻAbd al-Wahhāb al-Shaʻrāwī</persName>
@@ -23832,7 +23832,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t180</idno>
+                     <idno n="titleID">n1t180</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e17258" xml:id="d1e17274">أحمد بن عطا الله السكندري</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e17258" ref="#d1e17274">Aḥmad bin ʻAṭā Allāh al-Sakandarī</persName>
@@ -23966,7 +23966,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t181</idno>
+                     <idno n="titleID">n1t181</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e17352" xml:id="d1e17365"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e17352" ref="#d1e17365"/>
@@ -24095,7 +24095,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t182</idno>
+                     <idno n="titleID">n1t182</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e17427" xml:id="d1e17444">علي الاجهوري</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e17427" ref="#d1e17444">ʻAlī al-Ujhūrī</persName>
@@ -24229,7 +24229,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t183</idno>
+                     <idno n="titleID">n1t183</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e17530" xml:id="d1e17544"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e17530" ref="#d1e17544"/>
@@ -24357,7 +24357,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t184</idno>
+                     <idno n="titleID">n1t184</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e17606" xml:id="d1e17623">حافظ محمد بن عيسى بن سورة الترمذي</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e17606" ref="#d1e17623">Ḥāfiẓ Muḥammad b. ʿĪsā b. Sūrah al-Tirmidhī</persName>
@@ -24489,7 +24489,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t185</idno>
+                     <idno n="titleID">n1t185</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e17705" xml:id="d1e17718"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e17705" ref="#d1e17718"/>
@@ -24617,7 +24617,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t186</idno>
+                     <idno n="titleID">n1t186</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e17780" xml:id="d1e17797">عبد الوهاب الشعراني</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e17780" ref="#d1e17797">Abd al-Wahhāb al-Sha‘arānī</persName>
@@ -24749,7 +24749,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t187</idno>
+                     <idno n="titleID">n1t187</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e17884" xml:id="d1e17901">رفاعة بدوي رافع الطهطاوي</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e17884" ref="#d1e17901">Rifāʻah Badawī Rāfiʻ al-Ṭahṭāwī</persName>
@@ -24883,7 +24883,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t188</idno>
+                     <idno n="titleID">n1t188</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e17985" xml:id="d1e18002">عبد الوهاب الشعراني</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e17985" ref="#d1e18002">Abd al-Wahhāb al-Sha‘rānī</persName>
@@ -25017,7 +25017,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t189</idno>
+                     <idno n="titleID">n1t189</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e18090" xml:id="d1e18102"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e18090" ref="#d1e18102"/>
@@ -25146,7 +25146,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t190</idno>
+                     <idno n="titleID">n1t190</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e18164" xml:id="d1e18177"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e18164" ref="#d1e18177"/>
@@ -25277,7 +25277,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t191</idno>
+                     <idno n="titleID">n1t191</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e18239" xml:id="d1e18254">حسن العطار / خالد الأزهري</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e18239" ref="#d1e18254">Ḥasan al-ʻAṭṭār / Khālid al-Azharī</persName>
@@ -25412,7 +25412,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t192</idno>
+                     <idno n="titleID">n1t192</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e18338" xml:id="d1e18354">حسن العدوي الحمزاوي</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e18338" ref="#d1e18354">Ḥasan al-ʻIdwī al-Ḥamzāwī</persName>
@@ -25547,7 +25547,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t193</idno>
+                     <idno n="titleID">n1t193</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e18439" xml:id="d1e18452"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e18439" ref="#d1e18452"/>
@@ -25680,7 +25680,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t194</idno>
+                     <idno n="titleID">n1t194</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e18514" xml:id="d1e18530">Ḥasan al-'Idwī al-Ḥamzāwī</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e18514" ref="#d1e18530">حسن العدوي الحمزاوي</persName>
@@ -25820,7 +25820,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t195</idno>
+                     <idno n="titleID">n1t195</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e18615" xml:id="d1e18632">ابن الجزري</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e18615" ref="#d1e18632">Ibn al-Jazarī</persName>
@@ -25952,7 +25952,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t196</idno>
+                     <idno n="titleID">n1t196</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e18717" xml:id="d1e18734">أبو النجا</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e18717" ref="#d1e18734">Abū al-Najā</persName>
@@ -26085,7 +26085,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t197</idno>
+                     <idno n="titleID">n1t197</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e18819" xml:id="d1e18832"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e18819" ref="#d1e18832"/>
@@ -26215,7 +26215,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t198</idno>
+                     <idno n="titleID">n1t198</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e18895" xml:id="d1e18908"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e18895" ref="#d1e18908"/>
@@ -26347,7 +26347,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t199</idno>
+                     <idno n="titleID">n1t199</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e18970" xml:id="d1e18983"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e18970" ref="#d1e18983"/>
@@ -26476,7 +26476,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t200</idno>
+                     <idno n="titleID">n1t200</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e19045" xml:id="d1e19062">جمال الدين أبو محمد عبد الله ابن الشيخ جمال الدين يوسف
                      بن أحمد بن عبد الله بن هشام الانصاري</persName>
@@ -26609,7 +26609,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t201</idno>
+                     <idno n="titleID">n1t201</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e19148" xml:id="d1e19164">أبو حامد محمد بن محمد الغزالي</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e19148" ref="#d1e19164">Abū Ḥāmid Muḥammad ibn Muḥammad al-Ghazālī</persName>
@@ -26741,7 +26741,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t202</idno>
+                     <idno n="titleID">n1t202</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e19248" xml:id="d1e19265">ب. ف. سيسن</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e19248" ref="#d1e19265">P. F. Seisson</persName>
@@ -26875,7 +26875,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t203</idno>
+                     <idno n="titleID">n1t203</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e19353" xml:id="d1e19366"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e19353" ref="#d1e19366"/>
@@ -27004,7 +27004,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t204</idno>
+                     <idno n="titleID">n1t204</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e19428" xml:id="d1e19441"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e19428" ref="#d1e19441"/>
@@ -27133,7 +27133,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t205</idno>
+                     <idno n="titleID">n1t205</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e19503" xml:id="d1e19519">عبد الوهاب الشعراني</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e19503" ref="#d1e19519">ʻAbd al-Wahhāb al-Shaʻrānī</persName>
@@ -27268,7 +27268,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t206</idno>
+                     <idno n="titleID">n1t206</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e19601" xml:id="d1e19614"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e19601" ref="#d1e19614"/>
@@ -27396,7 +27396,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t207</idno>
+                     <idno n="titleID">n1t207</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e19676" xml:id="d1e19692">ابو عبد الله محمد البخاري</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e19676" ref="#d1e19692">Abū ʻAbd Allāh Muḥammad al-Bukhārī</persName>
@@ -27533,7 +27533,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t208</idno>
+                     <idno n="titleID">n1t208</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e19785" xml:id="d1e19797"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e19785" ref="#d1e19797"/>
@@ -27662,7 +27662,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t209</idno>
+                     <idno n="titleID">n1t209</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e19860" xml:id="d1e19873"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e19860" ref="#d1e19873"/>
@@ -27791,7 +27791,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t210</idno>
+                     <idno n="titleID">n1t210</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e19937" xml:id="d1e19953">ابن الحاجب، رضي الدين أستراباذي </persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e19937" ref="#d1e19953">Ibn al-Ḥājib, Raḍī al-Dīn Astarābādhī</persName>
@@ -27923,7 +27923,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t211</idno>
+                     <idno n="titleID">n1t211</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e20037" xml:id="d1e20050"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e20037" ref="#d1e20050"/>
@@ -28051,7 +28051,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t212</idno>
+                     <idno n="titleID">n1t212</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e20112" xml:id="d1e20129">ناصيف اليازجي</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e20112" ref="#d1e20129">Nāṣīf al-Yāzijī</persName>
@@ -28184,7 +28184,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t213</idno>
+                     <idno n="titleID">n1t213</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e20208" xml:id="d1e20220"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e20208" ref="#d1e20220"/>
@@ -28313,7 +28313,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t214</idno>
+                     <idno n="titleID">n1t214</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e20284" xml:id="d1e20296"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e20284" ref="#d1e20296"/>
@@ -28442,7 +28442,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t215</idno>
+                     <idno n="titleID">n1t215</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e20360" xml:id="d1e20377">السيد علي أفندي الدرويش</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e20360" ref="#d1e20377">Al-Sayyid ʻAlī Afandī al-Darwīsh</persName>
@@ -28579,7 +28579,7 @@
             <listBibl xml:id="d1e20463">
                <biblStruct>
                   <analytic>
-                     <idno>n1t151/2</idno>
+                     <idno n="titleID">n1t151/2</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e20535" xml:id="d1e20548"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e20535" ref="#d1e20548"/>
@@ -28708,7 +28708,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t151/3</idno>
+                     <idno n="titleID">n1t151/3</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e20606" xml:id="d1e20618"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e20606" ref="#d1e20618"/>
@@ -28837,7 +28837,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t151/4</idno>
+                     <idno n="titleID">n1t151/4</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e20676" xml:id="d1e20688"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e20676" ref="#d1e20688"/>
@@ -28966,7 +28966,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t151/5</idno>
+                     <idno n="titleID">n1t151/5</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e20746" xml:id="d1e20758"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e20746" ref="#d1e20758"/>
@@ -29095,7 +29095,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t151/6</idno>
+                     <idno n="titleID">n1t151/6</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e20816" xml:id="d1e20828"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e20816" ref="#d1e20828"/>
@@ -29224,7 +29224,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t151/7</idno>
+                     <idno n="titleID">n1t151/7</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e20886" xml:id="d1e20899"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e20886" ref="#d1e20899"/>
@@ -29352,7 +29352,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t151/8</idno>
+                     <idno n="titleID">n1t151/8</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e20957" xml:id="d1e20973">ناصيف بن عبد الله اليازجي</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e20957" ref="#d1e20973">Nāṣīf b. ʻAbd Allāh al-Yāzijī</persName>
@@ -29484,7 +29484,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t151/9</idno>
+                     <idno n="titleID">n1t151/9</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e21046" xml:id="d1e21062">هنري مركام</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e21046" ref="#d1e21062">Henry Markham</persName>
@@ -29616,7 +29616,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t151/10</idno>
+                     <idno n="titleID">n1t151/10</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e21142" xml:id="d1e21154"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e21142" ref="#d1e21154"/>
@@ -29744,7 +29744,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t151/11</idno>
+                     <idno n="titleID">n1t151/11</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e21212" xml:id="d1e21224"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e21212" ref="#d1e21224"/>
@@ -29872,7 +29872,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t151/12</idno>
+                     <idno n="titleID">n1t151/12</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e21283" xml:id="d1e21294"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e21283" ref="#d1e21294"/>
@@ -30001,7 +30001,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t151/13</idno>
+                     <idno n="titleID">n1t151/13</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e21352" xml:id="d1e21369"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e21352" ref="#d1e21369"/>
@@ -30135,7 +30135,7 @@
             <listBibl xml:id="d1e21443">
                <biblStruct>
                   <analytic>
-                     <idno>n1t152/2</idno>
+                     <idno n="titleID">n1t152/2</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e21515" xml:id="d1e21532">لإمام أبو عبد الله محمد بن محمد اللواتي المعروف بابن بطوطة
                      المغربي</persName>
@@ -30271,7 +30271,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t152/3</idno>
+                     <idno n="titleID">n1t152/3</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e21612" xml:id="d1e21628">https://duke.app.box.com/folder/127586097538</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e21612" ref="#d1e21628">عبد المؤمن بن هبة الله اصفهاني</persName>
@@ -30402,7 +30402,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t152/4</idno>
+                     <idno n="titleID">n1t152/4</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e21705" xml:id="d1e21721">احمد بن احمد الفيومي</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e21705" ref="#d1e21721">Aḥmad b. Aḥmad al-Fayyūmī</persName>
@@ -30534,7 +30534,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t152/5</idno>
+                     <idno n="titleID">n1t152/5</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e21799" xml:id="d1e21815"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e21799" ref="#d1e21815"/>
@@ -30666,7 +30666,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t152/6</idno>
+                     <idno n="titleID">n1t152/6</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e21889" xml:id="d1e21906">ابراهيم البيجوري</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e21889" ref="#d1e21906">Ibrāhīm al-Bayjūrī</persName>
@@ -30800,7 +30800,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t152/7</idno>
+                     <idno n="titleID">n1t152/7</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e21986" xml:id="d1e21999"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e21986" ref="#d1e21999"/>
@@ -30929,7 +30929,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t152/8</idno>
+                     <idno n="titleID">n1t152/8</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e22057" xml:id="d1e22070"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e22057" ref="#d1e22070"/>
@@ -31063,7 +31063,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t152/9</idno>
+                     <idno n="titleID">n1t152/9</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e22136" xml:id="d1e22149"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e22136" ref="#d1e22149"/>
@@ -31193,7 +31193,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t152/10</idno>
+                     <idno n="titleID">n1t152/10</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e22207" xml:id="d1e22219"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e22207" ref="#d1e22219"/>
@@ -31322,7 +31322,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t152/11</idno>
+                     <idno n="titleID">n1t152/11</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e22277" xml:id="d1e22289"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e22277" ref="#d1e22289"/>
@@ -31451,7 +31451,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t152/12</idno>
+                     <idno n="titleID">n1t152/12</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e22348" xml:id="d1e22360"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e22348" ref="#d1e22360"/>
@@ -31580,7 +31580,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t152/13</idno>
+                     <idno n="titleID">n1t152/13</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e22418" xml:id="d1e22430"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e22418" ref="#d1e22430"/>
@@ -31711,7 +31711,7 @@
             <listBibl xml:id="d1e22488">
                <biblStruct>
                   <analytic>
-                     <idno>n1t213-2</idno>
+                     <idno n="titleID">n1t213-2</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e22565" xml:id="d1e22578"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e22565" ref="#d1e22578"/>
@@ -31839,7 +31839,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t213-3</idno>
+                     <idno n="titleID">n1t213-3</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e22640" xml:id="d1e22656">امانة الله مولڤي</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e22640" ref="#d1e22656">Amānāt Allāh Mawlavī</persName>
@@ -31971,7 +31971,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t213-4</idno>
+                     <idno n="titleID">n1t213-4</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e22737" xml:id="d1e22754">حيرت افندي</persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e22737" ref="#d1e22754">Ḥayrat Afandī</persName>
@@ -32103,7 +32103,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t213-5</idno>
+                     <idno n="titleID">n1t213-5</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e22834" xml:id="d1e22847"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e22834" ref="#d1e22847"/>
@@ -32232,7 +32232,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t213-6</idno>
+                     <idno n="titleID">n1t213-6</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e22909" xml:id="d1e22921"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e22909" ref="#d1e22921"/>
@@ -32361,7 +32361,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t213-7</idno>
+                     <idno n="titleID">n1t213-7</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e22981" xml:id="d1e22993"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e22981" ref="#d1e22993"/>
@@ -32490,7 +32490,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t213-8</idno>
+                     <idno n="titleID">n1t213-8</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e23056" xml:id="d1e23069"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e23056" ref="#d1e23069"/>
@@ -32618,7 +32618,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t213-9</idno>
+                     <idno n="titleID">n1t213-9</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e23129" xml:id="d1e23146">أدريان ماري لجندر </persName>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e23129" ref="#d1e23146">Adrien Marie Legendre</persName>
@@ -32749,7 +32749,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t213-10</idno>
+                     <idno n="titleID">n1t213-10</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e23233" xml:id="d1e23250"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e23233" ref="#d1e23250">وحبي</persName>
@@ -32880,7 +32880,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t213-11</idno>
+                     <idno n="titleID">n1t213-11</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e23332" xml:id="d1e23344"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e23332" ref="#d1e23344"/>
@@ -33009,7 +33009,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t213-12</idno>
+                     <idno n="titleID">n1t213-12</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e23405" xml:id="d1e23418"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e23405" ref="#d1e23418"/>
@@ -33138,7 +33138,7 @@
                </biblStruct>
                <biblStruct>
                   <analytic>
-                     <idno>n1t213-13</idno>
+                     <idno n="titleID">n1t213-13</idno>
                      <author>
                         <persName xml:lang="ar" source="#d1e23480" xml:id="d1e23493"/>
                         <persName xml:lang="ar-Latn-x-lc" source="#d1e23480" ref="#d1e23493"/>
@@ -33270,5 +33270,4 @@
       </body>
    </text>
 </TEI>
-
 
