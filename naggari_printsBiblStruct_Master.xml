@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../css/oxygen.css"?>
-
 <?xml-stylesheet type="text/xsl" href="../xslt/ReplacingSavedLinksWithNewOnes.xsl"?>
-
+<?xml-stylesheet type="text/xsl" href="ReplacingSavedLinksWithNewOnes.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -302,7 +301,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e418">Irshād al-Sārī ilā Sharḥ Ṣaḥīh al-Bukhārī</title>
                      <title level="a" xml:lang="ar" source="#d1e418">ارشاد الساري إلى شرح صحيح البخاري</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e430">https://gdc-galegroup-com.silk.library.umass.edu/gdc/artemis/MonographsDetailsPage/MonographsDetailsWindow?disableHighlighting=false&amp;displayGroupName=DVI-Monographs&amp;docIndex=14&amp;source=fullList&amp;prodId=EAPB&amp;mode=view&amp;limiter=%28PUP_CITY_PH+%22Cairo%22%29+AND+DA+118600101+-+118691231&amp;display-query=OQE+القسطلاني+البخاري&amp;contentModules=&amp;action=e&amp;sortBy=&amp;windowstate=normal&amp;currPage=1&amp;dviSelectedPage=&amp;scanId=&amp;query=OQE+القسطلاني+البخاري&amp;search_within_results=&amp;p=EAPB&amp;catId=&amp;u=mlin_w_umassamh&amp;displayGroups=&amp;documentId=GALE%7CXHJWVB513735789&amp;activityType=BasicSearch&amp;failOverType=&amp;commentary=</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e432">https://umass.app.box.com/folder/63149478911</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e432">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/EjsXDx9zVlRHtTIqUcD2LpsBRo-mkJUoZrrhrc6DRkkNwQ?e=8hZCsv</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
@@ -435,7 +434,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e525">Al-Aghānī</title>
                      <title level="a" xml:lang="ar" source="#d1e525"> الاغاني</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e537">https://catalog.hathitrust.org/Record/003823566</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e539">https://umass.app.box.com/folder/63276209405</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e539">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/EmFR5i70QoZHkB76gc7bRaoB7FQXxYyk-FVBiVuD9rHRXg?e=z8gesg</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
@@ -571,7 +570,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e636">Sharḥ Shawāhid al-Talkhīṣ al-Musammā Maʻāhid al-Tanṣīṣ</title>
                      <title level="a" xml:lang="ar" source="#d1e636"> شرح شواهد التلخيص المسمى معاهد التنصيص</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e648">https://catalog.hathitrust.org/Record/008885261</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e650">https://umass.app.box.com/folder/63278504525</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e650">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/Ej3D-73iJIVClMK3WZDhD6YB4d8opYrDCNBk1T2jrQmZ1A?e=S5hOiz</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
@@ -707,7 +706,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e742">Nafḥ al-Ṭīb min Ghusn al-Andalus al-Raṭīb</title>
                      <title level="a" xml:lang="ar" source="#d1e742">نفح الطيب من غصن الاندلس الرطيب</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e754">https://catalog.hathitrust.org/Record/001858612</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e756">https://umass.app.box.com/folder/63277302280</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e756">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/EuL1WxbHeZZItrVN4n7te9YBz2qUdYaPxSt3Ce5yMOFtSA?e=4iIp7O</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
@@ -838,7 +837,7 @@
                      <ref type="URL" subtype="originalLink" xml:id="d1e861">https://gdc-galegroup-com.silk.library.umass.edu/gdc/artemis/MonographsDetailsPage/MonographsDetailsWindow?disableHighlighting=false&amp;displayGroupName=DVI-Monographs&amp;docIndex=2&amp;source=&amp;prodId=EAPB&amp;mode=view&amp;limiter=&amp;display-query=OQE+اظهار+الحق&amp;contentModules=&amp;action=e&amp;sortBy=&amp;windowstate=normal&amp;currPage=1&amp;dviSelectedPage=1&amp;scanId=&amp;query=OQE+اظهار+الحق&amp;search_within_results=&amp;p=EAPB&amp;catId=&amp;u=mlin_w_umassamh&amp;displayGroups=&amp;documentId=GALE%7CWELPAM551889191&amp;activityType=BasicSearch&amp;failOverType=&amp;commentary=
                      ;
                      https://gdc-galegroup-com.silk.library.umass.edu/gdc/artemis/MonographsDetailsPage/MonographsDetailsWindow?disableHighlighting=false&amp;displayGroupName=DVI-Monographs&amp;docIndex=1&amp;source=&amp;prodId=EAPB&amp;mode=view&amp;limiter=&amp;display-query=OQE+اظهار+الحق&amp;contentModules=&amp;action=e&amp;sortBy=&amp;windowstate=normal&amp;currPage=1&amp;dviSelectedPage=&amp;scanId=&amp;query=OQE+اظهار+الحق&amp;search_within_results=&amp;p=EAPB&amp;catId=&amp;u=mlin_w_umassamh&amp;displayGroups=&amp;documentId=GALE%7CCFKEOI193131366&amp;activityType=BasicSearch&amp;failOverType=&amp;commentary=</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e863">https://umass.app.box.com/folder/63277106617</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e863">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/EjG0oYAGU0xCoQDspvANKTEBDNgPqI_bagOv3FVVw62cJQ?e=gUJWGJ</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d"> براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
@@ -969,7 +968,7 @@
                      <title level="a" xml:lang="ar" source="#d1e952">العبر وديوان المبتدا والخبرفي أيام العرب و العجم و
                      البربر</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e964">https://catalog.hathitrust.org/Record/008235700</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e966">https://umass.app.box.com/folder/63277516773</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e966">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/EgtYsbljp8hPhKphQT7qB7cBMqS7au5VyMrVVWwwmzWh5Q?e=Eqc8xS</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
@@ -1101,7 +1100,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e1058">Sharḥ al-Maqāmāt al-Ḥarīrīyah li-Imām al-Sharīshī</title>
                      <title level="a" xml:lang="ar" source="#d1e1058">شرح المقامات الحريرية لامام الشريشي</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e1070">https://catalog.hathitrust.org/Record/009012649</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e1072">https://umass.app.box.com/folder/63276710727</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e1072">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/Er6avwwcBqRBrDPwRFyx9p0Bh345pn9U6T4JsBoR-q57CA?e=MomDA9</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
@@ -1233,7 +1232,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e1166">Khizānat al-Adab wa-Ghāyat al-Arab</title>
                      <title level="a" xml:lang="ar" source="#d1e1166"> خزانة الأدب وغاية الأرب</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e1178">https://catalog.hathitrust.org/Record/008916881</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e1180">https://umass.app.box.com/folder/63934630823</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e1180">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/EkytKBz_QOJCkCe8AukHAlwB6nbs1dyHGcFhWQuYYIMH_w?e=nzxCpO</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
@@ -1365,7 +1364,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e1269">Rayḥānat al-Alibbā wa-Zahrat al-Ḥayāh al-Dunyā</title>
                      <title level="a" xml:lang="ar" source="#d1e1269">ريحانة الالبا وزهرة الحياة الدنيا</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e1281">https://catalog.hathitrust.org/Record/009036211</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e1283">https://umass.app.box.com/folder/63931752735</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e1283">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/Ej_UqXvMeoBAkdC36a1MPHoBLTfnaLHF8kNGKtX1JNVFBA?e=FaXHFL</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
@@ -1497,7 +1496,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e1372">Tārīkh</title>
                      <title level="a" xml:lang="ar" source="#d1e1372">تاريخ </title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e1384">https://catalog.hathitrust.org/Record/001865834</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e1386">https://umass.app.box.com/folder/63931674528</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e1386">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/EscOatviZkZJi_MksHcuQN4B8Lipf_m-gqQS-LQvf8jURA?e=3FtSyW</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">[براني]</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">[external]</note>
@@ -1631,7 +1630,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e1477">Al-Mathal al-Sā’ir fī Adab al-Kātib wa-l-Shā‘ir</title>
                      <title level="a" xml:lang="ar" source="#d1e1477">المثل السائر في أدب الكاتب والشاعر</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e1489">https://catalog.hathitrust.org/Record/001337768</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e1491">https://umass.app.box.com/folder/63936701134</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e1491">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/EhmeRtTobaZEhgmQMUw2fSABYDi11ZfUrqpYBDl6WfEPZw?e=s9AWen</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">[ميري]</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">[government]</note>
@@ -1766,7 +1765,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e1582">Kashf al-Ẓunūn ‘an Asāmī al-Kutub wa-l-Funūn</title>
                      <title level="a" xml:lang="ar" source="#d1e1582">كشف الظنون عن اسامي الكتب والفنون</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e1594">https://catalog.hathitrust.org/Record/001766712</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e1596">https://umass.app.box.com/folder/63936912978</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e1596">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/EqTQQV6PUjNOizIjpi2IunYBYlta4JY91EoJcspqpyTfxw?e=zMEdg5</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">[ميري]</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">[government]</note>
@@ -1895,7 +1894,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e1688"/>
                      <title level="a" xml:lang="ar" source="#d1e1688"/>
                      <ref type="URL" subtype="originalLink" xml:id="d1e1699"/>
-                     <ref type="URL" subtype="archived" xml:id="d1e1700">https://umass.app.box.com/folder/82496591309</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e1700"/>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
@@ -2155,7 +2154,7 @@
                      <title level="a" xml:lang="ar" source="#d1e1848">الاوقيانوس البسيط في ترجمة القاموس المحيط والقابوس
                      الوسيط</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e1860">https://gdc-galegroup-com.silk.library.umass.edu/gdc/artemis/MonographsDetailsPage/MonographsDetailsWindow?disableHighlighting=false&amp;displayGroupName=DVI-Monographs&amp;docIndex=6&amp;source=fullList&amp;prodId=EAPB&amp;mode=view&amp;limiter=PUP_CITY_PH+%22Cairo%22&amp;display-query=OQE+Fīrūzābādī&amp;contentModules=&amp;action=e&amp;sortBy=relevance%2Cdescending&amp;windowstate=normal&amp;currPage=1&amp;dviSelectedPage=&amp;scanId=&amp;query=OQE+Fīrūzābādī&amp;search_within_results=&amp;p=EAPB&amp;catId=&amp;u=mlin_w_umassamh&amp;displayGroups=&amp;documentId=GALE%7CZJFVFR252044209&amp;activityType=BasicSearch&amp;failOverType=&amp;commentary=</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e1862">https://umass.app.box.com/folder/82678945658</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e1862">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/Epodar5XADVHgnvAmUZNyo0BXQsNqNAS1JN198H67cCIww?e=4NXtIs</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
@@ -2289,7 +2288,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e1958">Akhbār al-Duwal wa-Āthār al-Uwal fī al-Tārīkh</title>
                      <title level="a" xml:lang="ar" source="#d1e1958">أخبار الدول وآثار الأول في التاريخ</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e1970">https://catalog.hathitrust.org/Record/009035730</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e1972">https://umass.app.box.com/folder/82780974854</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e1972">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/EvSUUAgpSrlPqaQgKq4RfV4BBvJCDJsOID9E9kcu6rEotg?e=P6UgTI</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
@@ -2422,7 +2421,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e2066">Al-Mawāʻiẓ wa-l-Iʻtibār bi-Dhikr al-Khiṭaṭ wa-l-Āthār</title>
                      <title level="a" xml:lang="ar" source="#d1e2066"> المواعظ والاعتبار بذكر الخطط والآثار</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e2078">https://catalog.hathitrust.org/Record/001607331</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e2080">https://umass.app.box.com/folder/63936700625</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e2080">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/ElJTBRjkfG9AjWWq9l3lF_4BZxqOpe-2Z_TYv5_c60uOLQ?e=gKUmac</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
@@ -2551,7 +2550,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e2172">Sirr al-Layāl fī al-Qalb wa-l-Ibdāl</title>
                      <title level="a" xml:lang="ar" source="#d1e2172">سر الليال في القلب و الإبدال</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e2184">https://iiif.lib.harvard.edu/manifests/view/drs:11500191$6i</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e2186">https://umass.app.box.com/folder/83053845537</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e2186">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/Ekix57rcTyxBiBjW3VnAIIABZfkhP_o0nLvbEn1ynnua7w?e=ATEv8k</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
@@ -2680,7 +2679,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e2273">Insān al-ʻAyūn fī Sīrat al-Amīn al-Mā’mūn</title>
                      <title level="a" xml:lang="ar" source="#d1e2273">انسان العيون في سيرة الامين المأمون </title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e2286">https://upload.wikimedia.org/wikisource/ar/e/ea/إنسان_العيون_في_سيرة_الأمين_المأمون2.pdf</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e2288">https://umass.app.box.com/folder/83217449487</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e2288">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/Eh_TQq0aaJ1LgQa_cT_eKOIB_HHdDTtslIg9Pnkxko_fBQ?e=3ICe94</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
@@ -2809,7 +2808,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e2368"/>
                      <title level="a" xml:lang="ar" source="#d1e2368"/>
                      <ref type="URL" subtype="originalLink" xml:id="d1e2379"/>
-                     <ref type="URL" subtype="archived" xml:id="d1e2380"/>
+                     <ref type="URL" subtype="archived" xml:id="d1e2380">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/EvRqwWJglz5LmLVMKs3irX0BAwoobMeZbO19w7L2l3jaAQ?e=pQNn0r</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
@@ -2938,7 +2937,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e2445">Al-Risālah al-Qushayrīyah fī ‘Ilm al-Taṣawwuf</title>
                      <title level="a" xml:lang="ar" source="#d1e2445">الرسالة القشيرية في علم التصوف</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e2457">https://babel.hathitrust.org/cgi/pt?id=njp.32101018921377;view=1up;seq=13;size=75</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e2459">https://umass.app.box.com/folder/63937919629</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e2459">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/Ehjni1h3oH1OoUptybauxngBhpKRZ00dXgNifRS378ZRhg?e=PrX1Vx</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
@@ -3198,7 +3197,7 @@
                      <title level="a" xml:lang="ar" source="#d1e2625">سعود المطالع فيما تضمنه الالغاز في اسم حضرة والي مصرمن
                      االعلوم اللوامع </title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e2637">I have it in PDF, now in BOX</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e2639">https://umass.app.box.com/folder/63938230755</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e2639">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/EoupX3EU7FNFqwtFM5yfdwIBIefSZdTRi3iz8dIHVE3xQw?e=mMT6nO</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
@@ -3327,7 +3326,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e2729">Al-Kullīyāt</title>
                      <title level="a" xml:lang="ar" source="#d1e2729">الكليات</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e2742">https://catalog.hathitrust.org/Record/008435911</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e2744">https://umass.app.box.com/folder/63939206994</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e2744">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/ErdKSd1H1OZNsu7CPcLGLvIBml8_Swl1V7ccoh2jGDMEaA?e=oKTdWy</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
@@ -3455,7 +3454,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e2830"/>
                      <title level="a" xml:lang="ar" source="#d1e2830"/>
                      <ref type="URL" subtype="originalLink" xml:id="d1e2841"/>
-                     <ref type="URL" subtype="archived" xml:id="d1e2842">https://umass.app.box.com/folder/64577864484</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e2842"/>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">[ميري]</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">[government]</note>
@@ -3714,7 +3713,7 @@
                      <title level="a" xml:lang="ar" source="#d1e2984">سعود المطالع فيما تضمنه الالغاز في اسم حضرة والي مصرمن
                      االعلوم</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e2996">I have it in PDF, now in BOX</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e2998">https://umass.app.box.com/folder/64575746955</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e2998">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/Ei4GSqp3_ZREnbtWBWhjEg4BYaWlZrn7pH3Nc82Pcsyt0w?e=qAaybY</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
@@ -3843,7 +3842,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e3088">Nuzhat al-Majālis wa-Muntakhab al-Nafāʼis</title>
                      <title level="a" xml:lang="ar" source="#d1e3088">نزهة المجالس ومنتخب النفائس</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e3101">http://gdc.galegroup.com.ezp-prod1.hul.harvard.edu/gdc/artemis/MonographsDetailsPage/MonographsDetailsWindow?disableHighlighting=false&amp;displayGroupName=DVI-Monographs&amp;docIndex=4&amp;source=fullList&amp;prodId=EAPB&amp;mode=view&amp;limiter=&amp;display-query=OQE+نزهة+المجالس&amp;contentModules=&amp;action=e&amp;sortBy=&amp;windowstate=normal&amp;currPage=1&amp;dviSelectedPage=&amp;scanId=&amp;query=OQE+نزهة+المجالس&amp;search_within_results=&amp;p=EAPB&amp;catId=&amp;u=camb55135&amp;displayGroups=&amp;documentId=GALE%7CVQBVLR489711817&amp;activityType=BasicSearch&amp;failOverType=&amp;commentary=</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e3103">https://umass.app.box.com/folder/69948011578</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e3103">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/EtFmeX4ThuJCthc7eooO07IB7-oWVh9RyT9e2LFC0tW5EQ?e=dh06HY</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
@@ -3972,7 +3971,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e3193">Sharḥ al-Tanwīr ʻalā Saqṭ al-Zand li-Abī al-ʻAlāʼ al-Maʻarrī</title>
                      <title level="a" xml:lang="ar" source="#d1e3193">شرح التنوير على سقط الزند لابى العلاء المعرى </title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e3205">https://iiif.lib.harvard.edu/manifests/view/drs:430352248$1i</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e3207">https://umass.app.box.com/folder/64578076972</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e3207">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/ElmqPXOC4wBGjOrcob8wOhwBrSbcDszySy_iYhmOIXCFzg?e=muCTrT</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
@@ -4105,7 +4104,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e3301">Tāj al-Lughah wa-Ṣiḥāh al-ʻArabīyah</title>
                      <title level="a" xml:lang="ar" source="#d1e3301">تاج اللغة وصحاح العربية</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e3313">https://catalog.hathitrust.org/api/volumes/oclc/227481966.html</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e3315">https://umass.app.box.com/folder/64578256288</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e3315">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/EkGulOPHs8lPgrZwACPK5rcB8yGSsWQXAvo86tUGg3JQXQ?e=oLyVXR</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
@@ -4240,7 +4239,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e3409"/>
                      <title level="a" xml:lang="ar" source="#d1e3409"/>
                      <ref type="URL" subtype="originalLink" xml:id="d1e3419"/>
-                     <ref type="URL" subtype="archived" xml:id="d1e3420"/>
+                     <ref type="URL" subtype="archived" xml:id="d1e3420">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/ErNJwVFF1BBOvPSNky4r64gBJ55KFjDGisQga6EWmp082w?e=3rHbRV</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d"/>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d"/>
@@ -4369,7 +4368,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e3481">Al-Uns al-Jalīl bi-Tārīkh al-Quds wa-l-Khalīl</title>
                      <title level="a" xml:lang="ar" source="#d1e3481">الأنس الجليل بتاريخ القدس والخليل</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e3493">https://catalog.hathitrust.org/Record/001243100</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e3495">https://umass.app.box.com/folder/64580599523</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e3495">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/EuvhXrvFB_lFiM7YAdDpKPIBb0Rz1Dkohyuw7WlwneVEtg?e=9hbelp</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
@@ -4498,7 +4497,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e3582">Fawāt al-Wafayāt</title>
                      <title level="a" xml:lang="ar" source="#d1e3582">فوات الوفيات</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e3594">https://catalog.hathitrust.org/Record/008397746</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e3596">https://umass.app.box.com/folder/64580338343</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e3596">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/EqeO5IbD0oNPrrrE1MbSn_UBmY2U5ArdzZbnrd1_dxIKlg?e=vprUbn</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
@@ -4628,7 +4627,7 @@
                      bi-l-Khāmriyāt</title>
                      <title level="a" xml:lang="ar" source="#d1e3689">حلية الكميت في الادب و النوادر المعلقة بالخمريات</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e3702">https://catalog.hathitrust.org/Record/001338067</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e3704">https://umass.app.box.com/folder/121747655614</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e3704">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/EtE6DGiMM7lMmcCNndgjquoBukW8hhtp6crwTdDi1wvuHQ?e=uQz7av</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
@@ -4757,7 +4756,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e3792">Tercüme-i Muqaddime-i Ibn Khaldūn</title>
                      <title level="a" xml:lang="ar" source="#d1e3792">ترجمة مقدمة ابن خلدون</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e3805">https://reader.digitale-sammlungen.de/en/fs1/object/display/bsb10210862_00001.html</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e3807">https://umass.app.box.com/folder/85327858234</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e3807">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/Eu2VJ_Xq1bJAodggphG6Z7cBOONUJKsb5mbvTWwqhrQBDQ?e=HpZEdJ</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
@@ -4889,7 +4888,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e3896">Wafayāt al-Aʻyān wa-Anbāʼ Abnāʼ al-Zamān</title>
                      <title level="a" xml:lang="ar" source="#d1e3896">وفيات الأعيان وأنبا أبناء الزمان </title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e3908">http://gdc.galegroup.com.proxy.lib.duke.edu/gdc/artemis/MonographsDetailsPage/MonographsDetailsWindow?disableHighlighting=false&amp;displayGroupName=DVI-Monographs&amp;docIndex=&amp;source=&amp;prodId=EAPB&amp;mode=view&amp;limiter=&amp;display-query=&amp;contentModules=&amp;action=e&amp;sortBy=&amp;windowstate=normal&amp;currPage=&amp;dviSelectedPage=1&amp;scanId=&amp;query=&amp;search_within_results=&amp;p=EAPB&amp;catId=&amp;u=duke_perkins&amp;displayGroups=&amp;documentId=GALE%7CATIMRK427142482&amp;activityType=&amp;failOverType=&amp;commentary=</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e3910">https://umass.app.box.com/folder/64579412446</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e3910">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/EjTe6b1cG7VDu6yreBGsq5ABMrB_1FZVdQmv4ddkDgWuDA?e=Fci1Yq</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
@@ -5018,7 +5017,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e4002">Safīnat al-Rāghib wa-Dafīnat al-Maṭālib</title>
                      <title level="a" xml:lang="ar" source="#d1e4002">سفينة الراغب ودفينة المطالب</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e4015">https://catalog.hathitrust.org/Record/009403672</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e4017">https://umass.app.box.com/folder/64580490821</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e4017">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/El7U-2yW4HJHifJf8BULHecB6eNjkZ9Q7FV2mhwmQrr7Jg?e=ObgD56</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
@@ -5149,7 +5148,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e4104">Miṣbāḥ al-Ṭālib fī Baḥth al-Maṭālib</title>
                      <title level="a" xml:lang="ar" source="#d1e4104">مصباح الطالب في بحث المطالب</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e4117">https://babel.hathitrust.org/cgi/pt?id=nnc1.cu58918876;q1=Al-Mi%E1%B9%A3b%C4%81%E1%B8%A5</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e4119">https://umass.app.box.com/folder/85626408230</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e4119">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/Eg-XEtWcMaNOiy3JHSWYoVoBBONLX4qZo9uMYdceVbgvGg?e=CcUDwT</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
@@ -5281,7 +5280,7 @@
                      <title level="a" xml:lang="ar" source="#d1e4199">السراج الوهاج فيما يتعلق بالتشخيص والعلاج</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e4212">http://gdc.galegroup.com.proxy.lib.duke.edu/gdc/artemis/MonographsDetailsPage/MonographsDetailsWindow?disableHighlighting=false&amp;displayGroupName=DVI-Monographs&amp;docIndex=1&amp;source=&amp;prodId=EAPB&amp;mode=view&amp;limiter=&amp;display-query=OQE+al-Sir%C4%81j+al-Wahh%C4%81j&amp;contentModules=&amp;action=e&amp;sortBy=&amp;windowstate=normal&amp;currPage=1&amp;dviSelectedPage=&amp;scanId=&amp;query=OQE+al-Sir%C4%81j+al-Wahh%C4%81j&amp;search_within_results=&amp;p=EAPB&amp;catId=&amp;u=duke_perkins&amp;displayGroups=&amp;documentId=GALE%7CHLXPLP519885018&amp;activityType=BasicSearch&amp;failOverType=&amp;commentary=;
                      Corrector: Ibrāhīm ʿAbd al-Ghaffār</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e4214">https://umass.app.box.com/folder/64579536922</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e4214">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/En8-LbPQXSBAlySu1pJiq8UBekvxqKxlwwVQhhlBerO_Jg?e=BZcygu</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
@@ -5413,7 +5412,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e4307">Ḥusn al-Muḥāḍarah fī Akhbār Miṣr wa-l-Qāhirah</title>
                      <title level="a" xml:lang="ar" source="#d1e4307">حسن المحاضرة في أخبار مصر والقاهرة</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e4319">https://catalog.hathitrust.org/Record/009031724</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e4321">https://umass.app.box.com/folder/70046385597</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e4321">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/Er-1pOplDs1GnesFoHt5GboBwXUC-PWWpGqwd8UuGAtFzw?e=0wtAhe</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">[براني]</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">[external]</note>
@@ -5542,7 +5541,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e4394">Al-ʻIqd al-Farīd li-l-Malik al-Saʻīd</title>
                      <title level="a" xml:lang="ar" source="#d1e4394">العقد الفريد للملك السعيد</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e4406">https://catalog.hathitrust.org/Record/011820332</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e4408">https://umass.app.box.com/folder/107943377306</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e4408">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/EqEJDb8ywBZAunVrn5gurwUBiUcCi5jY6KhXnBXe5k6DMA?e=4rV9GO</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">[براني]</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">[external]</note>
@@ -5673,7 +5672,7 @@
                      <title level="a" xml:lang="ar" source="#d1e4497">ديوان صاحب المعانى المخترعة و اللطائف المبتكرة احمد ابن
                      الحسين ابي الطيب المتنبي الكندي</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e4510">https://catalog.hathitrust.org/Record/000238289</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e4512">https://umass.app.box.com/folder/108079177144</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e4512">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/EvbMukOAZVRBtRmx6ySMsAUBe3RL_NsxUAjFDmO_-8VFTQ?e=sSqWhk</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">[براني]</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">[external]</note>
@@ -5804,7 +5803,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e4597">Ghurar al-Khaṣāʼiṣ al-Wāḍiḥah wa-ʻUrar al-Naqāʼiṣ al-Fāḍiḥah</title>
                      <title level="a" xml:lang="ar" source="#d1e4597">غرر الخصائص الواضحة وغرر النقائص الفاضحة</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e4609">https://catalog.hathitrust.org/Record/006021621</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e4611">https://umass.app.box.com/folder/64582199145</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e4611">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/EniQJhFyw7xNvL9qnf73hZYBfjrcPip5NTsQznSAc9kPuA?e=IfTN9R</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
@@ -6198,7 +6197,7 @@
                      <title level="a" xml:lang="ar" source="#d1e4868"> خريدة العجائب وفريدة الغرائب: الجامع لما هو لطرف الدهور
                      حور ولجيد الزمان عقد درر</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e4881">http://dlib.nyu.edu/aco/book/columbia_aco001484</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e4883">https://umass.app.box.com/folder/69945442748</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e4883">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/EjlQyfNJA4BIjvYvGovn3VcBxcFi9Mgh7n6fzg0RlsAq6g?e=RCSRPS</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
@@ -6327,7 +6326,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e4967">Uṣūl al-Handasah</title>
                      <title level="a" xml:lang="ar" source="#d1e4967">أصول الهندسة</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e4980">https://gdc-gale-com.silk.library.umass.edu/gdc/artemis/MonographsDetailsPage/MonographsDetailsWindow?disableHighlighting=false&amp;displayGroupName=DVI-Monographs&amp;docIndex=1&amp;source=fullList&amp;prodId=EAPB&amp;mode=view&amp;limiter=&amp;display-query=OQE+أصول+الهندسة&amp;contentModules=&amp;action=e&amp;sortBy=&amp;windowstate=normal&amp;currPage=1&amp;dviSelectedPage=1&amp;scanId=&amp;query=OQE+أصول+الهندسة&amp;search_within_results=&amp;p=EAPB&amp;catId=&amp;u=mlin_w_umassamh&amp;displayGroups=&amp;documentId=GALE%7CTGEXBS680693209&amp;activityType=BasicSearch&amp;failOverType=&amp;commentary=#</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e4982">https://umass.app.box.com/folder/109249018199</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e4982">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/EswROxuu9PpElGqRdSPrDSUBd7XIz5Kkx_kJMnof9N4qSA?e=DWuzf8</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
@@ -6458,7 +6457,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e5064">Sharḥ Dīwān Imruʼ al-Qays ibn Ḥajar al-Kindī</title>
                      <title level="a" xml:lang="ar" source="#d1e5064">شرح ديوان امرء القيس بن حجر الكندي</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e5076">https://iiif.lib.harvard.edu/manifests/view/drs:11485573$1i</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e5078">https://umass.app.box.com/folder/109409055899</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e5078">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/EjlMB6nRLktPidk8OwYUingBX3hqGrV3MvhkpJQy_lrgxQ?e=TYROCc</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
@@ -6593,7 +6592,7 @@
                      <title level="a" xml:lang="ar" source="#d1e5164">الرحلة الموسومة بالواسطة الى معرفة مالطة و كشف المخبا عن
                      فنون اوربا </title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e5177">https://catalog.hathitrust.org/Record/008886272</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e5179">https://umass.app.box.com/folder/109669099166</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e5179">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/EiIf2oSrBoNAmSjdigNDKYUBdxt4KKVfXSYqrdJk6mH0CQ?e=L1dvBj</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
@@ -6722,7 +6721,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e5263">Majmaʻ al-Baḥrayn</title>
                      <title level="a" xml:lang="ar" source="#d1e5263">مجمع البحرين</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e5275">https://gdc-gale-com.silk.library.umass.edu/gdc/artemis/MonographsDetailsPage/MonographsDetailsWindow?disableHighlighting=false&amp;displayGroupName=DVI-Monographs&amp;docIndex=6&amp;source=FullListSort&amp;prodId=EAPB&amp;mode=view&amp;limiter=&amp;display-query=OQE+yaziji&amp;contentModules=&amp;action=e&amp;sortBy=publication-date-sort%2Cascending&amp;windowstate=normal&amp;currPage=1&amp;dviSelectedPage=&amp;scanId=&amp;query=OQE+yaziji&amp;search_within_results=&amp;p=EAPB&amp;catId=&amp;u=mlin_w_umassamh&amp;displayGroups=&amp;documentId=GALE%7CGPEYGX101127119&amp;activityType=BasicSearch&amp;failOverType=&amp;commentary=#</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e5277">https://umass.app.box.com/folder/110045855662</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e5277">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/Ehx18w6RRRhNvt2WB9Ku018BHISH5o5QdJZCaoZM6a_XoQ?e=voMBsQ</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
@@ -6851,7 +6850,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e5360"/>
                      <title level="a" xml:lang="ar" source="#d1e5360"/>
                      <ref type="URL" subtype="originalLink" xml:id="d1e5371"/>
-                     <ref type="URL" subtype="archived" xml:id="d1e5372"/>
+                     <ref type="URL" subtype="archived" xml:id="d1e5372">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/EtiO1ROGlKNOu1Kb9E_Ic2MBCkIte3qPeMOE4yeJ0aAp-A?e=u1wlEv</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
@@ -7118,7 +7117,7 @@
                      <title level="a" xml:lang="ar" source="#d1e5515">ديوان الاديب الاريب اللوذعى النخيب من تزينت بطلعته
                      الاقطار و افتخرت به مصر على سائر الامصار السيد محمد شهاب الدين</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e5528">https://catalog.hathitrust.org/Record/001336235</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e5530">https://umass.app.box.com/folder/110212551849</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e5530">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/EgfgNweYsnNOqonlxMrSeawBbI6JI8ZcGiLBUKwgVEsB3A?e=XZYiX0</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
@@ -7249,7 +7248,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e5621">Sharḥ al-Muʻallaqāt al-Sabʻ</title>
                      <title level="a" xml:lang="ar" source="#d1e5621">شرح المعلقات السبع</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e5634">https://catalog.hathitrust.org/Record/001338292</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e5636">https://umass.app.box.com/folder/110439909360</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e5636">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/EqB5tyBkzyZAq-mbdJHFkWUBWRJQpizgJpYgzcUUaoK0kg?e=W3dPrV</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
@@ -7381,7 +7380,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e5730">Iʻlām al-Nās bi-mā Waqaʻa li-l-Barāmakah maʻ Banī al-ʻAbbās</title>
                      <title level="a" xml:lang="ar" source="#d1e5730">إعلام الناس بما وقع للبرامكة مع بني العباس</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e5743">https://gdc-gale-com.silk.library.umass.edu/gdc/artemis/MonographsDetailsPage/MonographsDetailsWindow?disableHighlighting=false&amp;displayGroupName=DVI-Monographs&amp;docIndex=3&amp;source=&amp;prodId=EAPB&amp;mode=view&amp;limiter=&amp;display-query=OQE+إعلام+الناس&amp;contentModules=&amp;action=e&amp;sortBy=&amp;windowstate=normal&amp;currPage=1&amp;dviSelectedPage=&amp;scanId=&amp;query=OQE+إعلام+الناس&amp;search_within_results=&amp;p=EAPB&amp;catId=&amp;u=mlin_w_umassamh&amp;displayGroups=&amp;documentId=GALE%7CNDBGBK107609141&amp;activityType=BasicSearch&amp;failOverType=&amp;commentary=</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e5745">https://umass.app.box.com/folder/64581618186</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e5745">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/Eqm8mmwaN_BLs8gtiiJF8TABrGEKQuHDaX1_dgvu6uEE-Q?e=UfCv3f</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
@@ -7640,7 +7639,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e5906">Al-Fayḍ al-Wārid ʻalā Rawḍ Marthīyat Mawlānā Khālid</title>
                      <title level="a" xml:lang="ar" source="#d1e5906">الفيض الوارد على روض مرثية مولانا خالد</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e5919">https://upload.wikimedia.org/wikisource/ar/9/94/الفيض_الوارد_على_روض_مرثية_مولانا_خالد.pdf</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e5921">https://umass.app.box.com/folder/70171725293</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e5921">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/Eth94_v_YGJBtojjeyyJM3ABmq_oVpMVam882MzDGNz2aw?e=W9sXv7</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d"/>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d"/>
@@ -7773,7 +7772,7 @@
                      <title level="a" xml:lang="ar" source="#d1e6001">ترجمة الجلستان الفارسي العبارة المشير الى محاسن الاداب
                      بالطف اشارة </title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e6013">https://catalog.hathitrust.org/Record/009031898</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e6015">https://umass.app.box.com/file/387798902220</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e6015">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/EoTV7SUZZwxBirhUd54haoYBMjmvgYCzX542BT1dVW5a2Q?e=6smTPn</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">[ميري]</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">[government]</note>
@@ -7905,7 +7904,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e6109">ʻUnwān al-Murqiṣāt wa-l-Muṭribāt</title>
                      <title level="a" xml:lang="ar" source="#d1e6109">عنوان المرقصات والمطربات</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e6121">https://catalog.hathitrust.org/Record/009031559</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e6123">https://umass.app.box.com/folder/111001056765</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e6123">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/EtrylxejFb1Bk_JchdUXyJUBkyEHg9EHrocUygyVkkWhuQ?e=Eg7p7j</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">[براني]</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">[external]</note>
@@ -8037,7 +8036,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e6209">Dīwān Ibn Khafājah</title>
                      <title level="a" xml:lang="ar" source="#d1e6209">ديوان ابن خفاجه </title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e6221">https://catalog.hathitrust.org/Record/001338916</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e6223">https://umass.app.box.com/folder/111001434620</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e6223">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/EkAqKWlyKDlLqh87zUC9I60BOzcpQv6bNCXmcTqfTA0rQw?e=L9wxN2</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">[براني]</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">[external]</note>
@@ -8300,7 +8299,7 @@
                      al-Khaṭṭīyah</title>
                      <title level="a" xml:lang="ar" source="#d1e6388">المطالع النصرية للمطابع المصرية في الأصول الخطية</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e6400">https://catalog.hathitrust.org/Record/008960989</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e6402">https://umass.app.box.com/file/387802389375</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e6402">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/EibhqO2Y6IBAvM7n9xqUwsUBAfoHcnvB5nz7i1unMz4QRA?e=zDG9HD</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">[ميري]</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">[government]</note>
@@ -8435,7 +8434,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e6491">Ḥashiyat al-Ṣabbān ʻalā Mallawī al-Sullam</title>
                      <title level="a" xml:lang="ar" source="#d1e6491">حاشية الصبان على ملوى السلم</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e6503">https://gdc-gale-com.silk.library.umass.edu/gdc/artemis/MonographsDetailsPage/MonographsDetailsWindow?disableHighlighting=false&amp;displayGroupName=DVI-Monographs&amp;docIndex=11&amp;source=FullListSort&amp;prodId=EAPB&amp;mode=view&amp;limiter=&amp;display-query=OQE+حاشية+السلم&amp;contentModules=&amp;action=e&amp;sortBy=publication-date-sort%2Cascending&amp;windowstate=normal&amp;currPage=1&amp;dviSelectedPage=&amp;scanId=&amp;query=OQE+حاشية+السلم&amp;search_within_results=&amp;p=EAPB&amp;catId=&amp;u=mlin_w_umassamh&amp;displayGroups=&amp;documentId=GALE%7CLJSJHE718921928&amp;activityType=BasicSearch&amp;failOverType=&amp;commentary=</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e6505">https://umass.app.box.com/folder/121445791718</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e6505">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/EiU3-O_wRo1HmlYhd7n8ju8B05Ci4iZETj97syPbXPkJxg?e=8gN49j</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d"/>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d"/>
@@ -8826,7 +8825,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e6743">Majmūʻ al-Adab fī Funūn al-ʻArab</title>
                      <title level="a" xml:lang="ar" source="#d1e6743">مجموع الادب في فنون العرب</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e6755">https://archive.org/details/magmoua.adab</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e6757">https://umass.app.box.com/folder/114683246597</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e6757">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/Eoeb_g6n88tBhQ4-imt7jAYB1Lc8pzCpXCNdXGxbWHuKJg?e=hXp1mA</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">[براني]</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">[external]</note>
@@ -8955,7 +8954,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e6836">Aqwam al-Masālik fī Maʻrifat Aḥwāl al-Mamālik </title>
                      <title level="a" xml:lang="ar" source="#d1e6836">أقوم المسالك في معرفة أحوال الممالك</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e6848">http://tinyurl.galegroup.com/tinyurl/6bE6u1</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e6850">https://umass.app.box.com/folder/69948900886</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e6850">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/EkmeFnL9ZhZPk8kY-gdlHQ8Bo2Brt7ZWCic7nT495ZdStA?e=peCPff</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
@@ -9089,7 +9088,7 @@
                      <title level="a" xml:lang="ar" source="#d1e6936">رسالة الذهبي في تحرير الدرهم والمثقال و الرطل و المكيال
                      و غير ذلك </title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e6948">https://iiif.lib.harvard.edu/manifests/view/drs:428531935$1i</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e6950">https://umass.app.box.com/folder/114767423298</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e6950">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/EqzcP_IbAJtEgTH07Qu6uEYB6bS6PiMu2rYHxHZk7bQr-w?e=lmyTdz</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">[براني]</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">[external]</note>
@@ -9350,7 +9349,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e7108">Al-Wishāḥ wa-Tathqīf al-Rimāḥ fī Radd Tawhīm al-Majd al-Ṣiḥāḥ</title>
                      <title level="a" xml:lang="ar" source="#d1e7108">الوشاح وتثقيف الرماح في رد توهيم المجد الصحاح</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e7120">https://catalog.hathitrust.org/Record/008886130</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e7122">https://umass.app.box.com/folder/64581879140</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e7122">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/EtmQzrpI3mZEoFiX_ixNMc4B2S897kVlAKLkfmGI7VO3BQ?e=VyzQoV</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
@@ -9481,7 +9480,7 @@
                      <title level="a" xml:lang="ar" source="#d1e7211">حاشية أحمد الدردير على قصة المعراج للعلامة نجم الدين
                      الغيطي</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e7224">https://catalog.hathitrust.org/Record/008573143</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e7226">https://umass.app.box.com/folder/115164971739</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e7226">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/Ep_Vafa_rLBMgL98no8I4wEBvAYwXBNYM3isrlSjCBo-sw?e=EVp3BG</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
@@ -10003,7 +10002,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e7538">Al-Ẓarāyif wa-l-Laṭāyif fī al-Maḥāsin wa-l-Aḍdād</title>
                      <title level="a" xml:lang="ar" source="#d1e7538">الظرايف واللطايف في المحاسن والاضداد</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e7551">http://dlib.nyu.edu/files/books/columbia_aco000312/columbia_aco000312_hi.pdf</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e7553">https://umass.app.box.com/folder/115704599691</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e7553">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/EvsXCLl6GutGhZvfldwqFAgBwlOD7kxhICmsbo5uHOKa-A?e=72Ey7j</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
@@ -10136,7 +10135,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e7639">Mukhtaṣar Dīwān Shiʻr Ṣafwat</title>
                      <title level="a" xml:lang="ar" source="#d1e7639">مختصر ديوان شعر صفوت</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e7651">http://ediscovery.qnl.qa/islandora/object/QNL%3A00005401#page/6/mode/1up</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e7653">https://umass.app.box.com/folder/121832098368</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e7653">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/Etg0_1D1QwBEkoU2AHl-C8sB04uMcJinjArLNh8Z5wyMTA?e=yLFqe2</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
@@ -10268,7 +10267,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e7735">Tārīkh Khulāṣat al-Athar fī Aʻyān al-Qarn al-Ḥādī ʻAshar</title>
                      <title level="a" xml:lang="ar" source="#d1e7735">تاريخ خلاصة الأثر في أعيان القرن الحادي عشر</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e7747">https://catalog.hathitrust.org/Record/011260115</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e7749">https://umass.app.box.com/folder/115946611315</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e7749">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/Ek5xQ41G0eZGkKNo_g-HCtEB8e3th7g4NLj7YKg3yj9GBA?e=P1wLcp</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
@@ -10397,7 +10396,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e7839">Shifāʼ al-Ghalīl fīmā fī Kalām al-ʻArab min al-Dakhīl</title>
                      <title level="a" xml:lang="ar" source="#d1e7839">شفاء الغليل فيما في كلام العرب من الدخيل</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e7851">https://www.wdl.org/ar/item/12931/</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e7853">https://umass.app.box.com/folder/116043490124</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e7853">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/EprbJGd6cBhMhcwckeeYzYcBjYD3v6FGB3uALDUVFv-mQQ?e=HmICBU</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
@@ -10526,7 +10525,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e7939">Al-ʻUyūn al-Yawāqiẓ fī al-Amthāl wa-l-Mawāʻiẓ</title>
                      <title level="a" xml:lang="ar" source="#d1e7939">العيون اليواقظ في الأمثال والمواعظ</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e7951">https://catalog.hathitrust.org/Record/009036455</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e7953">https://umass.app.box.com/folder/117704615676</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e7953">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/EmaNnreq8tFDu-6K8mBxQ3cB1IKYM2bA9OEXuyCUVvn0LQ?e=hVSZfA</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
@@ -10786,7 +10785,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e8119">Qalāʼid al-ʻIqyān</title>
                      <title level="a" xml:lang="ar" source="#d1e8119">قلائد العقيان</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e8131">https://catalog.hathitrust.org/Record/011157372</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e8133">https://umass.app.box.com/folder/64579766395</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e8133">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/EvV5cHhcj7hKr9KovXJ9v6UB_tdFjThCfFgS_5CpjBnnkA?e=vsudW8</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d"> ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
@@ -10915,7 +10914,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e8221">Nawādir</title>
                      <title level="a" xml:lang="ar" source="#d1e8221">نوادر</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e8233">http://storage.lib.uchicago.edu/pres/2009/pres2009-0689.pdf</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e8235">https://umass.app.box.com/folder/117883461177</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e8235">https://umass-my.sharepoint.com/:b:/g/personal/kaschwartz_umass_edu/EZRH_GP5jnlNpWinMVEn8-sBOS5-p-fdFwBnM0vlHMDXhQ?e=YHHcxe</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
@@ -11176,7 +11175,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e8398">Nashr al-ʻAlam fī Sharḥ Lāmīyat al-ʻAjam</title>
                      <title level="a" xml:lang="ar" source="#d1e8398">نشر العلم في شرح لامية العجم</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e8410">https://catalog.hathitrust.org/Record/001338948</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e8412">https://umass.app.box.com/folder/118027234984</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e8412">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/Etfh8xfc4mVJpJSKVk9MQF4By4oCLH1NI2poH2-ykW8Lvg?e=3hrMyw</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
@@ -11434,7 +11433,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e8576">Siḥr al-ʻUyūn</title>
                      <title level="a" xml:lang="ar" source="#d1e8576">سحر العيون</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e8588">https://catalog.hathitrust.org/Record/009016916</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e8590">https://umass.app.box.com/folder/118171302324</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e8590">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/EswCituJe41CuL5WUHAYNXYBeLclXqoK_LTlSLOxwyeRyw?e=e5AgQX</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
@@ -11563,7 +11562,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e8671">Muḥīṭ al-Dāʼirah fī ʻIlmay al-ʻArūḍ wa-l-Qāfiyah</title>
                      <title level="a" xml:lang="ar" source="#d1e8671">محيط الدائرة في علمي العروض والقافية</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e8683">https://iiif.lib.harvard.edu/manifests/view/drs:44842537$1i</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e8685">https://umass.app.box.com/folder/121895607783</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e8685">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/EkGTeozzz3NAmH0AGra6ZGcBoJYkNizPOST_NQm6cxMI3g?e=jvYYEM</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
@@ -11821,7 +11820,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e8846">Dīwān ʻUmar ibn al-Fāriḍ</title>
                      <title level="a" xml:lang="ar" source="#d1e8846">ديوان عمر بن الفارض </title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e8858">https://catalog.hathitrust.org/Record/009408149</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e8860">https://umass.app.box.com/folder/64583495546</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e8860">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/EixbytyTEc9MoxtkMBGCvd4BsNke6BiC2ioedVfVUROBfw?e=H75EJj</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
@@ -11950,7 +11949,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e8944">Dīwān Abū al-Qāsim Muḥammad ibn Hānī al-Azdaī al-Andalusī</title>
                      <title level="a" xml:lang="ar" source="#d1e8944">ديوان ابو القاسم محمد بن هانى الازدى الاندلسى</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e8956">https://gdc-gale-com.silk.library.umass.edu/gdc/artemis/MonographsDetailsPage/MonographsDetailsWindow?disableHighlighting=false&amp;displayGroupName=DVI-Monographs&amp;docIndex=1&amp;source=&amp;prodId=EAPB&amp;mode=view&amp;limiter=&amp;display-query=OQE+ديوان+الشاعر+الأديب+متنبي+الغرب+أبو+القاسم+محمد+بن+هاني+الأزدي+الأندلسي&amp;contentModules=&amp;action=e&amp;sortBy=&amp;windowstate=normal&amp;currPage=1&amp;dviSelectedPage=&amp;scanId=&amp;query=OQE+ديوان+الشاعر+الأديب+متنبي+الغرب+أبو+القاسم+محمد+بن+هاني+الأزدي+الأندلسي&amp;search_within_results=&amp;p=EAPB&amp;catId=&amp;u=mlin_w_umassamh&amp;displayGroups=&amp;documentId=GALE%7CKTASGR452829864&amp;activityType=BasicSearch&amp;failOverType=&amp;commentary=#</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e8958">https://umass.app.box.com/folder/122088120106</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e8958">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/EvxMS6St7KNCh_w7u0ZwUTkBN8KM4gyM--1OclkNroaaQA?e=a3d22M</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d"> ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
@@ -12084,7 +12083,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e9046">Dīwān Abī Nuwās</title>
                      <title level="a" xml:lang="ar" source="#d1e9046">ديوان أبي نواس</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e9059">https://babel.hathitrust.org/cgi/pt?id=njp.32101026366870</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e9061">https://umass.app.box.com/folder/122123964948</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e9061">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/EkdqphVSEExKiQUeG6rpPNcBxP2FdcmlITkdnCQuBiRWZw?e=QmDkqm</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
@@ -12216,7 +12215,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e9151">Durrat al-Ghawwāṣ fī Awhām al-Khawāṣṣ</title>
                      <title level="a" xml:lang="ar" source="#d1e9151">درة الغواص في أوهام الخواص</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e9163">https://catalog.hathitrust.org/Record/008886103</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e9165">https://umass.app.box.com/folder/122266736652</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e9165">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/Enf_gk-hG09AtK9goE_0Z1kBsjgqAt-BUUL0dS9tohxWMg?e=NBBAWU</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
@@ -12475,7 +12474,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e9326">Rasāʼil al-Khwārizmī</title>
                      <title level="a" xml:lang="ar" source="#d1e9326">رسائل الخوارزمي</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e9338">https://catalog.hathitrust.org/Record/009036437</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e9340">https://umass.app.box.com/folder/122545002747</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e9340">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/Evdn20vGR7ZOrzOihTEYx5UBLDP91W--WDeC7q4sL1ERAA?e=WWi2wv</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
@@ -12733,7 +12732,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e9504">Dīwān Ibn Maʻtūq</title>
                      <title level="a" xml:lang="ar" source="#d1e9504">ديوان ابن معتوق</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e9516">https://gdc-gale-com.silk.library.umass.edu/gdc/artemis/MonographsDetailsPage/MonographsDetailsWindow?disableHighlighting=false&amp;displayGroupName=DVI-Monographs&amp;docIndex=1&amp;source=fullList&amp;prodId=EAPB&amp;mode=view&amp;limiter=&amp;display-query=OQE+ديوان+ابن+معتوق&amp;contentModules=&amp;action=e&amp;sortBy=&amp;windowstate=normal&amp;currPage=1&amp;dviSelectedPage=&amp;scanId=&amp;query=OQE+ديوان+ابن+معتوق&amp;search_within_results=&amp;p=EAPB&amp;catId=&amp;u=mlin_w_umassamh&amp;displayGroups=&amp;documentId=GALE%7CDEXRXQ555356208&amp;activityType=BasicSearch&amp;failOverType=&amp;commentary=</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e9518">https://umass.app.box.com/folder/122476615036</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e9518">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/EtD7SzlHlIBArynoruZT-DcBg9Rdl-zG9_7gitVdLwjPdg?e=c2fKCc</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
@@ -12869,7 +12868,7 @@
                      al-Ḥukm</title>
                      <title level="a" xml:lang="ar" source="#d1e9604">عنوان البيان وبستان الاذهان و مجموع نصائح في الحكم </title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e9616">https://catalog.hathitrust.org/Record/001339027</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e9618">https://umass.app.box.com/folder/122679402594</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e9618">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/En4pDeggHGZHsoILrVKaLY0BlaUTCBqZL8R5FhWDjtLciQ?e=Nqq332</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
@@ -13128,7 +13127,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e9778">Al-Taʻrīfāt </title>
                      <title level="a" xml:lang="ar" source="#d1e9778">التعريفات</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e9791">https://gallica.bnf.fr/ark:/12148/bpt6k9105970c</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e9793">https://umass.app.box.com/folder/122801121731</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e9793">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/Eke7nBA8PkxPjNs-l-1IieABmdsJV6cLiZHZ0eS_aZj1Pw?e=juXcaV</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
@@ -13260,7 +13259,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e9882">Dīwān al-Ṣabābah</title>
                      <title level="a" xml:lang="ar" source="#d1e9882">ديوان الصبابة</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e9894">https://catalog.hathitrust.org/Record/008883449</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e9896">https://umass.app.box.com/folder/122884502385</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e9896">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/Ekp5mUOL--NDn5yP-fHMlA4BBKU_aJecrCFVn-o5ytbgfA?e=gqxRHl</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
@@ -13390,7 +13389,7 @@
                      <title level="a" xml:lang="ar" source="#d1e9983">طراز المجالس</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e9996">https://iiif.lib.harvard.edu/manifests/view/drs:11485575$1i; Muhammad
                      'Arif Pasha</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e9998">https://umass.app.box.com/folder/122944506200</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e9998">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/EodtfR8Jzk1CncntKGAEzw4Bo0_uCQJac9H5czwTD2qo7A?e=8Rds2M</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
@@ -13647,7 +13646,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e10163">ʻUnwān al-Murqiṣāt wa-l-Muṭribāt</title>
                      <title level="a" xml:lang="ar" source="#d1e10163">عنوان المرقصات والمطربات</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e10175">https://catalog.hathitrust.org/Record/009031559</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e10177">https://umass.app.box.com/folder/123134350615</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e10177">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/EmzLS45oR_5Cm2DOSVG-nzMBQ4Ar5a0FmmGEcZ3hBCbrNg?e=fjsrQE</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
@@ -13782,7 +13781,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e10263">Sharḥ Skaykh Khālid al-Azharī ʻalā Matn al-Burdah</title>
                      <title level="a" xml:lang="ar" source="#d1e10263">شرح شيخ خالد الازهرى على متن البردة</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e10276">https://catalog.hathitrust.org/Record/001338964</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e10278">https://umass.app.box.com/folder/123223634426</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e10278">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/EnQ5DYD30cBKifBfP_YkeekBvC4KPxy6mo5T2ZycRV0cvQ?e=Qnluis</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
@@ -13921,7 +13920,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e10367">Dīwān al-Ḥājirī</title>
                      <title level="a" xml:lang="ar" source="#d1e10367">ديوان الحاجري</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e10380">https://catalog.hathitrust.org/Record/100646237</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e10382">https://umass.app.box.com/folder/123283234907</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e10382">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/EoJx3lQMMexOomflce-OTcEBtGsZTN9N9uhKrACmsj-Krw?e=3iUuSN</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
@@ -14053,7 +14052,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e10470">Al-Hijāyah wa-l-Amthāl li-Taʻlīm al-Ṭālib wa-l-Aṭfāl</title>
                      <title level="a" xml:lang="ar" source="#d1e10470">الهجايه و الامثال لتعليم الطالب الأطفال</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e10482">https://gdc-gale-com.silk.library.umass.edu/gdc/artemis/MonographsDetailsPage/MonographsDetailsWindow?disableHighlighting=false&amp;displayGroupName=DVI-Monographs&amp;docIndex=2&amp;source=fullList&amp;prodId=EAPB&amp;mode=view&amp;limiter=&amp;display-query=OQE+الهجاية&amp;contentModules=&amp;action=e&amp;sortBy=&amp;windowstate=normal&amp;currPage=1&amp;dviSelectedPage=&amp;scanId=&amp;query=OQE+الهجاية&amp;search_within_results=&amp;p=EAPB&amp;catId=&amp;u=mlin_w_umassamh&amp;displayGroups=&amp;documentId=GALE%7CTRBFCK829242805&amp;activityType=BasicSearch&amp;failOverType=&amp;commentary=</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e10484">https://umass.app.box.com/folder/123326467094</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e10484">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/Eu55E4DxDjNMlKrXrwfbhdoBw5U0Z2XhMA4N_bLmKe-HUQ?e=cqVZYv</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
@@ -14318,7 +14317,7 @@
                      al-Tilimsānī</title>
                      <title level="a" xml:lang="ar" source="#d1e10644">ديوان الشاب الظريف محمد ابن سليمان العفيف التلمسانى </title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e10657">https://gdc-gale-com.silk.library.umass.edu/gdc/artemis/MonographsDetailsPage/MonographsDetailsWindow?disableHighlighting=false&amp;displayGroupName=DVI-Monographs&amp;docIndex=2&amp;source=&amp;prodId=EAPB&amp;mode=view&amp;limiter=&amp;display-query=OQE+ديوان+الشاب+الظريف&amp;contentModules=&amp;action=e&amp;sortBy=&amp;windowstate=normal&amp;currPage=1&amp;dviSelectedPage=&amp;scanId=&amp;query=OQE+ديوان+الشاب+الظريف&amp;search_within_results=&amp;p=EAPB&amp;catId=&amp;u=mlin_w_umassamh&amp;displayGroups=&amp;documentId=GALE%7CWDVXYF921555034&amp;activityType=BasicSearch&amp;failOverType=&amp;commentary=</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e10659">https://umass.app.box.com/folder/123503232480</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e10659"/>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
@@ -14588,7 +14587,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e10841">Zahr al-Rubā fī Shiʻr al-Ṣibā</title>
                      <title level="a" xml:lang="ar" source="#d1e10841">زهر الربى في شعر الصبا</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e10853">http://gallica.bnf.fr/ark:/12148/bpt6k859689b</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e10855">https://umass.app.box.com/folder/123648481971</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e10855">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/EhO82yt5vbdCqee2HYAb4o0BHo2QHHiUs_3xLx2NNi2d0A?e=ltXrPH</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
@@ -14722,7 +14721,7 @@
                      <title level="a" xml:lang="ar" source="#d1e10938">تنزيل الآيات على الشواهد من الابيات شرح شواهد
                      الكشاف</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e10950">https://catalog.hathitrust.org/Record/008887505</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e10952">https://umass.app.box.com/folder/64585444650</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e10952">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/Ep5FG0t0ia1Hnadrvgh4oAMBKpk3UQXlrAv24OFKfR1Z6g?e=iw1MuY</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
@@ -14984,7 +14983,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e11118">Inshā al-Shaykh al-ʻAṭṭār</title>
                      <title level="a" xml:lang="ar" source="#d1e11118">انشا الشيخ العطار</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e11131">https://babel.hathitrust.org/cgi/pt?id=njp.32101063974040&amp;view=1up&amp;seq=1</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e11133">https://umass.app.box.com/folder/124071605651</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e11133">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/EsTCKkxpGCVAiooe5XGLgDQBLM3AfZFtVsoP_puvCnmGjg?e=WVqve7</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
@@ -15386,7 +15385,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e11374"/>
                      <title level="a" xml:lang="ar" source="#d1e11374"/>
                      <ref type="URL" subtype="originalLink" xml:id="d1e11384"/>
-                     <ref type="URL" subtype="archived" xml:id="d1e11385"/>
+                     <ref type="URL" subtype="archived" xml:id="d1e11385">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/EnSs33y-FWNPicsR-YL2tBMBf_qC5tV0uyKE1osiiIJs_Q?e=Og8giS</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
@@ -15515,7 +15514,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e11450">Tuḥfat al-Nāẓirīn fī Man Waliya Miṣr min al-Wulāh wa-l-Salāṭīn</title>
                      <title level="a" xml:lang="ar" source="#d1e11450">تحفة الناظرين في من ولى مصر من الولاة والسلاطين</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e11462">https://catalog.hathitrust.org/Record/009030696/Home</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e11464">https://umass.app.box.com/folder/124259497608</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e11464">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/Eg5alCoJvXdBvTpCVTh-jKQBfwOeaLb2NrHiIKRq39W2mw?e=LFj0f8</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
@@ -15647,7 +15646,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e11550"/>
                      <title level="a" xml:lang="ar" source="#d1e11550"/>
                      <ref type="URL" subtype="originalLink" xml:id="d1e11561"/>
-                     <ref type="URL" subtype="archived" xml:id="d1e11562"/>
+                     <ref type="URL" subtype="archived" xml:id="d1e11562">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/EvlvwCTOmo1DuPaG5Rq77WYBToKqlDRjblhyd56FdXLLiw?e=aSDIQG</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
@@ -15778,7 +15777,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e11627">ʻUyūn al-Ḥaqāʼiq wa-Iḍāḥ al-Ṭarāʼiq</title>
                      <title level="a" xml:lang="ar" source="#d1e11627">عيون الحقائق و ايضاح الطرائق</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e11639">https://iiif.lib.harvard.edu/manifests/view/drs:426561900$1i</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e11641">https://umass.app.box.com/folder/63404368645</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e11641">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/EjyoFWeHaQZDvIjxQivgTBABnlP9uZNwmZ2u9Ce4OWEKaA?e=5i5j2o</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
@@ -16040,7 +16039,7 @@
                      <title level="a" xml:lang="ar" source="#d1e11800">تاريخ قدماء المصريين المسمى قناصة اهل العصر من خلاصة
                      تاريخ مصر</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e11812">https://archive.org/details/McGillLibrary-rbsc_isl_apercu_histoire-egypte_DT83M3121864-17329</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e11814">https://umass.app.box.com/folder/63408209195</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e11814">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/EmFva74H6HJJhSp4X7QFovoBY3ThTqEqGPV0_tUefRbTVg?e=6JTcnZ</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
@@ -16172,7 +16171,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e11901"/>
                      <title level="a" xml:lang="ar" source="#d1e11901"/>
                      <ref type="URL" subtype="originalLink" xml:id="d1e11911"/>
-                     <ref type="URL" subtype="archived" xml:id="d1e11912"/>
+                     <ref type="URL" subtype="archived" xml:id="d1e11912">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/Etky7YkrUKRClHcFRQvxFoAByk_lWsru4HuFaQ4UD0aUwA?e=vxRetW</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
@@ -16303,7 +16302,7 @@
                      <title level="a" xml:lang="ar" source="#d1e11977"> نظم اللاي في السلوك فيمن حكم فرانسا و من قابلهم على مصر
                      من الملوك </title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e11989">https://catalog.hathitrust.org/Record/011819133</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e11991">https://umass.app.box.com/folder/124676677524</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e11991">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/Eh-KtuPd259AhRYrffn9D0gBOeMytwzVkuiFvWyRyrRbaQ?e=mbUgGv</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
@@ -16439,7 +16438,7 @@
                      al-ʻAṭṭār</title>
                      <title level="a" xml:lang="ar" source="#d1e12083">المقامات السيوطية مذيلة بمقامة للشيخ حسن العطار</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e12096">https://iiif.lib.harvard.edu/manifests/view/drs:11525457$1i</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e12098">https://umass.app.box.com/folder/64585724000</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e12098">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/EtWv62ReL95BsXMFj9ASarEBFcaDpb6Dgze39lg6N2IRmA?e=wgtukN</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
@@ -16570,7 +16569,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e12181"/>
                      <title level="a" xml:lang="ar" source="#d1e12181"/>
                      <ref type="URL" subtype="originalLink" xml:id="d1e12192"/>
-                     <ref type="URL" subtype="archived" xml:id="d1e12193"/>
+                     <ref type="URL" subtype="archived" xml:id="d1e12193">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/EnEqH9m2NWZJrHva3YwMZf8BR4Cyrl55dMAC7UcpBt8asg?e=kUapp1</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
@@ -16700,7 +16699,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e12258">Muntahā al-Barāḥ fī ʻIlm al-Jarrāḥ</title>
                      <title level="a" xml:lang="ar" source="#d1e12258">منتهى البراح في علم الجراح</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e12270">https://gdc-gale-com.silk.library.umass.edu/gdc/artemis/MonographsDetailsPage/MonographsDetailsWindow?disableHighlighting=false&amp;displayGroupName=DVI-Monographs&amp;docIndex=1&amp;source=fullList&amp;prodId=EAPB&amp;mode=view&amp;limiter=&amp;display-query=OQE+البراح+في+علم+الجراح&amp;contentModules=&amp;action=e&amp;sortBy=&amp;windowstate=normal&amp;currPage=1&amp;dviSelectedPage=&amp;scanId=&amp;query=OQE+البراح+في+علم+الجراح&amp;search_within_results=&amp;p=EAPB&amp;catId=&amp;u=mlin_w_umassamh&amp;displayGroups=&amp;documentId=GALE%7CUSHNDW054668382&amp;activityType=BasicSearch&amp;failOverType=&amp;commentary=</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e12272">https://umass.app.box.com/folder/124862207132</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e12272">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/EnvmjenbdLBHlV6qmRYkm3gBCjAZSTSQsuZ4e51DsOAqxA?e=yM5Aei</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
@@ -16832,7 +16831,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e12360">Al-Mustaṭraf fī Kull Fann Mustaẓraf</title>
                      <title level="a" xml:lang="ar" source="#d1e12360">المستطرف في كل فن مستظرف</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e12373">https://catalog.hathitrust.org/Record/009016998</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e12375">https://umass.app.box.com/folder/125095026137</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e12375">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/EuUo16_5WEBAuSrWgrtSkewBgXQvg4-_Edq0kQsfJFFY1w?e=5cMNGb</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
@@ -16969,7 +16968,7 @@
                      al-Adabīyah</title>
                      <title level="a" xml:lang="ar" source="#d1e12465">مقامات الحريري في اللغة العربية والفنون الادبية</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e12478">http://catalog.hathitrust.org/api/volumes/oclc/28931063.html</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e12480">https://umass.app.box.com/folder/63408433317</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e12480">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/Ev-21_HP0NZFqbhGwrTT0F0BYQb8XDR3BXxDLXwGgzqjJw?e=BUXlbE</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
@@ -17103,7 +17102,7 @@
                      <title level="a" xml:lang="ar" source="#d1e12568">حاشية العلامة السجاعي على شرح ابن عقيل على متن الفية ابن
                      مالك في علم العربية</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e12581">https://catalog.hathitrust.org/Record/009036537</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e12583">https://umass.app.box.com/folder/63408768395</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e12583">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/Es39SAYfrshCmPTl2zVo_c0BFFlp47LC0Jdkvyzhnoevng?e=RtIfFK</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
@@ -17236,7 +17235,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e12672">Naẓm al-ʻUqūd fī Kasr al-ʻUqūd</title>
                      <title level="a" xml:lang="ar" source="#d1e12672">نظم العقود في كسر العود</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e12684">https://books.google.com.eg/books?id=7S1Gt8k8UBwC&amp;pg=PT16&amp;lpg=PT16&amp;dq=La+Lyre+brise%CC%81e&amp;source=bl&amp;ots=JT4dfHhUdG&amp;sig=cygamd09dPmP02_UY0L_nsqaZ78&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwiH2p2c3f_aAhVFCewKHbbcACsQ6AEIajAO#v=onepage&amp;q&amp;f=false</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e12686">https://umass.app.box.com/folder/64585655078</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e12686">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/EvoQ_mrG-g1KtJEfktRfVZ8BatVYAteruqV7sk6sxF0hVQ?e=6qZf30</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
@@ -17496,7 +17495,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e12849">Khuṭbah fī Ādāb al-ʻArab</title>
                      <title level="a" xml:lang="ar" source="#d1e12849">خطبة في اداب العرب</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e12862">https://www.dropbox.com/s/44my7cl0xplum8u/Bustani_Khutba.pdf?dl=0 </ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e12864">https://umass.app.box.com/file/381036283511</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e12864">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/Ejg3m1zqVp1Ggbx-IH9d3kQBoILbSw5f13_e0LkaOrqZeQ?e=lQnzhe</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
@@ -17629,7 +17628,7 @@
                      <title level="a" xml:lang="ar" source="#d1e12945">دلائل الخيرات وشوارق الانوار في ذكرالصلوة على النبي
                      المختار</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e12957">https://gdc-gale-com.silk.library.umass.edu/gdc/artemis/MonographsDetailsPage/MonographsDetailsWindow?disableHighlighting=false&amp;displayGroupName=DVI-Monographs&amp;docIndex=1&amp;source=fullList&amp;prodId=EAPB&amp;mode=view&amp;limiter=DA+118400101+-+118491231&amp;display-query=OQE+جزولي&amp;contentModules=&amp;action=e&amp;sortBy=&amp;windowstate=normal&amp;currPage=1&amp;dviSelectedPage=&amp;scanId=&amp;query=OQE+جزولي&amp;search_within_results=&amp;p=EAPB&amp;catId=&amp;u=mlin_w_umassamh&amp;displayGroups=&amp;documentId=GALE%7CWHZZNJ115636543&amp;activityType=BasicSearch&amp;failOverType=&amp;commentary=</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e12959">https://umass.app.box.com/folder/125506832240</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e12959">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/Ehmx1yMETEJCmaVpvEQD2u4BQlZRq5BdBgnJ9GcfqX_pxw?e=kccBnt</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
@@ -17896,7 +17895,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e13127">Iʻlām al-Nās bi-mā Waqaʻa lil-Barāmikah maʻ Banī al-ʻAbbās</title>
                      <title level="a" xml:lang="ar" source="#d1e13127"> إعلام الناس بما وقع للبرامكة مع بنى العباس</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e13140">https://gdc-gale-com.silk.library.umass.edu/gdc/artemis/MonographsDetailsPage/MonographsDetailsWindow?disableHighlighting=false&amp;displayGroupName=DVI-Monographs&amp;docIndex=2&amp;source=fullList&amp;prodId=EAPB&amp;mode=view&amp;limiter=&amp;display-query=OQE+إعلام+الناس+بما+وقع+للبرامكة+مع+بني+العباس&amp;contentModules=&amp;action=e&amp;sortBy=&amp;windowstate=normal&amp;currPage=1&amp;dviSelectedPage=&amp;scanId=&amp;query=OQE+إعلام+الناس+بما+وقع+للبرامكة+مع+بني+العباس&amp;search_within_results=&amp;p=EAPB&amp;catId=&amp;u=mlin_w_umassamh&amp;displayGroups=&amp;documentId=GALE%7CNDBGBK107609141&amp;activityType=BasicSearch&amp;failOverType=&amp;commentary=</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e13142">https://umass.app.box.com/folder/69948248360</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e13142">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/EgOKFGpQ2zxJqirkgGCQ3pwBbT7H-ctIWomOxgCiWkwNWQ?e=dpMVLN</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
@@ -18029,7 +18028,7 @@
                      <title level="a" xml:lang="ar" source="#d1e13228">تاريخ قدماء المصريين المسمى قناصة اهل العصر من خلاصة
                      تاريخ مصر</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e13241">https://archive.org/details/kitabtarikhqudam00mariuoft</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e13243">https://umass.app.box.com/folder/70043576960</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e13243">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/Em_n6dRaulZAk3uVzz5t2kcBGz6OOZWxw4UmIOJnLrM8hQ?e=kRxv7e</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
@@ -18161,7 +18160,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e13330">Al-Adhkīyā</title>
                      <title level="a" xml:lang="ar" source="#d1e13330">الأذكياء</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e13342">https://babel.hathitrust.org/cgi/pt?id=hvd.hnbm6m&amp;view=2up&amp;seq=1</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e13344">https://umass.app.box.com/folder/63515141230</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e13344">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/EpBvEhB_NkBGmFcgm3CCTsABL4yGSl_hsp0pFPbfsVLVDQ?e=29fdnq</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
@@ -18298,7 +18297,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e13426">Rawḍat al-Adab fī Ṭabaqāt Shuʻarā al-ʻArab</title>
                      <title level="a" xml:lang="ar" source="#d1e13426">روضة الادب في طبقات شعراء العرب</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e13438">https://gdc-gale-com.silk.library.umass.edu/gdc/artemis/MonographsDetailsPage/MonographsDetailsWindow?disableHighlighting=false&amp;displayGroupName=DVI-Monographs&amp;docIndex=1&amp;source=&amp;prodId=EAPB&amp;mode=view&amp;limiter=&amp;display-query=OQE+روضة+الأدب&amp;contentModules=&amp;action=e&amp;sortBy=&amp;windowstate=normal&amp;currPage=1&amp;dviSelectedPage=&amp;scanId=&amp;query=OQE+روضة+الأدب&amp;search_within_results=&amp;p=EAPB&amp;catId=&amp;u=mlin_w_umassamh&amp;displayGroups=&amp;documentId=GALE%7CHSJUQU146827141&amp;activityType=BasicSearch&amp;failOverType=&amp;commentary=</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e13440">https://umass.app.box.com/folder/63515879883</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e13440">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/EinrHOIPIAlCkBSv6HT5g8wBMcPQegftbPVTeqJTVvURcQ?e=yCSMkw</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
@@ -18434,7 +18433,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e13525">Tazyīn Nihāyat al-Arab fī Akhbār al-ʻArab</title>
                      <title level="a" xml:lang="ar" source="#d1e13525">تزيين نهاية الأرب في أخبار العرب</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e13537">https://catalog.hathitrust.org/Record/001338243</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e13539">https://umass.app.box.com/file/387825545505</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e13539">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/ElewbkJYC1FAjo8GbjifKj0B321LDdRUygaScRFa7CBq8w?e=zeRS7n</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
@@ -18696,7 +18695,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e13703">Aqwam al-Masālik fī Maʻrifat Aḥwāl al-Mamālik</title>
                      <title level="a" xml:lang="ar" source="#d1e13703">أقوم المسالك في معرفة أحوال الممالك</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e13716">https://gdc-gale-com.silk.library.umass.edu/gdc/artemis/MonographsDetailsPage/MonographsDetailsWindow?disableHighlighting=false&amp;displayGroupName=DVI-Monographs&amp;docIndex=2&amp;source=&amp;prodId=EAPB&amp;mode=view&amp;limiter=&amp;display-query=OQE+أقوم+المسالك&amp;contentModules=&amp;action=e&amp;sortBy=&amp;windowstate=normal&amp;currPage=1&amp;dviSelectedPage=&amp;scanId=&amp;query=OQE+أقوم+المسالك&amp;search_within_results=&amp;p=EAPB&amp;catId=&amp;u=mlin_w_umassamh&amp;displayGroups=&amp;documentId=GALE%7CSBMQDD614776282&amp;activityType=BasicSearch&amp;failOverType=&amp;commentary=#</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e13718">https://umass.app.box.com/folder/126693663319</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e13718">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/EiSjndtpeYZMujWdsiD930UBywHPeKnJ-g9zwKc0w-74oQ?e=AlKjhY</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
@@ -18960,7 +18959,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e13883">Qalāʼid al-Mafākhir fī Gharīb ʻAwāʼid al-Awāʼil wa al-Awākhir</title>
                      <title level="a" xml:lang="ar" source="#d1e13883">قلائد المفاخر في غريب عوائد الأوائل والأواخر</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e13895">https://catalog.hathitrust.org/Record/009030594/Home</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e13897">https://umass.app.box.com/file/421125476657</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e13897">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/Euq2ifAJaq1DikausgnS8lABJ1KawYnT0mL0YDb7_KKP_w?e=0IczG3</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
@@ -19092,7 +19091,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e13990">Taʻrīb al-Qānūn al-Faransāwī al-Madanī </title>
                      <title level="a" xml:lang="ar" source="#d1e13990">تعريب القانون الفرنساوي المدني</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e14002">https://gdc-gale-com.silk.library.umass.edu/gdc/artemis/MonographsDetailsPage/MonographsDetailsWindow?disableHighlighting=false&amp;displayGroupName=DVI-Monographs&amp;docIndex=5&amp;source=fullList&amp;prodId=EAPB&amp;mode=view&amp;limiter=&amp;display-query=OQE+تعريب+القانون+الفرنساوي+المدني&amp;contentModules=&amp;action=e&amp;sortBy=&amp;windowstate=normal&amp;currPage=1&amp;dviSelectedPage=&amp;scanId=&amp;query=OQE+تعريب+القانون+الفرنساوي+المدني&amp;search_within_results=&amp;p=EAPB&amp;catId=&amp;u=mlin_w_umassamh&amp;displayGroups=&amp;documentId=GALE%7CLMRNKO702989708&amp;activityType=BasicSearch&amp;failOverType=&amp;commentary=</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e14004">https://umass.app.box.com/folder/63514315878</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e14004">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/EpvQQW0Qm95GtvZIbps1FYwBFbbj2x2Y4h60eue3qs0W6Q?e=oXJxtS</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
@@ -19224,7 +19223,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e14092">Siyāḥat al-Hind</title>
                      <title level="a" xml:lang="ar" source="#d1e14092">سياحة الهند</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e14105">https://ar.wikisource.org/wiki/%D9%85%D9%84%D9%81:%D8%B3%D9%8A%D8%A7%D8%AD%D8%A9_%D8%A7%D9%84%D9%87%D9%86%D8%AF.pdf#file</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e14107">https://umass.app.box.com/file/381067514734</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e14107">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/Ektc025RKNBLiOMugfOmINMB6KdJESpsvAjQiu_wkMUh7w?e=Fcrk07</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
@@ -19356,7 +19355,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e14194"/>
                      <title level="a" xml:lang="ar" source="#d1e14194"/>
                      <ref type="URL" subtype="originalLink" xml:id="d1e14205"/>
-                     <ref type="URL" subtype="archived" xml:id="d1e14206"/>
+                     <ref type="URL" subtype="archived" xml:id="d1e14206">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/ErDuRQ8E4jNDt2VvNax6CbUB91XBo9mIBvidVnkwlB3nKA?e=3TKbj4</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
@@ -19485,7 +19484,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e14272">Rawḍat al-ʻUzbān wa-Tanbīh al-Ghaflān</title>
                      <title level="a" xml:lang="ar" source="#d1e14272">روضة العزبان و تنبيه الغفلان</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e14285">https://gdc-gale-com.silk.library.umass.edu/gdc/artemis/MonographsDetailsPage/MonographsDetailsWindow?disableHighlighting=false&amp;displayGroupName=DVI-Monographs&amp;docIndex=1&amp;source=&amp;prodId=EAPB&amp;mode=view&amp;limiter=&amp;display-query=OQE+روضة+العزبان&amp;contentModules=&amp;action=e&amp;sortBy=&amp;windowstate=normal&amp;currPage=1&amp;dviSelectedPage=&amp;scanId=&amp;query=OQE+روضة+العزبان&amp;search_within_results=&amp;p=EAPB&amp;catId=&amp;u=mlin_w_umassamh&amp;displayGroups=&amp;documentId=GALE%7CRESGAQ402010727&amp;activityType=BasicSearch&amp;failOverType=&amp;commentary=#</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e14287">https://umass.app.box.com/file/381852407267</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e14287">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/EgaJAcixOZFNgZJ-a__rNE0BckVioSoGzPnpRTu_BEEhuA?e=sOdWlF</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
@@ -19879,7 +19878,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e14520">Uṣūl al-Ḥandasah</title>
                      <title level="a" xml:lang="ar" source="#d1e14520">أصول الهندسة</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e14533">https://gdc-gale-com.silk.library.umass.edu/gdc/artemis/MonographsDetailsPage/MonographsDetailsWindow?disableHighlighting=false&amp;displayGroupName=DVI-Monographs&amp;docIndex=1&amp;source=&amp;prodId=EAPB&amp;mode=view&amp;limiter=&amp;display-query=OQE+أصول+الهندسة&amp;contentModules=&amp;action=e&amp;sortBy=&amp;windowstate=normal&amp;currPage=1&amp;dviSelectedPage=&amp;scanId=&amp;query=OQE+أصول+الهندسة&amp;search_within_results=&amp;p=EAPB&amp;catId=&amp;u=mlin_w_umassamh&amp;displayGroups=&amp;documentId=GALE%7CTGEXBS680693209&amp;activityType=BasicSearch&amp;failOverType=&amp;commentary=</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e14535">https://umass.app.box.com/file/421850779997</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e14535">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/EhuKpSMhtL1BhJ1exy4ijP0BklzO8VoGhz_dyyrTqQi8bQ?e=96ecqc</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
@@ -20398,7 +20397,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e14854"/>
                      <title level="a" xml:lang="ar" source="#d1e14854"/>
                      <ref type="URL" subtype="originalLink" xml:id="d1e14865"/>
-                     <ref type="URL" subtype="archived" xml:id="d1e14866"/>
+                     <ref type="URL" subtype="archived" xml:id="d1e14866">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/Epv22KKe5ZdAsdwNw9ChnJABwgmZkCyF2McEHHu4HHp9ew?e=DdcpMB</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d"/>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d"/>
@@ -20659,7 +20658,7 @@
                      <ref type="URL" subtype="originalLink" xml:id="d1e15018">http://gdc.galegroup.com.ezp-prod1.hul.harvard.edu/gdc/artemis/MonographsDetailsPage/MonographsDetailsWindow?disableHighlighting=false&amp;displayGroupName=DVI-Monographs&amp;docIndex=4&amp;source=fullList&amp;prodId=EAPB&amp;mode=view&amp;limiter=&amp;display-query=OQE+تذكرة+أولي+الألباب+والجامع+للعجب+العجاب&amp;contentModules=&amp;action=e&amp;sortBy=&amp;windowstate=normal&amp;currPage=1&amp;dviSelectedPage=&amp;scanId=&amp;query=OQE+تذكرة+أولي+الألباب+والجامع+للعجب+العجاب&amp;search_within_results=&amp;p=EAPB&amp;catId=&amp;u=camb55135&amp;displayGroups=&amp;documentId=GALE%7CANCZUY148377561&amp;activityType=BasicSearch&amp;failOverType=&amp;commentary=
                      http://gdc.galegroup.com.ezp-prod1.hul.harvard.edu/gdc/artemis/MonographsDetailsPage/MonographsDetailsWindow?disableHighlighting=false&amp;displayGroupName=DVI-Monographs&amp;docIndex=&amp;source=&amp;prodId=EAPB&amp;mode=view&amp;limiter=&amp;display-query=&amp;contentModules=&amp;action=e&amp;sortBy=&amp;windowstate=normal&amp;currPage=&amp;dviSelectedPage=1&amp;scanId=&amp;query=&amp;search_within_results=&amp;p=EAPB&amp;catId=&amp;u=camb55135&amp;displayGroups=&amp;documentId=GALE%7CAZRDWS203935073&amp;activityType=&amp;failOverType=&amp;commentary=
                      http://gdc.galegroup.com.ezp-prod1.hul.harvard.edu/gdc/artemis/MonographsDetailsPage/MonographsDetailsWindow?disableHighlighting=false&amp;displayGroupName=DVI-Monographs&amp;docIndex=&amp;source=&amp;prodId=EAPB&amp;mode=view&amp;limiter=&amp;display-query=&amp;contentModules=&amp;action=e&amp;sortBy=&amp;windowstate=normal&amp;currPage=&amp;dviSelectedPage=1&amp;scanId=&amp;query=&amp;search_within_results=&amp;p=EAPB&amp;catId=&amp;u=camb55135&amp;displayGroups=&amp;documentId=GALE%7CLSLJGQ837130055&amp;activityType=&amp;failOverType=&amp;commentary=</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e15020">https://duke.app.box.com/folder/63710141466</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e15020">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/EqXZtVW5PTZIhR_Dkp7Pd3QBwyWvqjKCz5VcmcnNw18q4Q?e=K5plaJ</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
@@ -20798,8 +20797,7 @@
                      <title level="a" xml:lang="ar" source="#d1e15111">تفسير أبي سعود المسمى إرشاد العقل السليم إلى مزايا
                      الكتاب الكريم</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e15123">http://gdc.galegroup.com.ezp-prod1.hul.harvard.edu/gdc/artemis/MonographsDetailsPage/MonographsDetailsWindow?disableHighlighting=false&amp;displayGroupName=DVI-Monographs&amp;docIndex=1&amp;source=&amp;prodId=EAPB&amp;mode=view&amp;limiter=&amp;display-query=OQE+أبي+السعود&amp;contentModules=&amp;action=e&amp;sortBy=&amp;windowstate=normal&amp;currPage=1&amp;dviSelectedPage=&amp;scanId=&amp;query=OQE+أبي+السعود&amp;search_within_results=&amp;p=EAPB&amp;catId=&amp;u=camb55135&amp;displayGroups=&amp;documentId=GALE%7CRSQILC060737782&amp;activityType=BasicSearch&amp;failOverType=&amp;commentary=</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e15125">ONLY FIRST PART IS DOWNLOADED
-                     https://duke.app.box.com/folder/70173316983</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e15125">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/EvqGstG0CmdIsJvZvPlYdbcBPTcndQz-I2awpTjTIeO8iQ?e=vX05We</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">[ميري]</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">[government]</note>
@@ -20934,7 +20932,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e15217">Kitāb al-Jāmiʻa al-Ṣaḥīḥ</title>
                      <title level="a" xml:lang="ar" source="#d1e15217">كتاب الجامع الصحيح</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e15230">https://gdc-gale-com.proxy.lib.duke.edu/gdc/artemis/MonographsDetailsPage/MonographsDetailsWindow?disableHighlighting=false&amp;displayGroupName=DVI-Monographs&amp;docIndex=34&amp;source=FullListSort&amp;prodId=EAPB&amp;mode=view&amp;limiter=DA+117400101+-+118721231&amp;display-query=OQE+%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9+%D8%A7%D9%84%D8%B5%D8%AD%D9%8A%D8%AD&amp;contentModules=&amp;action=e&amp;sortBy=publication-date-sort%2Cascending&amp;windowstate=normal&amp;currPage=2&amp;dviSelectedPage=&amp;scanId=&amp;query=OQE+%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9+%D8%A7%D9%84%D8%B5%D8%AD%D9%8A%D8%AD&amp;search_within_results=&amp;p=EAPB&amp;catId=&amp;u=duke_perkins&amp;displayGroups=&amp;documentId=GALE%7CNOMJDH390044568&amp;activityType=BasicSearch&amp;failOverType=&amp;commentary=</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e15232">NOT YET DOWNLOADED https://duke.app.box.com/folder/127150504006</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e15232">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/Eniuh9Don2FDiNxoygximsgBcd-sf0asaHn8707cXKOKBw?e=4s7Emx</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
@@ -21070,7 +21068,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e15322">Mafātīḥ al-Ghayb al-Mushtahir bi-al-Tafsīr al-Kabīr</title>
                      <title level="a" xml:lang="ar" source="#d1e15322">مفاتيح الغيب المشتهر بالتفسير الكبير</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e15334">https://catalog.hathitrust.org/api/volumes/oclc/777088016.html</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e15336">https://duke.app.box.com/folder/70170068569</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e15336">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/El4VxCXZYF9OsI0mRwM_uzUB9uXp2rlBmifaYW5yvW7FFA?e=pqsFZ9</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">[ميري]</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">[government]</note>
@@ -21206,7 +21204,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e15428">Matn al-Shifā maʻ Sharḥihi al-Madad al-Fiyāḍ</title>
                      <title level="a" xml:lang="ar" source="#d1e15428">متن الشفا مع شرحه المدد الفياض </title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e15441">https://www.nli.org.il/en/books/NNL_ALEPH002237225/NLI</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e15443">Not downloadable</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e15443">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/Eh4fzTUlpLxNtFcUl3yqXlsBPUjzR_bjxWpiLJbTVsA7zw?e=EaVaf8</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
@@ -21343,7 +21341,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e15530"/>
                      <title level="a" xml:lang="ar" source="#d1e15530"/>
                      <ref type="URL" subtype="originalLink" xml:id="d1e15541"/>
-                     <ref type="URL" subtype="archived" xml:id="d1e15542"/>
+                     <ref type="URL" subtype="archived" xml:id="d1e15542">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/EikIGlgVJuFMnF_8iJJulfkBk7WOQKfyH-XFH0GZ-q1fZA?e=3In07M</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
@@ -21474,7 +21472,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e15607"/>
                      <title level="a" xml:lang="ar" source="#d1e15607"/>
                      <ref type="URL" subtype="originalLink" xml:id="d1e15618"/>
-                     <ref type="URL" subtype="archived" xml:id="d1e15619"/>
+                     <ref type="URL" subtype="archived" xml:id="d1e15619">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/Eqlnlx_9Dr9AsyebFSFnfdUBrW9mRjzrMlZ64aqUuHto9w?e=NUGMUL</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
@@ -21607,7 +21605,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e15684">Mughnī al-Labīb </title>
                      <title level="a" xml:lang="ar" source="#d1e15684">مغني اللبيب </title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e15697">https://al-mostafa.info/data/arabic/depot3/gap.php?file=i002996.pdf</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e15699">https://duke.app.box.com/folder/63714627632</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e15699">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/Ek5TLISKEkxBojXG9KWgyNkB1EuVAEYNc26GASSqckvgkg?e=UbhcTt</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">الهند</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">Al-Hind</note>
@@ -21744,7 +21742,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e15777">Radd al-Muḥtār ʻalā al-Durr al-Mukhtār Sharḥ Tanwīr al-Abṣār</title>
                      <title level="a" xml:lang="ar" source="#d1e15777">رد المحتار على الدر المختارشرح تنوير الابصار</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e15790">https://catalog.hathitrust.org/api/volumes/oclc/122780231.html</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e15792">https://duke.app.box.com/folder/63715805713</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e15792">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/EpU8y0-MM71PrVgQJGCQ3yoBfCLspCHhTiowfGaRaycWZg?e=NKkxMM</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
@@ -21880,7 +21878,7 @@
                      <title level="a" xml:lang="ar" source="#d1e15887"> عقود الدرية في تنقيح الفتاوى الحامدية</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e15900">vol2:
                      https://gdc-gale-com.proxy.lib.duke.edu/gdc/artemis/MonographsDetailsPage/MonographsDetailsWindow?disableHighlighting=false&amp;displayGroupName=DVI-Monographs&amp;docIndex=2&amp;source=&amp;prodId=EAPB&amp;mode=view&amp;limiter=&amp;display-query=OQE+%D8%A7%D9%84%D9%81%D8%AA%D8%A7%D9%88%D9%89+%D8%A7%D9%84%D8%AD%D8%A7%D9%85%D8%AF%D9%8A%D8%A9&amp;contentModules=&amp;action=e&amp;sortBy=&amp;windowstate=normal&amp;currPage=1&amp;dviSelectedPage=&amp;scanId=&amp;query=OQE+%D8%A7%D9%84%D9%81%D8%AA%D8%A7%D9%88%D9%89+%D8%A7%D9%84%D8%AD%D8%A7%D9%85%D8%AF%D9%8A%D8%A9&amp;search_within_results=&amp;p=EAPB&amp;catId=&amp;u=duke_perkins&amp;displayGroups=&amp;documentId=GALE%7CFXQVVL353030117&amp;activityType=BasicSearch&amp;failOverType=&amp;commentary=</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e15902">https://duke.app.box.com/folder/64586440033</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e15902">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/EpMGc8uLd_5LpIZNqtIwbOoByZXeC6QGJ5ROoVr5V-242w?e=Mu5m6t</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
@@ -22280,7 +22278,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e16153">Muntahā al-Aghrāḍ fī ʻIlm al-Amrāḍ</title>
                      <title level="a" xml:lang="ar" source="#d1e16153">منتهی الأغراض في علم الأمراض</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e16165">https://gdc-gale-com.ezp-prod1.hul.harvard.edu/gdc/artemis/MonographsDetailsPage/MonographsDetailsWindow?disableHighlighting=false&amp;displayGroupName=DVI-Monographs&amp;docIndex=&amp;source=&amp;prodId=EAPB&amp;mode=view&amp;limiter=&amp;display-query=&amp;contentModules=&amp;action=e&amp;sortBy=&amp;windowstate=normal&amp;currPage=&amp;dviSelectedPage=1&amp;scanId=&amp;query=&amp;search_within_results=&amp;p=EAPB&amp;catId=&amp;u=camb55135&amp;displayGroups=&amp;documentId=GALE%7CIFQWIR731594853&amp;activityType=&amp;failOverType=&amp;commentary=</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e16167">https://duke.app.box.com/folder/126499134106</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e16167">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/EnlTXOuFMvBJsdJWeVSpvQIBmMAA_ainzHK3C3LsuHQiCA?e=8j0K8j</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">[ميري]</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">[government]</note>
@@ -22416,7 +22414,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e16258"/>
                      <title level="a" xml:lang="ar" source="#d1e16258"/>
                      <ref type="URL" subtype="originalLink" xml:id="d1e16269"/>
-                     <ref type="URL" subtype="archived" xml:id="d1e16270"/>
+                     <ref type="URL" subtype="archived" xml:id="d1e16270">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/Eh6T8xTdqURKit0K6RRHpScBhwPlLAeS8x7Msj0TCoFNUg?e=NCQdtw</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
@@ -22545,7 +22543,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e16335">Mukhtaṣar Tadhkirat al-Imām al-Suwaydī Fī al-Ṭībb</title>
                      <title level="a" xml:lang="ar" source="#d1e16335">مختصر تذكرة الامام السويدي في الطب</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e16347">http://gdc.galegroup.com.ezp-prod1.hul.harvard.edu/gdc/artemis/MonographsDetailsPage/MonographsDetailsWindow?disableHighlighting=false&amp;displayGroupName=DVI-Monographs&amp;docIndex=1&amp;source=&amp;prodId=EAPB&amp;mode=view&amp;limiter=&amp;display-query=OQE+Tadhkirat+al-hādiyah&amp;contentModules=&amp;action=e&amp;sortBy=&amp;windowstate=normal&amp;currPage=1&amp;dviSelectedPage=&amp;scanId=&amp;query=OQE+Tadhkirat+al-hādiyah&amp;search_within_results=&amp;p=EAPB&amp;catId=&amp;u=camb55135&amp;displayGroups=&amp;documentId=GALE%7CQUCSDK045408944&amp;activityType=BasicSearch&amp;failOverType=&amp;commentary=</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e16349">https://duke.app.box.com/folder/63770098285</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e16349">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/Ejw0rOQTtK1MgGyI8oxtwI8BrjeeSliEAUiaVa5XOBmwAg?e=x2eu2d</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
@@ -22677,7 +22675,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e16435"/>
                      <title level="a" xml:lang="ar" source="#d1e16435"/>
                      <ref type="URL" subtype="originalLink" xml:id="d1e16446"/>
-                     <ref type="URL" subtype="archived" xml:id="d1e16447"/>
+                     <ref type="URL" subtype="archived" xml:id="d1e16447">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/EpmOASTjhxdJmme47jOvhy4B_IHZq_J2Pz3Zq4cXHV3xfw?e=Ybob0l</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
@@ -22806,7 +22804,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e16512">Iḥyāʼ ʻUlūm al-Dīn</title>
                      <title level="a" xml:lang="ar" source="#d1e16512">احياء علوم الدين</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e16525">https://babel.hathitrust.org/cgi/pt?id=inu.30000113128114</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e16527"/>
+                     <ref type="URL" subtype="archived" xml:id="d1e16527">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/EqgOPr6J0S1KogSvxulad9ABA8ErZlhCG7LCQ_Ts2n1LkQ?e=bLDbTK</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
@@ -22942,7 +22940,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e16612">Mashāriq al-Anwār Fī Fawz Ahl al-Iʻtibār</title>
                      <title level="a" xml:lang="ar" source="#d1e16612">مشارق الانوار في فوز اهل الاعتبار</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e16624">https://www.google.com/books/edition/Ma%C5%A1%C4%81riq_al_anw%C4%81r_f%C4%AB_fauz_ahl_al_i_tib%C4%81r/3KJEAAAAcAAJ?hl=en&amp;gbpv=0</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e16626">https://duke.app.box.com/folder/126128198970</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e16626">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/ErRo4GaszrZFudKKHxmqaIcBdQ31qKraxzpbf_Q3Q6ZVyQ?e=g4HzPH</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
@@ -23084,7 +23082,7 @@
                      <title level="a" xml:lang="ar" source="#d1e16720">حاشية العلامة الأمير على شرح الشيخ الامام عبد السلام على
                      الجوهرة في علم الكلام</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e16732">https://catalog.hathitrust.org/Record/011814254</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e16734">https://duke.app.box.com/folder/117439826025</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e16734">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/EsF1U7KD6_dHpSh7W2jgPg0B5kewyTBcGxAUjzIIJ6o_XQ?e=vUmicK</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
@@ -23350,7 +23348,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e16903">Al-Nafaḥāt al-Nabawīyah fī al-Faḍā'il al-'Āshūrīyah</title>
                      <title level="a" xml:lang="ar" source="#d1e16903">النفحات النبوية في الفضائل العاشورية</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e16916">Through Gale</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e16918">https://duke.app.box.com/folder/125852782887</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e16918">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/EleCwJGZKcZOobf7zQe1GwsBasG4p68WAkj79w_0YOp_DQ?e=1bjhl8</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
@@ -23484,7 +23482,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e17005"/>
                      <title level="a" xml:lang="ar" source="#d1e17005"/>
                      <ref type="URL" subtype="originalLink" xml:id="d1e17016"/>
-                     <ref type="URL" subtype="archived" xml:id="d1e17017">https://duke.app.box.com/folder/125792677488</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e17017"/>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
@@ -23742,7 +23740,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e17158">Al-Jawāhir wa-l-Durar</title>
                      <title level="a" xml:lang="ar" source="#d1e17158">الجواهر والدرر</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e17170">https://gallica.bnf.fr/ark:/12148/bpt6k9106124p/f6.image</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e17172">https://duke.app.box.com/folder/116415061861</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e17172">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/Ek2TzLESR19Ok5zmxBTqiwUB2NMVrPeR6ysCEUetm9T4cQ?e=cxZkhk</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">[براني]</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">[external]</note>
@@ -23879,7 +23877,7 @@
                      <title level="a" xml:lang="ar" source="#d1e17258">لطائف المنن في مناقب الشيخ ابي العباس المرسي وشيخه ابي
                      الحسن الشاذلي</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e17270">https://books.google.com/books?id=nYxvX3zQHl8C&amp;printsec=frontcover&amp;source=gbs_ge_summary_r&amp;cad=0#v=onepage&amp;q&amp;f=false</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e17272">https://duke.app.box.com/folder/63769623584</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e17272">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/EhJAClRWaitJsWIUpnMycGkBEcoBTouk8hmT04sEnDD7hw?e=bFU6Gs</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">[براني]</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">[external]</note>
@@ -24140,7 +24138,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e17427">Faḍāʼil Shahr Ramaḍān</title>
                      <title level="a" xml:lang="ar" source="#d1e17427"> فضائل شهر رمضان</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e17440">http://gdc.galegroup.com.ezp-prod1.hul.harvard.edu/gdc/artemis/MonographsDetailsPage/MonographsDetailsWindow?disableHighlighting=false&amp;displayGroupName=DVI-Monographs&amp;docIndex=2&amp;source=&amp;prodId=EAPB&amp;mode=view&amp;limiter=&amp;display-query=OQE+فضائل+شهر+رمضان&amp;contentModules=&amp;action=e&amp;sortBy=&amp;windowstate=normal&amp;currPage=1&amp;dviSelectedPage=&amp;scanId=&amp;query=OQE+فضائل+شهر+رمضان&amp;search_within_results=&amp;p=EAPB&amp;catId=&amp;u=camb55135&amp;displayGroups=&amp;documentId=GALE%7CSVNIGX258874357&amp;activityType=BasicSearch&amp;failOverType=&amp;commentary=</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e17442">https://duke.app.box.com/folder/63770527794</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e17442">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/Eg6BnfsZFStHn7xaDqdlARQBjjNgOMPCZ0IpiM0TPiRZDA?e=P8mnua</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">[براني]</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">[external]</note>
@@ -24402,7 +24400,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e17606">Matn al-Shamāʾil</title>
                      <title level="a" xml:lang="ar" source="#d1e17606">متن الشمائل</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e17619">https://catalog.hathitrust.org/Record/102681707</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e17621">https://duke.app.box.com/folder/114171268181</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e17621">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/EqAlXk0ciUROpEywCqENk-gB-g6h4uukiuax9aOF3-VCJQ?e=VWHltv</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">[براني]</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">[external]</note>
@@ -24662,7 +24660,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e17780">Al-Mīzān</title>
                      <title level="a" xml:lang="ar" source="#d1e17780">الميزان</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e17793">https://iiif.lib.harvard.edu/manifests/view/drs:427905824$1i</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e17795">https://duke.app.box.com/file/382954085482</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e17795"/>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">[براني]</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">[external]</note>
@@ -24794,7 +24792,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e17884">Takhlīṣ al-Ibrīz fī Talkhīṣ Bārīz</title>
                      <title level="a" xml:lang="ar" source="#d1e17884">تخليص الابريز في تلخيص باريز</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e17897">https://babel.hathitrust.org/cgi/pt?id=iau.31858058957105;page=root;seq=1;view=1up;size=100;orient=0</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e17899">https://duke.app.box.com/file/660595249149</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e17899"/>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">[ميري]</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">[government]</note>
@@ -24928,7 +24926,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e17985">Al-Yawāqīt wa-l-Jawāhir fī Bayān ʻAqāʼid al-Akābir</title>
                      <title level="a" xml:lang="ar" source="#d1e17985">اليواقيت والجواهر في بيان عقائد الاكابر</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e17998">https://babel.hathitrust.org/cgi/pt?id=njp.32101076408747;view=1up;seq=9</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e18000">https://duke.app.box.com/file/383184532565</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e18000">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/EpsUVHRoX1tNo2VBKRnGByIBkuOkUiSkBu-isyJEutb38A?e=hcxdFP</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">?</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">?</note>
@@ -25191,7 +25189,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e18164"/>
                      <title level="a" xml:lang="ar" source="#d1e18164"/>
                      <ref type="URL" subtype="originalLink" xml:id="d1e18175"/>
-                     <ref type="URL" subtype="archived" xml:id="d1e18176"/>
+                     <ref type="URL" subtype="archived" xml:id="d1e18176">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/Eot-xIEuzQ1Akn_Y0VBbOxsB_hPX_2lSgDveFEHA7IKBQA?e=HREEf4</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d"/>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d"/>
@@ -25325,7 +25323,7 @@
                      <title level="a" xml:lang="ar" source="#d1e18239">حاشية العلامة والحبر البحر الفهامة الشيخ حسن العطار على
                      شرح الأزهرية في علم النحو للشيخ خالد الأزهري</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e18252"/>
-                     <ref type="URL" subtype="archived" xml:id="d1e18253"/>
+                     <ref type="URL" subtype="archived" xml:id="d1e18253">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/Elsh7kb3_29DoeRFSnwpxtoBMoUkCWHf_wJsHoDqH1VxwQ?e=wkiiAO</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">[ميري]</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">[government]</note>
@@ -25457,7 +25455,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e18338">Irshād al-Murīd fī Khulāṣat ʻIlm al-tawḥīd</title>
                      <title level="a" xml:lang="ar" source="#d1e18338">ارشاد المريد في خلاصة علم التوحيد</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e18350">https://catalog.hathitrust.org/Record/011817168</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e18352">https://duke.app.box.com/folder/125715371302</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e18352">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/EodqEuakEsNNhdPl37iVKgoBSv0ZNipRXzVc8EAkOW5LkQ?e=oVCf9a</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">[ميري]</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">[government]</note>
@@ -25727,7 +25725,7 @@
                      <title level="a" xml:lang="ar" source="#d1e18514">تبصرة القضات والاخوان في وضع اليد وما يشهد له من
                      البرهان</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e18526">https://catalog.hathitrust.org/Record/008571780</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e18528">https://duke.app.box.com/folder/125464212484</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e18528">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/EuqiJZ8-lmNHpQe6oC1sLX0BdbuDYASFZJXTx_qBhHBB6w?e=iYX4Mg</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">[براني]</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">[external]</note>
@@ -25865,7 +25863,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e18615">Al-Ḥiṣn al-Ḥaṣīn min Kalām Sayyid al-Mursalīn</title>
                      <title level="a" xml:lang="ar" source="#d1e18615">الحصن الحصين من كلام سيد المرسلين</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e18628">http://tinyurl.galegroup.com/tinyurl/6ubnu0</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e18630">https://duke.app.box.com/folder/107676265440</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e18630">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/Eqq8ccAjQbxKl7zgQeHcJ-IBRMKcNScZmk0bHmTrv-d2yA?e=aBGDA9</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">[براني]</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">[external]</note>
@@ -25999,7 +25997,7 @@
                      <title level="a" xml:lang="ar" source="#d1e18717">حاشية ابي النجا على شرح الشيخ خالد الازهري على متن
                      الاجرومية في علم العربية</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e18730">https://catalog.hathitrust.org/Record/009035668</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e18732">https://duke.app.box.com/file/637900479182</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e18732">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/Eg7-Y8ASRJZGgkZYaax2eqAB-IgESANrvwR4HrGqmfqqnA?e=UQKwVa</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">[ميري]</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">[government]</note>
@@ -26523,7 +26521,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e19045">Sharḥ Shudhūr al-Dhahab fī Maʻrifat Kalām al-ʻArab</title>
                      <title level="a" xml:lang="ar" source="#d1e19045">شرح شذور الذهب في معرفة كلام العرب</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e19058">http://gdc.galegroup.com.ezp-prod1.hul.harvard.edu/gdc/artemis/MonographsDetailsPage/MonographsDetailsWindow?disableHighlighting=false&amp;displayGroupName=DVI-Monographs&amp;docIndex=1&amp;source=&amp;prodId=EAPB&amp;mode=view&amp;limiter=&amp;display-query=OQE+شذور+الذهب+في+معرفة+كلام+العرب&amp;contentModules=&amp;action=e&amp;sortBy=&amp;windowstate=normal&amp;currPage=1&amp;dviSelectedPage=&amp;scanId=&amp;query=OQE+شذور+الذهب+في+معرفة+كلام+العرب&amp;search_within_results=&amp;p=EAPB&amp;catId=&amp;u=camb55135&amp;displayGroups=&amp;documentId=GALE%7CLQMRRV063402518&amp;activityType=BasicSearch&amp;failOverType=&amp;commentary=</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e19060">https://duke.app.box.com/file/383726637811</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e19060">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/ElqYSHj_BsFDtBYLSJWinK4BT2Hrk6kC3QrN-hMnAsnc3g?e=wgXiwv</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">[ميري]</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">[government]</note>
@@ -26654,7 +26652,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e19148">al-Tibr al-Masbūk fī Naṣīḥat al-Mulūk</title>
                      <title level="a" xml:lang="ar" source="#d1e19148">التبر المسبوك في نصيحة الملوك </title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e19160">http://tinyurl.galegroup.com.proxy.lib.duke.edu/tinyurl/6ynFW3</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e19162">https://duke.app.box.com/file/421870368085</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e19162">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/Ej8lYi__M7pFmELFtKrAtyUBvH7pnCNFgJH6lXf-br8SvQ?e=aUIAl7</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">[براني]</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">[external]</note>
@@ -26786,7 +26784,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e19248">Isʻāf al-Marḍā min ʻIlm Manāfiʻ al-Aʻḍā</title>
                      <title level="a" xml:lang="ar" source="#d1e19248">إسعاف المرضى من علم منافع الأعضا</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e19261">http://tinyurl.galegroup.com.proxy.lib.duke.edu/tinyurl/6ynQ94</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e19263">https://duke.app.box.com/file/422483243128</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e19263">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/Ehgs2gX7evJKmBY6tGXsyDwBclA3ExE1Zh2YAY7HLBVF4g?e=Mup3kk</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">[ميري]</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">[government]</note>
@@ -27178,7 +27176,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e19503">Minaḥ al-Minnah fi al-Talabbus bi-l-Sunnah</title>
                      <title level="a" xml:lang="ar" source="#d1e19503">منح المنه فى التلبس بالسنه</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e19515">https://gdc-gale-com.proxy.lib.duke.edu/gdc/artemis/MonographsDetailsPage/MonographsDetailsWindow?disableHighlighting=false&amp;displayGroupName=DVI-Monographs&amp;docIndex=1&amp;source=fullList&amp;prodId=EAPB&amp;mode=view&amp;limiter=&amp;display-query=OQE+%D9%85%D9%86%D8%AD+%D8%A7%D9%84%D9%85%D9%86%D9%87&amp;contentModules=&amp;action=e&amp;sortBy=&amp;windowstate=normal&amp;currPage=1&amp;dviSelectedPage=&amp;scanId=&amp;query=OQE+%D9%85%D9%86%D8%AD+%D8%A7%D9%84%D9%85%D9%86%D9%87&amp;search_within_results=&amp;p=EAPB&amp;catId=&amp;u=duke_perkins&amp;displayGroups=&amp;documentId=GALE%7COJMHXO994081648&amp;activityType=BasicSearch&amp;failOverType=&amp;commentary=</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e19517">https://duke.app.box.com/folder/120031046577</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e19517">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/EtZRUzUZGlpMhOytwLzukusBNe6LYPBrCUuV1m22xWZWRQ?e=Ebhccv</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">[براني]</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">[external]</note>
@@ -27441,7 +27439,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e19676">Kitāb Imām al-Mutaḥaddithīn ... al-Bukhārī</title>
                      <title level="a" xml:lang="ar" source="#d1e19676">كتاب امام المتحدثين ... البخاري</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e19688">https://catalog.hathitrust.org/api/volumes/oclc/43622371.html</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e19690">https://duke.app.box.com/folder/129027779151</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e19690">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/EqQux8YsMiJBnXo7IxBsR50BEOEcYn99zugAciISBQUV4Q?e=vx9y1W</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">[براني-ميري]</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">[external-government]</note>
@@ -27836,7 +27834,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e19937">Sharḥ al-Shāfiyah</title>
                      <title level="a" xml:lang="ar" source="#d1e19937">شرح الشافية</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e19949">https://login.proxy.lib.duke.edu/login?url=https://gdc.gale.com/gdc/artemis/MonographsDetailsPage/MonographsDetailsWindow?disableHighlighting=false&amp;displayGroupName=DVI-Monographs&amp;docIndex=4&amp;prodId=EAPB&amp;mode=view&amp;limiter=&amp;display-query=OQE+%22%D8%A7%D9%84%D8%B4%D8%A7%D9%81%D9%8A%D8%A9%22&amp;contentModules=&amp;action=e&amp;sortBy=&amp;windowstate=normal&amp;currPage=1&amp;dviSelectedPage=&amp;scanId=&amp;query=OQE+%22%D8%A7%D9%84%D8%B4%D8%A7%D9%81%D9%8A%D8%A9%22&amp;search_within_results=&amp;p=EAPB&amp;catId=&amp;displayGroups=&amp;documentId=GALE%7CXKIYMJ251619148&amp;activityType=BasicSearch&amp;failOverType=&amp;commentary=&amp;source=Bookmark&amp;u=duke_perkins&amp;jsid=27c5392b60759ecef07eb7f39f781747.</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e19951">https://duke.app.box.com/folder/119490334538</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e19951">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/EldLg0hxMY5BhnaH2wKbEEEB2QxWB6BbCF1dhUJtv9lEAw?e=aiqTM1</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">[براني]</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">[external]</note>
@@ -27968,7 +27966,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e20037"/>
                      <title level="a" xml:lang="ar" source="#d1e20037"/>
                      <ref type="URL" subtype="originalLink" xml:id="d1e20048"/>
-                     <ref type="URL" subtype="archived" xml:id="d1e20049"/>
+                     <ref type="URL" subtype="archived" xml:id="d1e20049">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/EmlSKtYaIz1CnBdQ6kSolfABY5WEFZnnEilBrxvzKmKRHA?e=3L1zkl</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d"/>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d"/>
@@ -28096,7 +28094,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e20112">Kitāb Faṣl al-Khiṭāb fī Uṣūl Lughat al-Aʻrāb</title>
                      <title level="a" xml:lang="ar" source="#d1e20112">كتاب فصل الخطاب في أصول لغة الاعراب </title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e20125">https://babel.hathitrust.org/cgi/pt?id=osu.32435003445376;view=1up;seq=7</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e20127">https://duke.app.box.com/file/422473443588</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e20127">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/EiHMryt_2-hNrzjRzaZYntQB0f2glfrotVE1wtHlE2dinw?e=FzBf66</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">[براني]</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">[external]</note>
@@ -28487,7 +28485,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e20360">Al-Ishʻār bi-Ḥamīd al-Ashʻār</title>
                      <title level="a" xml:lang="ar" source="#d1e20360">الاشعار بحميد الاشعار</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e20373">https://catalog.hathitrust.org/Record/009016964</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e20375">https://duke.app.box.com/file/476360719463</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e20375">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/EjZeH4WRughKoKQbLxoSNUABVE0rRDvKxvTv4jmWcl5-JA?e=Syp0qd</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
@@ -29397,7 +29395,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e20957">Nuqṭat al-Dāyirah</title>
                      <title level="a" xml:lang="ar" source="#d1e20957">نقطة الدايرة</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e20969">http://tinyurl.gale.com/tinyurl/DDvDF1</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e20971">https://duke.app.box.com/file/381837024996</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e20971"/>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d"/>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d"/>
@@ -29529,7 +29527,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e21046">Siyāḥat Amrīqah</title>
                      <title level="a" xml:lang="ar" source="#d1e21046">سياحة امريقة</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e21058">https://catalog.hathitrust.org/Record/008921198</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e21060">https://duke.app.box.com/folder/128005507563</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e21060"/>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d"/>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d"/>
@@ -30046,7 +30044,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e21352">Turjumān Turkī wa-ʻArabī</title>
                      <title level="a" xml:lang="ar" source="#d1e21352">ترجمان تركي وعربي</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e21365">http://tinyurl.gale.com/tinyurl/DDdVh0</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e21367">https://duke.app.box.com/folder/127931217524</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e21367"/>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d"/>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d"/>
@@ -30184,7 +30182,7 @@
                      <title level="a" xml:lang="ar" source="#d1e21515">مختصر رحلة الإمام أبي عبد الله محمد بن محمد اللواتي المعروف بابن بطوطة
                      المغربي</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e21528">http://tinyurl.gale.com/tinyurl/DCczD2</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e21530">https://duke.app.box.com/folder/127500578614</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e21530"/>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d"/>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d"/>
@@ -30316,7 +30314,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e21612">اطباق الذهب</title>
                      <title level="a" xml:lang="ar" source="#d1e21612">We read it as أطياف الذهب in D but it must be اطباق الذهب</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e21624">Aṭbāq al-Dhahab</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e21626">https://babel.hathitrust.org/cgi/pt?id=osu.32435010165561;view=1up;seq=115</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e21626"/>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d"/>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d"/>
@@ -30447,7 +30445,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e21705">al-Qawl al-Tāmm fī Bayān Aṭwār Sayyidinā Ādam</title>
                      <title level="a" xml:lang="ar" source="#d1e21705">القول التام في بيان اطوار سيدنا آدم</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e21717">http://gdc.galegroup.com.ezp-prod1.hul.harvard.edu/gdc/artemis/MonographsDetailsPage/MonographsDetailsWindow?disableHighlighting=false&amp;displayGroupName=DVI-Monographs&amp;docIndex=1&amp;source=&amp;prodId=EAPB&amp;mode=view&amp;limiter=&amp;display-query=OQE+al-qawl+al-tamm&amp;contentModules=&amp;action=e&amp;sortBy=&amp;windowstate=normal&amp;currPage=1&amp;dviSelectedPage=&amp;scanId=&amp;query=OQE+al-qawl+al-tamm&amp;search_within_results=&amp;p=EAPB&amp;catId=&amp;u=camb55135&amp;displayGroups=&amp;documentId=GALE%7CHZFLUZ352956485&amp;activityType=BasicSearch&amp;failOverType=&amp;commentary=</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e21719">https://duke.app.box.com/file/381879496534</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e21719"/>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d"/>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d"/>
@@ -30579,7 +30577,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e21799">Kitāb Tawārīkh al-ʻĀlam 'alā Wajh al-ʻUmūm</title>
                      <title level="a" xml:lang="ar" source="#d1e21799">کتاب تواريخ العالم علی وجه العموم</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e21811">https://archive.org/details/McGillLibrary-rbsc_d17-t37-1833-17627/page/n19/mode/2up</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e21813">https://duke.app.box.com/folder/63627702727</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e21813"/>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d"/>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d"/>
@@ -30713,7 +30711,7 @@
                      <title level="a" xml:lang="ar" source="#d1e21889">حاشية الامام شيخ الاسلام الشيخ البيجوري على السمرقندية في
                      البيان</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e21902">http://hdl.handle.net/2027/njp.32101073505883</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e21904">https://duke.app.box.com/folder/63626766258</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e21904"/>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d"/>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d"/>
@@ -31884,7 +31882,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e22640">Hidāyat al-Islām</title>
                      <title level="a" xml:lang="ar" source="#d1e22640">هداية الاسلام</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e22652">https://gdc-gale-com.proxy.lib.duke.edu/gdc/artemis/MonographsDetailsPage/MonographsDetailsWindow?disableHighlighting=false&amp;displayGroupName=DVI-Monographs&amp;docIndex=1&amp;source=fullList&amp;prodId=EAPB&amp;mode=view&amp;limiter=&amp;display-query=OQE+%D9%87%D8%AF%D8%A7%D9%8A%D8%A9+%D8%A7%D9%84%D8%A7%D8%B3%D9%84%D8%A7%D9%85&amp;contentModules=&amp;action=e&amp;sortBy=&amp;windowstate=normal&amp;currPage=1&amp;dviSelectedPage=&amp;scanId=&amp;query=OQE+%D9%87%D8%AF%D8%A7%D9%8A%D8%A9+%D8%A7%D9%84%D8%A7%D8%B3%D9%84%D8%A7%D9%85&amp;search_within_results=&amp;p=EAPB&amp;catId=&amp;u=duke_perkins&amp;displayGroups=&amp;documentId=GALE%7CUJPEYI868742823&amp;activityType=BasicSearch&amp;failOverType=&amp;commentary=</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e22654">https://duke.app.box.com/file/383723658602</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e22654">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/EumKxu-VSFFAk9mAdwof7rkBxkwFbR_0k4vuhywXVDqH0Q?e=tTGzsF</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">[براني]</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">[external]</note>
@@ -32016,7 +32014,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e22737">Inshā-i Hayret Efendi (Riyaz ül-Küteba ve Hıyaz ül-Üdeba)</title>
                      <title level="a" xml:lang="ar" source="#d1e22737">انشاى حيرت أفندي</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e22750">https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10220003_00498.html?zoom=0.7500000000000002</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e22752">https://duke.app.box.com/folder/63899279336</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e22752">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/EiOvjIG1raJLvBC64YZjGxIBmS3p0mT1t2w6B8qpgDpcJg?e=hyW9jh</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">[ميري]</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">[government]</note>
@@ -32148,7 +32146,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e22834"/>
                      <title level="a" xml:lang="ar" source="#d1e22834"/>
                      <ref type="URL" subtype="originalLink" xml:id="d1e22845"/>
-                     <ref type="URL" subtype="archived" xml:id="d1e22846"/>
+                     <ref type="URL" subtype="archived" xml:id="d1e22846">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/EjSaDlIvSl9JvPyjz_EJcWcBa_940eAKDqukiYL4twcrTA?e=lFW6Pa</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d"/>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d"/>
@@ -32663,7 +32661,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e23129">Kitāb Uṣūl al-Handasah </title>
                      <title level="a" xml:lang="ar" source="#d1e23129">كتاب أصول الهندسة</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e23142">http://tinyurl.galegroup.com/tinyurl/6d5XL2</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e23144">https://duke.app.box.com/folder/109807762435</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e23144">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/EtqzaLIMlNZFm3mdQ2wy-m4BhCUgnFfeZ_uij8yStLJfZw?e=HtEhQg</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">[ميري]</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">[government]</note>
@@ -32794,7 +32792,7 @@
                      <title level="a" xml:lang="ar-Latn-x-lc" source="#d1e23233">Şerh-i Tuhfa</title>
                      <title level="a" xml:lang="ar" source="#d1e23233">شرح تحفة</title>
                      <ref type="URL" subtype="originalLink" xml:id="d1e23246">https://catalog.hathitrust.org/Record/010744499</ref>
-                     <ref type="URL" subtype="archived" xml:id="d1e23248">https://duke.app.box.com/folder/110072043766</ref>
+                     <ref type="URL" subtype="archived" xml:id="d1e23248">https://umass-my.sharepoint.com/:f:/g/personal/kaschwartz_umass_edu/Epms9rih8c1IoEpmAlfastEB9VYoA6YzkCBSwI7SAKMDsQ?e=4ex0fL</ref>
                      <noteGrp type="pressType" source="#d">
                         <note type="pressType" xml:lang="ar" source="#d">[براني]</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">[external]</note>
@@ -33272,4 +33270,3 @@
       </body>
    </text>
 </TEI>
-
