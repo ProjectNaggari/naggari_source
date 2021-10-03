@@ -144,7 +144,7 @@
          <div type="frontpage" xml:id="nTitle" xml:lang="en">
             <head>
                <title>The Books of Muṣṭafā Salāmah al-Najjārī</title>
-               <title>A Digital Humanities Project</title>
+               <title type="sub">A Digital Humanities Project</title>
             </head>
             <p>Data collection, design of categories, and editing by <ref target="https://scholars.duke.edu/person/Adam.Mestyan">
                   <persName ref="#pAM">Adam
