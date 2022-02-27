@@ -239,6 +239,7 @@
                <title>The Books of Shaykh Muṣṭafā Salāmah al-Najjārī (d.1870)</title>
                <title>An Extended Bibliographical Database: The Printed Books</title>
             </head>
+            <div xml:id="nT1Desc">
             <p>Data collection by <persName ref="#pAM">Adam Mestyan</persName> and <persName ref="pKS">Kathryn Schwartz</persName>
             </p>
             <p>With contributions from <persName ref="#pSS">Sean Swanick</persName> and <persName ref="pRN">
@@ -249,6 +250,8 @@
             <p>With help from <persName ref="#pJbP">Joseph Ben Prestel</persName>, <persName ref="#pDL">Daniel Lowe</persName>, and <persName ref="#pYSH">Yahia
                   Shawkat</persName>
             </p>
+            <p>TEI consultant: <persName ref="#pHC">Hugh Cayless</persName></p>
+            </div>
          </div>
          <div type="table" xml:id="nTables">
             <listBibl xml:id="d1e289">
