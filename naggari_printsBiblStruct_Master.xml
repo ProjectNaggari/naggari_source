@@ -127,7 +127,7 @@
    </teiHeader>
    <standOff xml:id="nStandOff">
       <listBibl>
-         <bibl xml:id="d">The list of books in the probate inventory-book (daftar) dated 24 Dhū
+         <bibl xml:id="d">The first source, signified as "d", is the list of books in the probate inventory-book (daftar) dated 24 Dhū
             al-Ḥijjah 1286 (27 March 1870), pages 8-25, 3002-012642, Bayt Māl Miṣr, Dār al-Wathāʾiq
             al-Qawmīyah (Egyptian National Archives).</bibl>
       </listBibl>
@@ -167,18 +167,22 @@
          </div>
          <div type="chapter" xml:id="nIntro">
             <head>Introduction</head>
-            <p>This website is based on the inventory of books belonging to <persName xml:lang="ar-Latn" ref="#hMS">Muṣṭafā Salāmah al-Najjārī</persName> (d.
-               1286/1870), a nineteenth-century Egyptian intellectual. We have identified the
-               titles, enriched with bibliographical data, and located available scans of the
-               copies. This website is an online supplement to <persName ref="#pAM">Adam
+            <p>This website provides an introduction into a nineteenth-century Egyptian sheikh's literary world. The sheikh in question is <persName xml:lang="ar-Latn" ref="#hMS">Muṣṭafā Salāmah al-Najjārī</persName> (d.
+               1286/1870), one of the small masters of (Ottoman) Arabic poetry and a pioneering editor and entrepeneur in the early Arabic print market in late Ottoman Egypt. 
+               
+               The data is based, first, on the inventory of books, found among the documents of the probate process after the death of <persName xml:lang="ar-Latn" ref="#hMS">Muṣṭafā Salāmah al-Najjārī</persName>. This inventory contains about 500 titles, about 260 printed books and the rest are manuscript titles. 
+               We do not call it a "library" since Sheikh Salāmah had some titles on loan, with others he have been editing, and finally he clearly prepared some copies for sale. Still, we can assume that the majority of these titles he read or at least was interested to read, and these were in his possession, forming an actual library. In the inventory, these titles are simply called "books" (<hi rend="italic">kutub</hi>).
+               Second, we have identified most of the printed titles, enriched with bibliographical data, and located available scans of the printed copies of the run (see how we categorized likelihood. Third, we have also listed the manuscript titles but we were not able to work on these more closely. 
+               
+            </p><p> Our work was documented <ref target="https://anegyptiansheikhsliteraryworld.umasscreate.net/">at our blog
+               2019-2021.</ref>
+            </p><p>
+               In May 2022,  <persName ref="pKS">Kathryn Schwartz</persName> passed away tragically sudden. The project was originally intended as an online supplement to <persName ref="#pAM">Adam
                   Mestyan</persName>, <title>Primordial History, Print Capitalism, and Egyptology in
-                  Nineteenth-Century Cairo, Muṣṭafā Salāma al-Naǧǧārī’s The Garden of Ismail’s
-                  Praise</title> (Cairo: Ifao, 2021) and <persName ref="pKS">Kathryn
-                  Schwartz</persName>, <title>Print and the People of Cairo
-               </title>(forthcoming).</p>
-            <p> Our work was documented <ref target="https://anegyptiansheikhsliteraryworld.umasscreate.net/">at our blog
-                  2019-2021.</ref>
-            </p>
+                     Nineteenth-Century Cairo, Muṣṭafā Salāma al-Naǧǧārī’s The Garden of Ismail’s
+                     Praise</title> (Cairo: Ifao, 2021) and <persName ref="pKS">Kathryn
+                        Schwartz</persName>,<title>Print and the People of Cairo</title> book manuscript, which was based on her dissertation (Harvard, 2015). The website was finished by Adam Mestyan with the help of Hugh Cayless in the summer of 2022. We dedicate this website to her loving memory.</p>
+            
          </div>
          <div xml:id="nLife">
             <p>
