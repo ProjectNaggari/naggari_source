@@ -149,6 +149,15 @@
                   <persName ref="pKS">Kathryn Schwartz</persName>
                </ref>
             </p>
+            <p>With the contribution of <persName xml:lang="en">
+                  <forename xml:lang="en">Sean</forename>
+                  <surname xml:lang="en">Swanick</surname>
+               </persName> and <persName xml:lang="en">
+                  <forename xml:lang="en">Rezk</forename>
+                  <surname xml:lang="en">Nori</surname>
+               </persName></p>
+            <p>With the help of <name>Joseph Ben Prestel</name>,<name>Daniel Lowe</name>, and
+                  <name>Yahia Shawkat</name></p>
             <p>TEI XML transformation, markup, codes and concept of HTML website by <persName
                   ref="#pAM">Adam Mestyan</persName>
             </p>
