@@ -142,14 +142,15 @@
                <title>The Books of Muṣṭafā Salāmah al-Najjārī</title>
                <title type="sub">A Digital Humanities Project</title>
             </head>
-            <p>Data collection, design of categories, and editing by <ref target="https://scholars.duke.edu/person/Adam.Mestyan">
-                  <persName ref="#pAM">Adam
-                     Mestyan</persName>
+            <p>Data collection, design of categories, and editing by <ref
+                  target="https://scholars.duke.edu/person/Adam.Mestyan">
+                  <persName ref="#pAM">Adam Mestyan</persName>
                </ref> and <ref target="https://www.umass.edu/history/member/kathryn-schwartz">
                   <persName ref="pKS">Kathryn Schwartz</persName>
                </ref>
             </p>
-            <p>TEI XML transformation, markup, codes and concept of HTML website by <persName ref="#pAM">Adam Mestyan</persName>
+            <p>TEI XML transformation, markup, codes and concept of HTML website by <persName
+                  ref="#pAM">Adam Mestyan</persName>
             </p>
             <p>Visualization by <persName ref="pKS">Kathryn Schwartz</persName>
             </p>
@@ -157,7 +158,8 @@
             </p>
          </div>
          <div xml:id="nCopyright" xml:lang="en">
-            <p>This database and website are under the Creative Commons copyright of <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial
+            <p>This database and website are under the Creative Commons copyright of <ref
+                  target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial
                   4.0 International (CC BY-NC 4.0)</ref>
             </p>
          </div>
@@ -167,22 +169,41 @@
          </div>
          <div type="chapter" xml:id="nIntro">
             <head>Introduction</head>
-            <p>This website provides an introduction into a nineteenth-century Egyptian sheikh's literary world. The sheikh in question is <persName xml:lang="ar-Latn" ref="#hMS">Muṣṭafā Salāmah al-Najjārī</persName> (d.
-               1286/1870), one of the small masters of (Ottoman) Arabic poetry and a pioneering editor and entrepeneur in the early Arabic print market in late Ottoman Egypt. 
-               
-               The data is based, first, on the inventory of books, found among the documents of the probate process after the death of <persName xml:lang="ar-Latn" ref="#hMS">Muṣṭafā Salāmah al-Najjārī</persName>. This inventory contains about 500 titles, about 260 printed books and the rest are manuscript titles. 
-               We do not call it a "library" since Sheikh Salāmah had some titles on loan, with others he have been editing, and finally he clearly prepared some copies for sale. Still, we can assume that the majority of these titles he read or at least was interested to read, and these were in his possession, forming an actual library. In the inventory, these titles are simply called "books" (<hi rend="italic">kutub</hi>).
-               Second, we have identified most of the printed titles, enriched with bibliographical data, and located available scans of the printed copies of the run (see how we categorized likelihood. Third, we have also listed the manuscript titles but we were not able to work on these more closely. 
-               
-            </p><p> Our work was documented <ref target="https://anegyptiansheikhsliteraryworld.umasscreate.net/">at our blog
-               2019-2021.</ref>
-            </p><p>
-               In May 2022,  <persName ref="pKS">Kathryn Schwartz</persName> passed away tragically sudden. The project was originally intended as an online supplement to <persName ref="#pAM">Adam
-                  Mestyan</persName>, <title>Primordial History, Print Capitalism, and Egyptology in
-                     Nineteenth-Century Cairo, Muṣṭafā Salāma al-Naǧǧārī’s The Garden of Ismail’s
-                     Praise</title> (Cairo: Ifao, 2021) and <persName ref="pKS">Kathryn
-                        Schwartz</persName>,<title>Print and the People of Cairo</title> book manuscript, which was based on her dissertation (Harvard, 2015). The website was finished by Adam Mestyan with the help of Hugh Cayless in the summer of 2022. We dedicate this website to her loving memory.</p>
-            
+            <p>This website provides an introduction into a nineteenth-century Egyptian sheikh's
+               literary world. The sheikh in question is <persName xml:lang="ar-Latn" ref="#hMS"
+                  >Muṣṭafā Salāmah al-Najjārī</persName> (d. 1286/1870), one of the small masters of
+               (Ottoman) Arabic poetry and a pioneering editor and entrepeneur in the early Arabic
+               print market in late Ottoman Egypt. The data is based, first, on the inventory of
+               books, found among the documents of the probate process after the death of <persName
+                  xml:lang="ar-Latn" ref="#hMS">Muṣṭafā Salāmah al-Najjārī</persName>. This
+               inventory contains about 500 titles, about 260 printed books and the rest are
+               manuscript titles. We do not call it a "library" since Sheikh Salāmah had some titles
+               on loan, with others he have been editing, and finally he clearly prepared some
+               copies for sale. Still, we can assume that the majority of these titles he read or at
+               least was interested to read, and these were in his possession, forming an actual
+               library. In the inventory, these titles are simply called "books" (<hi rend="italic"
+                  >kutub</hi>). Second, we have identified most of the printed titles, enriched with
+               bibliographical data, and located available scans of the printed copies of the run
+               (see how we categorized likelihood. Third, we have also listed the manuscript titles
+               but we were not able to work on these more closely. </p>
+            <p> Our work was documented <ref
+                  target="https://anegyptiansheikhsliteraryworld.umasscreate.net/">at our blog
+                  2019-2021.</ref>
+            </p>
+            <p> In May 2022, <persName ref="pKS">Kathryn Schwartz</persName> passed away suddenly.
+               The project was originally intended as an online supplement to <persName ref="#pAM"
+                  >Adam Mestyan</persName>, <title><hi rend="italic"><ref
+                        target="https://www.ifao.egnet.net/publications/catalogue/9782724707496/"
+                        >Primordial History, Print Capitalism, and Egyptology in Nineteenth-Century
+                        Cairo, Muṣṭafā Salāma al-Naǧǧārī’s The Garden of Ismail’s
+                  Praise</ref></hi></title> (Cairo: Ifao, 2021) and <persName ref="pKS">Kathryn
+                  Schwartz</persName>,<title><hi rend="italic">Print and the People of
+                  Cairo</hi></title> book manuscript, which was based on her dissertation "<ref
+                  target="https://dash.harvard.edu/handle/1/23845476">Meaningful Mediums: A Material
+                  and Intellectual History of Manuscript and Print Production in Nineteenth Century
+                  Ottoman Cairo</ref>" (Harvard University, unpublished dissertation, 2015). The
+               website was finished by Adam Mestyan with the help of Hugh Cayless in the summer of
+               2022. We dedicate this website to her memory. </p>
          </div>
          <div xml:id="nLife">
             <p>
@@ -32783,5 +32804,4 @@
       </body>
    </text>
 </TEI>
-
 
