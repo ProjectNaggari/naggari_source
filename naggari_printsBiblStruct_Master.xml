@@ -156,7 +156,7 @@
                   <forename xml:lang="en">Rezk</forename>
                   <surname xml:lang="en">Nori</surname>
                </persName></p>
-            <p>With the help of <name>Joseph Ben Prestel</name>,<name>Daniel Lowe</name>, and
+            <p>With the help of <name>Joseph Ben Prestel</name>, <name>Daniel Lowe</name>, and
                   <name>Yahia Shawkat</name></p>
             <p>TEI XML transformation, markup, codes and concept of HTML website by <persName
                   ref="#pAM">Adam Mestyan</persName>
@@ -177,7 +177,7 @@
                Hugh Cayless and Raffaele Viglianti to display the umodified TEI file in HTML</p>
          </div>
          <div type="chapter" xml:id="nIntro">
-            <head>Introduction</head>
+            <head xml:id="IntroHead">Introduction</head>
             <p>This website provides an introduction into a nineteenth-century Egyptian sheikh's
                literary world. The sheikh in question is <persName xml:lang="ar-Latn" ref="#hMS"
                   >Muṣṭafā Salāmah al-Najjārī</persName> (d. 1286/1870), one of the small masters of
