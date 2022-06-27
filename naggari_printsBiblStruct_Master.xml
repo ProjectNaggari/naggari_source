@@ -173,7 +173,7 @@
             </p>
             <p>Visualization by <persName ref="pKS">Kathryn Schwartz</persName>
             </p>
-            <p>TEI consultant: <persName ref="#pHC">Hugh Cayless</persName>
+            <p>TEI, JS, and CSS consultant: <persName ref="#pHC">Hugh Cayless</persName>
             </p>
          </div>
          <div xml:id="nCopyright" xml:lang="en">
