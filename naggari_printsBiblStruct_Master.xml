@@ -185,8 +185,10 @@
          <div xml:id="nCetei" xml:lang="en">
             <p>This website uses <ref target="https://github.com/TEIC/CETEIcean">CETEICEan</ref> by
                Hugh Cayless and Raffaele Viglianti to display the umodified TEI file in HTML</p>
-            <p xml:id="nKathryn">This website is dedicated to the memory of <persName ref="pKS"
-                  >Kathryn Schwartz</persName>.</p>
+            <div xml:id="nKathryn">
+               <p>This website is dedicated to the memory of <persName ref="pKS">Kathryn
+                     Schwartz</persName>.</p>
+            </div>
          </div>
          <div type="chapter" xml:id="nIntro">
             <head xml:id="IntroHead">Introduction</head>
