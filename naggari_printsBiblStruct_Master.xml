@@ -220,7 +220,7 @@
                   >Adam Mestyan</persName>, <title><hi rend="italic"><ref
                         target="https://www.ifao.egnet.net/publications/catalogue/9782724707496/"
                         >Primordial History, Print Capitalism, and Egyptology in Nineteenth-Century
-                        Cairo, Muṣṭafā Salāma al-Naǧǧārī’s The Garden of Ismail’s
+                        Cairo: Muṣṭafā Salāma al-Naǧǧārī’s The Garden of Ismail’s
                   Praise</ref></hi></title> (Cairo: Ifao, 2021) and <persName ref="pKS">Kathryn
                   Schwartz</persName>,<title><hi rend="italic">Print and the People of
                   Cairo</hi></title> book manuscript, which was based on her dissertation "<ref
@@ -276,32 +276,455 @@
                al-Kāʾinah bi-Sarāy Darb al-Jamāmiz bi-Miṣr al-Maḥrūsah al-Muʿizzīyah (Cairo:
                Maṭbaʿat al-Shaykh ʿUthmān ʿAbd al-Rāziq, 1311 [1893]). </p>
             <p> B = Bayān mā Ṭubiʿa min al-Kutub al-Kathīra min mundhu Tasharrafat al-Maṭbaʿah
-               bi-Dukhūlihā fī Ḥawzat al-Dāʾirah al-Munīrah ([Cairo? 1872?] </p>
+               bi-Dukhūlihā fī Ḥawzat al-Dāʾirah al-Munīrah ([Cairo? 1872?]</p>
+         </div>
+         <div xml:id="nReflect">
+            <p>This text is a copy from our <ref
+                  target="https://anegyptiansheikhsliteraryworld.umasscreate.net/reflections/"
+                  >blog</ref>, maintained by Kathryn Schwartz between 2019 and 2021.</p>
+            <p><note>REFLECTIONS<list type="simple">
+                     <item>
+                        <hi rend="bold">
+                           <hi rend="underline">Table of Contents</hi>
+                        </hi>
+                        <list type="simple">
+                           <item>
+                              <hi rend="bold">Methodological Remarks:</hi>
+                              <hi rend="italic">
+                                 <hi rend="bold">Project al-Najjari</hi>
+                              </hi>
+                           </item>
+                           <item>
+                              <hi rend="bold">Category Remarks: Printed Books</hi>
+                           </item>
+                        </list>
+                     </item>
+                  </list>
+                  <p>
+                     <hi rend="bold">Methodological Remarks:</hi>
+                     <hi rend="italic">
+                        <hi rend="bold">Project al-Najjari</hi>
+                     </hi>
+                  </p>
+                  <p>
+                     <hi rend="italic">Adam Mestyan &amp; Kathryn A. Schwartz</hi>
+                  </p>
+                  <p>I. Printed titles</p>
+                  <p>How do we reconstruct the titles in al-Najjari’s book collection? What do we
+                     mean by “reconstruction”? What is a title? </p>
+                  <p>In this short description we outline our methodology in creating our al-Najjārī
+                     Google Sheet database. This is almost identical to the description of the
+                     process of making the database. The process itself, however, is not linear. We
+                     have several waves of returning to data, cross-checking each others’ work, etc.
+                     (see Work Flow).</p>
+                  <p>There are three phases of identification: “the title,” “the work,” “the
+                     edition.” Once we determine these identifications, we classify editions
+                     according to criteria of “certainty”: absolute and relative certainty. Only
+                     absolute or relatively certain editions appear in the database. </p>
+                  <p>I.1. “The title”</p>
+                  <p>First, Mestyan enters onto the database what he has transcribed by hand from
+                     the al-Najjārī inventory daftar in the archives: the title; that it is printed;
+                     the publication type (government – <hi rend="italic">mīrī</hi> or external –
+                        <hi rend="italic">barrānī</hi>); the value; and any other available data.
+                     This is done in Arabic and in ALA-LC/English. Each title is given an
+                     identification number which runs in accordance to its appearance in the
+                     inventory, and the information corresponding to each title flows across one
+                     row. Rezk Nouri then double-checks this preliminary data.</p>
+                  <p>This is the extent of our rough data. The “title” is the usually two to three
+                     words that Muḥammad Qindīl, the assessor (<hi rend="italic">kashshāf</hi>) of
+                     the books in al-Najjārī’s estate, indicated as a title, to which he rendered a
+                     particular monetary value in the original inventory.</p>
+                  <p>In a few cases, the “title” is actually a conglomeration of titles – usually
+                     smaller essays and treatises – which were printed and likely bound together.
+                     Thus Muḥammad Qindīl added only one value for this grouping. In this case, a
+                     master identification number is provided to the whole conglomeration, and
+                     separate, sub-Google Sheets are created in which the titles are disaggregated
+                     into separate rows.</p>
+                  <p>Let us move forward with the example of a straightforward “title,” as opposed
+                     to a conglomeration of titles. We will take up the example of the third entry
+                     in the daftar inventory, “<hi rend="italic">Maʻāhid al-Tanṣīṣ</hi>.” Mestyan
+                     numbered this title as n1t3. He copied “<hi rend="italic">Maʻāhid
+                        al-Tanṣīṣ</hi>”, that its value is 70 <hi rend="italic">qirsh</hi>, that it
+                     is printed, and that it is <hi rend="italic">mīrī</hi>.</p>
+                  <p>I.2. “The work”</p>
+                  <p>In the next phase, Mestyan, Schwartz, and Swanick each take take over
+                     identifying these titles, based on agreed pre-assignment. </p>
+                  <p>The one in charge of a title attempts to identify the work, which best
+                     corresponds to the title data from the inventory. We do this through various
+                     searches in online and printed catalogues (see Sources); and based on our
+                     knowledge in Arabic literature and science.</p>
+                  <p>Our example “Maʻāhid al-Tanṣīṣ” is easy since there is only one work with this
+                     title: <hi rend="italic">Maʻāhid al-Tanṣīṣ</hi>, a literary commentary on an
+                     earlier work by ʻAbd al-Raḥīm ibn ʻAbd al-Raḥmān ibn Aḥmad al-ʻAbbāsī, a
+                     sixteenth-century author (d. hijrī 963).</p>
+                  <p>I.3. “The edition”</p>
+                  <p>Once the one in charge identifies the work, that researcher next tries to
+                     identify the printed copies which 1) correspond to the known bibliographical
+                     information of “the title,” and 2) were printed before 1870, the year when
+                     al-Najjārī died.</p>
+                  <p>Based on these criteria, the researcher may find two to three, or even more,
+                     printed editions of one work. </p>
+                  <p>I.3.1 Absolute certainty</p>
+                  <p>If there is only one printed edition, and/or only one that corresponds to the
+                     inventory title data (for instance, a <hi rend="italic">mīrī</hi> print), the
+                     researcher then tries to find a physical copy of the text to observe, or a
+                     digitally-posted scanned copy of the text. They then enter into the Google
+                     Sheet database a large number of bibliographical and extra-bibliographical
+                     features of that edition in English/ALA-LC transliteration (see
+                     Categories).</p>
+                  <p>In the case of our example, there is only one edition of <hi rend="italic"
+                        >Maʻāhid al-Tanṣīṣ</hi> produced from the Egyptian government printing press
+                     before 1870: <hi rend="italic">Sharḥ Shawāhid al-Talkhīṣ al-Musammā Maʻāhid
+                        al-Tanṣīṣ.</hi> Following the scanned copy of this edition from 1857 (hijrī
+                     1274), they hand-gather the various features which they then enter into the
+                     database.</p>
+                  <p>In this case, we are absolutely certain that a copy of this particular edition
+                     was among al-Najjārī’s books.</p>
+                  <p>I.3.2 Relative certainty</p>
+                  <p>If there are more printed editions of the title before 1870, and the researcher
+                     in charge of the title cannot identify the particular edition based on the
+                     features from the inventory daftar, the researcher then collects these
+                     editions.</p>
+                  <p>In this case, we allow a degree of arbitrariness, and the researcher selects a
+                     printed edition based on its printing date closest to al-Najjārī’s death. This
+                     is a weak criterion, so we call this degree of certainty “relative certainty.” </p>
+                  <p>For instance, if there had been 1846, 1851, and 1866 government press editions
+                     of <hi rend="italic">Maʻāhid al-Tanṣīṣ</hi>, we would have only gathered
+                     information from the 1866 edition in our database.</p>
+                  <p>However, in the remarks section associated with the identification number, we
+                     often indicate the other available editions of the work.</p>
+                  <p>I.3.3 Inaccessible copy, identification problems with title/work/edition</p>
+                  <p>We did not enter into our database any description of a printed work for which
+                     we had no physical or scanned access, or for which we have ongoing
+                     identification problems. However, in the remarks section, we provide our ideas
+                     and best guesses.</p>
+                  <p>———————————————————————————</p>
+                  <p xml:id="block-3dd55b97-c5b8-4690-b6ed-2522be9177e5">
+                     <hi rend="bold">Category Remarks: Printed Books</hi>
+                  </p>
+                  <p>
+                     <hi rend="italic">Mestyan &amp; Kathryn A. Schwartz</hi>
+                  </p>
+                  <p xml:id="block-bc741b10-04b8-4244-aa9d-145dafbea11d">The references to printed
+                     books in al-Najjari’s 1870 inventory are only titles, written in shorthand,
+                     with notes about whether they were made by Egyptian government presses or
+                     “external” presses, how many volumes the inventory-maker counted, and their
+                     appraised value. But within and beyond each book’s entry lies further
+                     information about the wider social context in which it emerged and circulated. </p>
+                  <p xml:id="block-50554496-3c68-4e5f-8fbf-41ae4ef39839">Our search to identify a
+                     digitized or physical copy of a particular edition, which was with “absolute or
+                     relative certainty” part of al-Najjari’s collection, enables us to explore this
+                     wider context. We do this by describing the meta-data of the absolute or
+                     relatively certain edition in categories that we devised. </p>
+                  <p xml:id="block-fad01b2f-659c-4bc3-8b2c-f9c2210abb3d">This is time-consuming
+                     work! But by enhancing the inventory’s database through these hand-gathered
+                     categories, we seek to uncover networks, patterns, and trends about Cairene
+                     print culture during this foundational era. For example, did individuals
+                     specialize into separate roles for bringing books to press? Did printed books
+                     increase or decrease in value over time? And which factors influenced the
+                     original sale price of a book, such as the publisher, the type of technology
+                     used to publish it, and the number of pages it contained? </p>
+                  <p xml:id="block-fedeba67-993e-43c2-8921-0621c3653a4f">To begin to answer these
+                     questions, and others, whenever we consult a given text, we enter information
+                     about it into 64 columns of categories in our database. Of them, roughly half
+                     are devoted to recording the same data two ways: one in the original language,
+                     and the other in ALA-LC (American Library Association – Library of Congress)
+                     standards of transliteration, to ultimately support building a website that
+                     will function in Arabic and English. Some columns carry transcriptions of the
+                     information logged in al-Najjari’s inventory. Others keep track of the library
+                     which houses the edition in question, where relevant, or of the scanned PDFs
+                     that we consulted on digital library websites. </p>
+                  <p xml:id="block-f5b8eef5-bdf2-46ae-b686-430b90e2e60c">But in what follows, we
+                     elaborate on some of the more interesting enhanced categories that we collect
+                     data for: </p>
+                  <list type="simple" xml:id="block-a9c0dcde-0e09-4a9d-9205-486153522e1d">
+                     <item>
+                        <hi rend="bold">Title on copy </hi>
+                     </item>
+                  </list>
+                  <p xml:id="block-de3174e0-d8d2-4587-bb2b-16fbba0d4289">(ALA-LC title of C)</p>
+                  <p xml:id="block-ccff3ce8-0777-4c48-a94a-52632bcb42cf">In most cases, the title
+                     listed in the inventory is shorthand for a more expansive title. We therefore
+                     record the full title listed on the copy of the text that we consult. </p>
+                  <p xml:id="block-158beae9-ddd8-43b5-ae5e-4c9bf929b8a9">For example, the title
+                     listed in the inventory for one book (n1t18) is: <hi rend="italic">Sirr
+                        al-Layālī.</hi> The digital copy of this book that we discovered online
+                     features its full title, <hi rend="italic">Sirr al-Layāl fī al-Qalb
+                        wa-l-Ibdāl</hi>, so we also record this full title. </p>
+                  <list type="simple" xml:id="block-a2fc394f-d754-4adb-9959-9e390b54c867">
+                     <item>
+                        <hi rend="bold">Author of copy </hi>
+                     </item>
+                  </list>
+                  <p xml:id="block-2dceb643-ddf7-41dc-a619-556c48b76093">(Author of C in ALA-LC)</p>
+                  <p xml:id="block-204066e2-ab7f-4740-ba08-35167a33da7d">The inventory does not list
+                     the authors of books, unless their names happen to appear in the title, so we
+                     gather data for this category. </p>
+                  <p xml:id="block-0f056afd-5b7a-41f2-96a2-d2685aa988cf">‘Authorship,’ as a concept,
+                     is difficult to pin down. Firstly, the possibility of living from the fruits of
+                     one’s pen was not something that had taken hold in the Ottoman Empire by 1870.
+                     Instead, people presented themselves as composers of texts. Secondly, one could
+                     take on several roles in producing a text that could arguably be authorial –
+                     like, for example, composing the introduction to the book, editing it, or
+                     contributing commentary. </p>
+                  <p xml:id="block-2c4271c7-358f-489e-8b7e-7b35104330ab">To satisfy our
+                     bibliographic concern for collecting all names relevant to authorship, and the
+                     competing pressure not over-populate any given entry, we take authorship to
+                     mean the primary composer(s). In cases when secondary composer(s) exist, we
+                     include them under the author category if, and only if, their names do not fit
+                     into any of our other categories. </p>
+                  <p xml:id="block-74250a7c-3abc-4078-a674-8f7b3ff196b6">For example, the (n1t58)
+                        1847<hi rend="italic"> Tarjamat al-Julistān al-Fārisī al-ʻIbārah al-Mushīr
+                        ilā Maḥāsin al-Ādāb bi-Alṭaf Ishārah </hi>has, as its original composer in
+                     Persian, al-Saʻdī. However, the introduction and colophon of the book make
+                     clear that the text’s translator into Arabic, Jabrāʼīl ibn Yūsuf al-Mukhallaʻ,
+                     also introduced and elaborated on al-Saʻdī’s original text. Because we can list
+                     Jabrāʼīl ibn Yūsuf al-Mukhallaʻ as the translator for this text, we do not
+                     include his name under the author category. </p>
+                  <p xml:id="block-34fcfefd-9488-45fa-bf9a-5915e9792fd0">An exception to this arises
+                     with regard to any book listed as a <hi rend="italic">sharḥ</hi>. Here, we
+                     include under the author category the name of both the original composer, and
+                     the exegete. </p>
+                  <p xml:id="block-92a76dd4-073b-4264-afcb-db888ab56ae8">Another exception arises
+                     when we locate an edition that may, for one reason or another, contain one or
+                     more texts printed in the margins of the title that we are concerned with. In
+                     such cases, we include under the author category the names of the composers of
+                     all texts. </p>
+                  <list type="simple" xml:id="block-37c3c7c2-4fdc-40b2-b268-73c8a3429504">
+                     <item>
+                        <hi rend="bold">Translator of copy </hi>
+                     </item>
+                  </list>
+                  <p xml:id="block-02678a19-3e02-4a47-a86d-8d50c48d9cf5">(Translator in ALA-LC)</p>
+                  <p xml:id="block-dbde4ca5-6401-4111-84eb-bf41e956d0be">We collect the names of
+                     translators of books who are explicitly listed as such, most often by being
+                     recognized as the text’s <hi rend="italic">mutarjim</hi>.</p>
+                  <p xml:id="block-b236c6b5-1129-40ed-81a2-13a387a684e1">We take this policy as a
+                     practical measure, so as not to over-populate any given entry. As an
+                     intellectual matter, there are many cases in which it is difficult to separate
+                     translating from authoring.</p>
+                  <p xml:id="block-2850ae2f-a04b-49c0-be9c-3d11cbc246fb">Following the example
+                     above, of (n1t58) <hi rend="italic">Tarjamat al-Julistān al-Fārisī al-ʻIbārah
+                        al-Mushīr ilā Maḥāsin al-Ādāb bi-Alṭaf Ishārah</hi>, we include Jabrāʼīl ibn
+                     Yūsuf al-Mukhallaʻ’s name under the translator category alone. </p>
+                  <list type="simple" xml:id="block-696455c5-2fe7-4c3d-ac00-067a753cd827">
+                     <item>
+                        <hi rend="bold">Official sale value of copy </hi>
+                     </item>
+                  </list>
+                  <p xml:id="block-af736250-0f0b-4a13-9a81-f3fd8a7090de">(Official Sale Value of C
+                     in English (Qirsh))</p>
+                  <p xml:id="block-2c0753e2-0521-4293-a66f-b1b378f07721">On rare occasions, books
+                     include a printed note about their official sale value. We collect this data in
+                        <hi rend="italic">qirsh </hi>whenever it is available. </p>
+                  <p xml:id="block-25acc935-d2bd-4b6c-b297-50736592bfce">After we finish collecting
+                     data from the books themselves, we will also turn to book catalogs produced by
+                     publishers and orientalists from the 1830s through to the 1870s, to log the
+                     information listed within these other sources about the official sale value of
+                     books.</p>
+                  <list type="simple" xml:id="block-e37f0aa2-aa03-4520-8edc-10111e8e72ea">
+                     <item>
+                        <hi rend="bold">Source of official sale value of copy </hi>
+                     </item>
+                  </list>
+                  <p xml:id="block-e87c7a9f-f838-4d51-b27b-d0febd1039ba">(Source of Official Sale
+                     Value in English)</p>
+                  <p xml:id="block-2faf5c65-360a-48ae-bec0-9fb281c28bf6">Whenever we obtain data on
+                     the official sale value of a given edition, we also record the source of this
+                     data. </p>
+                  <list type="simple" xml:id="block-a4d04db4-a785-4d63-aae9-98fb3b87e8f5">
+                     <item>
+                        <hi rend="bold">Paid price of copy </hi>
+                     </item>
+                  </list>
+                  <p xml:id="block-e19d2be4-4b28-4e9e-bdd3-9447d7467b81">(Paid Price of C in
+                     English)</p>
+                  <p xml:id="block-2a36b3b4-6afa-48d6-8b9f-0b5b233f39f2">On rare occasions, we have
+                     evidence of a copy’s sale. Some books, for instance, include a handwritten note
+                     about how much someone paid for the book when they acquired it. We collect this
+                     data in <hi rend="italic">qirsh </hi>whenever it is available. </p>
+                  <list type="simple" xml:id="block-523d1bc9-1d2f-4aa7-bffc-b9102bc00273">
+                     <item>
+                        <hi rend="bold">Place of publication of copy </hi>
+                     </item>
+                  </list>
+                  <p xml:id="block-498f121e-58e0-4790-a0aa-236ea4a7a6f5">(Place of Publication in C
+                     in ALA-LC)</p>
+                  <p xml:id="block-5dd905ef-28a9-40b9-ba21-7d76cb09abbb">We record where the books
+                     were published, at the level of detail offered by the book itself. Usually this
+                     is at the city level, although sometimes we are able to record the street where
+                     the press was located. </p>
+                  <p xml:id="block-fb30a0a2-ff32-40b4-8afc-c33346a8a965">On occasion, we use our own
+                     judgment to name the place of publication when we feel confident about it, even
+                     when no place is listed explicitly. We place these judgments in brackets. </p>
+                  <list type="simple" xml:id="block-b804c1f5-4e54-4938-81fb-45980a38c466">
+                     <item>
+                        <hi rend="bold">Press name of publisher of copy </hi>
+                     </item>
+                  </list>
+                  <p xml:id="block-2637d975-5d0d-4fe0-bebb-115c9ae196b0">(Printer of C in
+                     ALA-LC)</p>
+                  <p xml:id="block-d4aef4a6-9c49-48d9-9a73-e5a8826a408d">We record the name of the
+                     press that printed a given edition as it is listed. </p>
+                  <p xml:id="block-d7d7aa82-afa3-48f8-bc98-3d2b65438b87">Oftentimes, across
+                     different books, the same press could go by a range of names. The Bulaq Press,
+                     for example, might go by the names: Maṭba‘at Būlāq, Dār al-Ṭibā‘ah al-‘Āmirah,
+                     Dār al-Ṭibāʻah al-Miṣrīyah, or Al-Maṭba‘ah al-Kubrā, among others. </p>
+                  <list type="simple" xml:id="block-6c945def-22ec-4751-9c8f-0bc6c241aa59">
+                     <item>
+                        <hi rend="bold">Date of publication of copy, in <hi rend="italic">ḥijrī
+                           </hi>and <hi rend="italic">mīlādī </hi>
+                        </hi>
+                     </item>
+                  </list>
+                  <p xml:id="block-4d7e860f-27b2-4222-a924-bb1b395f4537">(Date of publication of C
+                     in Hijrī years) </p>
+                  <p xml:id="block-ffee4388-e89a-4bab-a7d8-fadf23ebb2ca">(Date of publication of C
+                     in Gregorian years)</p>
+                  <p xml:id="block-71e1d341-ea65-4a76-928c-01aaa692235f">Books printed from Cairo
+                     often list the lunar month in which they were printed, in addition to the <hi
+                        rend="italic">ḥijrī</hi> year. We record this information. We also use it
+                     for conversions to the <hi rend="italic">mīlādī </hi>year, which is calculated
+                     on the ‘<ptr target="http://www.muslimphilosophy.com/ip/hijri.htm"/>Philosophia
+                     Islamica’ website, before we record this too in the data set. </p>
+                  <p xml:id="block-0b68602e-53dd-4f8a-9532-600ab729bff4">Sometimes, the <hi
+                        rend="italic">ḥijrī</hi> date listed in a book corresponds to what could be
+                     either the end or the beginning of a <hi rend="italic">mīlādī </hi>year. When
+                     it is impossible to identify the precise <hi rend="italic">mīlādī </hi>year, we
+                     list the two <hi rend="italic">mīlādī </hi>years separated by a ‘/.’ </p>
+                  <p xml:id="block-8d6f81b3-1dad-4107-9468-7c4bceac53f8">When a given title was
+                     published over multiple volumes, spanning several years, we list the range of
+                     the <hi rend="italic">mīlādī </hi>years separated by a ‘-.’</p>
+                  <list type="simple" xml:id="block-970045f9-f2c8-4033-b71d-e39c55a89039">
+                     <item>
+                        <hi rend="bold">Whether this title was in the Khedival Library catalogues of
+                           1872 and 1893 </hi>
+                     </item>
+                  </list>
+                  <p xml:id="block-959605a1-62a6-4e75-b03e-bd01e4faad85">(Data in K1 or K2)</p>
+                  <p xml:id="block-bea8de93-6dd1-4ea1-becb-bec04198c788">To better understand the
+                     nature of al-Najjari’s collection, and the comprehensiveness of the Khedival
+                     Library which was established in 1870, we will cross-check al-Najjari’s
+                     inventory against early printed catalogues from the Khedival Library. </p>
+                  <list type="simple" xml:id="block-2fbb86ea-d2a7-44a6-a3ab-8e6f5444c298">
+                     <item>
+                        <hi rend="bold">Seals of owners in copy </hi>
+                     </item>
+                  </list>
+                  <p xml:id="block-53814567-acca-40e3-b187-f66dd938ef2c">(Seals of Owners)</p>
+                  <p xml:id="block-914cf866-611a-4803-9dd5-1521922861e9">Whenever a book bears the
+                     seal of a contemporary owner, or the stamp of a later owner of historical
+                     consequence, like an important scholar, we attempt to transcribe it, and we
+                     also capture its image. </p>
+                  <list type="simple" xml:id="block-2c4570dc-c29d-4fa2-9df6-a30e7038cd73">
+                     <item>
+                        <hi rend="bold">Inscriptions of ownership in copy </hi>
+                     </item>
+                  </list>
+                  <p xml:id="block-8e638ee3-5954-4549-9213-182e3aa5277e">(Inscriptions of
+                     Ownerships)</p>
+                  <p xml:id="block-bade1c23-d875-4a00-ab10-9d19ef55fd70">When there is a
+                     contemporary ownership inscription in a book, we attempt to transcribe it, and
+                     we also capture its image. </p>
+                  <list type="simple" xml:id="block-30e51c48-a0c9-4307-833e-3cc0083e6be7">
+                     <item>
+                        <hi rend="bold">
+                           <hi rend="italic">Taqrīz/Tārīkh</hi> composer in copy </hi>
+                     </item>
+                  </list>
+                  <p xml:id="block-2728707d-8662-46fc-8121-a1a655708f88">(Taqrīẓ/tārīkh author)</p>
+                  <p xml:id="block-0247b122-5b30-4a10-af08-87f93f037e23">Usually at the end of a
+                     book, and sometimes at the beginning, there is/are blurbs of endorsement for
+                     the text, and/or chronograms composed on the occasion of its publication. We
+                     record the names of those who composed them. </p>
+                  <list type="simple" xml:id="block-c75c4daa-d33b-497c-bfab-530912c1e96d">
+                     <item>
+                        <hi rend="bold">
+                           <hi rend="italic">Taqriz/Tarikh</hi> date in copy</hi>
+                     </item>
+                  </list>
+                  <p xml:id="block-2032f567-52ae-453c-9ddd-59edec350af6">(Taqrīẓ/tārīkh date)</p>
+                  <p xml:id="block-96e19398-29e7-4de0-bca2-552ee488cacd">We also record the date
+                     given for such compositions. </p>
+                  <list type="simple" xml:id="block-6424e333-0a52-4f37-b3c3-9e5b682bf1d8">
+                     <item>
+                        <hi rend="bold">Individual identified in copy as <hi rend="italic"
+                              >multazim</hi>/<hi rend="italic">‘alā dhimmah</hi>/<hi rend="italic"
+                              >‘alā nafaqah </hi>
+                        </hi>
+                     </item>
+                  </list>
+                  <p xml:id="block-e4afb9f9-652d-48fd-ae86-26e82e976990">(Individual multazim / ‘ala
+                     dhimmah/nafaqah in ALA-LC)</p>
+                  <p xml:id="block-75a601e7-29b2-49d9-9f06-dc1667a00f42">Many of the books printed
+                     in Cairo during this period name, in their colophons, those who were in a
+                     business, and/or contractual relationship with the press. They might have
+                     initiated the production of, and/or provided the funding for, the printing of a
+                     given title. The names of these figures usually follow the designation of ‘<hi
+                        rend="italic">multazim</hi>,’ or appear after the expression ‘<hi
+                        rend="italic">‘alā dhimmah</hi>’ or ‘<hi rend="italic">‘alā nafaqah.</hi>’
+                     We record these names. </p>
+                  <list type="simple" xml:id="block-2f86210b-bfe4-4b85-9833-2e61fcb7680b">
+                     <item>
+                        <hi rend="bold">Whether the copy is a lithograph </hi>
+                     </item>
+                  </list>
+                  <p xml:id="block-149e0971-7095-41de-aa09-760650572f72">(Lithograph)</p>
+                  <p xml:id="block-8bfa2b63-3291-4b5d-925d-2d528b85e142">Al-Najjari’s inventory
+                     makes no mention of whether a title was printed lithographically, or
+                     typographically. We therefore note this information in our database, upon
+                     consulting the edition under consideration. </p>
+                  <p xml:id="block-acf98dbb-523c-456e-b8c1-64b579390e91">When the text of a book is
+                     printed typographically, but it also includes lithographic images or
+                     engravings, we also make note of that. </p>
+                  <list type="simple" xml:id="block-7e9a272c-410f-47ab-95fe-c7e273b856ae">
+                     <item>
+                        <hi rend="bold">Copyist of copy </hi>
+                     </item>
+                  </list>
+                  <p xml:id="block-64a011a0-10ea-49db-8cdb-28f6838564fd">(Name of copyist in
+                     ALA-LC)</p>
+                  <p xml:id="block-709e9944-75ae-4a9c-b564-8cdea614c5e9">When the edition is a
+                     lithography, it sometimes lists the name of the person who copied the text out
+                     by hand. We record that person’s name. </p>
+                  <list type="simple" xml:id="block-b47b2f9d-ce73-4723-a255-428414e8a4e5">
+                     <item>
+                        <hi rend="bold">Corrector of copy </hi>
+                     </item>
+                  </list>
+                  <p xml:id="block-0a48e750-032a-491e-99ed-353bc20c0851">(Corrector in ALA-LC)</p>
+                  <p xml:id="block-951fb385-4c78-454d-bfe5-59984f272078">The category of corrector,
+                     like that of author, is difficult to pin down, as one could serve the role of
+                     corrector for a printing in a number of capacities, like correcting a printing
+                     for typos, or cross-checking the printing against manuscripts. </p>
+                  <p xml:id="block-ca9c6741-9c82-4f96-ad85-1bada7e1f135">We simply record the
+                     name(s) of the edition’s corrector(s), when listed explicitly, most often via
+                     the term <hi rend="italic">muṣaḥḥiḥ</hi>.</p>
+                  <list type="simple" xml:id="block-1b5e6a1c-552b-4e4d-ba14-0df3bba64b15">
+                     <item>
+                        <hi rend="bold">Range of numbered pages in copy </hi>
+                     </item>
+                  </list>
+                  <p xml:id="block-172f6912-1bd1-4f08-b5ac-96f513a9c99c">(Number of paginated
+                     pages)</p>
+                  <p xml:id="block-d3f24f2e-df62-401e-a615-067c7ab6c434">We record the range of the
+                     numbered pages of the edition. That is, the range between the first page number
+                     listed and the last page number listed. </p>
+                  <p xml:id="block-1935a2bb-979a-4001-b33b-b9eccf5fd2cb">Sometimes, the numbering
+                     begins from the <hi rend="italic">fihrist</hi> at the beginning of the book,
+                     and then begins all over again at the start of the text proper. In such cases,
+                     we start our range with the <hi rend="italic">fihrist</hi>, and effectively
+                     ignore the recommenced count at the start of the text proper. We do this
+                     because our goal is not perfect accuracy in capturing a given edition’s page
+                     count – indeed, many front and end pages are unnumbered, and the first and last
+                     pages of a given copy are most vulnerable to being missing – but rather, we
+                     wish to gain a rough sense of the copy’s size. </p>
+                  <p xml:id="block-fcc11c2c-98ab-439a-8bd8-46dd60ceff44">When a copy runs across
+                     multiple volumes, we record the page range for each volume consulted. </p>
+               </note></p>
          </div>
       </front>
       <body>
-         <div>
-            <head xml:id="nT1Title">
-               <title>The Books of Shaykh Muṣṭafā Salāmah al-Najjārī (d.1870)</title>
-               <title>An Extended Bibliographical Database: The Printed Books</title>
-            </head>
-            <div xml:id="nT1Desc">
-               <p>Data collection by <persName ref="#pAM">Adam Mestyan</persName> and <persName
-                     ref="pKS">Kathryn Schwartz</persName>
-               </p>
-               <p>With contributions from <persName ref="#pSS">Sean Swanick</persName> and <persName
-                     ref="pRN">
-                     <forename xml:lang="en">Rezk</forename>
-                     <surname xml:lang="en">Nori</surname>
-                  </persName>
-               </p>
-               <p>With help from <persName ref="#pJbP">Joseph Ben Prestel</persName>, <persName
-                     ref="#pDL">Daniel Lowe</persName>, and <persName ref="#pYSH">Yahia
-                     Shawkat</persName>
-               </p>
-               <p>TEI consultant: <persName ref="#pHC">Hugh Cayless</persName></p>
-            </div>
-         </div>
          <div type="table" xml:id="nTables">
             <listBibl xml:id="d1e289">
                <biblStruct>
