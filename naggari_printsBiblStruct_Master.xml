@@ -260,11 +260,13 @@
                Archives).</p>
          </div>
          <div xml:id="nTranslit">
-            <p> In this website, we used the Library of Congress Arabic transliteration standard.
-               [Here is the Arabic version.]</p>
+            <p xml:id="nTranslitHead">Transliteration</p>
+            <p> In this website, <ref
+                  target="https://www.loc.gov/catdir/cpso/romanization/arabic.pdf">we used the
+                  Library of Congress Arabic Romanization</ref> standard.</p>
          </div>
          <div xml:id="nAbbrev">
-            <head>Abbreviations</head>
+            <head xml:id="nAbbrevHead">Abbreviations</head>
             <p>D / د = daftar / دفتر; the probate inventory of the bequest of Muṣṭafā Salāmah
                al-Najjārī, daftar dated 24 Dhū al-Ḥijjah 1286 (27 March 1870), pages 8-25; cf.
                Mestyan, Magical History and Muslim Printing (forthcoming). </p>
