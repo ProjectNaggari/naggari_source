@@ -250,7 +250,7 @@
                proper legal process to settle the debts.</p>
          </div>
          <div xml:id="nSource">
-            <head>Source</head>
+            <head xml:id="nSourceHead">Source</head>
             <p>This website is based on the list of book titles found in the handwritten Arabic
                inheritance inventory of Sheikh Muṣṭafā Salāmah al-Najjārī. The inventory was made by
                the government official of the probate bureau of the Cairo Governorate (Bayt-i Māl-i
