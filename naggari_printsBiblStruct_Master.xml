@@ -98,6 +98,10 @@
             <p xml:lang="en">This project uses the <ref
                   target="https://www.loc.gov/catdir/cpso/romanization/arabic.pdf">ALA-LC</ref>
                standards for Arabic transliteration.</p>
+            <p>
+              Please refer to this dataset in the following way: 
+                  <ref>Adam Mestyan and Kathryn Schwartz. 
+                     (Version v1.0) [Data set]. Zenodo.</ref> </p>
          </editorialDecl>
       </encodingDesc>
       <profileDesc>
@@ -184,11 +188,16 @@
          <div xml:id="nCetei" xml:lang="en">
             <p>This website uses <ref target="https://github.com/TEIC/CETEIcean">CETEICEan</ref> by
                Hugh Cayless and Raffaele Viglianti to display the umodified TEI file in HTML</p>
+         </div>
+         <div xml:id="nPubRef">
+            <p>Please refer to this dataset in the following way: </p><p>
+               <ref>Adam Mestyan and Kathryn Schwartz. 
+               (Version v1.0) [Data set]. Zenodo.</ref></p> </div>
             <div xml:id="nKathryn">
                <p>This website is dedicated to the memory of <persName ref="pKS">Kathryn
                      Schwartz</persName>.</p>
             </div>
-         </div>
+         
          <div type="chapter" xml:id="nIntro">
             <head xml:id="IntroHead">Introduction</head>
             <p>This website provides an introduction into a nineteenth-century Egyptian sheikh's
