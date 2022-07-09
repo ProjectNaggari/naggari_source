@@ -732,8 +732,9 @@
       <body>
          <div type="table" xml:id="nTables">
             <head xml:id="nTablesHead">Printed Books</head>
+         
             <listBibl xml:id="d1e289">
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t1</idno>
                      <author>
@@ -882,7 +883,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t2</idno>
                      <author>
@@ -1032,7 +1033,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t3</idno>
                      <author>
@@ -1179,7 +1180,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t4</idno>
                      <author>
@@ -1325,7 +1326,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t5</idno>
                      <author>
@@ -1470,7 +1471,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t6</idno>
                      <author>
@@ -1617,7 +1618,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t7</idno>
                      <author>
@@ -1766,7 +1767,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t8</idno>
                      <author>
@@ -1912,7 +1913,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t9</idno>
                      <author>
@@ -2058,7 +2059,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t10</idno>
                      <author>
@@ -2203,7 +2204,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t11</idno>
                      <author>
@@ -2352,7 +2353,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t12</idno>
                      <author>
@@ -2499,7 +2500,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t13</idno>
                      <author>
@@ -2629,7 +2630,7 @@
                   <note type="conversation">
                      <p>Conversation about versions</p>Uncertain</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t14</idno>
                      <author>
@@ -2763,7 +2764,7 @@
                      Munich,
                      https://www.worldcat.org/title/hadha-al-juz-al-awwal-al-khamis-min-sharh-al-allamah-wa-al-imam-al-fahhamah-muhyi-al-din-yahya-al-nawawi-ala-sahih-al-imam-muslim-ibn-al-hajjaj-al-qushayri/oclc/122787546&amp;referer=brief_results</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t15</idno>
                      <author>
@@ -2911,7 +2912,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t16</idno>
                      <author>
@@ -3059,7 +3060,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t17</idno>
                      <author>
@@ -3205,7 +3206,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t18</idno>
                      <author>
@@ -3349,7 +3350,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t19</idno>
                      <author>
@@ -3492,7 +3493,7 @@
                      <p>Conversation about versions</p>Missing vols. 1 &amp; 3, at least - v. 2 is
                      undated; على يد رئيس تشغيله مصطفى أفندى شاهين </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t20</idno>
                      <author>
@@ -3628,7 +3629,7 @@
                      https://www.worldcat.org/title/hadha-kitab-sarh-al-uyun-fi-sharh-risalat-ibn-zaydun/oclc/40972860&amp;referer=brief_results
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t21</idno>
                      <author>
@@ -3776,7 +3777,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t22</idno>
                      <author>
@@ -3907,7 +3908,7 @@
                      <p>Conversation about versions</p>Copy in Dar al-Kutub;
                      http://41.33.22.69/uhtbin/cgisirsi.exe/?ps=ApRmytD8Sq/ELDAR/59240005/9</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t23</idno>
                      <author>
@@ -4052,7 +4053,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t24</idno>
                      <author>
@@ -4193,7 +4194,7 @@
                   <note type="conversation">
                      <p>Conversation about versions</p>second edition</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t25</idno>
                      <author>
@@ -4325,7 +4326,7 @@
                   <note type="conversation">
                      <p>Conversation about versions</p>Uncertain</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t26</idno>
                      <author>
@@ -4456,7 +4457,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t27</idno>
                      <author>
@@ -4601,7 +4602,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t28</idno>
                      <author>
@@ -4750,7 +4751,7 @@
                      Harvard has similar but not digitized: http://www.worldcat.org/oclc/712907135.
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t29</idno>
                      <author>
@@ -4899,7 +4900,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t30</idno>
                      <author>
@@ -5047,7 +5048,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t31</idno>
                      <author>
@@ -5180,7 +5181,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t32</idno>
                      <author>
@@ -5322,7 +5323,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t33</idno>
                      <author>
@@ -5467,7 +5468,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t34</idno>
                      <author>
@@ -5612,7 +5613,7 @@
                      <p>Conversation about versions</p>in DoK catalog; worldcat is misspelt as
                      حلبةhttps://www.worldcat.org/oclc/235996234&amp;referer=brief_results</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t35</idno>
                      <author>
@@ -5757,7 +5758,7 @@
                      <p>Conversation about versions</p>Turkish translation is the most likely, this
                      is strangely cheap; need parts 2 &amp; 3.</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t36</idno>
                      <author>
@@ -5905,7 +5906,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t37</idno>
                      <author>
@@ -6048,7 +6049,7 @@
                   <note type="conversation">
                      <p>Conversation about versions</p>second edition</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t38</idno>
                      <author>
@@ -6192,7 +6193,7 @@
                      This is also language (ghara'ib) and Hurini, 1861, in Cairo, so???
                      tinyurl.gale.com/tinyurl/DER5j6</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t39</idno>
                      <author>
@@ -6341,7 +6342,7 @@
                      <p>Conversation about versions</p>The titles are different, but hikma may mean
                      medicine...and this the closest hit with Bulaq</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t40</idno>
                      <author>
@@ -6479,7 +6480,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t41</idno>
                      <author>
@@ -6624,7 +6625,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t42</idno>
                      <author>
@@ -6769,7 +6770,7 @@
                      <p>Conversation about versions</p>Editions in Calcutta (1815): Gale, Beirut
                      (1860), Berlin (1861): https://catalog.hathitrust.org/Record/100570571</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t43</idno>
                      <author>
@@ -6912,7 +6913,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t44</idno>
                      <author>
@@ -7051,7 +7052,7 @@
                      Yale; PDF behind wall here:
                      http://opac.mtak.hu/pds?func=load-login&amp;calling_system=aleph&amp;url=http://opac.mtak.hu/F/IJHMH2NJ3KVXBUI3MSCLKQYRM2XA5EKFTAXJSE9JQ67B2HFPB2-38039?func=find-m&amp;request=Iktisāb&amp;find_code=WRD&amp;adjacent=N&amp;find_base=MTA01&amp;x=0&amp;y=0&amp;filter_code_1=WLN&amp;filter_request_1=&amp;filter_code_2=WYR&amp;filter_request_2=&amp;filter_code_3=WYR&amp;filter_request_3=&amp;filter_code_4=WFM&amp;filter_request_4=&amp;filter_code_5=WCL&amp;filter_request_5=here%20http://search.library.yale.edu/catalog/6930969?counter=1</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t45</idno>
                      <author>
@@ -7183,7 +7184,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t46</idno>
                      <author>
@@ -7328,7 +7329,7 @@
                      <p>Conversation about versions</p>على يد رئيس تشغيله مصطفى أفندى شاهين ; There
                      is also a lithographic edition, undated, from the era. See 'uncertain'</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t47</idno>
                      <author>
@@ -7467,7 +7468,7 @@
                      <p>Conversation about versions</p>translated into Arabic from the Turkish
                      translation of the French</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t48</idno>
                      <author>
@@ -7617,7 +7618,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t49</idno>
                      <author>
@@ -7759,7 +7760,7 @@
                      <p>Conversation about versions</p>commissioner unclear, but published in Tunis
                      on account of Khayr al-Din's support of it</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t50</idno>
                      <author>
@@ -7902,7 +7903,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t51</idno>
                      <author>
@@ -8037,7 +8038,7 @@
                      https://books.google.com/books?id=sRAwAAAAYAAJ&amp;pg=PA48&amp;lpg=PA48&amp;dq=1861+%22كتاب+فقه+اللغة%22&amp;source=bl&amp;ots=WqrlBnX2gE&amp;sig=ACfU3U29ngR3x59GnXHhbcC8Kfm5VM8RGw&amp;hl=en&amp;ppis=_e&amp;sa=X&amp;ved=2ahUKEwiDlJL8m9zoAhUvlXIEHS3aAHMQ6AEwAXoECAsQKQ#v=onepage&amp;q=1861%20%22كتاب%20فقه%20اللغة%22&amp;f=false
                      http://41.33.22.69/uhtbin/cgisirsi.exe/?ps=0gukFbpnT2/ELDAR/59240005/9</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t52</idno>
                      <author>
@@ -8170,7 +8171,7 @@
                      <p>Conversation about versions</p>Copy in Dar al-Kutub; Harvard has a 1284:
                      https://www.worldcat.org/title/hadhihi-hashiyat-al-fadil-al-shaykh-ahmad-al-mihi-al-shaybini-ala-sharh-al-sittin-masalah-lil-ustadh-al-allamah-al-fadil-sayyidi-al-shaykh-ahmad-al-ramli-rahimahu-allah-taala-wa-nafaana-bi-hi-wa-bi-ulumihi-amin/oclc/882132245&amp;referer=brief_results</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t53</idno>
                      <author>
@@ -8321,7 +8322,7 @@
                   <note type="conversation">
                      <p>Conversation about versions</p>تشغيل الشبراوى المطبعجى</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t54</idno>
                      <author>
@@ -8468,7 +8469,7 @@
                      <p>Conversation about versions</p>Press under management of Maḥmūd Efendi the
                      Maltese from among the stationers of Khān al-Khalīlī</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t55</idno>
                      <author>
@@ -8615,7 +8616,7 @@
                      1279:
                      https://upload.wikimedia.org/wikisource/ar/b/bb/%D8%A5%D8%B9%D9%84%D8%A7%D9%85_%D8%A7%D9%84%D9%86%D8%A7%D8%B3_%D8%A8%D9%85%D8%A7_%D9%88%D9%82%D8%B9_%D9%84%D9%84%D8%A8%D8%B1%D8%A7%D9%85%D9%83%D8%A9_%D9%85%D8%B9_%D8%A8%D9%86%D9%8A_%D8%A7%D9%84%D8%B9%D8%A8%D8%A7%D8%B3.pdf</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t56</idno>
                      <author>
@@ -8747,7 +8748,7 @@
                      <p>Conversation about versions</p>Bulaq cat 1872, p10; perhaps same as
                      52?</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t57</idno>
                      <author>
@@ -8892,7 +8893,7 @@
                      <p>Conversation about versions</p>No physical location noted to correspond with
                      digital scan</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t58</idno>
                      <author>
@@ -9039,7 +9040,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t59</idno>
                      <author>
@@ -9184,7 +9185,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t60</idno>
                      <author>
@@ -9331,7 +9332,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t61</idno>
                      <author>
@@ -9462,7 +9463,7 @@
                      <p>Conversation about versions</p>Ibrahim Sahil, Ibn Sahl, 1862 = 1279; 'abd
                      al-ghani fikri, DK: z133</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t62</idno>
                      <author>
@@ -9609,7 +9610,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t63</idno>
                      <author>
@@ -9757,7 +9758,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t64</idno>
                      <author>
@@ -9889,7 +9890,7 @@
                      https://www.worldcat.org/title/fevaid-ul-veledeyn/oclc/1064920036&amp;referer=brief_results
                      / or : https://www.worldcat.org/oclc/929518225&amp;referer=brief_results</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t65</idno>
                      <author>
@@ -10021,7 +10022,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t66</idno>
                      <author>
@@ -10162,7 +10163,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t67</idno>
                      <author>
@@ -10306,7 +10307,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t68</idno>
                      <author>
@@ -10451,7 +10452,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t69</idno>
                      <author>
@@ -10583,7 +10584,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t70</idno>
                      <author>
@@ -10727,7 +10728,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t71</idno>
                      <author>
@@ -10872,7 +10873,7 @@
                      https://iiif.lib.harvard.edu/manifests/view/drs:428076411$1i; printed by
                      Muḥammad Unsī</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t72</idno>
                      <author>
@@ -11003,7 +11004,7 @@
                      <p>Conversation about versions</p>Possibly: تفسير الأحلام الكبير; or//
                      https://www.worldcat.org/oclc/929516811&amp;referer=brief_results</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t73</idno>
                      <author>
@@ -11134,7 +11135,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t74</idno>
                      <author>
@@ -11266,7 +11267,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t75</idno>
                      <author>
@@ -11413,7 +11414,7 @@
                      first two words of the title are in reverse in the copy. Extensive scholarly
                      notes by orientalist, but no named inscription</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t76</idno>
                      <author>
@@ -11555,7 +11556,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t77</idno>
                      <author>
@@ -11702,7 +11703,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t78</idno>
                      <author>
@@ -11847,7 +11848,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t79</idno>
                      <author>
@@ -11990,7 +11991,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t80</idno>
                      <author>
@@ -12122,7 +12123,7 @@
                      https://iiif.lib.harvard.edu/manifests/view/drs:428075655$1i, Rezq confirmed: -
                      زبد الاشواق</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t81</idno>
                      <author>
@@ -12266,7 +12267,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t82</idno>
                      <author>
@@ -12409,7 +12410,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t83</idno>
                      <author>
@@ -12541,7 +12542,7 @@
                      <p>Conversation about versions</p>National Library of Israel:
                      https://www.worldcat.org/oclc/992631212&amp;referer=brief_results</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t84</idno>
                      <author>
@@ -12686,7 +12687,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t85</idno>
                      <author>
@@ -12817,7 +12818,7 @@
                      <p>Conversation about
                      versions</p>https://www.worldcat.org/title/hadha-diwan-nadirat-zamanihi-wa-farid-awanihi/oclc/912701490&amp;referer=brief_results</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t86</idno>
                      <author>
@@ -12958,7 +12959,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t87</idno>
                      <author>
@@ -13099,7 +13100,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t88</idno>
                      <author>
@@ -13230,7 +13231,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t89</idno>
                      <author>
@@ -13372,7 +13373,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t90</idno>
                      <author>
@@ -13519,7 +13520,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t91</idno>
                      <author>
@@ -13667,7 +13668,7 @@
                      <p>Conversation about versions</p>Press under the management of Maḥmūd Efendi
                      from among the stationers of Khān al-Khalīlī</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t92</idno>
                      <author>
@@ -13810,7 +13811,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t93</idno>
                      <author>
@@ -13941,7 +13942,7 @@
                      <p>Conversation about
                      versions</p>https://www.worldcat.org/oclc/4771229128&amp;referer=brief_results</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t94</idno>
                      <author>
@@ -14087,7 +14088,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t95</idno>
                      <author>
@@ -14218,7 +14219,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t96</idno>
                      <author>
@@ -14363,7 +14364,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t97</idno>
                      <author>
@@ -14504,7 +14505,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t98</idno>
                      <author>
@@ -14636,7 +14637,7 @@
                      http://stabikat.de/DB=1/LNG=EN/CLK?IKT=12&amp;TRM=437634507; Rezq writes: - رشف
                      الدرر</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t99</idno>
                      <author>
@@ -14779,7 +14780,7 @@
                      <p>Conversation about versions</p>Two other non-Būlāq editions before 1870:
                      Leipzig (1845), Istanbul (1848)</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t100</idno>
                      <author>
@@ -14922,7 +14923,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t101</idno>
                      <author>
@@ -15067,7 +15068,7 @@
                      <p>Conversation about versions</p>Says 469 for final page but it is
                      incorrect</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t102 </idno>
                      <author>
@@ -15198,7 +15199,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t103</idno>
                      <author>
@@ -15344,7 +15345,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t104</idno>
                      <author>
@@ -15493,7 +15494,7 @@
                      <p>Conversation about versions</p>NB - Samaluti spelt incorrectly without alif
                      in book</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t105</idno>
                      <author>
@@ -15636,7 +15637,7 @@
                      <p>Conversation about versions</p>NB - drawing of a person done by hand on
                      title page (included under ownership inscription)</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t106</idno>
                      <author>
@@ -15779,7 +15780,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t107</idno>
                      <author>
@@ -15910,7 +15911,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t108</idno>
                      <author>
@@ -16055,7 +16056,7 @@
                      <p>Conversation about versions</p>NB - colophon states also that this press
                      belongs to Musa Kastali</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t109</idno>
                      <author>
@@ -16196,7 +16197,7 @@
                      https://vzlbs2.gbv.de/DB=49/LNG=EN/CLK?IKT=12&amp;TRM=871312212, Rezq writes:
                      كفاية المستحفظ</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t110</idno>
                      <author>
@@ -16338,7 +16339,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t111</idno>
                      <author>
@@ -16483,7 +16484,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t112</idno>
                      <author>
@@ -16615,7 +16616,7 @@
                      من مهمات المتون المستعملة من غالب خواص الفنون; Could also be an undated
                      lithograph published from Fez (see uncertain)</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t113</idno>
                      <author>
@@ -16758,7 +16759,7 @@
                      <p>Conversation about versions</p>Three Būlāq editions (1826, 1834, 1846; Gale
                      says Bulaq 1861, but it does not look like Bulaq, so I used 1846</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t114</idno>
                      <author>
@@ -16899,7 +16900,7 @@
                      https://catalog.hathitrust.org/Record/008919255?type%5B%5D=all&amp;lookfor%5B%5D=al-Ba%CC%84ju%CC%84ri%CC%84&amp;ft=ft
                      ;</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t115</idno>
                      <author>
@@ -17030,7 +17031,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t116</idno>
                      <author>
@@ -17164,7 +17165,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t117</idno>
                      <author>
@@ -17305,7 +17306,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t118</idno>
                      <author>
@@ -17439,7 +17440,7 @@
                      <p>Conversation about versions</p>Indiana University:
                      https://www.worldcat.org/title/kitab-al-shajarah-al-nabawiyah/oclc/14365515&amp;referer=brief_results</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t119</idno>
                      <author>
@@ -17583,7 +17584,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t120</idno>
                      <author>
@@ -17714,7 +17715,7 @@
                      <p>Conversation about versions</p>In Dar al-Kutub Cairo (1282/1862) : المسامرات
                      والمحاضرات</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t121</idno>
                      <author>
@@ -17860,7 +17861,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t122</idno>
                      <author>
@@ -17993,7 +17994,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t123</idno>
                      <author>
@@ -18140,7 +18141,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t124</idno>
                      <author>
@@ -18285,7 +18286,7 @@
                      <p>Conversation about versions</p>Ownership inscription from 1944, therefore
                      left out of database</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t125</idno>
                      <author>
@@ -18420,7 +18421,7 @@
                      محمد عليش على شرح شيخ الاسلام : على ايساغوجى فى علم المنطق Rezq says: -- حاشية
                      اسيفوقجي</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t126</idno>
                      <author>
@@ -18565,7 +18566,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t127</idno>
                      <author>
@@ -18712,7 +18713,7 @@
                      <p>Conversation about versions</p>3 Bulaq editions until 1870; latest is
                      1868:</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t128</idno>
                      <author>
@@ -18860,7 +18861,7 @@
                      earlier one from Bulaq 1266:
                      https://catalog.hathitrust.org/Record/009035609</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t129</idno>
                      <author>
@@ -19009,7 +19010,7 @@
                      1270: https://iiif.lib.harvard.edu/manifests/view/drs:428522702$1i; Rezq says:
                      - حاشية الشجاعي على ابن </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t130</idno>
                      <author>
@@ -19150,7 +19151,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t131</idno>
                      <author>
@@ -19281,7 +19282,7 @@
                   <note type="conversation">
                      <p>Conversation about versions</p>Contempory MSS in Dar al-Kutub, Cairo</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t132</idno>
                      <author>
@@ -19421,7 +19422,7 @@
                   <note type="conversation">
                      <p>Conversation about versions</p>- اداب؟ - no answer from Rizq</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t133</idno>
                      <author>
@@ -19567,7 +19568,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t134</idno>
                      <author>
@@ -19698,7 +19699,7 @@
                      <p>Conversation about versions</p>Several options, including Turkey (1870) and
                      India (?1865, and 1852)</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t135</idno>
                      <author>
@@ -19845,7 +19846,7 @@
                      <p>Conversation about versions</p>British Library has three editions 1862,
                      1864, 1870</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t136</idno>
                      <author>
@@ -19989,7 +19990,7 @@
                      Arabic. Original French in 1864:
                      http://gallica.bnf.fr/ark:/12148/bpt6k110069w.image</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t137</idno>
                      <author>
@@ -20131,7 +20132,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t138</idno>
                      <author>
@@ -20279,7 +20280,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t139</idno>
                      <author>
@@ -20425,7 +20426,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t140 </idno>
                      <author>
@@ -20558,7 +20559,7 @@
                      unable to obtain a copy: http://www.worldcat.org/oclc/57199669. Columbia's is
                      in use. 31 May 2018.</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t141</idno>
                      <author>
@@ -20706,7 +20707,7 @@
                      page (2-50) collection of taqariz from many who read the work after it was
                      printed</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t142</idno>
                      <author>
@@ -20838,7 +20839,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t143</idno>
                      <author>
@@ -20983,7 +20984,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t144</idno>
                      <author>
@@ -21127,7 +21128,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t145</idno>
                      <author>
@@ -21272,7 +21273,7 @@
                      <p>Conversation about versions</p>No physical noted to correspond with digital
                      scan; Harvard owns a copy</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t146</idno>
                      <author>
@@ -21406,7 +21407,7 @@
                      <p>Conversation about versions</p>Perhaps Dar al-Kutub Cairo has a copy,
                      printed in 1870 at madaris malikiyah</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t147</idno>
                      <author>
@@ -21547,7 +21548,7 @@
                      in Beirut, but I can't seem to find a date (see Uncertain). I am therefore
                      privileging the Kastaliya from 1862. </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t148</idno>
                      <author>
@@ -21678,7 +21679,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t149</idno>
                      <author>
@@ -21810,7 +21811,7 @@
                      <p>Conversation about versions</p>Could this be Bulaq and not external? If so,
                      see Uncertain (1252 تاريخ فلاسفة اليونان); Rezq says: - تاريخ البلاقسه</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t150</idno>
                      <author>
@@ -21952,7 +21953,7 @@
                      <p>Conversation about versions</p>This is a translation from French into
                      Ottoman (tr. Ibrāhīm Adham) into Arabic (tr. Muḥammad ʻIṣmat.) </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t151</idno>
                      <author>
@@ -22084,7 +22085,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t152</idno>
                      <author>
@@ -22216,7 +22217,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t153</idno>
                      <author>
@@ -22347,7 +22348,7 @@
                      <p>Conversation about versions</p>One posssibility, though unlikely
                      http://books2.scholarsportal.info/viewdoc.html?id=495217#tabview=tab1</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t154</idno>
                      <author>
@@ -22481,7 +22482,7 @@
                      <p>Conversation about versions</p>العهد العتيق ? Rezq: (كلمة غير مقروه جزئها
                      الثاني ولا ارجح ان تكون العهد العتيق) اقرب قراءة (الغررالنقية)</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t155</idno>
                      <author>
@@ -22615,7 +22616,7 @@
                      because it came in 3 volumes. Indiana and AUB are the only libraries on
                      WorldCat to possess a copy; Rezq: - خط بجلد وظرف</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t156</idno>
                      <author>
@@ -22764,7 +22765,7 @@
                      earlier? edition at Harvard:
                      https://iiif.lib.harvard.edu/manifests/view/drs:430355942$312i</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t157</idno>
                      <author>
@@ -22916,7 +22917,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t158</idno>
                      <author>
@@ -23058,7 +23059,7 @@
                      non-Bulaq, lithographed, sponsored by al-'Idwi, in 10 vols in 1863 but I chose
                      the Mumbay one since it is exactly 8 vols.</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t159</idno>
                      <author>
@@ -23206,7 +23207,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t160</idno>
                      <author>
@@ -23348,7 +23349,7 @@
                   <note type="conversation">
                      <p>Conversation about versions</p>Same edition in DK (2 vols in 1)</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t161</idno>
                      <author>
@@ -23483,7 +23484,7 @@
                      that can be a matn). Harvard has it in the physical.
                      https://hollis.harvard.edu/primo-explore/search?query=any,contains,kitab%20al-muwatta%27&amp;tab=everything&amp;search_scope=everything&amp;sortby=rank&amp;vid=HVD2&amp;facet=searchcreationdate,include,1800%7C,%7C1870&amp;lang=en_US&amp;offset=0</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t162</idno>
                      <author>
@@ -23620,7 +23621,7 @@
                      http://gdc.galegroup.com.ezp-prod1.hul.harvard.edu/gdc/artemis/MonographsDetailsPage/MonographsDetailsWindow?disableHighlighting=false&amp;displayGroupName=DVI-Monographs&amp;docIndex=&amp;source=&amp;prodId=EAPB&amp;mode=view&amp;limiter=&amp;display-query=&amp;contentModules=&amp;action=e&amp;sortBy=&amp;windowstate=normal&amp;currPage=&amp;dviSelectedPage=1&amp;scanId=&amp;query=&amp;search_within_results=&amp;p=EAPB&amp;catId=&amp;u=camb55135&amp;displayGroups=&amp;documentId=GALE%7CPNVSOZ070453633&amp;activityType=&amp;failOverType=&amp;commentary=
                      http://gdc.galegroup.com.ezp-prod1.hul.harvard.edu/gdc/artemis/MonographsDetailsPage/MonographsDetailsWindow?disableHighlighting=false&amp;displayGroupName=DVI-Monographs&amp;docIndex=9&amp;source=fullList&amp;prodId=EAPB&amp;mode=view&amp;limiter=DA+118600101+-+118691231&amp;display-query=OQE+تفسير+الجلالين&amp;contentModules=&amp;action=e&amp;sortBy=&amp;windowstate=normal&amp;currPage=1&amp;dviSelectedPage=&amp;scanId=&amp;query=OQE+تفسير+الجلالين&amp;search_within_results=&amp;p=EAPB&amp;catId=&amp;u=camb55135&amp;displayGroups=&amp;documentId=GALE%7CUGQVFU150721336&amp;activityType=BasicSearch&amp;failOverType=&amp;commentary=</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t163</idno>
                      <author>
@@ -23762,7 +23763,7 @@
                      http://www.worldcat.org/oclc/978680663; a two-vol edition (1869-70) from Bulaq
                      at BL Gale; Rezq - مغني اللبيب مهمش !</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t164</idno>
                      <author>
@@ -23915,7 +23916,7 @@
                      <p>Conversation about versions</p>Full 1855 Bulaq edition in five:
                      https://catalog.hathitrust.org/Record/009036636</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t165</idno>
                      <author>
@@ -24067,7 +24068,7 @@
                      the kashshaf the DK catalogues thought that Castelli's play with words is
                      actually Bulaq...</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t166</idno>
                      <author>
@@ -24201,7 +24202,7 @@
                      an 1279 folio edition in Egypt (is that the Castelli one?); Rezq:
                      الامعان</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t167</idno>
                      <author>
@@ -24334,7 +24335,7 @@
                      after Naggari's death in Bulaq, Utah, Israel,
                      https://www.worldcat.org/oclc/235981411&amp;referer=brief_results</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t168</idno>
                      <author>
@@ -24481,7 +24482,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t169</idno>
                      <author>
@@ -24616,7 +24617,7 @@
                      Gale,
                      https://gdc-gale-com.ezp-prod1.hul.harvard.edu/gdc/artemis/MonographsDetailsPage/MonographsDetailsWindow?disableHighlighting=false&amp;displayGroupName=DVI-Monographs&amp;docIndex=2&amp;source=fullList&amp;prodId=EAPB&amp;mode=view&amp;limiter=&amp;display-query=OQE+%D8%A7%D9%84%D9%81%D8%AA%D8%A7%D9%88%D9%89+%D8%A7%D9%84%D8%AE%D9%8A%D8%B1%D9%8A%D8%A9&amp;contentModules=&amp;action=e&amp;sortBy=&amp;windowstate=normal&amp;currPage=1&amp;dviSelectedPage=&amp;scanId=&amp;query=OQE+%D8%A7%D9%84%D9%81%D8%AA%D8%A7%D9%88%D9%89+%D8%A7%D9%84%D8%AE%D9%8A%D8%B1%D9%8A%D8%A9&amp;search_within_results=&amp;p=EAPB&amp;catId=&amp;u=camb55135&amp;displayGroups=&amp;documentId=GALE%7CNKXGZG623481179&amp;activityType=BasicSearch&amp;failOverType=&amp;commentary=</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t170</idno>
                      <author>
@@ -24762,7 +24763,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t171</idno>
                      <author>
@@ -24897,7 +24898,7 @@
                      following?: متن الالفية / المعرب الجواليقي / معرب الاظهار, Rezq: - معرب
                      الألفية</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t172</idno>
                      <author>
@@ -25039,7 +25040,7 @@
                      digitized. There is an 1866 edition by Wahbi, also in 4 vol. but not digitized
                      - ASKING MCGILL PERHAPS ? and a Lucknow one from 1864 in BL Gale </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t173</idno>
                      <author>
@@ -25188,7 +25189,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t174</idno>
                      <author>
@@ -25340,7 +25341,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t175</idno>
                      <author>
@@ -25471,7 +25472,7 @@
                   <note type="conversation">
                      <p>Conversation about versions</p>Indiana, but Shahin</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t176</idno>
                      <author>
@@ -25616,7 +25617,7 @@
                   <note type="conversation">
                      <p>Conversation about versions</p>second edition</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t177</idno>
                      <author>
@@ -25748,7 +25749,7 @@
                      <p>Conversation about versions</p>One non-Bulaq edition:
                      http://public-content.library.mcgill.ca/digitization/rbsc_isl_hadha-manaqib_BP1931A3M361863.pdf</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t178</idno>
                      <author>
@@ -25880,7 +25881,7 @@
                      versions</p>https://hollis.harvard.edu/primo-explore/fulldisplay?docid=01HVD_ALMA211841954530003941&amp;context=L&amp;vid=HVD2&amp;lang=en_US&amp;search_scope=default_scope&amp;adaptor=Local%20Search%20Engine&amp;tab=books&amp;query=lsr02,contains,33924714
                      but there is also this http://www.worldcat.org/oclc/1104796425</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t179</idno>
                      <author>
@@ -26027,7 +26028,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t180</idno>
                      <author>
@@ -26174,7 +26175,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t181</idno>
                      <author>
@@ -26305,7 +26306,7 @@
                      <p>Conversation about versions</p>BnF/Stanford/Durham; no online copy;
                      http://www.worldcat.org/oclc/912702111</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t182</idno>
                      <author>
@@ -26456,7 +26457,7 @@
                      ابراهيم السقا
                      http://gdc.galegroup.com.ezp-prod1.hul.harvard.edu/gdc/artemis/MonographsDetailsPage/MonographsDetailsWindow?disableHighlighting=false&amp;displayGroupName=DVI-Monographs&amp;docIndex=1&amp;source=&amp;prodId=EAPB&amp;mode=view&amp;limiter=&amp;display-query=OQE+فضائل+شهر+رمضان&amp;contentModules=&amp;action=e&amp;sortBy=&amp;windowstate=normal&amp;currPage=1&amp;dviSelectedPage=1&amp;scanId=&amp;query=OQE+فضائل+شهر+رمضان&amp;search_within_results=&amp;p=EAPB&amp;catId=&amp;u=camb55135&amp;displayGroups=&amp;documentId=GALE%7CIXDAXH050122228&amp;activityType=BasicSearch&amp;failOverType=&amp;commentary=</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t183</idno>
                      <author>
@@ -26588,7 +26589,7 @@
                      <p>Conversation about versions</p>http://catalog.nypl.org/search/o780166894; no
                      scan available</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t184</idno>
                      <author>
@@ -26731,7 +26732,7 @@
                      <p>Conversation about versions</p>The multazims of the original ms are
                      indicated. In 1860 there is a Ḥāshiyat Matn al-Shamāʾil from Būlāq.</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t185</idno>
                      <author>
@@ -26862,7 +26863,7 @@
                      <p>Conversation about versions</p>http://www.worldcat.org/oclc/950747426!!
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t186</idno>
                      <author>
@@ -27005,7 +27006,7 @@
                      <p>Conversation about versions</p>2 volumes bound together as one; BUT THERE IS
                      A CLOSER EDITION TO HIS DEATH: http://www.worldcat.org/oclc/4771229596</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t187</idno>
                      <author>
@@ -27148,7 +27149,7 @@
                      <p>Conversation about versions</p>Princeton: OR THIS ONE
                      ??http://www.worldcat.org/oclc/31086278 </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t188</idno>
                      <author>
@@ -27298,7 +27299,7 @@
                      <p>Conversation about versions</p>2 volumes bound together as one; [al-Maṭba‘ah
                      al-Kastalīyah?]</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t189</idno>
                      <author>
@@ -27429,7 +27430,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t190</idno>
                      <author>
@@ -27564,7 +27565,7 @@
                      1855 edition: http://dlib.nyu.edu/aco/book/princeton_aco000458/10; an 1851
                      European is https://catalog.hathitrust.org/Record/001337203</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t191</idno>
                      <author>
@@ -27711,7 +27712,7 @@
                      <p>Conversation about versions</p>many earlier editions, 1275:
                      https://babel.hathitrust.org/cgi/pt?id=umn.31951d01193125n;view=1up;seq=192</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t192</idno>
                      <author>
@@ -27857,7 +27858,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t193</idno>
                      <author>
@@ -27992,7 +27993,7 @@
                      al-Nafzī al-Rundī / Aḥmad b. ʻAṭā' Allāh al-Sakandarī / ʿAbd Allāh b. Ḥijāzī
                      al-Sharqāwī</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t194</idno>
                      <author>
@@ -28137,7 +28138,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t195</idno>
                      <author>
@@ -28282,7 +28283,7 @@
                      <p>Conversation about versions</p>A different edition from 1277:
                      https://catalog.hathitrust.org/Record/102744705</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t196</idno>
                      <author>
@@ -28428,7 +28429,7 @@
                      <p>Conversation about versions</p>2nd edition (first edition: Castelli,
                      1864)</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t197</idno>
                      <author>
@@ -28561,7 +28562,7 @@
                      https://iiif.lib.harvard.edu/manifests/view/drs:428521413$1i ;
                      http://www.worldcat.org/oclc/1022834850</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t198</idno>
                      <author>
@@ -28695,7 +28696,7 @@
                      the end. : كنوز الصحة و يواقيت المنح
                      https://duke.app.box.com/file/383184750545; so far it is in "uncertain"</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t199</idno>
                      <author>
@@ -28826,7 +28827,7 @@
                      <p>Conversation about versions</p>Possible?
                      https://www.nli.org.il/en/books/NNL_ALEPH001964401/NLI</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t200</idno>
                      <author>
@@ -28976,7 +28977,7 @@
                      <p>Conversation about versions</p>This is second edition; first edition is
                      1837, Būlāq</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t201</idno>
                      <author>
@@ -29118,7 +29119,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t202</idno>
                      <author>
@@ -29265,7 +29266,7 @@
                      <p>Conversation about versions</p>See Kh. Fahmy, In Quest of Justice, Chapter
                      One, n. 116.</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t203</idno>
                      <author>
@@ -29396,7 +29397,7 @@
                      <p>Conversation about versions</p>Perhaps: Kitab al-Hijayah ?
                      http://tinyurl.gale.com/tinyurl/D7jPc2 - recheck , Rezq confirms Hijāyah</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t204</idno>
                      <author>
@@ -29529,7 +29530,7 @@
                      https://iiif.lib.harvard.edu/manifests/view/drs:42635162$1i or
                      http://www.worldcat.org/oclc/4770571880</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t205</idno>
                      <author>
@@ -29672,7 +29673,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t206</idno>
                      <author>
@@ -29804,7 +29805,7 @@
                      <p>Conversation about versions</p>Perhaps
                      https://catalog.hathitrust.org/Record/009031625</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t207</idno>
                      <author>
@@ -29955,7 +29956,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t208</idno>
                      <author>
@@ -30086,7 +30087,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t209</idno>
                      <author>
@@ -30217,7 +30218,7 @@
                      <p>Conversation about versions</p>Perhaps let's ask Rachida Chich and Cathrine
                      Mayeaur; close but not likely: http://www.worldcat.org/oclc/773279346</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t210</idno>
                      <author>
@@ -30361,7 +30362,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t211</idno>
                      <author>
@@ -30493,7 +30494,7 @@
                   <note type="conversation">
                      <p>Conversation about versions</p>PRINTED ?</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t212</idno>
                      <author>
@@ -30638,7 +30639,7 @@
                      I do not think Rezq's reading is good but that'swhat we have and I made this
                      item red</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t213</idno>
                      <author>
@@ -30770,7 +30771,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t214</idno>
                      <author>
@@ -30902,7 +30903,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t215</idno>
                      <author>
@@ -31048,7 +31049,7 @@
                </biblStruct>
             </listBibl>
             <listBibl xml:id="d1e20463">
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t151/2</idno>
                      <author>
@@ -31179,7 +31180,7 @@
                      <p>Conversation about versions</p>Earlier remark:
                      https://www.worldcat.org/title/hshiyat-al-kafrw-shar-matn-al-jurrmyah-al-musammh-bi-minat-al-karm-al-wahhb-wa-fat-abwb-al-naw-lil-ullb-lil-fil-amad-al-najjr/oclc/978625082?referer=br&amp;ht=edition</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t151/3</idno>
                      <author>
@@ -31310,7 +31311,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t151/4</idno>
                      <author>
@@ -31441,7 +31442,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t151/5</idno>
                      <author>
@@ -31573,7 +31574,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t151/6</idno>
                      <author>
@@ -31704,7 +31705,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t151/7</idno>
                      <author>
@@ -31835,7 +31836,7 @@
                      <p>Conversation about versions</p>Dar al-Kutub has al-Marghinānī, Kitab
                      al-Hidayah (1870)</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t151/8</idno>
                      <author>
@@ -31972,7 +31973,7 @@
                      <p>Conversation about versions</p>earlier:
                      https://www.dropbox.com/home/NEH_DHA_Najjari/n1t150_8%20%20n1t150_14?preview=Nuqṭat+al-dāyirah_1855.pdf</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t151/9</idno>
                      <author>
@@ -32112,7 +32113,7 @@
                      <p>Conversation about versions</p>in the Gale BL version there are two pages
                      with pictures at the end</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t151/10</idno>
                      <author>
@@ -32242,7 +32243,7 @@
                   <note type="conversation">
                      <p>Conversation about versions</p>?</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t151/11</idno>
                      <author>
@@ -32373,7 +32374,7 @@
                      <p>Conversation about versions</p>perhaps:
                      http://www.worldcat.org/oclc/978492764</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t151/12</idno>
                      <author>
@@ -32504,7 +32505,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t151/13</idno>
                      <author>
@@ -32643,7 +32644,7 @@
                </biblStruct>
             </listBibl>
             <listBibl xml:id="d1e21443">
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t152/2</idno>
                      <author>
@@ -32788,7 +32789,7 @@
                      <p>Conversation about versions</p>WorldCat indicates an 1870 copy but I think
                      it is a mistake, there is only one from 1861.</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t152/3</idno>
                      <author>
@@ -32925,7 +32926,7 @@
                   <note type="conversation">
                      <p>Conversation about versions</p>Aṭbāq al-Dhahab</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t152/4</idno>
                      <author>
@@ -33068,7 +33069,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t152/5</idno>
                      <author>
@@ -33208,7 +33209,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t152/6</idno>
                      <author>
@@ -33353,7 +33354,7 @@
                      <p>Conversation about versions</p>There is a Castelli edition from the same
                      year at Gale BL, http://www.worldcat.org/oclc/978631226</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t152/7</idno>
                      <author>
@@ -33484,7 +33485,7 @@
                      <p>Conversation about versions</p>possibly this one: حاشية محمد الدمنهورى على
                      متن الكافى فى علمى العروض والقوافى, 1285, no digital copy</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t152/8</idno>
                      <author>
@@ -33619,7 +33620,7 @@
                      <p>Conversation about versions</p>Possibly, 1869:
                      https://catalog.hathitrust.org/Record/102656752</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t152/9</idno>
                      <author>
@@ -33753,7 +33754,7 @@
                      https://gdc-gale-com.proxy.lib.duke.edu/gdc/artemis/MonographsDetailsPage/MonographsDetailsWindow?disableHighlighting=false&amp;displayGroupName=DVI-Monographs&amp;docIndex=1&amp;source=&amp;prodId=EAPB&amp;mode=view&amp;limiter=&amp;display-query=OQE+talkhys&amp;contentModules=&amp;action=e&amp;sortBy=&amp;windowstate=normal&amp;currPage=1&amp;dviSelectedPage=&amp;scanId=&amp;query=OQE+talkhys&amp;search_within_results=&amp;p=EAPB&amp;catId=&amp;u=duke_perkins&amp;displayGroups=&amp;documentId=GALE%7CJXXWGD506660702&amp;activityType=BasicSearch&amp;failOverType=&amp;commentary=;
                      Rezq: رسالة في تصليح الحساب</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t152/10</idno>
                      <author>
@@ -33884,7 +33885,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t152/11</idno>
                      <author>
@@ -34015,7 +34016,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t152/12</idno>
                      <author>
@@ -34146,7 +34147,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t152/13</idno>
                      <author>
@@ -34280,7 +34281,7 @@
                </biblStruct>
             </listBibl>
             <listBibl xml:id="d1e22488">
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t213-2</idno>
                      <author>
@@ -34412,7 +34413,7 @@
                      <p>Conversation about
                      versions</p>http://gdc.galegroup.com.ezp-prod1.hul.harvard.edu/gdc/artemis/MonographsDetailsPage/MonographsDetailsWindow?disableHighlighting=false&amp;displayGroupName=DVI-Monographs&amp;docIndex=1&amp;source=&amp;prodId=EAPB&amp;mode=view&amp;limiter=&amp;display-query=OQE+الطب+العملي&amp;contentModules=&amp;action=e&amp;sortBy=&amp;windowstate=normal&amp;currPage=1&amp;dviSelectedPage=&amp;scanId=&amp;query=OQE+الطب+العملي&amp;search_within_results=&amp;p=EAPB&amp;catId=&amp;u=camb55135&amp;displayGroups=&amp;documentId=GALE%7CWCVJZI306955024&amp;activityType=BasicSearch&amp;failOverType=&amp;commentary=</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t213-3</idno>
                      <author>
@@ -34554,7 +34555,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t213-4</idno>
                      <author>
@@ -34698,7 +34699,7 @@
                      <p>Conversation about versions</p>Two more copies of the same print in BBS -
                      interesting comparisons</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t213-5</idno>
                      <author>
@@ -34831,7 +34832,7 @@
                      <p>Conversation about versions</p>Isn't it Tuhfat Wahbi? Many editions, latest:
                      http://www.worldcat.org/oclc/1064648248; Rezk: ، تمغه دهبي 2 جزء</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t213-6</idno>
                      <author>
@@ -34962,7 +34963,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t213-7</idno>
                      <author>
@@ -35093,7 +35094,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t213-8</idno>
                      <author>
@@ -35223,7 +35224,7 @@
                   <note type="conversation">
                      <p>Conversation about versions</p>Rezq:- تعريف اوكويرا</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t213-9</idno>
                      <author>
@@ -35367,7 +35368,7 @@
                      <p>Conversation about versions</p>at the end unpaginated pages with geometric
                      images</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t213-10</idno>
                      <author>
@@ -35509,7 +35510,7 @@
                   <note type="conversation">
                      <p>Conversation about versions</p>Lots of editions</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t213-11</idno>
                      <author>
@@ -35641,7 +35642,7 @@
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t213-12</idno>
                      <author>
@@ -35772,7 +35773,7 @@
                      <p>Conversation about versions</p>perhaps Kashf al-ḥijāb fī ʿilm al-ḥisāb there
                      is an 1848 edition scanned at Gale; Rezq: - RECHECL - كتاب في الحساب</note>
                </biblStruct>
-               <biblStruct>
+               <biblStruct type="row">
                   <analytic>
                      <idno n="titleID">n1t213-13</idno>
                      <author>
@@ -35905,6 +35906,7 @@
                      Cairo</note>
                </biblStruct>
             </listBibl>
+           
          </div>
       </body>
    </text>

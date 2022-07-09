@@ -99,6 +99,7 @@
          </div>
       </front>
       <body>
+         <head xml:id="nManuHead">Manuscripts</head>
          <table xml:id="tm1">
             <row>
                <cell n="1">ID</cell>
