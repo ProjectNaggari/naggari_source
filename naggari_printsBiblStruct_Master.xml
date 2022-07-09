@@ -731,6 +731,7 @@
       </front>
       <body>
          <div type="table" xml:id="nTables">
+            <head xml:id="nTablesHead">Printed Books</head>
             <listBibl xml:id="d1e289">
                <biblStruct>
                   <analytic>
