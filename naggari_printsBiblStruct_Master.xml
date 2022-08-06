@@ -58,9 +58,11 @@
                <persName xml:id="pHC" xml:lang="en">Hugh Cayless</persName>
             </respStmt>
             <respStmt>
-               <resp>We received help from</resp>
+               <resp>We received advice and help from</resp>
                <name xml:id="pJBP">Joseph Ben Prestel</name>
                <name xml:id="pDL">Daniel Lowe</name>
+               <name xml:id="pGB">Gay Burak</name>
+               <name xml:id="pBL">Boris Liebrenz</name>
                <name xml:id="pYSH">Yahia Shawkat</name>
             </respStmt>
          </editionStmt>
@@ -171,7 +173,7 @@
                   <surname xml:lang="en">Nori</surname>
                </persName>
             </p>
-            <p>With help from <name>Joseph Ben Prestel</name>, <name>Daniel Lowe</name>, and
+            <p>With help from <name>Joseph Ben Prestel</name>, <name>Daniel Lowe</name>, <name>Guy Burak</name>, <name>Boris Liebrenz</name>, and
                   <name>Yahia Shawkat</name>
             </p>
             <p>TEI XML transformation, markup, codes and concept of HTML website by <persName ref="#pAM">Adam Mestyan</persName>
