@@ -796,7 +796,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -946,7 +946,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -1102,7 +1102,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -1251,7 +1251,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -1396,7 +1396,7 @@
                         <note type="pressType" xml:lang="ar" source="#d"> براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -1542,7 +1542,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -1694,7 +1694,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -1842,7 +1842,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -1991,7 +1991,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -2139,7 +2139,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">[براني]</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">[external]</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -2290,7 +2290,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">[ميري]</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">[government]</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -2442,7 +2442,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">[ميري]</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">[government]</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -2577,7 +2577,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -2708,7 +2708,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -2854,7 +2854,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -3005,7 +3005,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -3155,7 +3155,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -3299,7 +3299,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -3443,7 +3443,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -3580,7 +3580,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -3728,7 +3728,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -3861,7 +3861,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -4005,7 +4005,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -4148,7 +4148,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -4283,7 +4283,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">[ميري]</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">[government]</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -4413,7 +4413,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -4557,7 +4557,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -4702,7 +4702,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -4852,7 +4852,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -5004,7 +5004,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -5145,7 +5145,7 @@
                         <note type="pressType" xml:lang="ar" source="#d"/>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d"/>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -5286,7 +5286,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -5431,7 +5431,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -5577,7 +5577,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -5721,7 +5721,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -5872,7 +5872,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -6016,7 +6016,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -6161,7 +6161,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -6308,7 +6308,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -6454,7 +6454,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">[براني]</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">[external]</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -6599,7 +6599,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">[براني]</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">[external]</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -6746,7 +6746,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">[براني]</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">[external]</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -6889,7 +6889,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -7024,7 +7024,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -7165,7 +7165,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -7310,7 +7310,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -7449,7 +7449,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -7597,7 +7597,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -7745,7 +7745,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -7888,7 +7888,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -8022,7 +8022,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -8157,7 +8157,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -8309,7 +8309,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -8457,7 +8457,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -8605,7 +8605,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -8739,7 +8739,7 @@
                         <note type="pressType" xml:lang="ar" source="#d"/>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d"/>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -8883,7 +8883,7 @@
                         <note type="pressType" xml:lang="ar" source="#d"/>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d"/>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -9031,7 +9031,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">[ميري]</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">[government]</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -9179,7 +9179,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">[براني]</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">[external]</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -9328,7 +9328,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">[براني]</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">[external]</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -9464,7 +9464,7 @@
                         <note type="pressType" xml:lang="ar" source="#d"/>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d"/>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -9609,7 +9609,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">[ميري]</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">[government]</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -9762,7 +9762,7 @@
                         <note type="pressType" xml:lang="ar" source="#d"/>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d"/>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -9897,7 +9897,7 @@
                         <note type="pressType" xml:lang="ar" source="#d"/>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d"/>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -10030,7 +10030,7 @@
                         <note type="pressType" xml:lang="ar" source="#d"/>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d"/>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -10172,7 +10172,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">[براني]</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">[external]</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -10314,7 +10314,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -10463,7 +10463,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">[براني]</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">[external]</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -10600,7 +10600,7 @@
                         <note type="pressType" xml:lang="ar" source="#d"/>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d"/>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -10745,7 +10745,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -10887,7 +10887,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -11024,7 +11024,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -11158,7 +11158,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -11290,7 +11290,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -11435,7 +11435,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -11581,7 +11581,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -11729,7 +11729,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -11876,7 +11876,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -12019,7 +12019,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -12152,7 +12152,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -12297,7 +12297,7 @@
                         <note type="pressType" xml:lang="ar" source="#d"> ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -12440,7 +12440,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -12576,7 +12576,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -12720,7 +12720,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -12853,7 +12853,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -12995,7 +12995,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -13136,7 +13136,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -13267,7 +13267,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -13409,7 +13409,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -13555,7 +13555,7 @@
                         <note type="pressType" xml:lang="ar" source="#d"> ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -13704,7 +13704,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -13849,7 +13849,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -13981,7 +13981,7 @@
                         <note type="pressType" xml:lang="ar" source="#d"> ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -14124,7 +14124,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -14257,7 +14257,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -14400,7 +14400,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -14547,7 +14547,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -14679,7 +14679,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -14822,7 +14822,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -14968,7 +14968,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -15114,7 +15114,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -15246,7 +15246,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -15389,7 +15389,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -15542,7 +15542,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -15695,7 +15695,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -15839,7 +15839,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -15977,7 +15977,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -16121,7 +16121,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -16264,7 +16264,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -16412,7 +16412,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -16558,7 +16558,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -16697,7 +16697,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -16838,7 +16838,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -16976,7 +16976,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -17117,7 +17117,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -17252,7 +17252,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -17393,7 +17393,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -17532,7 +17532,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -17674,7 +17674,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -17808,7 +17808,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -17950,7 +17950,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -18089,7 +18089,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -18234,7 +18234,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -18384,7 +18384,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -18521,7 +18521,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -18665,7 +18665,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -18812,7 +18812,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -18965,7 +18965,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -19115,7 +19115,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -19259,7 +19259,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -19396,7 +19396,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -19536,7 +19536,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -19679,7 +19679,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -19821,7 +19821,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -19964,7 +19964,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -20109,7 +20109,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -20253,7 +20253,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -20405,7 +20405,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -20554,7 +20554,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -20690,7 +20690,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -20835,7 +20835,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -20976,7 +20976,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -21119,7 +21119,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -21264,7 +21264,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -21410,7 +21410,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -21550,7 +21550,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -21689,7 +21689,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -21828,7 +21828,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -21963,7 +21963,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -22101,7 +22101,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -22237,7 +22237,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -22369,7 +22369,7 @@
                         <note type="pressType" xml:lang="ar" source="#d"/>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d"/>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -22503,7 +22503,7 @@
                         <note type="pressType" xml:lang="ar" source="#d"/>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d"/>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -22638,7 +22638,7 @@
                         <note type="pressType" xml:lang="ar" source="#d"/>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d"/>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -22770,7 +22770,7 @@
                         <note type="pressType" xml:lang="ar" source="#d"/>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d"/>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d">bound together and in envelope? (bi-jild
@@ -22915,7 +22915,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -23070,7 +23070,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">[ميري]</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">[government]</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d">bound together (bi-jild)</p>
@@ -23217,7 +23217,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"> bi-jild</p>
@@ -23367,7 +23367,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">[ميري]</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">[government]</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d">bound together (bi-jild)</p>
@@ -23517,7 +23517,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -23661,7 +23661,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -23797,7 +23797,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -23940,7 +23940,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">الهند</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">Al-Hind</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -24094,7 +24094,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -24250,7 +24250,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -24393,7 +24393,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -24528,7 +24528,7 @@
                         <note type="pressType" xml:lang="ar" source="#d"/>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d"/>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -24670,7 +24670,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">[ميري]</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">[government]</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -24813,7 +24813,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -24958,7 +24958,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -25097,7 +25097,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -25238,7 +25238,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -25391,7 +25391,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -25548,7 +25548,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -25691,7 +25691,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -25834,7 +25834,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -25975,7 +25975,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">ميري</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">government</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -26106,7 +26106,7 @@
                         <note type="pressType" xml:lang="ar" source="#d"/>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d"/>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -26251,7 +26251,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">[براني]</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">[external]</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -26405,7 +26405,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">[براني]</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">[external]</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -26539,7 +26539,7 @@
                         <note type="pressType" xml:lang="ar" source="#d"/>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d"/>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -26683,7 +26683,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">[براني]</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">[external]</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -26824,7 +26824,7 @@
                         <note type="pressType" xml:lang="ar" source="#d"/>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d"/>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -26966,7 +26966,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">[براني]</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">[external]</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -27101,7 +27101,7 @@
                         <note type="pressType" xml:lang="ar" source="#d"/>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d"/>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -27244,7 +27244,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">[براني]</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">[external]</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -27391,7 +27391,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">[ميري]</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">[government]</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -27545,7 +27545,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">?</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">?</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -27683,7 +27683,7 @@
                         <note type="pressType" xml:lang="ar" source="#d"/>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d"/>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -27817,7 +27817,7 @@
                         <note type="pressType" xml:lang="ar" source="#d"/>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d"/>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -27961,7 +27961,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">[ميري]</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">[government]</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -28108,7 +28108,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">[ميري]</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">[government]</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -28250,7 +28250,7 @@
                         <note type="pressType" xml:lang="ar" source="#d"/>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d"/>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -28397,7 +28397,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">[براني]</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">[external]</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -28552,7 +28552,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">[براني]</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">[external]</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -28698,7 +28698,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">[ميري]</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">[government]</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -28833,7 +28833,7 @@
                         <note type="pressType" xml:lang="ar" source="#d"/>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d"/>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -28969,7 +28969,7 @@
                         <note type="pressType" xml:lang="ar" source="#d"/>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d"/>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -29103,7 +29103,7 @@
                         <note type="pressType" xml:lang="ar" source="#d"/>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d"/>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -29248,7 +29248,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">[ميري]</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">[government]</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -29394,7 +29394,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">[براني]</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">[external]</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -29541,7 +29541,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">[ميري]</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">[government]</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -29679,7 +29679,7 @@
                         <note type="pressType" xml:lang="ar" source="#d"/>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d"/>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -29811,7 +29811,7 @@
                         <note type="pressType" xml:lang="ar" source="#d"/>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d"/>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -29953,7 +29953,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">[براني]</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">[external]</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -30092,7 +30092,7 @@
                         <note type="pressType" xml:lang="ar" source="#d"/>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d"/>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -30236,7 +30236,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">[براني-ميري]</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">[external-government]</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d">Four copies</p>
@@ -30376,7 +30376,7 @@
                         <note type="pressType" xml:lang="ar" source="#d"/>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d"/>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -30510,7 +30510,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">[براني]</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">[external]</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -30652,7 +30652,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">[براني]</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">[external]</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -30790,7 +30790,7 @@
                         <note type="pressType" xml:lang="ar" source="#d"/>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d"/>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -30930,7 +30930,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">[براني]</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">[external]</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -31067,7 +31067,7 @@
                         <note type="pressType" xml:lang="ar" source="#d"/>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d"/>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -31199,7 +31199,7 @@
                         <note type="pressType" xml:lang="ar" source="#d"/>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d"/>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -31341,7 +31341,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">براني</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">external</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d">80 copies bi-jild for 10 qirsh per copy; bidūn
                            jild 680 for 9 qirsh per copy</p>
@@ -31480,7 +31480,7 @@
                         <note type="pressType" xml:lang="ar" source="#d"/>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d"/>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -31611,7 +31611,7 @@
                         <note type="pressType" xml:lang="ar" source="#d"/>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d"/>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -31742,7 +31742,7 @@
                         <note type="pressType" xml:lang="ar" source="#d"/>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d"/>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -31874,7 +31874,7 @@
                         <note type="pressType" xml:lang="ar" source="#d"/>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d"/>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -32005,7 +32005,7 @@
                         <note type="pressType" xml:lang="ar" source="#d"/>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d"/>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -32136,7 +32136,7 @@
                         <note type="pressType" xml:lang="ar" source="#d"/>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d"/>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -32276,7 +32276,7 @@
                         <note type="pressType" xml:lang="ar" source="#d"/>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d"/>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -32421,7 +32421,7 @@
                         <note type="pressType" xml:lang="ar" source="#d"/>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d"/>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -32556,7 +32556,7 @@
                         <note type="pressType" xml:lang="ar" source="#d"/>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d"/>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -32686,7 +32686,7 @@
                         <note type="pressType" xml:lang="ar" source="#d"/>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d"/>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -32817,7 +32817,7 @@
                         <note type="pressType" xml:lang="ar" source="#d"/>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d"/>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -32955,7 +32955,7 @@
                         <note type="pressType" xml:lang="ar" source="#d"/>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d"/>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -33109,7 +33109,7 @@
                         <note type="pressType" xml:lang="ar" source="#d"/>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d"/>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -33251,7 +33251,7 @@
                         <note type="pressType" xml:lang="ar" source="#d"/>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d"/>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -33398,7 +33398,7 @@
                         <note type="pressType" xml:lang="ar" source="#d"/>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d"/>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -33541,7 +33541,7 @@
                         <note type="pressType" xml:lang="ar" source="#d"/>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d"/>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -33691,7 +33691,7 @@
                         <note type="pressType" xml:lang="ar" source="#d"/>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d"/>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -33826,7 +33826,7 @@
                         <note type="pressType" xml:lang="ar" source="#d"/>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d"/>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -33957,7 +33957,7 @@
                         <note type="pressType" xml:lang="ar" source="#d"/>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d"/>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -34097,7 +34097,7 @@
                         <note type="pressType" xml:lang="ar" source="#d"/>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d"/>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -34230,7 +34230,7 @@
                         <note type="pressType" xml:lang="ar" source="#d"/>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d"/>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -34361,7 +34361,7 @@
                         <note type="pressType" xml:lang="ar" source="#d"/>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d"/>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -34492,7 +34492,7 @@
                         <note type="pressType" xml:lang="ar" source="#d"/>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d"/>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -34624,7 +34624,7 @@
                         <note type="pressType" xml:lang="ar" source="#d"/>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d"/>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -34757,7 +34757,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">[ميري]</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">[government]</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -34897,7 +34897,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">[براني]</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">[external]</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -35043,7 +35043,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">[ميري]</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">[government]</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -35180,7 +35180,7 @@
                         <note type="pressType" xml:lang="ar" source="#d"/>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d"/>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -35311,7 +35311,7 @@
                         <note type="pressType" xml:lang="ar" source="#d"/>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d"/>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -35442,7 +35442,7 @@
                         <note type="pressType" xml:lang="ar" source="#d"/>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d"/>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d">ناقص (!)</p>
                         <p xml:lang="en" source="#d"/>
@@ -35573,7 +35573,7 @@
                         <note type="pressType" xml:lang="ar" source="#d"/>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d"/>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -35714,7 +35714,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">[ميري]</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">[government]</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d">nāqiṣ</p>
@@ -35858,7 +35858,7 @@
                         <note type="pressType" xml:lang="ar" source="#d">[براني]</note>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d">[external]</note>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -35994,7 +35994,7 @@
                         <note type="pressType" xml:lang="ar" source="#d"/>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d"/>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -36125,7 +36125,7 @@
                         <note type="pressType" xml:lang="ar" source="#d"/>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d"/>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
@@ -36256,7 +36256,7 @@
                         <note type="pressType" xml:lang="ar" source="#d"/>
                         <note type="pressType" xml:lang="ar-Latn-x-lc" source="#d"/>
                      </noteGrp>
-                     <note source="#d">
+                     <note type="remarks" source="#d">
                         <p xml:lang="en">Extra remarks in Daftar</p>
                         <p xml:lang="ar" source="#d"/>
                         <p xml:lang="en" source="#d"/>
