@@ -774,6 +774,8 @@
                         </resp>
                         <persName xml:lang="ar" source="#d1e418" xml:id="d1e508">حسين بك
                            حسنى</persName>
+                        <persName xml:lang="ar-Latn-x-lc" source="#d1e418" ref="d1e508"> Ḥusayn Bey Ḥusnī
+                       </persName>
                      </respStmt>
                   </analytic>
                   <monogr>
