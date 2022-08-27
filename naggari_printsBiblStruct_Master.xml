@@ -875,10 +875,10 @@
                      <p source="#d1e418"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e418">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e418"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -1031,10 +1031,10 @@
                      <p source="#d1e525">محمد غرت</p>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e525">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e525">1288</date>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -1183,10 +1183,10 @@
                      <p source="#d1e636"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e636">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e636"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -1328,10 +1328,10 @@
                         Vivantes</p>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e742">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e742"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -1472,10 +1472,10 @@
                      <p source="#d1e849"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e849">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e849"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -1621,10 +1621,10 @@
                      <p source="#d1e952"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e952">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e952"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -1772,10 +1772,10 @@
                      <p source="#d1e1058"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e1058">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e1058"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -1921,10 +1921,10 @@
                      <p source="#d1e1166"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e1166">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e1166"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -2070,10 +2070,10 @@
                      <p source="#d1e1269"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e1269">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e1269"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -2217,10 +2217,10 @@
                      <p source="#d1e1372"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e1372">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e1372"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -2371,10 +2371,10 @@
                      <p source="#d1e1477"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e1477">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e1477"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -2517,10 +2517,10 @@
                      <p source="#d1e1582"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e1582">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e1582"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -2651,10 +2651,10 @@
                      <p source="#d1e1688"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e1688">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e1688"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>Uncertain</note>
                </biblStruct>
                <biblStruct type="row">
@@ -2783,10 +2783,10 @@
                      <p source="#d1e1766"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e1766">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e1766"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>Copies at Yale; Bavarian State Library
                      Munich,
                      https://www.worldcat.org/title/hadha-al-juz-al-awwal-al-khamis-min-sharh-al-allamah-wa-al-imam-al-fahhamah-muhyi-al-din-yahya-al-nawawi-ala-sahih-al-imam-muslim-ibn-al-hajjaj-al-qushayri/oclc/122787546&amp;referer=brief_results</note>
@@ -2933,10 +2933,10 @@
                         Honorable Sir R [Wilmot Norton?] Zelheddge 25. 1253</p>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e1848">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e1848">Zelheddge 25. 1253</date>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -3084,10 +3084,10 @@
                      <p source="#d1e1958">several</p>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e1958">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e1958">1306; 1320</date>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -3230,10 +3230,10 @@
                      <p source="#d1e2066"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e2066">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e2066"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -3375,10 +3375,10 @@
                      <p source="#d1e2172"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e2172">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e2172"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -3519,10 +3519,10 @@
                      <p source="#d1e2273"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e2273">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e2273"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>Missing vols. 1 &amp; 3, at least - v. 2 is
                      undated; على يد رئيس تشغيله مصطفى أفندى شاهين </note>
                </biblStruct>
@@ -3654,10 +3654,10 @@
                      <p source="#d1e2368"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e2368">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e2368"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>Copies at Chicago; Binghamton; University of
                      Utah -
                      https://www.worldcat.org/title/hadha-kitab-sarh-al-uyun-fi-sharh-risalat-ibn-zaydun/oclc/40972860&amp;referer=brief_results
@@ -3804,10 +3804,10 @@
                      <p source="#d1e2445"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e2445">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e2445"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -3935,10 +3935,10 @@
                      <p source="#d1e2548"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e2548">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e2548"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>Copy in Dar al-Kutub;
                      http://41.33.22.69/uhtbin/cgisirsi.exe/?ps=ApRmytD8Sq/ELDAR/59240005/9</note>
                </biblStruct>
@@ -4080,10 +4080,10 @@
                      <p source="#d1e2625"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e2625">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e2625"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -4223,10 +4223,10 @@
                      <p source="#d1e2729"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e2729">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e2729"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>second edition</note>
                </biblStruct>
                <biblStruct type="row">
@@ -4357,10 +4357,10 @@
                      <p source="#d1e2830"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e2830">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e2830"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>Uncertain</note>
                </biblStruct>
                <biblStruct type="row">
@@ -4487,10 +4487,10 @@
                      <p source="#d1e2908"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e2908">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e2908"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -4632,10 +4632,10 @@
                      <p source="#d1e2984"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e2984">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e2984"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -4779,10 +4779,10 @@
                      <p source="#d1e3088"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e3088">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e3088"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>http://www.worldcat.org/oclc/945200751.
                      Harvard has similar but not digitized: http://www.worldcat.org/oclc/712907135.
                   </note>
@@ -4932,10 +4932,10 @@
                      <p source="#d1e3193"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e3193">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e3193"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -5085,10 +5085,10 @@
                      <p source="#d1e3301"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e3301">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e3301"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -5219,10 +5219,10 @@
                      <p source="#d1e3409"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e3409">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e3409"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -5361,10 +5361,10 @@
                      <p source="#d1e3481">قد [?] هذا الكتاب في مبك الفقير راجي [عضوعي]...</p>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e3481">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e3481"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -5506,10 +5506,10 @@
                      <p source="#d1e3582"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e3582">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e3582"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -5652,10 +5652,10 @@
                      <p source="#d1e3689"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e3689">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e3689"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>in DoK catalog; worldcat is misspelt as
                      حلبةhttps://www.worldcat.org/oclc/235996234&amp;referer=brief_results</note>
                </biblStruct>
@@ -5800,10 +5800,10 @@
                      <p source="#d1e3792"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e3792">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e3792"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>Turkish translation is the most likely, this
                      is strangely cheap; need parts 2 &amp; 3.</note>
                </biblStruct>
@@ -5947,10 +5947,10 @@
                      <p source="#d1e3896"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e3896">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e3896"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -6094,10 +6094,10 @@
                      <p source="#d1e4002"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e4002">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e4002"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>second edition</note>
                </biblStruct>
                <biblStruct type="row">
@@ -6235,10 +6235,10 @@
                      <p source="#d1e4104"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e4104">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e4104"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>Could also be this text?
                      https://archive.org/details/McGillLibrary-rbsc_isl_hadha-al-mawsum_PJ6620F381850-18811/page/n364
                      This is also language (ghara'ib) and Hurini, 1861, in Cairo, so???
@@ -6387,10 +6387,10 @@
                      <p source="#d1e4199"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e4199">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e4199"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>The titles are different, but hikma may mean
                      medicine...and this the closest hit with Bulaq</note>
                </biblStruct>
@@ -6528,10 +6528,10 @@
                      <p source="#d1e4307"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e4307">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e4307"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -6674,10 +6674,10 @@
                      <p source="#d1e4394"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e4394">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e4394"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -6820,10 +6820,10 @@
                      <p source="#d1e4497"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e4497">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e4497"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>Editions in Calcutta (1815): Gale, Beirut
                      (1860), Berlin (1861): https://catalog.hathitrust.org/Record/100570571</note>
                </biblStruct>
@@ -6964,10 +6964,10 @@
                      <p source="#d1e4597"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e4597">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e4597"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -7102,10 +7102,10 @@
                      <p source="#d1e4698"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e4698">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e4698"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>Need to find a copy to consult:
                      https://www.worldcat.org/title/amarat-al-iktisb-f-ilm-al-isb/oclc/1014638573&amp;referer=brief_results;
                      Yale; PDF behind wall here:
@@ -7239,10 +7239,10 @@
                      <p source="#d1e4792"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e4792">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e4792"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -7385,10 +7385,10 @@
                      <p source="#d1e4868"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e4868">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e4868"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>على يد رئيس تشغيله مصطفى أفندى شاهين ; There
                      is also a lithographic edition, undated, from the era. See 'uncertain'</note>
                </biblStruct>
@@ -7523,10 +7523,10 @@
                      <p source="#d1e4967"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e4967">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e4967"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>translated into Arabic from the Turkish
                      translation of the French</note>
                </biblStruct>
@@ -7677,10 +7677,10 @@
                         الفاحوري الشافعي [البرويي؟] عنهم</p>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e5064">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e5064"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -7820,10 +7820,10 @@
                      <p source="#d1e5164"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e5164">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e5164"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>commissioner unclear, but published in Tunis
                      on account of Khayr al-Din's support of it</note>
                </biblStruct>
@@ -7962,10 +7962,10 @@
                      <p source="#d1e5263"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e5263">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e5263"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -8096,10 +8096,10 @@
                      <p source="#d1e5360"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e5360">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e5360"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>Copy in Dar al-Kutub; "كتاب فقه اللغة و سر
                      العربية" Or/ the 1867 Cairo version described on pp. 48-9 here:
                      https://books.google.com/books?id=sRAwAAAAYAAJ&amp;pg=PA48&amp;lpg=PA48&amp;dq=1861+%22كتاب+فقه+اللغة%22&amp;source=bl&amp;ots=WqrlBnX2gE&amp;sig=ACfU3U29ngR3x59GnXHhbcC8Kfm5VM8RGw&amp;hl=en&amp;ppis=_e&amp;sa=X&amp;ved=2ahUKEwiDlJL8m9zoAhUvlXIEHS3aAHMQ6AEwAXoECAsQKQ#v=onepage&amp;q=1861%20%22كتاب%20فقه%20اللغة%22&amp;f=false
@@ -8231,10 +8231,10 @@
                      <p source="#d1e5437"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e5437">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e5437"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>Copy in Dar al-Kutub; Harvard has a 1284:
                      https://www.worldcat.org/title/hadhihi-hashiyat-al-fadil-al-shaykh-ahmad-al-mihi-al-shaybini-ala-sharh-al-sittin-masalah-lil-ustadh-al-allamah-al-fadil-sayyidi-al-shaykh-ahmad-al-ramli-rahimahu-allah-taala-wa-nafaana-bi-hi-wa-bi-ulumihi-amin/oclc/882132245&amp;referer=brief_results</note>
                </biblStruct>
@@ -8386,10 +8386,10 @@
                      <p source="#d1e5515"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e5515">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e5515"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>تشغيل الشبراوى المطبعجى</note>
                </biblStruct>
                <biblStruct type="row">
@@ -8535,10 +8535,10 @@
                      <p source="#d1e5621"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e5621">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e5621"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>Press under management of Maḥmūd Efendi the
                      Maltese from among the stationers of Khān al-Khalīlī</note>
                </biblStruct>
@@ -8680,10 +8680,10 @@
                      <p source="#d1e5730"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e5730">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e5730"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>Alternative (uncertain) digitization from
                      1279:
                      https://upload.wikimedia.org/wikisource/ar/b/bb/%D8%A5%D8%B9%D9%84%D8%A7%D9%85_%D8%A7%D9%84%D9%86%D8%A7%D8%B3_%D8%A8%D9%85%D8%A7_%D9%88%D9%82%D8%B9_%D9%84%D9%84%D8%A8%D8%B1%D8%A7%D9%85%D9%83%D8%A9_%D9%85%D8%B9_%D8%A8%D9%86%D9%8A_%D8%A7%D9%84%D8%B9%D8%A8%D8%A7%D8%B3.pdf</note>
@@ -8813,10 +8813,10 @@
                      <p source="#d1e5831"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e5831">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e5831"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>Bulaq cat 1872, p10; perhaps same as
                      52?</note>
                </biblStruct>
@@ -8961,10 +8961,10 @@
                      <p source="#d1e5906"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e5906">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e5906"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>No physical location noted to correspond with
                      digital scan</note>
                </biblStruct>
@@ -9109,10 +9109,10 @@
                      <p source="#d1e6001">من كتب محمد صالح...</p>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e6001">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e6001"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -9257,10 +9257,10 @@
                      <p source="#d1e6109"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e6109">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e6109"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -9407,10 +9407,10 @@
                      <p source="#d1e6209"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e6209">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e6209"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -9538,10 +9538,10 @@
                      <p source="#d1e6313"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e6313">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e6313"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>Ibrahim Sahil, Ibn Sahl, 1862 = 1279; 'abd
                      al-ghani fikri, DK: z133</note>
                </biblStruct>
@@ -9690,10 +9690,10 @@
                      <p source="#d1e6388"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e6388">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e6388"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -9840,10 +9840,10 @@
                      <p source="#d1e6491"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e6491">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e6491"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -9971,10 +9971,10 @@
                      <p source="#d1e6593"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e6593">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e6593"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>Possibly:
                      https://www.worldcat.org/title/fevaid-ul-veledeyn/oclc/1064920036&amp;referer=brief_results
                      / or : https://www.worldcat.org/oclc/929518225&amp;referer=brief_results</note>
@@ -10104,10 +10104,10 @@
                      <p source="#d1e6668"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e6668">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e6668"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -10246,10 +10246,10 @@
                      <p source="#d1e6743"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e6743">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e6743"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -10393,10 +10393,10 @@
                      <p source="#d1e6836"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e6836">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e6836"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -10542,10 +10542,10 @@
                      <p source="#d1e6936"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e6936">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e6936"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -10674,10 +10674,10 @@
                      <p source="#d1e7034"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e7034">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e7034"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -10819,10 +10819,10 @@
                      <p source="#d1e7108"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e7108">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e7108"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -10964,10 +10964,10 @@
                      <p source="#d1e7211"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e7211">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e7211"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>We exceptionally listed the earlier version
                      here, because Muṣṭafā Salāma al-Najjārī was involved in its printing. Second
                      edition: https://catalog.hathitrust.org/Record/008611690; fourth edition:
@@ -11098,10 +11098,10 @@
                      <p source="#d1e7309"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e7309">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e7309"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>Possibly: تفسير الأحلام الكبير; or//
                      https://www.worldcat.org/oclc/929516811&amp;referer=brief_results</note>
                </biblStruct>
@@ -11232,10 +11232,10 @@
                      <p source="#d1e7386"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e7386">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e7386"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -11364,10 +11364,10 @@
                      <p source="#d1e7462"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e7462">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e7462"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -11512,10 +11512,10 @@
                      <p source="#d1e7538"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e7538">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e7538"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>لطائف الظرائف: Here, the issue is that the
                      first two words of the title are in reverse in the copy. Extensive scholarly
                      notes by orientalist, but no named inscription</note>
@@ -11658,10 +11658,10 @@
                      <p source="#d1e7639"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e7639">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e7639"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -11805,10 +11805,10 @@
                      <p source="#d1e7735"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e7735">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e7735"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -11951,10 +11951,10 @@
                      <p source="#d1e7839"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e7839">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e7839"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -12095,10 +12095,10 @@
                      <p source="#d1e7939"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e7939">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e7939"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -12226,10 +12226,10 @@
                      <p source="#d1e8042"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e8042">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e8042"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>Tazyīn al-Aswāq?
                      https://iiif.lib.harvard.edu/manifests/view/drs:428075655$1i, Rezq confirmed: -
                      زبد الاشواق</note>
@@ -12372,10 +12372,10 @@
                      <p source="#d1e8119"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e8119">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e8119"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -12518,10 +12518,10 @@
                      <p source="#d1e8221"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e8221">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e8221"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -12650,10 +12650,10 @@
                      <p source="#d1e8321"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e8321">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e8321"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>National Library of Israel:
                      https://www.worldcat.org/oclc/992631212&amp;referer=brief_results</note>
                </biblStruct>
@@ -12796,10 +12796,10 @@
                         [..?] زكى محمد , not the owner]</p>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e8398">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e8398">1346</date>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -12927,10 +12927,10 @@
                      <p source="#d1e8499"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e8499">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e8499"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about
                      versions</p>https://www.worldcat.org/title/hadha-diwan-nadirat-zamanihi-wa-farid-awanihi/oclc/912701490&amp;referer=brief_results</note>
                </biblStruct>
@@ -13069,10 +13069,10 @@
                      <p source="#d1e8576"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e8576">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e8576"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -13210,10 +13210,10 @@
                      <p source="#d1e8671">J. R. Jewett, Beirut, Oct. 16th, 1884.</p>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e8671">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e8671">Oct. 16th, 1884.</date>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -13341,10 +13341,10 @@
                      <p source="#d1e8770"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e8770">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e8770"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -13484,10 +13484,10 @@
                      <p source="#d1e8846"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e8846">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e8846"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -13631,10 +13631,10 @@
                      <p source="#d1e8944"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e8944">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e8944"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -13782,10 +13782,10 @@
                      <p source="#d1e9046"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e9046">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e9046"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>Press under the management of Maḥmūd Efendi
                      from among the stationers of Khān al-Khalīlī</note>
                </biblStruct>
@@ -13924,10 +13924,10 @@
                      <p source="#d1e9151"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e9151">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e9151"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -14055,10 +14055,10 @@
                      <p source="#d1e9249"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e9249">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e9249"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about
                      versions</p>https://www.worldcat.org/oclc/4771229128&amp;referer=brief_results</note>
                </biblStruct>
@@ -14200,10 +14200,10 @@
                      <p source="#d1e9326"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e9326">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e9326"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -14331,10 +14331,10 @@
                      <p source="#d1e9428"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e9428">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e9428"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -14480,10 +14480,10 @@
                      <p source="#d1e9504"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e9504">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e9504"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -14622,10 +14622,10 @@
                      <p source="#d1e9604"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e9604">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e9604"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -14753,10 +14753,10 @@
                      <p source="#d1e9700"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e9700">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e9700"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>Staatsbibliothek Berlin:
                      http://stabikat.de/DB=1/LNG=EN/CLK?IKT=12&amp;TRM=437634507; Rezq writes: - رشف
                      الدرر</note>
@@ -14900,10 +14900,10 @@
                      <p source="#d1e9778"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e9778">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e9778"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>Two other non-Būlāq editions before 1870:
                      Leipzig (1845), Istanbul (1848)</note>
                </biblStruct>
@@ -15044,10 +15044,10 @@
                      <p source="#d1e9882"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e9882">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e9882"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -15189,10 +15189,10 @@
                      <p source="#d1e9983"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e9983">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e9983"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>Says 469 for final page but it is
                      incorrect</note>
                </biblStruct>
@@ -15320,10 +15320,10 @@
                      <p source="#d1e10087"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e10087">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e10087"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -15471,10 +15471,10 @@
                      <p source="#d1e10163"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e10163">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e10163"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -15627,10 +15627,10 @@
                      <p source="#d1e10263">[likely, but difficult to read]</p>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e10263">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e10263"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>NB - Samaluti spelt incorrectly without alif
                      in book</note>
                </biblStruct>
@@ -15773,10 +15773,10 @@
                      <p source="#d1e10367">[unlikely, but difficult to tell]</p>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e10367">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e10367"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>NB - drawing of a person done by hand on
                      title page (included under ownership inscription)</note>
                </biblStruct>
@@ -15920,10 +15920,10 @@
                      <p source="#d1e10470"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e10470">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e10470"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -16051,10 +16051,10 @@
                      <p source="#d1e10568"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e10568">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e10568"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -16202,10 +16202,10 @@
                      <p source="#d1e10644"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e10644">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e10644"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>NB - colophon states also that this press
                      belongs to Musa Kastali</note>
                </biblStruct>
@@ -16342,10 +16342,10 @@
                      <p source="#d1e10747"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e10747">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e10747"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>Dar al-Kutub Cairo, or OIB Beirut - check
                      title in doc - NB - مستحفظ او متحفظ؟
                      https://vzlbs2.gbv.de/DB=49/LNG=EN/CLK?IKT=12&amp;TRM=871312212, Rezq writes:
@@ -16489,10 +16489,10 @@
                      <p source="#d1e10841"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e10841">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e10841"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -16637,10 +16637,10 @@
                      <p source="#d1e10938"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e10938">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e10938"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -16771,10 +16771,10 @@
                      <p source="#d1e11038"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e11038">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e11038"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>In Dar al-Kutub Cairo, could be: كتاب مجموع
                      من مهمات المتون المستعملة من غالب خواص الفنون; Could also be an undated
                      lithograph published from Fez (see uncertain)</note>
@@ -16919,10 +16919,10 @@
                      <p source="#d1e11118">[unlikely, but difficult to tell]</p>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e11118">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e11118">1263</date>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>Three Būlāq editions (1826, 1834, 1846; Gale
                      says Bulaq 1861, but it does not look like Bulaq, so I used 1846</note>
                </biblStruct>
@@ -17050,10 +17050,10 @@
                      <p source="#d1e11221"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e11221">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e11221"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>Several different hashiya by Bajuri;
                      according to our dating scheme, we should privilege the one on Banat Su'ad,
                      because it came closest to 1870 (Kastaliya, 1869/1286 -- held by Library of
@@ -17191,10 +17191,10 @@
                      <p source="#d1e11298"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e11298">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e11298"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -17326,10 +17326,10 @@
                      <p source="#d1e11374"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e11374">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e11374"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -17471,10 +17471,10 @@
                      <p source="#d1e11450">مختار عباسي</p>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e11450">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e11450"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -17606,10 +17606,10 @@
                      <p source="#d1e11550"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e11550">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e11550"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>Indiana University:
                      https://www.worldcat.org/title/kitab-al-shajarah-al-nabawiyah/oclc/14365515&amp;referer=brief_results</note>
                </biblStruct>
@@ -17751,10 +17751,10 @@
                      <p source="#d1e11627"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e11627">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e11627"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -17882,10 +17882,10 @@
                      <p source="#d1e11722"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e11722">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e11722"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>In Dar al-Kutub Cairo (1282/1862) : المسامرات
                      والمحاضرات</note>
                </biblStruct>
@@ -18029,10 +18029,10 @@
                      <p source="#d1e11800"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e11800">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e11800"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -18163,10 +18163,10 @@
                      <p source="#d1e11901"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e11901">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e11901"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -18315,10 +18315,10 @@
                      <p source="#d1e11977">اديب [نطحى?]</p>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e11977">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e11977">1304</date>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -18461,10 +18461,10 @@
                      <p source="#d1e12083"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e12083">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e12083"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>Ownership inscription from 1944, therefore
                      left out of database</note>
                </biblStruct>
@@ -18595,10 +18595,10 @@
                      <p source="#d1e12181"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e12181">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e12181"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>Could be a few things, for example: كتاب
                      فناري وحاشية قول احمد ومتن ايساغوجيor//حاشية المنطق على شرح ايساغوجي or// حاشية
                      محمد عليش على شرح شيخ الاسلام : على ايساغوجى فى علم المنطق Rezq says: -- حاشية
@@ -18743,10 +18743,10 @@
                      <p source="#d1e12258"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e12258">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e12258"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -18895,10 +18895,10 @@
                      <p source="#d1e12360"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e12360">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e12360"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>3 Bulaq editions until 1870; latest is
                      1868:</note>
                </biblStruct>
@@ -19043,10 +19043,10 @@
                      <p source="#d1e12465"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e12465">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e12465"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>NB: this is a second printing. There is an
                      earlier one from Bulaq 1266:
                      https://catalog.hathitrust.org/Record/009035609</note>
@@ -19193,10 +19193,10 @@
                      <p source="#d1e12568"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e12568">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e12568"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>NB: there is an earlier printing from Bulaq
                      1270: https://iiif.lib.harvard.edu/manifests/view/drs:428522702$1i; Rezq says:
                      - حاشية الشجاعي على ابن </note>
@@ -19338,10 +19338,10 @@
                      <p source="#d1e12672"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e12672">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e12672">1828</date>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -19470,10 +19470,10 @@
                      <p source="#d1e12771"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e12771">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e12771"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>Contempory MSS in Dar al-Kutub, Cairo</note>
                </biblStruct>
                <biblStruct type="row">
@@ -19613,10 +19613,10 @@
                      <p source="#d1e12849"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e12849">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e12849"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>- اداب؟ - no answer from Rizq</note>
                </biblStruct>
                <biblStruct type="row">
@@ -19764,10 +19764,10 @@
                      <p source="#d1e12945"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e12945">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e12945"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -19895,10 +19895,10 @@
                      <p source="#d1e13050"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e13050">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e13050"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>Several options, including Turkey (1870) and
                      India (?1865, and 1852)</note>
                </biblStruct>
@@ -20042,10 +20042,10 @@
                      <p source="#d1e13127"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e13127">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e13127"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>British Library has three editions 1862,
                      1864, 1870</note>
                </biblStruct>
@@ -20187,10 +20187,10 @@
                      <p source="#d1e13228"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e13228">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e13228"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>The book is a translation from French to
                      Arabic. Original French in 1864:
                      http://gallica.bnf.fr/ark:/12148/bpt6k110069w.image</note>
@@ -20335,10 +20335,10 @@
                      <p source="#d1e13330"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e13330">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e13330"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -20485,10 +20485,10 @@
                      <p source="#d1e13426"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e13426">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e13426"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -20632,10 +20632,10 @@
                      <p source="#d1e13525"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e13525">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e13525"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -20764,10 +20764,10 @@
                      <p source="#d1e13626"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e13626">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e13626"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>Dar al-Kutub Cairo has a copy; Duke ILL
                      unable to obtain a copy: http://www.worldcat.org/oclc/57199669. Columbia's is
                      in use. 31 May 2018.</note>
@@ -20917,10 +20917,10 @@
                      <p source="#d1e13703"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e13703">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e13703"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>Appended to the end of this book is a fifty
                      page (2-50) collection of taqariz from many who read the work after it was
                      printed</note>
@@ -21050,10 +21050,10 @@
                      <p source="#d1e13806"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e13806">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e13806"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -21197,10 +21197,10 @@
                      <p source="#d1e13883"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e13883">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e13883"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -21343,10 +21343,10 @@
                      <p source="#d1e13990"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e13990">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e13990"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -21489,10 +21489,10 @@
                      <p source="#d1e14092"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e14092">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e14092"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>No physical noted to correspond with digital
                      scan; Harvard owns a copy</note>
                </biblStruct>
@@ -21624,10 +21624,10 @@
                      <p source="#d1e14194"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e14194">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e14194"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>Perhaps Dar al-Kutub Cairo has a copy,
                      printed in 1870 at madaris malikiyah</note>
                </biblStruct>
@@ -21770,10 +21770,10 @@
                      <p source="#d1e14272"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e14272">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e14272"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>BL claims that there is one from 1864 printed
                      in Beirut, but I can't seem to find a date (see Uncertain). I am therefore
                      privileging the Kastaliya from 1862. </note>
@@ -21902,10 +21902,10 @@
                      <p source="#d1e14367"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e14367">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e14367"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -22037,10 +22037,10 @@
                      <p source="#d1e14443"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e14443">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e14443"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>Could this be Bulaq and not external? If so,
                      see Uncertain (1252 تاريخ فلاسفة اليونان); Rezq says: - تاريخ البلاقسه</note>
                </biblStruct>
@@ -22179,10 +22179,10 @@
                      <p source="#d1e14520"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e14520">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e14520"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>This is a translation from French into
                      Ottoman (tr. Ibrāhīm Adham) into Arabic (tr. Muḥammad ʻIṣmat.) </note>
                </biblStruct>
@@ -22311,10 +22311,10 @@
                      <p source="#d1e14622"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e14622">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e14622"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -22443,10 +22443,10 @@
                      <p source="#d1e14700"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e14700">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e14700"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -22577,10 +22577,10 @@
                      <p source="#d1e14776"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e14776">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e14776"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>One posssibility, though unlikely
                      http://books2.scholarsportal.info/viewdoc.html?id=495217#tabview=tab1</note>
                </biblStruct>
@@ -22712,10 +22712,10 @@
                      <p source="#d1e14854"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e14854">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e14854"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>العهد العتيق ? Rezq: (كلمة غير مقروه جزئها
                      الثاني ولا ارجح ان تكون العهد العتيق) اقرب قراءة (الغررالنقية)</note>
                </biblStruct>
@@ -22845,10 +22845,10 @@
                      <p source="#d1e14927"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e14927">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e14927"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>This must be the 1856 edition from Bulaq,
                      because it came in 3 volumes. Indiana and AUB are the only libraries on
                      WorldCat to possess a copy; Rezq: - خط بجلد وظرف</note>
@@ -22997,10 +22997,10 @@
                      <p source="#d1e15005"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e15005">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e15005"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>Not sure M al-S is the muṣaḥḥiḥ; also an
                      earlier? edition at Harvard:
                      https://iiif.lib.harvard.edu/manifests/view/drs:430355942$312i</note>
@@ -23152,10 +23152,10 @@
                      <p source="#d1e15111"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e15111">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e15111"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -23297,10 +23297,10 @@
                      <p source="#d1e15217"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e15217">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e15217"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>There was another edition, possibly
                      non-Bulaq, lithographed, sponsored by al-'Idwi, in 10 vols in 1863 but I chose
                      the Mumbay one since it is exactly 8 vols.</note>
@@ -23450,10 +23450,10 @@
                      <p source="#d1e15322"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e15322">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e15322"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -23602,10 +23602,10 @@
                      <p source="#d1e15428"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e15428">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e15428"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>Same edition in DK (2 vols in 1)</note>
                </biblStruct>
                <biblStruct type="row">
@@ -23735,10 +23735,10 @@
                      <p source="#d1e15530"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e15530">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e15530"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>This is most likely from Tunis, 1863 (there
                      are Sharhs published from Cairo pre-1870s but this seems to be the only thing
                      that can be a matn). Harvard has it in the physical.
@@ -23871,10 +23871,10 @@
                      <p source="#d1e15607"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e15607">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e15607"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p> - THIS MUST BE DOUBLE CHECKED BECAUSE THIS
                      MUST BE Bulaq but says Rezq: (لم يكتب امام الكتاب هل هو ميري ام براني) NB: The
                      Munbai edition is 1299 = 1882, so not correct. There is an 1862 edition from a
@@ -24020,10 +24020,10 @@
                      <p source="#d1e15684"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e15684">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e15684"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>This must be the edition, from Teheran. There
                      is no Indian edition this time. There is an udentified edition at McGill:
                      http://www.worldcat.org/oclc/978680663; a two-vol edition (1869-70) from Bulaq
@@ -24180,10 +24180,10 @@
                      <p source="#d1e15777"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e15777">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e15777"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>Full 1855 Bulaq edition in five:
                      https://catalog.hathitrust.org/Record/009036636</note>
                </biblStruct>
@@ -24332,10 +24332,10 @@
                      <p source="#d1e15887"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e15887">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e15887"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>This is second edition, first is Shāhīn,
                      available in BL-Gale; DK catalog shows an 1270 Dar al-Ṭibā'a al-'Amira and an
                      1287 Dar al-Ṭibā'a al-'Amira edition but the miladi dates are not good and I
@@ -24467,10 +24467,10 @@
                      <p source="#d1e15995"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e15995">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e15995"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>Itqan has an 1278 Castelli edition, within
                      (!!) an 1287 edition - https://catalog.hathitrust.org/Record/102680923 ; there
                      is also an 1857 Calcutta edition but nowhere is a Bulaq one; Goldziher mentions
@@ -24602,10 +24602,10 @@
                      <p source="#d1e16077"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e16077">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e16077"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>second edition was published just two months
                      after Naggari's death in Bulaq, Utah, Israel,
                      https://www.worldcat.org/oclc/235981411&amp;referer=brief_results</note>
@@ -24752,10 +24752,10 @@
                      <p source="#d1e16153"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e16153">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e16153"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -24887,10 +24887,10 @@
                      <p source="#d1e16258"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e16258">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e16258"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>الفتاوى الخيرية 1276 edition in two vols in
                      Gale,
                      https://gdc-gale-com.ezp-prod1.hul.harvard.edu/gdc/artemis/MonographsDetailsPage/MonographsDetailsWindow?disableHighlighting=false&amp;displayGroupName=DVI-Monographs&amp;docIndex=2&amp;source=fullList&amp;prodId=EAPB&amp;mode=view&amp;limiter=&amp;display-query=OQE+%D8%A7%D9%84%D9%81%D8%AA%D8%A7%D9%88%D9%89+%D8%A7%D9%84%D8%AE%D9%8A%D8%B1%D9%8A%D8%A9&amp;contentModules=&amp;action=e&amp;sortBy=&amp;windowstate=normal&amp;currPage=1&amp;dviSelectedPage=&amp;scanId=&amp;query=OQE+%D8%A7%D9%84%D9%81%D8%AA%D8%A7%D9%88%D9%89+%D8%A7%D9%84%D8%AE%D9%8A%D8%B1%D9%8A%D8%A9&amp;search_within_results=&amp;p=EAPB&amp;catId=&amp;u=camb55135&amp;displayGroups=&amp;documentId=GALE%7CNKXGZG623481179&amp;activityType=BasicSearch&amp;failOverType=&amp;commentary=</note>
@@ -25036,10 +25036,10 @@
                      <p source="#d1e16335"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e16335">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e16335"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -25171,10 +25171,10 @@
                      <p source="#d1e16435"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e16435">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e16435"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>Not sure of the title, perhaps one of the
                      following?: متن الالفية / المعرب الجواليقي / معرب الاظهار, Rezq: - معرب
                      الألفية</note>
@@ -25320,10 +25320,10 @@
                      <p source="#d1e16512"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e16512">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e16512"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>Only volume 3 of this 4 volume set is
                      digitized. There is an 1866 edition by Wahbi, also in 4 vol. but not digitized
                      - ASKING MCGILL PERHAPS ? and a Lucknow one from 1864 in BL Gale </note>
@@ -25475,10 +25475,10 @@
                      <p source="#d1e16612"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e16612">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e16612"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -25633,10 +25633,10 @@
                      <p source="#d1e16720"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e16720">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e16720"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -25765,10 +25765,10 @@
                      <p source="#d1e16825"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e16825">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e16825"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>Indiana, but Shahin</note>
                </biblStruct>
                <biblStruct type="row">
@@ -25915,10 +25915,10 @@
                      <p source="#d1e16903"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e16903">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e16903"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>second edition</note>
                </biblStruct>
                <biblStruct type="row">
@@ -26049,10 +26049,10 @@
                      <p source="#d1e17005"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e17005">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e17005"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>One non-Bulaq edition:
                      http://public-content.library.mcgill.ca/digitization/rbsc_isl_hadha-manaqib_BP1931A3M361863.pdf</note>
                </biblStruct>
@@ -26180,10 +26180,10 @@
                      <p source="#d1e17083"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e17083">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e17083"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about
                      versions</p>https://hollis.harvard.edu/primo-explore/fulldisplay?docid=01HVD_ALMA211841954530003941&amp;context=L&amp;vid=HVD2&amp;lang=en_US&amp;search_scope=default_scope&amp;adaptor=Local%20Search%20Engine&amp;tab=books&amp;query=lsr02,contains,33924714
                      but there is also this http://www.worldcat.org/oclc/1104796425</note>
@@ -26333,10 +26333,10 @@
                      <p source="#d1e17158"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e17158">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e17158"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -26482,10 +26482,10 @@
                      <p source="#d1e17258"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e17258">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e17258"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -26613,10 +26613,10 @@
                      <p source="#d1e17352"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e17352">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e17352"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>BnF/Stanford/Durham; no online copy;
                      http://www.worldcat.org/oclc/912702111</note>
                </biblStruct>
@@ -26763,10 +26763,10 @@
                      <p source="#d1e17427"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e17427">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e17427"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>There is an 1850 first edition:
                      http://www.worldcat.org/oclc/31419909; NB: the second volume is a hashiya
                      written on the text -- it has a different title حاشية الفضائلا لاجهوري by
@@ -26898,10 +26898,10 @@
                      <p source="#d1e17530"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e17530">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e17530"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>http://catalog.nypl.org/search/o780166894; no
                      scan available</note>
                </biblStruct>
@@ -27044,10 +27044,10 @@
                      <p source="#d1e17606"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e17606">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e17606"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>The multazims of the original ms are
                      indicated. In 1860 there is a Ḥāshiyat Matn al-Shamāʾil from Būlāq.</note>
                </biblStruct>
@@ -27175,10 +27175,10 @@
                      <p source="#d1e17705"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e17705">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e17705"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>http://www.worldcat.org/oclc/950747426!!
                   </note>
                </biblStruct>
@@ -27323,10 +27323,10 @@
                      <p source="#d1e17780"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e17780">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e17780"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>2 volumes bound together as one; BUT THERE IS
                      A CLOSER EDITION TO HIS DEATH: http://www.worldcat.org/oclc/4771229596</note>
                </biblStruct>
@@ -27472,10 +27472,10 @@
                      <p source="#d1e17884"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e17884">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e17884"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>Princeton: OR THIS ONE
                      ??http://www.worldcat.org/oclc/31086278 </note>
                </biblStruct>
@@ -27626,10 +27626,10 @@
                      <p source="#d1e17985"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e17985">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e17985"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>2 volumes bound together as one; [al-Maṭba‘ah
                      al-Kastalīyah?]</note>
                </biblStruct>
@@ -27757,10 +27757,10 @@
                      <p source="#d1e18090"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e18090">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e18090"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -27891,10 +27891,10 @@
                      <p source="#d1e18164"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e18164">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e18164"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>many editions: closest in time is National
                      Library of Israel, apparently 1862: http://www.worldcat.org/oclc/235980530; an
                      1855 edition: http://dlib.nyu.edu/aco/book/princeton_aco000458/10; an 1851
@@ -28039,10 +28039,10 @@
                      <p source="#d1e18239"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e18239">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e18239"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>many earlier editions, 1275:
                      https://babel.hathitrust.org/cgi/pt?id=umn.31951d01193125n;view=1up;seq=192</note>
                </biblStruct>
@@ -28190,10 +28190,10 @@
                      <p source="#d1e18338"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e18338">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e18338"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -28324,10 +28324,10 @@
                      <p source="#d1e18439"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e18439">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e18439"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>Accompanied on the margin by another
                      commentary by ʿAbd Allāh ibn Ḥijāzī al-Sharqāwī. But for a two-volume Bulaq
                      edition it would be very cheap! Many editions, this is the closest; Rezq: شرح
@@ -28481,10 +28481,10 @@
                      <p source="#d1e18514">waqf of 'Umar al-Disūqī</p>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e18514">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e18514">1281</date>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -28629,10 +28629,10 @@
                      <p source="#d1e18615"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e18615">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e18615"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>A different edition from 1277:
                      https://catalog.hathitrust.org/Record/102744705</note>
                </biblStruct>
@@ -28776,10 +28776,10 @@
                      <p source="#d1e18717"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e18717">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e18717"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>2nd edition (first edition: Castelli,
                      1864)</note>
                </biblStruct>
@@ -28907,10 +28907,10 @@
                      <p source="#d1e18819"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e18819">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e18819"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>There are two books of al-Fashnī, one
                      Castelli, the other Shahin:
                      https://iiif.lib.harvard.edu/manifests/view/drs:428521413$1i ;
@@ -29043,10 +29043,10 @@
                      <p source="#d1e18895"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e18895">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e18895"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>Rezq: كنز الصحة There is the Kunūz al-ṣiḥḥa
                      and I (AM) found a scan which is the third edition of that text; a re-edition
                      of the 1260 edition and the 1271 editions with added tārīkh and colophone at
@@ -29177,10 +29177,10 @@
                      <p source="#d1e18970"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e18970">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e18970"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>Possible?
                      https://www.nli.org.il/en/books/NNL_ALEPH001964401/NLI</note>
                </biblStruct>
@@ -29326,10 +29326,10 @@
                      <p source="#d1e19045"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e19045">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e19045"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>This is second edition; first edition is
                      1837, Būlāq</note>
                </biblStruct>
@@ -29472,10 +29472,10 @@
                      <p source="#d1e19148"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e19148">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e19148"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -29622,10 +29622,10 @@
                      <p source="#d1e19248"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e19248">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e19248"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>See Kh. Fahmy, In Quest of Justice, Chapter
                      One, n. 116.</note>
                </biblStruct>
@@ -29753,10 +29753,10 @@
                      <p source="#d1e19353"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e19353">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e19353"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>Perhaps: Kitab al-Hijayah ?
                      http://tinyurl.gale.com/tinyurl/D7jPc2 - recheck , Rezq confirms Hijāyah</note>
                </biblStruct>
@@ -29885,10 +29885,10 @@
                      <p source="#d1e19428"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e19428">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e19428"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>Perhaps:
                      https://iiif.lib.harvard.edu/manifests/view/drs:42635162$1i or
                      http://www.worldcat.org/oclc/4770571880</note>
@@ -30034,10 +30034,10 @@
                      <p source="#d1e19503"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e19503">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e19503"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -30166,10 +30166,10 @@
                      <p source="#d1e19601"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e19601">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e19601"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>Perhaps
                      https://catalog.hathitrust.org/Record/009031625</note>
                </biblStruct>
@@ -30319,10 +30319,10 @@
                      <p source="#d1e19676"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e19676">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e19676"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -30450,10 +30450,10 @@
                      <p source="#d1e19785"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e19785">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e19785"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -30584,10 +30584,10 @@
                      <p source="#d1e19860"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e19860">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e19860"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>Perhaps let's ask Rachida Chich and Cathrine
                      Mayeaur; close but not likely: http://www.worldcat.org/oclc/773279346</note>
                </biblStruct>
@@ -30730,10 +30730,10 @@
                      <p source="#d1e19937"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e19937">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e19937"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -30864,10 +30864,10 @@
                      <p source="#d1e20037"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e20037">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e20037"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>PRINTED ?</note>
                </biblStruct>
                <biblStruct type="row">
@@ -31007,10 +31007,10 @@
                      <p source="#d1e20112"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e20112">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e20112"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p> Ask Hala which press in Beirut BUT: - كتاب
                      في أصول سفة الايمان (ويقصد بها "صفة الايمان" ولكن كتبها بحرق س بدل من ص) Rezq.
                      I do not think Rezq's reading is good but that'swhat we have and I made this
@@ -31141,10 +31141,10 @@
                      <p source="#d1e20208"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e20208">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e20208"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -31273,10 +31273,10 @@
                      <p source="#d1e20284"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e20284">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e20284"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -31422,10 +31422,10 @@
                      <p source="#d1e20360">عبده الكمال عبده؟</p>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e20360">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e20360">١١ جمادي الثاني ١٣٦١</date>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>several copies in libraries</note>
                </biblStruct>
             </listBibl>
@@ -31554,10 +31554,10 @@
                      <p source="#d1e20535"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e20535">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e20535"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>Earlier remark:
                      https://www.worldcat.org/title/hshiyat-al-kafrw-shar-matn-al-jurrmyah-al-musammh-bi-minat-al-karm-al-wahhb-wa-fat-abwb-al-naw-lil-ullb-lil-fil-amad-al-najjr/oclc/978625082?referer=br&amp;ht=edition</note>
                </biblStruct>
@@ -31685,10 +31685,10 @@
                      <p source="#d1e20606"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e20606">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e20606"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -31816,10 +31816,10 @@
                      <p source="#d1e20676"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e20676">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e20676"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -31948,10 +31948,10 @@
                      <p source="#d1e20746"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e20746">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e20746"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -32079,10 +32079,10 @@
                      <p source="#d1e20816"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e20816">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e20816"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -32210,10 +32210,10 @@
                      <p source="#d1e20886"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e20886">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e20886"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>Dar al-Kutub has al-Marghinānī, Kitab
                      al-Hidayah (1870)</note>
                </biblStruct>
@@ -32353,10 +32353,10 @@
                      <p source="#d1e20957"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e20957">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e20957"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>earlier:
                      https://www.dropbox.com/home/NEH_DHA_Najjari/n1t150_8%20%20n1t150_14?preview=Nuqṭat+al-dāyirah_1855.pdf</note>
                </biblStruct>
@@ -32499,10 +32499,10 @@
                      <p source="#d1e21046"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e21046">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e21046"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>in the Gale BL version there are two pages
                      with pictures at the end</note>
                </biblStruct>
@@ -32630,10 +32630,10 @@
                      <p source="#d1e21142"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e21142">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e21142"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>?</note>
                </biblStruct>
                <biblStruct type="row">
@@ -32760,10 +32760,10 @@
                      <p source="#d1e21212"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e21212">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e21212"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>perhaps:
                      http://www.worldcat.org/oclc/978492764</note>
                </biblStruct>
@@ -32891,10 +32891,10 @@
                      <p source="#d1e21283"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e21283">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e21283"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -33034,10 +33034,10 @@
                      <p source="#d1e21352"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e21352">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e21352"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>There are earlier editions, one Castelli, but
                      this is the most possible</note>
                </biblStruct>
@@ -33186,10 +33186,10 @@
                      <p source="#d1e21515"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e21515">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e21515"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>WorldCat indicates an 1870 copy but I think
                      it is a mistake, there is only one from 1861.</note>
                </biblStruct>
@@ -33329,10 +33329,10 @@
                      <p source="#d1e21612"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e21612">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e21612"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>Aṭbāq al-Dhahab</note>
                </biblStruct>
                <biblStruct type="row">
@@ -33476,10 +33476,10 @@
                      <p source="#d1e21705"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e21705">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e21705"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -33620,10 +33620,10 @@
                      <p source="#d1e21799"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e21799">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e21799"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -33769,10 +33769,10 @@
                      <p source="#d1e21889"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e21889">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e21889"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>There is a Castelli edition from the same
                      year at Gale BL, http://www.worldcat.org/oclc/978631226</note>
                </biblStruct>
@@ -33900,10 +33900,10 @@
                      <p source="#d1e21986"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e21986">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e21986"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>possibly this one: حاشية محمد الدمنهورى على
                      متن الكافى فى علمى العروض والقوافى, 1285, no digital copy</note>
                </biblStruct>
@@ -34039,10 +34039,10 @@
                      <p source="#d1e22057"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e22057">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e22057"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>Possibly, 1869:
                      https://catalog.hathitrust.org/Record/102656752</note>
                </biblStruct>
@@ -34171,10 +34171,10 @@
                      <p source="#d1e22136"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e22136">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e22136"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>There is a Talkhīs Amālī al-Ḥisāb but that is
                      a French translation!
                      https://gdc-gale-com.proxy.lib.duke.edu/gdc/artemis/MonographsDetailsPage/MonographsDetailsWindow?disableHighlighting=false&amp;displayGroupName=DVI-Monographs&amp;docIndex=1&amp;source=&amp;prodId=EAPB&amp;mode=view&amp;limiter=&amp;display-query=OQE+talkhys&amp;contentModules=&amp;action=e&amp;sortBy=&amp;windowstate=normal&amp;currPage=1&amp;dviSelectedPage=&amp;scanId=&amp;query=OQE+talkhys&amp;search_within_results=&amp;p=EAPB&amp;catId=&amp;u=duke_perkins&amp;displayGroups=&amp;documentId=GALE%7CJXXWGD506660702&amp;activityType=BasicSearch&amp;failOverType=&amp;commentary=;
@@ -34304,10 +34304,10 @@
                      <p source="#d1e22207"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e22207">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e22207"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -34435,10 +34435,10 @@
                      <p source="#d1e22277"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e22277">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e22277"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -34566,10 +34566,10 @@
                      <p source="#d1e22348"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e22348">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e22348"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -34698,10 +34698,10 @@
                      <p source="#d1e22418"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e22418">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e22418"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -34831,10 +34831,10 @@
                      <p source="#d1e22565"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e22565">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e22565"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about
                      versions</p>http://gdc.galegroup.com.ezp-prod1.hul.harvard.edu/gdc/artemis/MonographsDetailsPage/MonographsDetailsWindow?disableHighlighting=false&amp;displayGroupName=DVI-Monographs&amp;docIndex=1&amp;source=&amp;prodId=EAPB&amp;mode=view&amp;limiter=&amp;display-query=OQE+الطب+العملي&amp;contentModules=&amp;action=e&amp;sortBy=&amp;windowstate=normal&amp;currPage=1&amp;dviSelectedPage=&amp;scanId=&amp;query=OQE+الطب+العملي&amp;search_within_results=&amp;p=EAPB&amp;catId=&amp;u=camb55135&amp;displayGroups=&amp;documentId=GALE%7CWCVJZI306955024&amp;activityType=BasicSearch&amp;failOverType=&amp;commentary=</note>
                </biblStruct>
@@ -34975,10 +34975,10 @@
                      <p source="#d1e22640"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e22640">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e22640"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -35120,10 +35120,10 @@
                      <p source="#d1e22737"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e22737">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e22737"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>Two more copies of the same print in BBS -
                      interesting comparisons</note>
                </biblStruct>
@@ -35254,10 +35254,10 @@
                      <p source="#d1e22834"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e22834">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e22834"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>Isn't it Tuhfat Wahbi? Many editions, latest:
                      http://www.worldcat.org/oclc/1064648248; Rezk: ، تمغه دهبي 2 جزء</note>
                </biblStruct>
@@ -35385,10 +35385,10 @@
                      <p source="#d1e22909"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e22909">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e22909"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -35516,10 +35516,10 @@
                      <p source="#d1e22981"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e22981">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e22981"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -35647,10 +35647,10 @@
                      <p source="#d1e23056"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e23056">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e23056"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>Rezq:- تعريف اوكويرا</note>
                </biblStruct>
                <biblStruct type="row">
@@ -35792,10 +35792,10 @@
                      <p source="#d1e23129"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e23129">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e23129"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>at the end unpaginated pages with geometric
                      images</note>
                </biblStruct>
@@ -35937,10 +35937,10 @@
                      <p source="#d1e23233"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e23233">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e23233"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>Lots of editions</note>
                </biblStruct>
                <biblStruct type="row">
@@ -36068,10 +36068,10 @@
                      <p source="#d1e23332"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e23332">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e23332"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>
                   </note>
                </biblStruct>
@@ -36199,10 +36199,10 @@
                      <p source="#d1e23405"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e23405">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e23405"/>
                   </note>
-                  <note type="conversation">
+                  <note type="conversation" xml:lang="en">
                      <p>Conversation about versions</p>perhaps Kashf al-ḥijāb fī ʿilm al-ḥisāb there
                      is an 1848 edition scanned at Gale; Rezq: - RECHECL - كتاب في الحساب</note>
                </biblStruct>
@@ -36330,11 +36330,11 @@
                      <p source="#d1e23480"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e23480">
-                     <p>Dates of Ownership Inscriptions</p>
+                     <p xml:lang="en">Dates of Ownership Inscriptions</p>
                      <date source="#d1e23480"/>
                   </note>
-                  <note type="conversation">
-                     <p>Conversation about versions</p>Mُust be al-Marghinānī;
+                  <note type="conversation" xml:lang="en">
+                     <p>Conversation about versions</p>Must be al-Marghinānī;
                      http://www.worldcat.org/oclc/4770412280 many editions, there is one in 1866 in
                      Cairo</note>
                </biblStruct>
