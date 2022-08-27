@@ -837,7 +837,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٣٠٠</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">300</num>
@@ -993,7 +993,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٣٥٠</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">350</num>
@@ -1142,7 +1142,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٧٠</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">70</num>
@@ -1289,7 +1289,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">١٨٠</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">180</num>
@@ -1434,7 +1434,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٢٠</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">20</num>
@@ -1583,7 +1583,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٢٧٠</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">270</num>
@@ -1734,7 +1734,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٧٠</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">70</num>
@@ -1882,7 +1882,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٧٠</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">70</num>
@@ -2032,7 +2032,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٤٥</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">45</num>
@@ -2179,7 +2179,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٣٠</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">30</num>
@@ -2333,7 +2333,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٢٨</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">28</num>
@@ -2479,7 +2479,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">١١٠</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">110</num>
@@ -2613,7 +2613,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar"/>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en"/>
@@ -2745,7 +2745,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">١٢٠</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">120</num>
@@ -2894,7 +2894,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٢٠٠</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">200</num>
@@ -3046,7 +3046,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٧٠</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">70</num>
@@ -3192,7 +3192,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٦٠</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">60</num>
@@ -3337,7 +3337,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٢٠</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">20</num>
@@ -3481,7 +3481,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٦٥</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">65</num>
@@ -3616,7 +3616,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">١٥</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">15</num>
@@ -3766,7 +3766,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">١٥</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">15</num>
@@ -3897,7 +3897,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">١٣</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">13</num>
@@ -4042,7 +4042,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٢٠</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">20</num>
@@ -4185,7 +4185,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٦٠</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">60</num>
@@ -4319,7 +4319,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">١٢٥</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">125</num>
@@ -4449,7 +4449,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٢٠</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">20</num>
@@ -4594,7 +4594,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">١٥</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">15</num>
@@ -4741,7 +4741,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">١٥</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">15</num>
@@ -4894,7 +4894,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٤٠</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">40</num>
@@ -5047,7 +5047,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">١٤٠</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">140</num>
@@ -5181,7 +5181,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٣٥</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">30</num>
@@ -5323,7 +5323,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٣٠</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">30</num>
@@ -5468,7 +5468,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٥٠</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">50</num>
@@ -5614,7 +5614,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٢٥</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">25</num>
@@ -5762,7 +5762,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">١٨</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">18</num>
@@ -5909,7 +5909,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٢٥٠</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">250</num>
@@ -6056,7 +6056,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٣٥</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">35</num>
@@ -6197,7 +6197,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٢٥</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">25</num>
@@ -6349,7 +6349,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٥٥</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">55</num>
@@ -6490,7 +6490,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٢٥</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">25</num>
@@ -6636,7 +6636,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٧</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">7</num>
@@ -6782,7 +6782,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">١٠</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">10</num>
@@ -6926,7 +6926,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٢٠</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">20</num>
@@ -7064,7 +7064,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">١٢</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">12</num>
@@ -7201,7 +7201,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٥</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">5</num>
@@ -7347,7 +7347,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٩</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">9</num>
@@ -7485,7 +7485,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">١٠</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">10</num>
@@ -7638,7 +7638,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٤</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">4</num>
@@ -7782,7 +7782,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">١٠</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">10</num>
@@ -7924,7 +7924,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٢٠</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">10</num>
@@ -8058,7 +8058,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٥</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">5</num>
@@ -8193,7 +8193,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٥</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">5</num>
@@ -8348,7 +8348,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">١٠</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">10</num>
@@ -8497,7 +8497,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">١٠</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">10</num>
@@ -8642,7 +8642,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٥</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">5</num>
@@ -8775,7 +8775,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٥</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">5</num>
@@ -8923,7 +8923,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٣</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">3</num>
@@ -9071,7 +9071,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">١٠</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">10</num>
@@ -9219,7 +9219,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٤</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">4</num>
@@ -9369,7 +9369,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">١٢</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">12</num>
@@ -9500,7 +9500,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٢</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">2</num>
@@ -9652,7 +9652,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">١٠</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">10</num>
@@ -9802,7 +9802,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٣</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">3</num>
@@ -9933,7 +9933,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٥</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">5</num>
@@ -10066,7 +10066,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٢</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">2</num>
@@ -10208,7 +10208,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٢</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">2</num>
@@ -10355,7 +10355,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">١٠</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">10</num>
@@ -10504,7 +10504,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٤</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">4</num>
@@ -10636,7 +10636,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٣</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">3</num>
@@ -10781,7 +10781,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٨</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">8</num>
@@ -10926,7 +10926,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٢</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">2</num>
@@ -11060,7 +11060,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٢</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">2</num>
@@ -11194,7 +11194,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٣</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">3</num>
@@ -11326,7 +11326,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٣</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">3</num>
@@ -11474,7 +11474,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٨</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">8</num>
@@ -11620,7 +11620,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٥</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">5</num>
@@ -11767,7 +11767,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">١١٥</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">115</num>
@@ -11913,7 +11913,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٧</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">7</num>
@@ -12057,7 +12057,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٥</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">5</num>
@@ -12188,7 +12188,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٢٠</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">20</num>
@@ -12334,7 +12334,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٢٠</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">20</num>
@@ -12480,7 +12480,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٧</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">7</num>
@@ -12612,7 +12612,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٣</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">3</num>
@@ -12757,7 +12757,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٢</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">2</num>
@@ -12889,7 +12889,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٤</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">4</num>
@@ -13031,7 +13031,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٨</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">8</num>
@@ -13172,7 +13172,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٤</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">4</num>
@@ -13303,7 +13303,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٣</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">3</num>
@@ -13446,7 +13446,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٣</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">3</num>
@@ -13593,7 +13593,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٨</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">8</num>
@@ -13744,7 +13744,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٥</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">5</num>
@@ -13886,7 +13886,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٣</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">3</num>
@@ -14017,7 +14017,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">١٠</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">10</num>
@@ -14162,7 +14162,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">١٠</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">10</num>
@@ -14293,7 +14293,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٤</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">4</num>
@@ -14439,7 +14439,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٤</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">4</num>
@@ -14584,7 +14584,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٣</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">3</num>
@@ -14715,7 +14715,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٣</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">3</num>
@@ -14862,7 +14862,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">١٠</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">10</num>
@@ -15006,7 +15006,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٧</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">7</num>
@@ -15151,7 +15151,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">١٠</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">10</num>
@@ -15282,7 +15282,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٤</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">4</num>
@@ -15433,7 +15433,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٤</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">4</num>
@@ -15589,7 +15589,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٥</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">5</num>
@@ -15735,7 +15735,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٢</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">2</num>
@@ -15882,7 +15882,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٥</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">٥</num>
@@ -16013,7 +16013,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">١</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">1</num>
@@ -16164,7 +16164,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٢</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">2</num>
@@ -16304,7 +16304,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٣</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">3</num>
@@ -16451,7 +16451,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٢</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">2</num>
@@ -16599,7 +16599,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">١٥</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">15</num>
@@ -16733,7 +16733,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٤</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">4</num>
@@ -16881,7 +16881,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٣</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">3</num>
@@ -17012,7 +17012,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٧</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">7</num>
@@ -17153,7 +17153,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">١</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">1</num>
@@ -17288,7 +17288,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٢</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">2</num>
@@ -17433,7 +17433,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٢</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">2</num>
@@ -17568,7 +17568,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٢</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">2</num>
@@ -17713,7 +17713,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">١</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">1</num>
@@ -17844,7 +17844,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">١٥</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">15</num>
@@ -17991,7 +17991,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٥</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">5</num>
@@ -18125,7 +18125,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">١٠</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">10</num>
@@ -18277,7 +18277,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">١٠</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">10</num>
@@ -18423,7 +18423,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٣</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">3</num>
@@ -18557,7 +18557,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٥</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">5</num>
@@ -18705,7 +18705,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٢٠</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">20</num>
@@ -18857,7 +18857,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٣٠</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">30</num>
@@ -19005,7 +19005,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٣٠</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">30</num>
@@ -19155,7 +19155,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٢٠</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">20</num>
@@ -19300,7 +19300,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٢</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">2</num>
@@ -19432,7 +19432,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">١</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">1</num>
@@ -19575,7 +19575,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">١</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">1</num>
@@ -19723,7 +19723,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">١٠</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">10</num>
@@ -19857,7 +19857,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">١٠</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">10</num>
@@ -20004,7 +20004,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٥</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">5</num>
@@ -20149,7 +20149,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٨</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">8</num>
@@ -20297,7 +20297,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٥</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">5</num>
@@ -20447,7 +20447,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٥</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">5</num>
@@ -20594,7 +20594,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٥</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">5</num>
@@ -20726,7 +20726,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٣</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">3</num>
@@ -20879,7 +20879,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">١٠</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">10</num>
@@ -21012,7 +21012,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">١٠</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">10</num>
@@ -21159,7 +21159,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٥</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">5</num>
@@ -21305,7 +21305,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٧٠</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">70</num>
@@ -21451,7 +21451,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٢</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">2</num>
@@ -21586,7 +21586,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">١</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">1</num>
@@ -21732,7 +21732,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">١</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">1</num>
@@ -21864,7 +21864,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٢</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">2</num>
@@ -21999,7 +21999,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٣</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">3</num>
@@ -22141,7 +22141,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">١</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">1</num>
@@ -22273,7 +22273,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">١٤</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">14</num>
@@ -22405,7 +22405,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٣٥</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">35</num>
@@ -22539,7 +22539,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">١٠</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">10</num>
@@ -22674,7 +22674,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar"/>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en"/>
@@ -22807,7 +22807,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">١١٠</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">110</num>
@@ -22959,7 +22959,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٦٠</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">60</num>
@@ -23114,7 +23114,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">١٥٠</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">150</num>
@@ -23259,7 +23259,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٦٠</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">60</num>
@@ -23412,7 +23412,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٥٠٠</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">500</num>
@@ -23564,7 +23564,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">١٥</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">15</num>
@@ -23697,7 +23697,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">١٠</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">10</num>
@@ -23833,7 +23833,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">١٥</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">15</num>
@@ -23982,7 +23982,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٨٠</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">80</num>
@@ -24142,7 +24142,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٢٤٠</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">240</num>
@@ -24291,7 +24291,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٧٥</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">75</num>
@@ -24429,7 +24429,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">١٥</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">15</num>
@@ -24564,7 +24564,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٢٠</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">20</num>
@@ -24714,7 +24714,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٢٥</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">25</num>
@@ -24849,7 +24849,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٢٥</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">25</num>
@@ -24998,7 +24998,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٥</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">5</num>
@@ -25133,7 +25133,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٨</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">8</num>
@@ -25282,7 +25282,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٨٠</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">80</num>
@@ -25434,7 +25434,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">١٣</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">13</num>
@@ -25594,7 +25594,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٥</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">5</num>
@@ -25727,7 +25727,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٥</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">5</num>
@@ -25877,7 +25877,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٣</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">3</num>
@@ -26011,7 +26011,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٣</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">3</num>
@@ -26142,7 +26142,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٣</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">3</num>
@@ -26295,7 +26295,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٨</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">8</num>
@@ -26444,7 +26444,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٥</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">5</num>
@@ -26575,7 +26575,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٨</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">8</num>
@@ -26725,7 +26725,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٤</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">4</num>
@@ -26860,7 +26860,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٢</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">2</num>
@@ -27006,7 +27006,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٤</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">4</num>
@@ -27137,7 +27137,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٣</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">3</num>
@@ -27285,7 +27285,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٢٥</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">25</num>
@@ -27434,7 +27434,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">١٤</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">14</num>
@@ -27588,7 +27588,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٣٠</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">30</num>
@@ -27719,7 +27719,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">١٥٠</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">150</num>
@@ -27853,7 +27853,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٢٠</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">20</num>
@@ -28001,7 +28001,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">١٠</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">10</num>
@@ -28152,7 +28152,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٣</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">3</num>
@@ -28286,7 +28286,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٣</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">3</num>
@@ -28443,7 +28443,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٨</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">8</num>
@@ -28591,7 +28591,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٥</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">5</num>
@@ -28738,7 +28738,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٧</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">7</num>
@@ -28869,7 +28869,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٥</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">5</num>
@@ -29005,7 +29005,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">١٠</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">10</num>
@@ -29139,7 +29139,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٨</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">8</num>
@@ -29288,7 +29288,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٨</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">8</num>
@@ -29434,7 +29434,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٣</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">3</num>
@@ -29584,7 +29584,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٤</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">4</num>
@@ -29715,7 +29715,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">١</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">1</num>
@@ -29847,7 +29847,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٤</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">4</num>
@@ -29996,7 +29996,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">١</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">1</num>
@@ -30128,7 +30128,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٥</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">5</num>
@@ -30281,7 +30281,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٥٠</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">50</num>
@@ -30412,7 +30412,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٤</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">4</num>
@@ -30546,7 +30546,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">١</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">1</num>
@@ -30692,7 +30692,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٢</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">2</num>
@@ -30826,7 +30826,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">١٠</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">10</num>
@@ -30969,7 +30969,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٥</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">5</num>
@@ -31103,7 +31103,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٣٥</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">35</num>
@@ -31235,7 +31235,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٢٠</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">20</num>
@@ -31384,7 +31384,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar">٦٩٢٠</num>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">6920</num>
@@ -31516,7 +31516,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar"/>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en"/>
@@ -31647,7 +31647,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar"/>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en"/>
@@ -31778,7 +31778,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar"/>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en"/>
@@ -31910,7 +31910,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar"/>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en"/>
@@ -32041,7 +32041,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar"/>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en"/>
@@ -32172,7 +32172,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar"/>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en"/>
@@ -32315,7 +32315,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar"/>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en"/>
@@ -32461,7 +32461,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar"/>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en"/>
@@ -32592,7 +32592,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar"/>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en"/>
@@ -32722,7 +32722,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar"/>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en"/>
@@ -32853,7 +32853,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar"/>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en"/>
@@ -32996,7 +32996,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar"/>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en"/>
@@ -33148,7 +33148,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar"/>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en"/>
@@ -33291,7 +33291,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar"/>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en"/>
@@ -33438,7 +33438,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar"/>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en"/>
@@ -33582,7 +33582,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar"/>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en"/>
@@ -33731,7 +33731,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar"/>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en"/>
@@ -33862,7 +33862,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar"/>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en"/>
@@ -34001,7 +34001,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar"/>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en"/>
@@ -34133,7 +34133,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar"/>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en"/>
@@ -34266,7 +34266,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar"/>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en"/>
@@ -34397,7 +34397,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar"/>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en"/>
@@ -34528,7 +34528,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar"/>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en"/>
@@ -34660,7 +34660,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar"/>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en"/>
@@ -34793,7 +34793,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar"/>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en"/>
@@ -34937,7 +34937,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar"/>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en"/>
@@ -35082,7 +35082,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar"/>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en"/>
@@ -35216,7 +35216,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar"/>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en"/>
@@ -35347,7 +35347,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar"/>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en"/>
@@ -35478,7 +35478,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar"/>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en"/>
@@ -35609,7 +35609,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar"/>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en"/>
@@ -35754,7 +35754,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar"/>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en"/>
@@ -35899,7 +35899,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar"/>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en"/>
@@ -36030,7 +36030,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar"/>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en"/>
@@ -36161,7 +36161,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar"/>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en"/>
@@ -36292,7 +36292,7 @@
                         <measure type="value" source="#d" xml:lang="ar" n="valueInDAr">
                            <num xml:lang="ar"/>
                            <unit type="currency" xml:lang="ar">قرش</unit>
-                           <note xml:lang="ar">قيمة في "د" (قرش)</note>
+                           <note xml:lang="ar">قيمة في "د"</note>
                         </measure>
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en"/>
