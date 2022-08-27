@@ -804,7 +804,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e418">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e418">بولاق</pubPlace>
@@ -954,7 +954,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e525">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e525">[بولاق]</pubPlace>
@@ -1110,7 +1110,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e636">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e636">بولاق القاهرة</pubPlace>
@@ -1259,7 +1259,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e742">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e742">بولاق مصر القاهرة</pubPlace>
@@ -1404,7 +1404,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e849">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e849">[استانة]</pubPlace>
@@ -1550,7 +1550,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e952">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e952">بولاق مصر القاهرة</pubPlace>
@@ -1702,7 +1702,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e1058">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e1058">بولاق مصر القاهرة</pubPlace>
@@ -1850,7 +1850,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e1166">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e1166">بولاق مصر</pubPlace>
@@ -1999,7 +1999,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e1269">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e1269">بولاق مصر</pubPlace>
@@ -2147,7 +2147,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e1372">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e1372">[القاهرة]</pubPlace>
@@ -2298,7 +2298,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e1477">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e1477">بولاق مصر القاهرة</pubPlace>
@@ -2450,7 +2450,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e1582">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e1582">[بولاق مصر]</pubPlace>
@@ -2585,7 +2585,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e1688">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e1688"/>
@@ -2716,7 +2716,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e1766">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e1766"/>
@@ -2862,7 +2862,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e1848">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e1848">بولاق</pubPlace>
@@ -3163,7 +3163,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e2066">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e2066">بولاق القاهرة</pubPlace>
@@ -3307,7 +3307,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e2172">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e2172">استانة</pubPlace>
@@ -3451,7 +3451,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e2273">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e2273">[القاهرة]</pubPlace>
@@ -3588,7 +3588,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e2368">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e2368"/>
@@ -3736,7 +3736,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e2445">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e2445">بولاق مصر</pubPlace>
@@ -3869,7 +3869,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e2548">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e2548"/>
@@ -4013,7 +4013,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e2625">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e2625">بولاق مصر القاهرة</pubPlace>
@@ -4156,7 +4156,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e2729">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e2729">بولاق مصر القاهرة</pubPlace>
@@ -4291,7 +4291,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e2830">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e2830"/>
@@ -4421,7 +4421,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e2908">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e2908"/>
@@ -4565,7 +4565,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e2984">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e2984">بولاق مصر القاهرة</pubPlace>
@@ -4710,7 +4710,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e3088">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e3088">مصر المحمية </pubPlace>
@@ -4860,7 +4860,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e3193">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e3193">بولاق مصر القاهرة</pubPlace>
@@ -5012,7 +5012,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e3301">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e3301">بولاق مصر القاهرة</pubPlace>
@@ -5153,7 +5153,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e3409">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e3409"/>
@@ -5294,7 +5294,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e3481">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e3481">مصر المحمية </pubPlace>
@@ -5439,7 +5439,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e3582">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e3582">بولاق مصر القاهرة</pubPlace>
@@ -5585,7 +5585,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e3689">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e3689">بولاق مصر القاهرة</pubPlace>
@@ -5729,7 +5729,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e3792">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e3792">بولاق</pubPlace>
@@ -5880,7 +5880,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e3896">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e3896">[بولاق مصر]</pubPlace>
@@ -6024,7 +6024,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e4002">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e4002">بولاق مصر</pubPlace>
@@ -6169,7 +6169,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e4104">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e4104">بيروت</pubPlace>
@@ -6316,7 +6316,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e4199">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e4199">بولاق مصر القاهرة</pubPlace>
@@ -6607,7 +6607,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e4394">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e4394">مصر</pubPlace>
@@ -6897,7 +6897,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e4597">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e4597">بولاق مصر القاهرة</pubPlace>
@@ -7032,7 +7032,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e4698">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e4698">بولاق مصر القاهرة</pubPlace>
@@ -7173,7 +7173,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e4792">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e4792"/>
@@ -7318,7 +7318,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e4868">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e4868"> محروسة مصر </pubPlace>
@@ -7457,7 +7457,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e4967">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e4967">[مصر]</pubPlace>
@@ -7605,7 +7605,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e5064">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e5064">[مصر]</pubPlace>
@@ -7753,7 +7753,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e5164">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e5164">[تونس]</pubPlace>
@@ -7896,7 +7896,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e5263">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e5263">بيروت</pubPlace>
@@ -8030,7 +8030,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e5360">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e5360"/>
@@ -8165,7 +8165,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e5437">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e5437"/>
@@ -8317,7 +8317,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e5515">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e5515">محروسة مصر </pubPlace>
@@ -8613,7 +8613,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e5730">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e5730">[مصر]</pubPlace>
@@ -8747,7 +8747,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e5831">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e5831"/>
@@ -9039,7 +9039,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e6001">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e6001">بولاق المعزية القاهرة</pubPlace>
@@ -9187,7 +9187,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e6109">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e6109">[مصر]</pubPlace>
@@ -9336,7 +9336,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e6209">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e6209"> محروسة مصر </pubPlace>
@@ -9472,7 +9472,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e6313">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e6313"/>
@@ -9617,7 +9617,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e6388">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e6388">[بولاق مصر]</pubPlace>
@@ -9770,7 +9770,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e6491">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e6491">[بولاق مصر]</pubPlace>
@@ -9905,7 +9905,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e6593">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e6593"/>
@@ -10038,7 +10038,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e6668">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e6668"/>
@@ -10180,7 +10180,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e6743">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e6743">بيروت</pubPlace>
@@ -10322,7 +10322,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e6836">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e6836">تونس </pubPlace>
@@ -10608,7 +10608,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e7034">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e7034"/>
@@ -10753,7 +10753,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e7108">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e7108">بولاق</pubPlace>
@@ -11032,7 +11032,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e7309">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e7309"/>
@@ -11166,7 +11166,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e7386">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e7386"/>
@@ -11298,7 +11298,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e7462">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e7462"/>
@@ -11737,7 +11737,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e7735">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e7735">مصر المحمية </pubPlace>
@@ -11884,7 +11884,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e7839">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e7839">[مصر]</pubPlace>
@@ -12160,7 +12160,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e8042">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e8042"/>
@@ -12305,7 +12305,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e8119">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e8119">بولاق</pubPlace>
@@ -12584,7 +12584,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e8321">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e8321"/>
@@ -12728,7 +12728,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e8398">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e8398">مصر المحمية </pubPlace>
@@ -12861,7 +12861,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e8499">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e8499"/>
@@ -13144,7 +13144,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e8671">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e8671">بيروت</pubPlace>
@@ -13275,7 +13275,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e8770">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e8770"/>
@@ -13563,7 +13563,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e8944">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e8944">[بولاق مصر]</pubPlace>
@@ -13989,7 +13989,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e9249">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e9249"/>
@@ -14132,7 +14132,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e9326">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e9326">بولاق مصر</pubPlace>
@@ -14265,7 +14265,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e9428">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e9428"/>
@@ -14555,7 +14555,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e9604">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e9604">محروسة مصر</pubPlace>
@@ -14687,7 +14687,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e9700">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e9700"/>
@@ -14830,7 +14830,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e9778">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e9778">مصر المحمية </pubPlace>
@@ -15122,7 +15122,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e9983">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e9983">[القاهرة]</pubPlace>
@@ -15254,7 +15254,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e10087">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e10087"/>
@@ -15397,7 +15397,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e10163">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e10163">[القاهرة]</pubPlace>
@@ -15550,7 +15550,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e10263">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e10263">محروسة مصر</pubPlace>
@@ -15985,7 +15985,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e10568">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e10568"/>
@@ -16272,7 +16272,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e10747">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e10747">مصر القاهرة</pubPlace>
@@ -16420,7 +16420,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e10841">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e10841">بيروت</pubPlace>
@@ -16566,7 +16566,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e10938">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e10938">[بولاق مصر]</pubPlace>
@@ -16705,7 +16705,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e11038">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e11038"/>
@@ -16846,7 +16846,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e11118">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e11118">بولاق مصر</pubPlace>
@@ -16984,7 +16984,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e11221">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e11221"/>
@@ -17125,7 +17125,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e11298">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e11298"/>
@@ -17260,7 +17260,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e11374">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e11374"/>
@@ -17401,7 +17401,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e11450">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e11450">[القاهرة]</pubPlace>
@@ -17540,7 +17540,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e11550">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e11550"/>
@@ -17816,7 +17816,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e11722">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e11722"/>
@@ -17958,7 +17958,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e11800">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e11800">بولاق مصرالمحمية </pubPlace>
@@ -18097,7 +18097,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e11901">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e11901"/>
@@ -18242,7 +18242,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e11977">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e11977">بولاق مصر</pubPlace>
@@ -18529,7 +18529,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e12181">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e12181"/>
@@ -18673,7 +18673,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e12258">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e12258">بولاق مصر</pubPlace>
@@ -18820,7 +18820,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e12360">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e12360">[بولاق مصر]</pubPlace>
@@ -18973,7 +18973,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e12465">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e12465">بولاق مصر</pubPlace>
@@ -19123,7 +19123,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e12568">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e12568">[بولاق مصر]</pubPlace>
@@ -19267,7 +19267,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e12672">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e12672">باريز</pubPlace>
@@ -19404,7 +19404,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e12771">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e12771"/>
@@ -19544,7 +19544,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e12849">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e12849">[بيروت]</pubPlace>
@@ -19829,7 +19829,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e13050">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e13050"/>
@@ -19972,7 +19972,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e13127">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e13127">[القاهرة]</pubPlace>
@@ -20117,7 +20117,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e13228">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e13228">بولاق </pubPlace>
@@ -20413,7 +20413,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e13426">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e13426">بيروت</pubPlace>
@@ -20562,7 +20562,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e13525">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e13525">بيروت</pubPlace>
@@ -20698,7 +20698,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e13626">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e13626"/>
@@ -20843,7 +20843,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e13703">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e13703">تونس </pubPlace>
@@ -20984,7 +20984,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e13806">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e13806"/>
@@ -21127,7 +21127,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e13883">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e13883">بولاق مصرالقاهرة</pubPlace>
@@ -21272,7 +21272,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e13990">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e13990">بولاق مصر</pubPlace>
@@ -21418,7 +21418,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e14092">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e14092">[بولاق مصر]</pubPlace>
@@ -21558,7 +21558,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e14194">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e14194"/>
@@ -21697,7 +21697,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e14272">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e14272">محروسة مصر المحمية</pubPlace>
@@ -21836,7 +21836,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e14367">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e14367"/>
@@ -21971,7 +21971,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e14443">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e14443"/>
@@ -22109,7 +22109,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e14520">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e14520">[مطبعة بولاق]</pubPlace>
@@ -22245,7 +22245,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e14622">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e14622"/>
@@ -22377,7 +22377,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e14700">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e14700"/>
@@ -22511,7 +22511,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e14776">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e14776"/>
@@ -22646,7 +22646,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e14854">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e14854"/>
@@ -22779,7 +22779,7 @@
                            wa-ẓarf )</p>
                      </note>
                      <edition source="#d1e14927">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e14927"/>
@@ -22923,7 +22923,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e15005">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e15005"> [القاهرة]</pubPlace>
@@ -23078,7 +23078,7 @@
                         <p xml:lang="en" source="#d">bound together (bi-jild)</p>
                      </note>
                      <edition source="#d1e15111">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e15111">[القاهرة]</pubPlace>
@@ -23375,7 +23375,7 @@
                         <p xml:lang="en" source="#d">bound together (bi-jild)</p>
                      </note>
                      <edition source="#d1e15322">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e15322">[القاهرة]</pubPlace>
@@ -23669,7 +23669,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e15530">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e15530"/>
@@ -23805,7 +23805,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e15607">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e15607"/>
@@ -24102,7 +24102,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e15777">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e15777">[بولاق مصر]</pubPlace>
@@ -24258,7 +24258,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e15887">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e15887">[القاهرة]</pubPlace>
@@ -24401,7 +24401,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e15995">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e15995">بولاق</pubPlace>
@@ -24536,7 +24536,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e16077">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e16077"/>
@@ -24678,7 +24678,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e16153">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e16153">بولاق</pubPlace>
@@ -24821,7 +24821,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e16258">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e16258"/>
@@ -24966,7 +24966,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e16335">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e16335">مصر</pubPlace>
@@ -25105,7 +25105,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e16435">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e16435"/>
@@ -25246,7 +25246,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e16512">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e16512">[القاهرة]</pubPlace>
@@ -25399,7 +25399,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e16612">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e16612">القاهرة</pubPlace>
@@ -25556,7 +25556,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e16720">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e16720">بولاق</pubPlace>
@@ -25699,7 +25699,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e16825">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e16825"/>
@@ -25842,7 +25842,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e16903">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e16903">مصر</pubPlace>
@@ -25983,7 +25983,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e17005">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e17005"/>
@@ -26114,7 +26114,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e17083">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e17083"/>
@@ -26259,7 +26259,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e17158">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e17158">[مصر]</pubPlace>
@@ -26547,7 +26547,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e17352">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e17352"/>
@@ -26691,7 +26691,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e17427">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e17427">القاهرة</pubPlace>
@@ -26832,7 +26832,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e17530">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e17530"/>
@@ -27109,7 +27109,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e17705">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e17705"/>
@@ -27252,7 +27252,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e17780">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e17780">مصر المحمية</pubPlace>
@@ -27399,7 +27399,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e17884">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e17884">بولاق مصر القاهرة</pubPlace>
@@ -27553,7 +27553,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e17985">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e17985">[مصر]</pubPlace>
@@ -27691,7 +27691,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e18090">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e18090"/>
@@ -27825,7 +27825,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e18164">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e18164"/>
@@ -27969,7 +27969,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e18239">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e18239">بولاق</pubPlace>
@@ -28116,7 +28116,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e18338">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e18338">بولاق</pubPlace>
@@ -28258,7 +28258,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e18439">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e18439"/>
@@ -28405,7 +28405,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e18514">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e18514">[القاهرة]</pubPlace>
@@ -28706,7 +28706,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e18717">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e18717">بولاق</pubPlace>
@@ -28841,7 +28841,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e18819">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e18819"/>
@@ -28977,7 +28977,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e18895">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e18895"/>
@@ -29111,7 +29111,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e18970">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e18970"/>
@@ -29256,7 +29256,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e19045">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e19045">بولاق مصر</pubPlace>
@@ -29402,7 +29402,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e19148">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e19148">[القاهرة]</pubPlace>
@@ -29549,7 +29549,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e19248">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e19248">[القاهرة]</pubPlace>
@@ -29687,7 +29687,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e19353">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e19353"/>
@@ -29819,7 +29819,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e19428">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e19428"/>
@@ -29961,7 +29961,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e19503">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e19503">القاهرة</pubPlace>
@@ -30100,7 +30100,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e19601">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e19601"/>
@@ -30244,7 +30244,7 @@
                         <p xml:lang="en" source="#d">Four copies</p>
                      </note>
                      <edition source="#d1e19676">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e19676">[بولاق]</pubPlace>
@@ -30384,7 +30384,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e19785">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e19785"/>
@@ -30518,7 +30518,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e19860">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e19860"/>
@@ -30798,7 +30798,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e20037">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e20037"/>
@@ -30938,7 +30938,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e20112">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e20112">بيروت</pubPlace>
@@ -31075,7 +31075,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e20208">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e20208"/>
@@ -31207,7 +31207,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e20284">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e20284"/>
@@ -31488,7 +31488,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e20535">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e20535"/>
@@ -31619,7 +31619,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e20606">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e20606"/>
@@ -31750,7 +31750,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e20676">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e20676"/>
@@ -31882,7 +31882,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e20746">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e20746"/>
@@ -32013,7 +32013,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e20816">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e20816"/>
@@ -32144,7 +32144,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e20886">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e20886"/>
@@ -32284,7 +32284,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e20957">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e20957">بيروت</pubPlace>
@@ -32429,7 +32429,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e21046">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e21046">بولاق مصر القاهرة</pubPlace>
@@ -32564,7 +32564,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e21142">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e21142"/>
@@ -32694,7 +32694,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e21212">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e21212"/>
@@ -32825,7 +32825,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e21283">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e21283"/>
@@ -32963,7 +32963,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e21352">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e21352"> بولاق القاهرة</pubPlace>
@@ -33259,7 +33259,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e21612">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e21612">بولاق</pubPlace>
@@ -33549,7 +33549,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e21799">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e21799">مالطة</pubPlace>
@@ -33699,7 +33699,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e21889">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e21889">بولاق</pubPlace>
@@ -33834,7 +33834,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e21986">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e21986"/>
@@ -33965,7 +33965,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e22057">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e22057"/>
@@ -34105,7 +34105,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e22136">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e22136"/>
@@ -34238,7 +34238,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e22207">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e22207"/>
@@ -34369,7 +34369,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e22277">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e22277"/>
@@ -34500,7 +34500,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e22348">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e22348"/>
@@ -34632,7 +34632,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e22418">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e22418"/>
@@ -34765,7 +34765,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e22565">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e22565"/>
@@ -34905,7 +34905,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e22640">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e22640">كلكتا</pubPlace>
@@ -35051,7 +35051,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e22737">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e22737">بولاق</pubPlace>
@@ -35188,7 +35188,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e22834">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e22834"/>
@@ -35319,7 +35319,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e22909">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e22909"/>
@@ -35450,7 +35450,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e22981">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e22981"/>
@@ -35581,7 +35581,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e23056">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e23056"/>
@@ -35722,7 +35722,7 @@
                         <p xml:lang="en" source="#d">nāqiṣ</p>
                      </note>
                      <edition source="#d1e23129">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e23129">[بولاق]</pubPlace>
@@ -35866,7 +35866,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e23233">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e23233">استانبول</pubPlace>
@@ -36002,7 +36002,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e23332">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e23332"/>
@@ -36133,7 +36133,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e23405">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e23405"/>
@@ -36264,7 +36264,7 @@
                         <p xml:lang="en" source="#d"/>
                      </note>
                      <edition source="#d1e23480">
-                        <objectType>Not Lithograph</objectType>
+                        <objectType xml:lang="en">Not Lithograph</objectType>
                      </edition>
                      <imprint>
                         <pubPlace xml:lang="ar" source="#d1e23480"/>
