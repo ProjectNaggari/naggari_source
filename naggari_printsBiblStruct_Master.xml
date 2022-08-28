@@ -870,7 +870,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e418"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e418">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e418">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e418"/>
                   </note>
@@ -1026,7 +1026,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e525">محمد غرت ابن احمد</p>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e525">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e525">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e525">محمد غرت</p>
                   </note>
@@ -1178,7 +1178,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e636">علي عبده [?الخاني] عبد الغني ١٢٧٩</p>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e636">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e636">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e636"/>
                   </note>
@@ -1322,7 +1322,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e742">Bibliothèque de Mr Barbier</p>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e742">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e742">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e742">Barbier de Meynard Professeur a l'Ecole du LL. OO.
                         Vivantes</p>
@@ -1467,7 +1467,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e849">yes</p>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e849">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e849">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e849"/>
                   </note>
@@ -1616,7 +1616,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e952"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e952">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e952">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e952"/>
                   </note>
@@ -1767,7 +1767,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e1058"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e1058">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e1058">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e1058"/>
                   </note>
@@ -1916,7 +1916,7 @@
                      <p source="#d1e1166">yes; Librarie J. E. Sarkis &amp; Fils 53 Rue Faggala Le
                         Caire</p>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e1166">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e1166">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e1166"/>
                   </note>
@@ -2065,7 +2065,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e1269">مدرسة الميدان العلبا برمانا Boys' High School</p>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e1269">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e1269">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e1269"/>
                   </note>
@@ -2212,7 +2212,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e1372"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e1372">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e1372">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e1372"/>
                   </note>
@@ -2366,7 +2366,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e1477">Ex Libris Heyworth-Dunne D. Lit. (London) No. 8612</p>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e1477">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e1477">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e1477"/>
                   </note>
@@ -2512,7 +2512,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e1582"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e1582">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e1582">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e1582"/>
                   </note>
@@ -2646,7 +2646,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e1688"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e1688">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e1688">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e1688"/>
                   </note>
@@ -2778,7 +2778,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e1766"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e1766">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e1766">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e1766"/>
                   </note>
@@ -2927,7 +2927,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e1848"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e1848">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e1848">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e1848">Presented by [J McKethyan?] to his friend The Right
                         Honorable Sir R [Wilmot Norton?] Zelheddge 25. 1253</p>
@@ -3079,7 +3079,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e1958"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e1958">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e1958">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e1958">several</p>
                   </note>
@@ -3225,7 +3225,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e2066"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e2066">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e2066">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e2066"/>
                   </note>
@@ -3370,7 +3370,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e2172">yes</p>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e2172">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e2172">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e2172"/>
                   </note>
@@ -3514,7 +3514,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e2273"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e2273">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e2273">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e2273"/>
                   </note>
@@ -3649,7 +3649,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e2368"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e2368">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e2368">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e2368"/>
                   </note>
@@ -3799,7 +3799,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e2445"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e2445">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e2445">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e2445"/>
                   </note>
@@ -3930,7 +3930,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e2548"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e2548">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e2548">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e2548"/>
                   </note>
@@ -4075,7 +4075,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e2625"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e2625">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e2625">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e2625"/>
                   </note>
@@ -4218,7 +4218,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e2729"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e2729">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e2729">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e2729"/>
                   </note>
@@ -4352,7 +4352,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e2830"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e2830">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e2830">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e2830"/>
                   </note>
@@ -4482,7 +4482,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e2908"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e2908">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e2908">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e2908"/>
                   </note>
@@ -4627,7 +4627,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e2984"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e2984">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e2984">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e2984"/>
                   </note>
@@ -4774,7 +4774,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e3088"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e3088">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e3088">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e3088"/>
                   </note>
@@ -4927,7 +4927,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e3193"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e3193">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e3193">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e3193"/>
                   </note>
@@ -5080,7 +5080,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e3301"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e3301">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e3301">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e3301"/>
                   </note>
@@ -5214,7 +5214,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e3409"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e3409">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e3409">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e3409"/>
                   </note>
@@ -5356,7 +5356,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e3481">yes</p>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e3481">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e3481">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e3481">قد [?] هذا الكتاب في مبك الفقير راجي [عضوعي]...</p>
                   </note>
@@ -5501,7 +5501,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e3582"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e3582">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e3582">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e3582"/>
                   </note>
@@ -5647,7 +5647,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e3689"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e3689">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e3689">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e3689"/>
                   </note>
@@ -5795,7 +5795,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e3792"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e3792">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e3792">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e3792"/>
                   </note>
@@ -5942,7 +5942,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e3896"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e3896">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e3896">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e3896"/>
                   </note>
@@ -6089,7 +6089,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e4002"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e4002">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e4002">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e4002"/>
                   </note>
@@ -6230,7 +6230,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e4104"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e4104">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e4104">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e4104"/>
                   </note>
@@ -6382,7 +6382,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e4199"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e4199">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e4199">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e4199"/>
                   </note>
@@ -6523,7 +6523,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e4307">علي عبده [?الخاني] عبد الغني ١٢٧٩</p>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e4307">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e4307">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e4307"/>
                   </note>
@@ -6669,7 +6669,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e4394"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e4394">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e4394">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e4394"/>
                   </note>
@@ -6815,7 +6815,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e4497"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e4497">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e4497">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e4497"/>
                   </note>
@@ -6959,7 +6959,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e4597"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e4597">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e4597">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e4597"/>
                   </note>
@@ -7097,7 +7097,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e4698"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e4698">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e4698">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e4698"/>
                   </note>
@@ -7234,7 +7234,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e4792"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e4792">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e4792">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e4792"/>
                   </note>
@@ -7380,7 +7380,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e4868"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e4868">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e4868">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e4868"/>
                   </note>
@@ -7518,7 +7518,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e4967"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e4967">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e4967">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e4967"/>
                   </note>
@@ -7671,7 +7671,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e5064"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e5064">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e5064">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e5064">[استصحبه؟] الغفير [السيد ؟] عبد [الباط؟] بن الشيخ علي
                         الفاحوري الشافعي [البرويي؟] عنهم</p>
@@ -7815,7 +7815,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e5164"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e5164">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e5164">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e5164"/>
                   </note>
@@ -7957,7 +7957,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e5263"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e5263">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e5263">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e5263"/>
                   </note>
@@ -8091,7 +8091,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e5360"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e5360">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e5360">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e5360"/>
                   </note>
@@ -8226,7 +8226,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e5437"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e5437">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e5437">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e5437"/>
                   </note>
@@ -8381,7 +8381,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e5515"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e5515">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e5515">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e5515"/>
                   </note>
@@ -8530,7 +8530,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e5621"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e5621">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e5621">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e5621"/>
                   </note>
@@ -8675,7 +8675,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e5730"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e5730">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e5730">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e5730"/>
                   </note>
@@ -8808,7 +8808,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e5831"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e5831">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e5831">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e5831"/>
                   </note>
@@ -8956,7 +8956,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e5906"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e5906">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e5906">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e5906"/>
                   </note>
@@ -9104,7 +9104,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e6001">علي عبده [?الخاني] عبد الغني ١٢٧٩</p>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e6001">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e6001">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e6001">من كتب محمد صالح...</p>
                   </note>
@@ -9252,7 +9252,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e6109">yes</p>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e6109">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e6109">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e6109"/>
                   </note>
@@ -9402,7 +9402,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e6209"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e6209">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e6209">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e6209"/>
                   </note>
@@ -9533,7 +9533,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e6313"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e6313">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e6313">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e6313"/>
                   </note>
@@ -9685,7 +9685,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e6388">علي عبده [?الخاني] عبد الغني ١٢٧٩</p>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e6388">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e6388">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e6388"/>
                   </note>
@@ -9835,7 +9835,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e6491"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e6491">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e6491">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e6491"/>
                   </note>
@@ -9966,7 +9966,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e6593"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e6593">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e6593">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e6593"/>
                   </note>
@@ -10099,7 +10099,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e6668"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e6668">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e6668">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e6668"/>
                   </note>
@@ -10241,7 +10241,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e6743"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e6743">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e6743">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e6743"/>
                   </note>
@@ -10388,7 +10388,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e6836"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e6836">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e6836">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e6836"/>
                   </note>
@@ -10537,7 +10537,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e6936"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e6936">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e6936">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e6936"/>
                   </note>
@@ -10669,7 +10669,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e7034"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e7034">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e7034">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e7034"/>
                   </note>
@@ -10814,7 +10814,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e7108">? [might be Bulaq stamp]</p>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e7108">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e7108">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e7108"/>
                   </note>
@@ -10959,7 +10959,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e7211"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e7211">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e7211">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e7211"/>
                   </note>
@@ -11093,7 +11093,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e7309"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e7309">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e7309">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e7309"/>
                   </note>
@@ -11227,7 +11227,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e7386"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e7386">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e7386">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e7386"/>
                   </note>
@@ -11359,7 +11359,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e7462"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e7462">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e7462">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e7462"/>
                   </note>
@@ -11507,7 +11507,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e7538">yes</p>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e7538">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e7538">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e7538"/>
                   </note>
@@ -11653,7 +11653,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e7639"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e7639">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e7639">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e7639"/>
                   </note>
@@ -11800,7 +11800,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e7735"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e7735">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e7735">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e7735"/>
                   </note>
@@ -11946,7 +11946,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e7839"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e7839">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e7839">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e7839"/>
                   </note>
@@ -12090,7 +12090,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e7939">علي عبده [?الخاني] عبد الغني ١٢٧٩</p>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e7939">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e7939">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e7939"/>
                   </note>
@@ -12221,7 +12221,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e8042"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e8042">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e8042">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e8042"/>
                   </note>
@@ -12367,7 +12367,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e8119"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e8119">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e8119">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e8119"/>
                   </note>
@@ -12513,7 +12513,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e8221"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e8221">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e8221">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e8221"/>
                   </note>
@@ -12645,7 +12645,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e8321"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e8321">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e8321">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e8321"/>
                   </note>
@@ -12790,7 +12790,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e8398"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e8398">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e8398">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e8398">[I believe this says from whom the book was purchased,
                         [..?] زكى محمد , not the owner]</p>
@@ -12922,7 +12922,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e8499"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e8499">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e8499">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e8499"/>
                   </note>
@@ -13064,7 +13064,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e8576"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e8576">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e8576">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e8576"/>
                   </note>
@@ -13205,7 +13205,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e8671"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e8671">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e8671">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e8671">J. R. Jewett, Beirut, Oct. 16th, 1884.</p>
                   </note>
@@ -13336,7 +13336,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e8770"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e8770">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e8770">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e8770"/>
                   </note>
@@ -13479,7 +13479,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e8846"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e8846">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e8846">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e8846"/>
                   </note>
@@ -13626,7 +13626,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e8944"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e8944">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e8944">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e8944"/>
                   </note>
@@ -13777,7 +13777,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e9046"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e9046">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e9046">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e9046"/>
                   </note>
@@ -13919,7 +13919,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e9151"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e9151">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e9151">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e9151"/>
                   </note>
@@ -14050,7 +14050,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e9249"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e9249">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e9249">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e9249"/>
                   </note>
@@ -14195,7 +14195,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e9326"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e9326">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e9326">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e9326"/>
                   </note>
@@ -14326,7 +14326,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e9428"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e9428">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e9428">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e9428"/>
                   </note>
@@ -14475,7 +14475,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e9504"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e9504">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e9504">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e9504"/>
                   </note>
@@ -14617,7 +14617,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e9604">Ex Libris Heyworth-Dunne D. Lit. (London) No. 9156</p>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e9604">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e9604">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e9604"/>
                   </note>
@@ -14748,7 +14748,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e9700"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e9700">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e9700">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e9700"/>
                   </note>
@@ -14895,7 +14895,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e9778"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e9778">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e9778">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e9778"/>
                   </note>
@@ -15039,7 +15039,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e9882"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e9882">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e9882">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e9882"/>
                   </note>
@@ -15184,7 +15184,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e9983"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e9983">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e9983">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e9983"/>
                   </note>
@@ -15315,7 +15315,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e10087"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e10087">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e10087">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e10087"/>
                   </note>
@@ -15466,7 +15466,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e10163"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e10163">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e10163">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e10163"/>
                   </note>
@@ -15622,7 +15622,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e10263"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e10263">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e10263">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e10263">[likely, but difficult to read]</p>
                   </note>
@@ -15768,7 +15768,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e10367"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e10367">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e10367">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e10367">[unlikely, but difficult to tell]</p>
                   </note>
@@ -15915,7 +15915,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e10470"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e10470">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e10470">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e10470"/>
                   </note>
@@ -16046,7 +16046,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e10568"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e10568">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e10568">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e10568"/>
                   </note>
@@ -16197,7 +16197,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e10644"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e10644">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e10644">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e10644"/>
                   </note>
@@ -16337,7 +16337,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e10747"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e10747">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e10747">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e10747"/>
                   </note>
@@ -16484,7 +16484,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e10841"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e10841">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e10841">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e10841"/>
                   </note>
@@ -16632,7 +16632,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e10938"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e10938">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e10938">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e10938"/>
                   </note>
@@ -16766,7 +16766,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e11038"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e11038">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e11038">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e11038"/>
                   </note>
@@ -16914,7 +16914,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e11118">yes</p>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e11118">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e11118">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e11118">[unlikely, but difficult to tell]</p>
                   </note>
@@ -17045,7 +17045,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e11221"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e11221">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e11221">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e11221"/>
                   </note>
@@ -17186,7 +17186,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e11298"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e11298">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e11298">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e11298"/>
                   </note>
@@ -17321,7 +17321,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e11374"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e11374">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e11374">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e11374"/>
                   </note>
@@ -17466,7 +17466,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e11450"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e11450">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e11450">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e11450">مختار عباسي</p>
                   </note>
@@ -17601,7 +17601,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e11550"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e11550">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e11550">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e11550"/>
                   </note>
@@ -17746,7 +17746,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e11627"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e11627">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e11627">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e11627"/>
                   </note>
@@ -17877,7 +17877,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e11722"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e11722">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e11722">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e11722"/>
                   </note>
@@ -18024,7 +18024,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e11800"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e11800">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e11800">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e11800"/>
                   </note>
@@ -18158,7 +18158,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e11901"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e11901">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e11901">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e11901"/>
                   </note>
@@ -18310,7 +18310,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e11977"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e11977">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e11977">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e11977">اديب [نطحى?]</p>
                   </note>
@@ -18456,7 +18456,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e12083"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e12083">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e12083">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e12083"/>
                   </note>
@@ -18590,7 +18590,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e12181"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e12181">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e12181">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e12181"/>
                   </note>
@@ -18738,7 +18738,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e12258"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e12258">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e12258">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e12258"/>
                   </note>
@@ -18890,7 +18890,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e12360"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e12360">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e12360">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e12360"/>
                   </note>
@@ -19038,7 +19038,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e12465"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e12465">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e12465">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e12465"/>
                   </note>
@@ -19188,7 +19188,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e12568">[waqf, difficult to tell which]</p>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e12568">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e12568">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e12568"/>
                   </note>
@@ -19333,7 +19333,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e12672"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e12672">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e12672">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e12672"/>
                   </note>
@@ -19465,7 +19465,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e12771"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e12771">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e12771">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e12771"/>
                   </note>
@@ -19608,7 +19608,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e12849"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e12849">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e12849">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e12849"/>
                   </note>
@@ -19759,7 +19759,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e12945"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e12945">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e12945">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e12945"/>
                   </note>
@@ -19890,7 +19890,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e13050"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e13050">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e13050">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e13050"/>
                   </note>
@@ -20037,7 +20037,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e13127"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e13127">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e13127">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e13127"/>
                   </note>
@@ -20182,7 +20182,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e13228"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e13228">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e13228">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e13228"/>
                   </note>
@@ -20330,7 +20330,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e13330"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e13330">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e13330">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e13330"/>
                   </note>
@@ -20480,7 +20480,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e13426"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e13426">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e13426">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e13426"/>
                   </note>
@@ -20627,7 +20627,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e13525"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e13525">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e13525">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e13525"/>
                   </note>
@@ -20759,7 +20759,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e13626"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e13626">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e13626">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e13626"/>
                   </note>
@@ -20912,7 +20912,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e13703"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e13703">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e13703">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e13703"/>
                   </note>
@@ -21045,7 +21045,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e13806"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e13806">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e13806">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e13806"/>
                   </note>
@@ -21192,7 +21192,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e13883"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e13883">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e13883">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e13883"/>
                   </note>
@@ -21338,7 +21338,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e13990"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e13990">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e13990">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e13990"/>
                   </note>
@@ -21484,7 +21484,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e14092"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e14092">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e14092">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e14092"/>
                   </note>
@@ -21619,7 +21619,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e14194"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e14194">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e14194">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e14194"/>
                   </note>
@@ -21765,7 +21765,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e14272"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e14272">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e14272">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e14272"/>
                   </note>
@@ -21897,7 +21897,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e14367"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e14367">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e14367">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e14367"/>
                   </note>
@@ -22032,7 +22032,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e14443"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e14443">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e14443">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e14443"/>
                   </note>
@@ -22174,7 +22174,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e14520"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e14520">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e14520">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e14520"/>
                   </note>
@@ -22306,7 +22306,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e14622"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e14622">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e14622">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e14622"/>
                   </note>
@@ -22438,7 +22438,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e14700"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e14700">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e14700">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e14700"/>
                   </note>
@@ -22572,7 +22572,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e14776"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e14776">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e14776">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e14776"/>
                   </note>
@@ -22707,7 +22707,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e14854"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e14854">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e14854">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e14854"/>
                   </note>
@@ -22840,7 +22840,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e14927"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e14927">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e14927">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e14927"/>
                   </note>
@@ -22992,7 +22992,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e15005"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e15005">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e15005">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e15005"/>
                   </note>
@@ -23147,7 +23147,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e15111"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e15111">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e15111">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e15111"/>
                   </note>
@@ -23292,7 +23292,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e15217"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e15217">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e15217">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e15217"/>
                   </note>
@@ -23445,7 +23445,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e15322"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e15322">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e15322">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e15322"/>
                   </note>
@@ -23597,7 +23597,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e15428"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e15428">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e15428">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e15428"/>
                   </note>
@@ -23730,7 +23730,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e15530"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e15530">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e15530">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e15530"/>
                   </note>
@@ -23866,7 +23866,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e15607"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e15607">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e15607">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e15607"/>
                   </note>
@@ -24015,7 +24015,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e15684"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e15684">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e15684">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e15684"/>
                   </note>
@@ -24175,7 +24175,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e15777"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e15777">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e15777">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e15777"/>
                   </note>
@@ -24327,7 +24327,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e15887"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e15887">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e15887">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e15887"/>
                   </note>
@@ -24462,7 +24462,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e15995"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e15995">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e15995">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e15995"/>
                   </note>
@@ -24597,7 +24597,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e16077"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e16077">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e16077">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e16077"/>
                   </note>
@@ -24747,7 +24747,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e16153"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e16153">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e16153">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e16153"/>
                   </note>
@@ -24882,7 +24882,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e16258"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e16258">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e16258">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e16258"/>
                   </note>
@@ -25031,7 +25031,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e16335"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e16335">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e16335">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e16335"/>
                   </note>
@@ -25166,7 +25166,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e16435"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e16435">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e16435">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e16435"/>
                   </note>
@@ -25315,7 +25315,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e16512"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e16512">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e16512">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e16512"/>
                   </note>
@@ -25470,7 +25470,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e16612"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e16612">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e16612">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e16612"/>
                   </note>
@@ -25628,7 +25628,7 @@
                      <p source="#d1e16720">There is a stamp at the back! Perhaps Būlāq's press own
                         stamp.</p>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e16720">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e16720">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e16720"/>
                   </note>
@@ -25760,7 +25760,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e16825"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e16825">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e16825">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e16825"/>
                   </note>
@@ -25910,7 +25910,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e16903"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e16903">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e16903">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e16903"/>
                   </note>
@@ -26044,7 +26044,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e17005"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e17005">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e17005">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e17005"/>
                   </note>
@@ -26175,7 +26175,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e17083"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e17083">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e17083">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e17083"/>
                   </note>
@@ -26328,7 +26328,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e17158"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e17158">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e17158">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e17158"/>
                   </note>
@@ -26477,7 +26477,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e17258"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e17258">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e17258">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e17258"/>
                   </note>
@@ -26608,7 +26608,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e17352"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e17352">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e17352">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e17352"/>
                   </note>
@@ -26758,7 +26758,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e17427"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e17427">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e17427">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e17427"/>
                   </note>
@@ -26893,7 +26893,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e17530"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e17530">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e17530">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e17530"/>
                   </note>
@@ -27039,7 +27039,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e17606"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e17606">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e17606">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e17606"/>
                   </note>
@@ -27170,7 +27170,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e17705"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e17705">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e17705">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e17705"/>
                   </note>
@@ -27318,7 +27318,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e17780"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e17780">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e17780">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e17780"/>
                   </note>
@@ -27467,7 +27467,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e17884"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e17884">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e17884">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e17884"/>
                   </note>
@@ -27621,7 +27621,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e17985"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e17985">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e17985">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e17985"/>
                   </note>
@@ -27752,7 +27752,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e18090"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e18090">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e18090">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e18090"/>
                   </note>
@@ -27886,7 +27886,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e18164"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e18164">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e18164">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e18164"/>
                   </note>
@@ -28034,7 +28034,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e18239"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e18239">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e18239">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e18239"/>
                   </note>
@@ -28185,7 +28185,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e18338"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e18338">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e18338">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e18338"/>
                   </note>
@@ -28319,7 +28319,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e18439"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e18439">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e18439">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e18439"/>
                   </note>
@@ -28476,7 +28476,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e18514"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e18514">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e18514">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e18514">waqf of 'Umar al-Disūqī</p>
                   </note>
@@ -28624,7 +28624,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e18615"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e18615">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e18615">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e18615"/>
                   </note>
@@ -28771,7 +28771,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e18717">Abd al-Raḥmān?</p>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e18717">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e18717">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e18717"/>
                   </note>
@@ -28902,7 +28902,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e18819"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e18819">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e18819">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e18819"/>
                   </note>
@@ -29038,7 +29038,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e18895"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e18895">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e18895">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e18895"/>
                   </note>
@@ -29172,7 +29172,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e18970"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e18970">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e18970">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e18970"/>
                   </note>
@@ -29321,7 +29321,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e19045"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e19045">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e19045">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e19045"/>
                   </note>
@@ -29467,7 +29467,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e19148"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e19148">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e19148">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e19148"/>
                   </note>
@@ -29617,7 +29617,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e19248"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e19248">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e19248">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e19248"/>
                   </note>
@@ -29748,7 +29748,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e19353"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e19353">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e19353">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e19353"/>
                   </note>
@@ -29880,7 +29880,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e19428"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e19428">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e19428">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e19428"/>
                   </note>
@@ -30029,7 +30029,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e19503"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e19503">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e19503">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e19503"/>
                   </note>
@@ -30161,7 +30161,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e19601"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e19601">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e19601">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e19601"/>
                   </note>
@@ -30314,7 +30314,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e19676"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e19676">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e19676">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e19676"/>
                   </note>
@@ -30445,7 +30445,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e19785"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e19785">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e19785">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e19785"/>
                   </note>
@@ -30579,7 +30579,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e19860"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e19860">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e19860">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e19860"/>
                   </note>
@@ -30725,7 +30725,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e19937"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e19937">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e19937">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e19937"/>
                   </note>
@@ -30859,7 +30859,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e20037"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e20037">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e20037">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e20037"/>
                   </note>
@@ -31002,7 +31002,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e20112"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e20112">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e20112">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e20112"/>
                   </note>
@@ -31136,7 +31136,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e20208"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e20208">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e20208">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e20208"/>
                   </note>
@@ -31268,7 +31268,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e20284"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e20284">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e20284">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e20284"/>
                   </note>
@@ -31417,7 +31417,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e20360"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e20360">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e20360">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e20360">عبده الكمال عبده؟</p>
                   </note>
@@ -31549,7 +31549,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e20535"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e20535">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e20535">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e20535"/>
                   </note>
@@ -31680,7 +31680,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e20606"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e20606">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e20606">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e20606"/>
                   </note>
@@ -31811,7 +31811,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e20676"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e20676">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e20676">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e20676"/>
                   </note>
@@ -31943,7 +31943,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e20746"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e20746">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e20746">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e20746"/>
                   </note>
@@ -32074,7 +32074,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e20816"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e20816">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e20816">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e20816"/>
                   </note>
@@ -32205,7 +32205,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e20886"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e20886">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e20886">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e20886"/>
                   </note>
@@ -32348,7 +32348,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e20957"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e20957">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e20957">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e20957"/>
                   </note>
@@ -32494,7 +32494,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e21046"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e21046">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e21046">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e21046"/>
                   </note>
@@ -32625,7 +32625,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e21142"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e21142">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e21142">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e21142"/>
                   </note>
@@ -32755,7 +32755,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e21212"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e21212">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e21212">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e21212"/>
                   </note>
@@ -32886,7 +32886,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e21283"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e21283">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e21283">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e21283"/>
                   </note>
@@ -33029,7 +33029,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e21352"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e21352">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e21352">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e21352"/>
                   </note>
@@ -33181,7 +33181,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e21515"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e21515">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e21515">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e21515"/>
                   </note>
@@ -33324,7 +33324,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e21612"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e21612">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e21612">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e21612"/>
                   </note>
@@ -33471,7 +33471,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e21705"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e21705">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e21705">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e21705"/>
                   </note>
@@ -33615,7 +33615,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e21799"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e21799">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e21799">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e21799"/>
                   </note>
@@ -33764,7 +33764,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e21889"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e21889">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e21889">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e21889"/>
                   </note>
@@ -33895,7 +33895,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e21986"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e21986">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e21986">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e21986"/>
                   </note>
@@ -34034,7 +34034,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e22057"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e22057">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e22057">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e22057"/>
                   </note>
@@ -34166,7 +34166,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e22136"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e22136">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e22136">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e22136"/>
                   </note>
@@ -34299,7 +34299,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e22207"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e22207">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e22207">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e22207"/>
                   </note>
@@ -34430,7 +34430,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e22277"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e22277">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e22277">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e22277"/>
                   </note>
@@ -34561,7 +34561,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e22348"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e22348">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e22348">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e22348"/>
                   </note>
@@ -34693,7 +34693,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e22418"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e22418">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e22418">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e22418"/>
                   </note>
@@ -34826,7 +34826,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e22565"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e22565">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e22565">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e22565"/>
                   </note>
@@ -34970,7 +34970,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e22640"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e22640">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e22640">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e22640"/>
                   </note>
@@ -35115,7 +35115,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e22737"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e22737">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e22737">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e22737"/>
                   </note>
@@ -35249,7 +35249,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e22834"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e22834">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e22834">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e22834"/>
                   </note>
@@ -35380,7 +35380,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e22909"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e22909">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e22909">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e22909"/>
                   </note>
@@ -35511,7 +35511,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e22981"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e22981">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e22981">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e22981"/>
                   </note>
@@ -35642,7 +35642,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e23056"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e23056">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e23056">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e23056"/>
                   </note>
@@ -35787,7 +35787,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e23129"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e23129">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e23129">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e23129"/>
                   </note>
@@ -35932,7 +35932,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e23233"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e23233">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e23233">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e23233"/>
                   </note>
@@ -36063,7 +36063,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e23332"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e23332">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e23332">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e23332"/>
                   </note>
@@ -36194,7 +36194,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e23405"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e23405">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e23405">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e23405"/>
                   </note>
@@ -36325,7 +36325,7 @@
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e23480"/>
                   </note>
-                  <note type="inscriptionsOfOwnership" source="#d1e23480">
+                  <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e23480">
                      <p xml:lang="en">Inscriptions of Ownership</p>
                      <p source="#d1e23480"/>
                   </note>
