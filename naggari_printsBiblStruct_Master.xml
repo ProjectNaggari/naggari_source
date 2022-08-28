@@ -866,7 +866,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e418">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e418">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e418"/>
                   </note>
@@ -1022,7 +1022,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e525">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e525">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e525">محمد غرت ابن احمد</p>
                   </note>
@@ -1174,7 +1174,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e636">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e636">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e636">علي عبده [?الخاني] عبد الغني ١٢٧٩</p>
                   </note>
@@ -1318,7 +1318,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e742">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e742">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e742">Bibliothèque de Mr Barbier</p>
                   </note>
@@ -1463,7 +1463,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e849">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e849">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e849">yes</p>
                   </note>
@@ -1612,7 +1612,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e952">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e952">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e952"/>
                   </note>
@@ -1763,7 +1763,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e1058">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e1058">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e1058"/>
                   </note>
@@ -1911,7 +1911,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e1166">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e1166">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e1166">yes; Librarie J. E. Sarkis &amp; Fils 53 Rue Faggala Le
                         Caire</p>
@@ -2061,7 +2061,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e1269">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e1269">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e1269">مدرسة الميدان العلبا برمانا Boys' High School</p>
                   </note>
@@ -2208,7 +2208,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e1372">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e1372">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e1372"/>
                   </note>
@@ -2362,7 +2362,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e1477">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e1477">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e1477">Ex Libris Heyworth-Dunne D. Lit. (London) No. 8612</p>
                   </note>
@@ -2508,7 +2508,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e1582">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e1582">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e1582"/>
                   </note>
@@ -2642,7 +2642,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e1688">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e1688">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e1688"/>
                   </note>
@@ -2774,7 +2774,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e1766">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e1766">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e1766"/>
                   </note>
@@ -2923,7 +2923,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e1848">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e1848">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e1848"/>
                   </note>
@@ -3075,7 +3075,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e1958">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e1958">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e1958"/>
                   </note>
@@ -3221,7 +3221,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e2066">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e2066">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e2066"/>
                   </note>
@@ -3366,7 +3366,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e2172">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e2172">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e2172">yes</p>
                   </note>
@@ -3510,7 +3510,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e2273">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e2273">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e2273"/>
                   </note>
@@ -3645,7 +3645,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e2368">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e2368">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e2368"/>
                   </note>
@@ -3795,7 +3795,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e2445">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e2445">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e2445"/>
                   </note>
@@ -3926,7 +3926,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e2548">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e2548">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e2548"/>
                   </note>
@@ -4071,7 +4071,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e2625">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e2625">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e2625"/>
                   </note>
@@ -4214,7 +4214,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e2729">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e2729">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e2729"/>
                   </note>
@@ -4348,7 +4348,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e2830">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e2830">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e2830"/>
                   </note>
@@ -4478,7 +4478,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e2908">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e2908">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e2908"/>
                   </note>
@@ -4623,7 +4623,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e2984">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e2984">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e2984"/>
                   </note>
@@ -4770,7 +4770,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e3088">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e3088">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e3088"/>
                   </note>
@@ -4923,7 +4923,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e3193">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e3193">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e3193"/>
                   </note>
@@ -5076,7 +5076,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e3301">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e3301">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e3301"/>
                   </note>
@@ -5210,7 +5210,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e3409">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e3409">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e3409"/>
                   </note>
@@ -5352,7 +5352,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e3481">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e3481">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e3481">yes</p>
                   </note>
@@ -5497,7 +5497,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e3582">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e3582">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e3582"/>
                   </note>
@@ -5643,7 +5643,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e3689">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e3689">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e3689"/>
                   </note>
@@ -5791,7 +5791,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e3792">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e3792">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e3792"/>
                   </note>
@@ -5938,7 +5938,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e3896">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e3896">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e3896"/>
                   </note>
@@ -6085,7 +6085,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e4002">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e4002">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e4002"/>
                   </note>
@@ -6226,7 +6226,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e4104">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e4104">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e4104"/>
                   </note>
@@ -6378,7 +6378,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e4199">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e4199">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e4199"/>
                   </note>
@@ -6519,7 +6519,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e4307">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e4307">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e4307">علي عبده [?الخاني] عبد الغني ١٢٧٩</p>
                   </note>
@@ -6665,7 +6665,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e4394">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e4394">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e4394"/>
                   </note>
@@ -6811,7 +6811,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e4497">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e4497">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e4497"/>
                   </note>
@@ -6955,7 +6955,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e4597">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e4597">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e4597"/>
                   </note>
@@ -7093,7 +7093,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e4698">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e4698">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e4698"/>
                   </note>
@@ -7230,7 +7230,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e4792">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e4792">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e4792"/>
                   </note>
@@ -7376,7 +7376,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e4868">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e4868">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e4868"/>
                   </note>
@@ -7514,7 +7514,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e4967">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e4967">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e4967"/>
                   </note>
@@ -7667,7 +7667,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e5064">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e5064">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e5064"/>
                   </note>
@@ -7811,7 +7811,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e5164">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e5164">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e5164"/>
                   </note>
@@ -7953,7 +7953,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e5263">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e5263">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e5263"/>
                   </note>
@@ -8087,7 +8087,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e5360">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e5360">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e5360"/>
                   </note>
@@ -8222,7 +8222,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e5437">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e5437">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e5437"/>
                   </note>
@@ -8377,7 +8377,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e5515">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e5515">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e5515"/>
                   </note>
@@ -8526,7 +8526,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e5621">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e5621">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e5621"/>
                   </note>
@@ -8671,7 +8671,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e5730">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e5730">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e5730"/>
                   </note>
@@ -8804,7 +8804,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e5831">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e5831">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e5831"/>
                   </note>
@@ -8952,7 +8952,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e5906">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e5906">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e5906"/>
                   </note>
@@ -9100,7 +9100,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e6001">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e6001">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e6001">علي عبده [?الخاني] عبد الغني ١٢٧٩</p>
                   </note>
@@ -9248,7 +9248,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e6109">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e6109">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e6109">yes</p>
                   </note>
@@ -9398,7 +9398,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e6209">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e6209">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e6209"/>
                   </note>
@@ -9529,7 +9529,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e6313">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e6313">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e6313"/>
                   </note>
@@ -9681,7 +9681,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e6388">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e6388">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e6388">علي عبده [?الخاني] عبد الغني ١٢٧٩</p>
                   </note>
@@ -9831,7 +9831,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e6491">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e6491">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e6491"/>
                   </note>
@@ -9962,7 +9962,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e6593">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e6593">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e6593"/>
                   </note>
@@ -10095,7 +10095,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e6668">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e6668">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e6668"/>
                   </note>
@@ -10237,7 +10237,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e6743">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e6743">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e6743"/>
                   </note>
@@ -10384,7 +10384,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e6836">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e6836">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e6836"/>
                   </note>
@@ -10533,7 +10533,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e6936">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e6936">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e6936"/>
                   </note>
@@ -10665,7 +10665,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e7034">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e7034">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e7034"/>
                   </note>
@@ -10810,7 +10810,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e7108">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e7108">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e7108">? [might be Bulaq stamp]</p>
                   </note>
@@ -10955,7 +10955,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e7211">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e7211">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e7211"/>
                   </note>
@@ -11089,7 +11089,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e7309">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e7309">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e7309"/>
                   </note>
@@ -11223,7 +11223,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e7386">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e7386">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e7386"/>
                   </note>
@@ -11355,7 +11355,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e7462">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e7462">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e7462"/>
                   </note>
@@ -11503,7 +11503,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e7538">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e7538">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e7538">yes</p>
                   </note>
@@ -11649,7 +11649,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e7639">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e7639">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e7639"/>
                   </note>
@@ -11796,7 +11796,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e7735">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e7735">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e7735"/>
                   </note>
@@ -11942,7 +11942,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e7839">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e7839">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e7839"/>
                   </note>
@@ -12086,7 +12086,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e7939">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e7939">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e7939">علي عبده [?الخاني] عبد الغني ١٢٧٩</p>
                   </note>
@@ -12217,7 +12217,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e8042">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e8042">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e8042"/>
                   </note>
@@ -12363,7 +12363,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e8119">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e8119">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e8119"/>
                   </note>
@@ -12509,7 +12509,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e8221">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e8221">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e8221"/>
                   </note>
@@ -12641,7 +12641,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e8321">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e8321">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e8321"/>
                   </note>
@@ -12786,7 +12786,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e8398">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e8398">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e8398"/>
                   </note>
@@ -12918,7 +12918,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e8499">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e8499">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e8499"/>
                   </note>
@@ -13060,7 +13060,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e8576">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e8576">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e8576"/>
                   </note>
@@ -13201,7 +13201,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e8671">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e8671">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e8671"/>
                   </note>
@@ -13332,7 +13332,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e8770">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e8770">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e8770"/>
                   </note>
@@ -13475,7 +13475,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e8846">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e8846">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e8846"/>
                   </note>
@@ -13622,7 +13622,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e8944">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e8944">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e8944"/>
                   </note>
@@ -13773,7 +13773,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e9046">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e9046">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e9046"/>
                   </note>
@@ -13915,7 +13915,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e9151">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e9151">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e9151"/>
                   </note>
@@ -14046,7 +14046,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e9249">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e9249">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e9249"/>
                   </note>
@@ -14191,7 +14191,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e9326">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e9326">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e9326"/>
                   </note>
@@ -14322,7 +14322,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e9428">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e9428">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e9428"/>
                   </note>
@@ -14471,7 +14471,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e9504">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e9504">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e9504"/>
                   </note>
@@ -14613,7 +14613,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e9604">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e9604">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e9604">Ex Libris Heyworth-Dunne D. Lit. (London) No. 9156</p>
                   </note>
@@ -14744,7 +14744,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e9700">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e9700">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e9700"/>
                   </note>
@@ -14891,7 +14891,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e9778">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e9778">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e9778"/>
                   </note>
@@ -15035,7 +15035,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e9882">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e9882">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e9882"/>
                   </note>
@@ -15180,7 +15180,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e9983">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e9983">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e9983"/>
                   </note>
@@ -15311,7 +15311,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e10087">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e10087">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e10087"/>
                   </note>
@@ -15462,7 +15462,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e10163">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e10163">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e10163"/>
                   </note>
@@ -15618,7 +15618,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e10263">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e10263">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e10263"/>
                   </note>
@@ -15764,7 +15764,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e10367">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e10367">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e10367"/>
                   </note>
@@ -15911,7 +15911,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e10470">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e10470">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e10470"/>
                   </note>
@@ -16042,7 +16042,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e10568">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e10568">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e10568"/>
                   </note>
@@ -16193,7 +16193,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e10644">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e10644">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e10644"/>
                   </note>
@@ -16333,7 +16333,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e10747">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e10747">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e10747"/>
                   </note>
@@ -16480,7 +16480,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e10841">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e10841">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e10841"/>
                   </note>
@@ -16628,7 +16628,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e10938">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e10938">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e10938"/>
                   </note>
@@ -16762,7 +16762,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e11038">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e11038">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e11038"/>
                   </note>
@@ -16910,7 +16910,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e11118">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e11118">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e11118">yes</p>
                   </note>
@@ -17041,7 +17041,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e11221">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e11221">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e11221"/>
                   </note>
@@ -17182,7 +17182,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e11298">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e11298">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e11298"/>
                   </note>
@@ -17317,7 +17317,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e11374">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e11374">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e11374"/>
                   </note>
@@ -17462,7 +17462,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e11450">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e11450">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e11450"/>
                   </note>
@@ -17597,7 +17597,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e11550">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e11550">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e11550"/>
                   </note>
@@ -17742,7 +17742,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e11627">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e11627">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e11627"/>
                   </note>
@@ -17873,7 +17873,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e11722">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e11722">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e11722"/>
                   </note>
@@ -18020,7 +18020,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e11800">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e11800">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e11800"/>
                   </note>
@@ -18154,7 +18154,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e11901">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e11901">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e11901"/>
                   </note>
@@ -18306,7 +18306,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e11977">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e11977">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e11977"/>
                   </note>
@@ -18452,7 +18452,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e12083">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e12083">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e12083"/>
                   </note>
@@ -18586,7 +18586,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e12181">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e12181">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e12181"/>
                   </note>
@@ -18734,7 +18734,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e12258">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e12258">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e12258"/>
                   </note>
@@ -18886,7 +18886,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e12360">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e12360">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e12360"/>
                   </note>
@@ -19034,7 +19034,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e12465">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e12465">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e12465"/>
                   </note>
@@ -19184,7 +19184,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e12568">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e12568">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e12568">[waqf, difficult to tell which]</p>
                   </note>
@@ -19329,7 +19329,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e12672">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e12672">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e12672"/>
                   </note>
@@ -19461,7 +19461,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e12771">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e12771">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e12771"/>
                   </note>
@@ -19604,7 +19604,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e12849">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e12849">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e12849"/>
                   </note>
@@ -19755,7 +19755,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e12945">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e12945">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e12945"/>
                   </note>
@@ -19886,7 +19886,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e13050">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e13050">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e13050"/>
                   </note>
@@ -20033,7 +20033,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e13127">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e13127">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e13127"/>
                   </note>
@@ -20178,7 +20178,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e13228">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e13228">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e13228"/>
                   </note>
@@ -20326,7 +20326,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e13330">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e13330">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e13330"/>
                   </note>
@@ -20476,7 +20476,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e13426">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e13426">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e13426"/>
                   </note>
@@ -20623,7 +20623,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e13525">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e13525">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e13525"/>
                   </note>
@@ -20755,7 +20755,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e13626">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e13626">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e13626"/>
                   </note>
@@ -20908,7 +20908,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e13703">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e13703">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e13703"/>
                   </note>
@@ -21041,7 +21041,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e13806">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e13806">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e13806"/>
                   </note>
@@ -21188,7 +21188,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e13883">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e13883">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e13883"/>
                   </note>
@@ -21334,7 +21334,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e13990">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e13990">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e13990"/>
                   </note>
@@ -21480,7 +21480,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e14092">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e14092">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e14092"/>
                   </note>
@@ -21615,7 +21615,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e14194">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e14194">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e14194"/>
                   </note>
@@ -21761,7 +21761,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e14272">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e14272">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e14272"/>
                   </note>
@@ -21893,7 +21893,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e14367">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e14367">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e14367"/>
                   </note>
@@ -22028,7 +22028,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e14443">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e14443">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e14443"/>
                   </note>
@@ -22170,7 +22170,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e14520">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e14520">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e14520"/>
                   </note>
@@ -22302,7 +22302,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e14622">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e14622">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e14622"/>
                   </note>
@@ -22434,7 +22434,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e14700">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e14700">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e14700"/>
                   </note>
@@ -22568,7 +22568,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e14776">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e14776">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e14776"/>
                   </note>
@@ -22703,7 +22703,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e14854">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e14854">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e14854"/>
                   </note>
@@ -22836,7 +22836,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e14927">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e14927">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e14927"/>
                   </note>
@@ -22988,7 +22988,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e15005">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e15005">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e15005"/>
                   </note>
@@ -23143,7 +23143,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e15111">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e15111">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e15111"/>
                   </note>
@@ -23288,7 +23288,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e15217">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e15217">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e15217"/>
                   </note>
@@ -23441,7 +23441,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e15322">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e15322">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e15322"/>
                   </note>
@@ -23593,7 +23593,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e15428">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e15428">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e15428"/>
                   </note>
@@ -23726,7 +23726,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e15530">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e15530">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e15530"/>
                   </note>
@@ -23862,7 +23862,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e15607">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e15607">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e15607"/>
                   </note>
@@ -24011,7 +24011,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e15684">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e15684">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e15684"/>
                   </note>
@@ -24171,7 +24171,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e15777">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e15777">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e15777"/>
                   </note>
@@ -24323,7 +24323,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e15887">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e15887">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e15887"/>
                   </note>
@@ -24458,7 +24458,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e15995">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e15995">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e15995"/>
                   </note>
@@ -24593,7 +24593,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e16077">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e16077">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e16077"/>
                   </note>
@@ -24743,7 +24743,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e16153">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e16153">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e16153"/>
                   </note>
@@ -24878,7 +24878,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e16258">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e16258">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e16258"/>
                   </note>
@@ -25027,7 +25027,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e16335">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e16335">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e16335"/>
                   </note>
@@ -25162,7 +25162,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e16435">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e16435">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e16435"/>
                   </note>
@@ -25311,7 +25311,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e16512">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e16512">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e16512"/>
                   </note>
@@ -25466,7 +25466,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e16612">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e16612">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e16612"/>
                   </note>
@@ -25623,7 +25623,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e16720">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e16720">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e16720">There is a stamp at the back! Perhaps Būlāq's press own
                         stamp.</p>
@@ -25756,7 +25756,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e16825">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e16825">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e16825"/>
                   </note>
@@ -25906,7 +25906,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e16903">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e16903">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e16903"/>
                   </note>
@@ -26040,7 +26040,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e17005">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e17005">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e17005"/>
                   </note>
@@ -26171,7 +26171,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e17083">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e17083">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e17083"/>
                   </note>
@@ -26324,7 +26324,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e17158">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e17158">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e17158"/>
                   </note>
@@ -26473,7 +26473,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e17258">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e17258">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e17258"/>
                   </note>
@@ -26604,7 +26604,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e17352">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e17352">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e17352"/>
                   </note>
@@ -26754,7 +26754,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e17427">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e17427">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e17427"/>
                   </note>
@@ -26889,7 +26889,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e17530">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e17530">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e17530"/>
                   </note>
@@ -27035,7 +27035,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e17606">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e17606">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e17606"/>
                   </note>
@@ -27166,7 +27166,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e17705">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e17705">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e17705"/>
                   </note>
@@ -27314,7 +27314,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e17780">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e17780">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e17780"/>
                   </note>
@@ -27463,7 +27463,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e17884">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e17884">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e17884"/>
                   </note>
@@ -27617,7 +27617,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e17985">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e17985">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e17985"/>
                   </note>
@@ -27748,7 +27748,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e18090">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e18090">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e18090"/>
                   </note>
@@ -27882,7 +27882,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e18164">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e18164">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e18164"/>
                   </note>
@@ -28030,7 +28030,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e18239">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e18239">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e18239"/>
                   </note>
@@ -28181,7 +28181,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e18338">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e18338">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e18338"/>
                   </note>
@@ -28315,7 +28315,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e18439">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e18439">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e18439"/>
                   </note>
@@ -28472,7 +28472,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e18514">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e18514">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e18514"/>
                   </note>
@@ -28620,7 +28620,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e18615">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e18615">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e18615"/>
                   </note>
@@ -28767,7 +28767,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e18717">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e18717">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e18717">Abd al-Raḥmān?</p>
                   </note>
@@ -28898,7 +28898,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e18819">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e18819">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e18819"/>
                   </note>
@@ -29034,7 +29034,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e18895">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e18895">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e18895"/>
                   </note>
@@ -29168,7 +29168,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e18970">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e18970">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e18970"/>
                   </note>
@@ -29317,7 +29317,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e19045">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e19045">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e19045"/>
                   </note>
@@ -29463,7 +29463,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e19148">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e19148">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e19148"/>
                   </note>
@@ -29613,7 +29613,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e19248">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e19248">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e19248"/>
                   </note>
@@ -29744,7 +29744,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e19353">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e19353">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e19353"/>
                   </note>
@@ -29876,7 +29876,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e19428">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e19428">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e19428"/>
                   </note>
@@ -30025,7 +30025,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e19503">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e19503">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e19503"/>
                   </note>
@@ -30157,7 +30157,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e19601">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e19601">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e19601"/>
                   </note>
@@ -30310,7 +30310,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e19676">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e19676">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e19676"/>
                   </note>
@@ -30441,7 +30441,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e19785">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e19785">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e19785"/>
                   </note>
@@ -30575,7 +30575,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e19860">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e19860">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e19860"/>
                   </note>
@@ -30721,7 +30721,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e19937">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e19937">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e19937"/>
                   </note>
@@ -30855,7 +30855,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e20037">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e20037">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e20037"/>
                   </note>
@@ -30998,7 +30998,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e20112">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e20112">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e20112"/>
                   </note>
@@ -31132,7 +31132,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e20208">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e20208">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e20208"/>
                   </note>
@@ -31264,7 +31264,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e20284">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e20284">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e20284"/>
                   </note>
@@ -31413,7 +31413,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e20360">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e20360">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e20360"/>
                   </note>
@@ -31545,7 +31545,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e20535">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e20535">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e20535"/>
                   </note>
@@ -31676,7 +31676,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e20606">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e20606">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e20606"/>
                   </note>
@@ -31807,7 +31807,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e20676">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e20676">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e20676"/>
                   </note>
@@ -31939,7 +31939,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e20746">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e20746">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e20746"/>
                   </note>
@@ -32070,7 +32070,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e20816">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e20816">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e20816"/>
                   </note>
@@ -32201,7 +32201,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e20886">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e20886">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e20886"/>
                   </note>
@@ -32344,7 +32344,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e20957">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e20957">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e20957"/>
                   </note>
@@ -32490,7 +32490,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e21046">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e21046">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e21046"/>
                   </note>
@@ -32621,7 +32621,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e21142">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e21142">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e21142"/>
                   </note>
@@ -32751,7 +32751,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e21212">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e21212">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e21212"/>
                   </note>
@@ -32882,7 +32882,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e21283">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e21283">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e21283"/>
                   </note>
@@ -33025,7 +33025,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e21352">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e21352">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e21352"/>
                   </note>
@@ -33177,7 +33177,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e21515">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e21515">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e21515"/>
                   </note>
@@ -33320,7 +33320,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e21612">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e21612">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e21612"/>
                   </note>
@@ -33467,7 +33467,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e21705">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e21705">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e21705"/>
                   </note>
@@ -33611,7 +33611,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e21799">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e21799">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e21799"/>
                   </note>
@@ -33760,7 +33760,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e21889">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e21889">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e21889"/>
                   </note>
@@ -33891,7 +33891,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e21986">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e21986">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e21986"/>
                   </note>
@@ -34030,7 +34030,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e22057">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e22057">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e22057"/>
                   </note>
@@ -34162,7 +34162,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e22136">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e22136">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e22136"/>
                   </note>
@@ -34295,7 +34295,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e22207">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e22207">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e22207"/>
                   </note>
@@ -34426,7 +34426,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e22277">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e22277">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e22277"/>
                   </note>
@@ -34557,7 +34557,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e22348">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e22348">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e22348"/>
                   </note>
@@ -34689,7 +34689,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e22418">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e22418">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e22418"/>
                   </note>
@@ -34822,7 +34822,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e22565">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e22565">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e22565"/>
                   </note>
@@ -34966,7 +34966,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e22640">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e22640">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e22640"/>
                   </note>
@@ -35111,7 +35111,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e22737">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e22737">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e22737"/>
                   </note>
@@ -35245,7 +35245,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e22834">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e22834">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e22834"/>
                   </note>
@@ -35376,7 +35376,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e22909">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e22909">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e22909"/>
                   </note>
@@ -35507,7 +35507,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e22981">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e22981">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e22981"/>
                   </note>
@@ -35638,7 +35638,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e23056">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e23056">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e23056"/>
                   </note>
@@ -35783,7 +35783,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e23129">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e23129">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e23129"/>
                   </note>
@@ -35928,7 +35928,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e23233">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e23233">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e23233"/>
                   </note>
@@ -36059,7 +36059,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e23332">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e23332">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e23332"/>
                   </note>
@@ -36190,7 +36190,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e23405">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e23405">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e23405"/>
                   </note>
@@ -36321,7 +36321,7 @@
                         </measure>
                      </measureGrp>
                   </note>
-                  <note type="sealsOfOwners" source="#d1e23480">
+                  <note type="sealsOfOwners" xml:lang="en" source="#d1e23480">
                      <p xml:lang="en">Seals of Owners</p>
                      <p source="#d1e23480"/>
                   </note>
