@@ -95,7 +95,7 @@
                ‘an tarikat al-Shaykh Muṣṭafā Salāmah al-Najjārī,” Bayt Māl-i Miṣr 3002-012642, Dār
                al-Wathā’iq al-Qawmīyah (Egyptian National Archives). </p>
             <p> The original transcription from the daftar in DWQ was made by <persName>Adam
-                  Mestyan</persName> in <date>December 2016</date>, double-checked by <persName>Rezq
+                  Mestyan</persName> in <date>December 2016</date>, double-checked by <persName>Rezk
                   Nori</persName> in <date>July 2020</date>.</p>
          </projectDesc>
          <editorialDecl xml:lang="en">
@@ -195,12 +195,12 @@
          <div xml:id="nPubRef">
             <p>Please refer to this dataset in the following way: </p>
             <p>
-               <ref>Adam Mestyan and Kathryn Schwartz. 
+               <ref>Adam Mestyan and Kathryn A. Schwartz. 
                (Version v1.0) [Data set]. Zenodo.</ref>
             </p>
          </div>
          <div xml:id="nKathryn">
-            <p>This website is dedicated to the memory of <persName ref="pKS">Kathryn
+            <p>This website is dedicated to the memory of <persName ref="pKS">Kathryn A.
                      Schwartz</persName>.</p>
          </div>
          <div type="chapter" xml:id="nIntro">
@@ -226,7 +226,7 @@
             <p> Our work was documented <ref target="https://anegyptiansheikhsliteraryworld.umasscreate.net/">at our blog
                   2019-2021.</ref>
             </p>
-            <p> In May 2022, <persName ref="pKS">Kathryn Schwartz</persName> passed away suddenly.
+            <p> In May 2022, <persName ref="pKS">Kathryn A. Schwartz</persName> passed away suddenly.
                The project was originally intended as an online supplement to <persName ref="#pAM">Adam Mestyan</persName>, <title>
                   <hi rend="italic">
                      <ref target="https://www.ifao.egnet.net/publications/catalogue/9782724707496/">Primordial History, Print Capitalism, and Egyptology in Nineteenth-Century
@@ -321,11 +321,11 @@
          <div xml:id="nReflect">
             <p>The following text is a slightly edited copy from the project's <ref
                   target="https://anegyptiansheikhsliteraryworld.umasscreate.net/reflections/"
-                  >blog</ref>, written jointly by Adam Mestyan and Kathryn Schwartz, and maintained
+                  >blog</ref>, written jointly by Adam Mestyan and Kathryn A. Schwartz, and maintained
                by Kathryn Schwartz between 2019 and 2021.</p>
             <p xml:id="nReflectTitle">Reflections</p>
             <p xml:id="nReflectNames">
-               <hi rend="italic">Adam Mestyan &amp; Kathryn A. Schwartz</hi>
+               <hi rend="italic">Adam Mestyan and Kathryn A. Schwartz</hi>
             </p>
             <div xml:id="nReflectText">
                <p>I. Printed titles</p>
