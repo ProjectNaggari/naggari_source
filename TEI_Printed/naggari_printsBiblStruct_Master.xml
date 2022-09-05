@@ -195,8 +195,7 @@
          <div xml:id="nPubRef">
             <p>Please refer to this dataset in the following way: </p>
             <p>
-               <ref>Adam Mestyan and Kathryn A. Schwartz. 
-               (Version v1.0) [Data set]. Zenodo.</ref>
+               <ref>Adam Mestyan and Kathryn A. Schwartz (2022). <ref target="https://doi.org/10.5281/zenodo.7046991"> ProjectNaggari/naggari_source: Project Naggari - The Literary World of A Nineteenth-Century Egyptian Sheikh (v1.0.0).</ref> Zenodo.</ref>
             </p>
          </div>
          <div xml:id="nKathryn">
