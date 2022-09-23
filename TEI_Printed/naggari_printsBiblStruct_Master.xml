@@ -842,7 +842,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">300</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -998,7 +998,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">350</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -1147,7 +1147,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">70</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar">٧٢</num>
@@ -1294,7 +1294,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">180</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -1439,7 +1439,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">20</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -1588,7 +1588,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">270</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -1739,7 +1739,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">70</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -1887,7 +1887,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">70</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -2037,7 +2037,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">45</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -2184,7 +2184,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">30</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -2338,7 +2338,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">28</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -2484,7 +2484,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">110</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -2618,7 +2618,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en"/>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -2750,7 +2750,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">120</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -2899,7 +2899,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">200</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -3051,7 +3051,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">70</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -3197,7 +3197,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">60</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -3342,7 +3342,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">20</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -3486,7 +3486,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">65</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -3621,7 +3621,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">15</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -3771,7 +3771,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">15</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -3902,7 +3902,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">13</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -4047,7 +4047,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">20</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -4190,7 +4190,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">60</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -4324,7 +4324,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">125</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -4454,7 +4454,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">20</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -4599,7 +4599,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">15</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -4746,7 +4746,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">15</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -4899,7 +4899,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">40</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -5052,7 +5052,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">140</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -5186,7 +5186,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">30</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -5328,7 +5328,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">30</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -5473,7 +5473,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">50</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -5619,7 +5619,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">25</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -5767,7 +5767,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">18</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -5914,7 +5914,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">250</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -6061,7 +6061,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">35</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -6202,7 +6202,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">25</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -6354,7 +6354,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">55</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -6495,7 +6495,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">25</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -6641,7 +6641,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">7</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -6787,7 +6787,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">10</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -6931,7 +6931,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">20</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -7069,7 +7069,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">12</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -7206,7 +7206,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">5</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -7352,7 +7352,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">9</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -7490,7 +7490,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">10</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -7643,7 +7643,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">4</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -7787,7 +7787,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">10</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -7929,7 +7929,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">10</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -8063,7 +8063,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">5</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -8198,7 +8198,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">5</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -8353,7 +8353,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">10</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -8502,7 +8502,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">10</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -8647,7 +8647,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">5</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -8780,7 +8780,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">5</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -8928,7 +8928,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">3</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -9076,7 +9076,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">10</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -9224,7 +9224,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">4</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -9374,7 +9374,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">12</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -9505,7 +9505,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">2</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -9657,7 +9657,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">10</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -9807,7 +9807,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">3</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -9938,7 +9938,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">5</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -10071,7 +10071,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">2</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -10213,7 +10213,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">2</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -10360,7 +10360,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">10</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -10509,7 +10509,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">4</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -10641,7 +10641,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">3</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -10786,7 +10786,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">8</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -10931,7 +10931,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">2</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -11065,7 +11065,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">2</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -11199,7 +11199,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">3</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -11331,7 +11331,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">3</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -11479,7 +11479,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">8</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -11625,7 +11625,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">5</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -11772,7 +11772,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">115</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -11918,7 +11918,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">7</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -12062,7 +12062,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">5</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -12193,7 +12193,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">20</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -12339,7 +12339,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">20</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -12485,7 +12485,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">7</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -12617,7 +12617,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">3</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -12762,7 +12762,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">2</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -12894,7 +12894,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">4</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -13036,7 +13036,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">8</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -13177,7 +13177,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">4</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -13308,7 +13308,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">3</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -13451,7 +13451,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">3</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -13598,7 +13598,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">8</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -13749,7 +13749,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">5</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -13891,7 +13891,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">3</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -14022,7 +14022,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">10</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -14167,7 +14167,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">10</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -14298,7 +14298,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">4</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -14444,7 +14444,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">4</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar">ثلالون غرشا</num>
@@ -14589,7 +14589,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">3</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -14720,7 +14720,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">3</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -14867,7 +14867,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">10</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -15011,7 +15011,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">7</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -15156,7 +15156,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">10</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -15287,7 +15287,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">4</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -15438,7 +15438,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">4</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -15594,7 +15594,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">5</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -15740,7 +15740,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">2</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -15887,7 +15887,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">٥</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -16018,7 +16018,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">1</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -16169,7 +16169,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">2</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -16309,7 +16309,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">3</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -16456,7 +16456,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">2</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -16604,7 +16604,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">15</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -16738,7 +16738,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">4</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -16886,7 +16886,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">3</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -17017,7 +17017,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">7</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -17158,7 +17158,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">1</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -17293,7 +17293,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">2</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -17438,7 +17438,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">2</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -17573,7 +17573,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">2</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -17718,7 +17718,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">1</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -17849,7 +17849,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">15</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -17996,7 +17996,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">5</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -18130,7 +18130,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">10</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -18282,7 +18282,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">10</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -18428,7 +18428,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">3</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -18562,7 +18562,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">5</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -18710,7 +18710,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">20</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -18862,7 +18862,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">30</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -19010,7 +19010,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">30</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -19160,7 +19160,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">20</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -19305,7 +19305,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">2</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -19437,7 +19437,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">1</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -19580,7 +19580,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">1</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -19728,7 +19728,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">10</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar">25?</num>
@@ -19862,7 +19862,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">10</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -20009,7 +20009,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">5</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -20154,7 +20154,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">8</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -20302,7 +20302,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">5</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -20452,7 +20452,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">5</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -20599,7 +20599,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">5</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -20731,7 +20731,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">3</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -20884,7 +20884,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">10</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -21017,7 +21017,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">10</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -21164,7 +21164,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">5</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -21310,7 +21310,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">70</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -21456,7 +21456,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">2</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -21591,7 +21591,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">1</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -21737,7 +21737,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">1</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -21869,7 +21869,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">2</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -22004,7 +22004,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">3</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -22146,7 +22146,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">1</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -22278,7 +22278,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">14</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -22410,7 +22410,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">35</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -22544,7 +22544,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">10</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -22679,7 +22679,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en"/>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -22812,7 +22812,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">110</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -22964,7 +22964,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">60</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -23119,7 +23119,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">150</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -23264,7 +23264,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">60</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -23417,7 +23417,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">500</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -23569,7 +23569,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">15</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -23702,7 +23702,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">10</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -23838,7 +23838,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">15</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -23987,7 +23987,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">80</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -24147,7 +24147,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">240</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -24296,7 +24296,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">75</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -24434,7 +24434,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">15</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -24569,7 +24569,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">20</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -24719,7 +24719,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">25</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -24854,7 +24854,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">25</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -25003,7 +25003,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">5</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -25138,7 +25138,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">8</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -25287,7 +25287,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">80</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -25439,7 +25439,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">13</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="الكتاب ص ٣٤١">
                            <num xml:lang="ar">٢٢ قرش و٣٢ نصف فضة</num>
@@ -25599,7 +25599,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">5</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -25732,7 +25732,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">5</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -25882,7 +25882,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">3</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -26016,7 +26016,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">3</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -26147,7 +26147,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">3</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -26300,7 +26300,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">8</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -26449,7 +26449,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">5</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -26580,7 +26580,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">8</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -26730,7 +26730,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">4</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -26865,7 +26865,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">2</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -27011,7 +27011,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">4</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -27142,7 +27142,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">3</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -27290,7 +27290,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">25</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -27439,7 +27439,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">14</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -27593,7 +27593,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">30</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -27724,7 +27724,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">150</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -27858,7 +27858,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">20</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -28006,7 +28006,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">10</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -28157,7 +28157,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">3</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -28291,7 +28291,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">3</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -28448,7 +28448,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">8</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -28596,7 +28596,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">5</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -28743,7 +28743,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">7</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -28874,7 +28874,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">5</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -29010,7 +29010,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">10</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -29144,7 +29144,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">8</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -29293,7 +29293,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">8</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -29439,7 +29439,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">3</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -29589,7 +29589,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">4</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -29720,7 +29720,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">1</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -29852,7 +29852,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">4</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -30001,7 +30001,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">1</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -30133,7 +30133,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">5</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -30286,7 +30286,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">50</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -30417,7 +30417,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">4</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -30551,7 +30551,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">1</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -30697,7 +30697,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">2</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -30831,7 +30831,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">10</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -30974,7 +30974,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">5</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -31108,7 +31108,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">35</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -31240,7 +31240,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">20</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -31389,7 +31389,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en">6920</num>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -31521,7 +31521,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en"/>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -31652,7 +31652,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en"/>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -31783,7 +31783,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en"/>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -31915,7 +31915,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en"/>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -32046,7 +32046,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en"/>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -32177,7 +32177,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en"/>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -32320,7 +32320,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en"/>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -32466,7 +32466,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en"/>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -32597,7 +32597,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en"/>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -32727,7 +32727,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en"/>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -32858,7 +32858,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en"/>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -33001,7 +33001,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en"/>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -33153,7 +33153,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en"/>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -33296,7 +33296,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en"/>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -33443,7 +33443,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en"/>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -33587,7 +33587,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en"/>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -33736,7 +33736,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en"/>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -33867,7 +33867,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en"/>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -34006,7 +34006,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en"/>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -34138,7 +34138,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en"/>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -34271,7 +34271,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en"/>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -34402,7 +34402,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en"/>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -34533,7 +34533,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en"/>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -34665,7 +34665,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en"/>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -34798,7 +34798,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en"/>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -34942,7 +34942,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en"/>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -35087,7 +35087,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en"/>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -35221,7 +35221,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en"/>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -35352,7 +35352,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en"/>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -35483,7 +35483,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en"/>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -35614,7 +35614,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en"/>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -35759,7 +35759,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en"/>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -35904,7 +35904,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en"/>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -36035,7 +36035,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en"/>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -36166,7 +36166,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en"/>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
@@ -36297,7 +36297,7 @@
                         <measure type="value" source="#d" xml:lang="en" n="valueInDEn">
                            <num xml:lang="en"/>
                            <unit type="currency" xml:lang="ar-Latn-x-lc">qirsh</unit>
-                           <note xml:lang="en">Value in D</note>
+                           <note xml:lang="en">Value in D:</note>
                         </measure>
                         <measure type="value" xml:lang="ar" n="valueInCAr" source="???">
                            <num xml:lang="ar"/>
