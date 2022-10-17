@@ -183,7 +183,7 @@
             </p>
          </div>
          <div xml:id="nCetei" xml:lang="en">
-            <p>This website uses <ref target="https://github.com/TEIC/CETEIcean">CETEICEan</ref> by
+            <p>This website uses <ref target="https://github.com/TEIC/CETEIcean">CETEIcean</ref> by
                Hugh Cayless and Raffaele Viglianti to display the umodified TEI file in HTML</p>
          </div>
          <div xml:id="nPubRef">
