@@ -176,6 +176,7 @@
             </p>
             <p>TEI, JS, and CSS consultant: <persName ref="#pHC">Hugh Cayless</persName>
             </p>
+            <p>JS code: <persName ref="#pHC">Hugh Cayless</persName></p>
          </div>
          <div xml:id="nCopyright" xml:lang="en">
             <p>This database and website are licensed under Creative Commons <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial
