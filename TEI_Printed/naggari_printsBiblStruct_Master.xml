@@ -101,7 +101,7 @@
                   target="https://www.loc.gov/catdir/cpso/romanization/arabic.pdf">ALA-LC</ref>
                standards for Arabic transliteration.</p>
             <p> Please refer to this dataset in the following way: <ref>Adam Mestyan and Kathryn
-                  Schwartz. (Version v1.0) [Data set]. Zenodo.</ref>
+                  Schwartz. (Version v2.0) [Data set]. Zenodo.</ref>
             </p>
          </editorialDecl>
       </encodingDesc>
@@ -196,9 +196,9 @@
          <div xml:id="nPubRef">
             <p>Please refer to this dataset in the following way: </p>
             <p>
-               <ref>Adam Mestyan and Kathryn A. Schwartz (2022). <ref
-                     target="https://doi.org/10.5281/zenodo.7046991">Project Naggari - The Literary
-                     World of A Nineteenth-Century Egyptian Sheikh (v1.0.0).</ref> Zenodo.</ref>
+               <ref>Adam Mestyan and Kathryn A. Schwartz (2023). <ref
+                  target="https://doi.org/10.5281/zenodo.7606371">Project Naggari - The Literary
+                     World of A Nineteenth-Century Egyptian Sheikh (v2.0).</ref> Zenodo.</ref>
             </p>
          </div>
          <div xml:id="nKathryn">
@@ -893,10 +893,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e418">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e418"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e418">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e418"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -1044,10 +1046,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e525">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e525">محمد غرت</p>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e525">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e525">1288</date>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -1192,10 +1196,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e636">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e636"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e636">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e636"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -1338,11 +1344,13 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e742">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e742">Barbier de Meynard Professeur a l'Ecole du LL. OO.
                         Vivantes</p>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e742">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e742"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -1485,10 +1493,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e849">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e849"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e849">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e849"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -1633,10 +1643,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e952">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e952"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e952">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e952"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -1783,10 +1795,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e1058">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e1058"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e1058">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e1058"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -1930,10 +1944,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e1166">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e1166"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e1166">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e1166"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -2077,10 +2093,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e1269">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e1269"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e1269">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e1269"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -2223,10 +2241,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e1372">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e1372"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e1372">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e1372"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -2373,10 +2393,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e1477">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e1477"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e1477">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e1477"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -2521,10 +2543,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e1582">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e1582"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e1582">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e1582"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -2655,10 +2679,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e1688">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e1688"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e1688">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e1688"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -2788,10 +2814,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e1766">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e1766"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e1766">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e1766"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -2937,11 +2965,13 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e1848">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e1848">Presented by [J McKethyan?] to his friend The Right
                         Honorable Sir R [Wilmot Norton?] Zelheddge 25. 1253</p>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e1848">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e1848">Zelheddge 25. 1253</date>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -3087,10 +3117,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e1958">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e1958">several</p>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e1958">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e1958">1306; 1320</date>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -3234,10 +3266,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e2066">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e2066"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e2066">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e2066"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -3379,10 +3413,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e2172">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e2172"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e2172">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e2172"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -3523,10 +3559,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e2273">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e2273"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e2273">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e2273"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -3658,10 +3696,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e2368">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e2368"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e2368">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e2368"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -3809,10 +3849,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e2445">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e2445"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e2445">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e2445"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -3941,10 +3983,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e2548">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e2548"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e2548">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e2548"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -4087,10 +4131,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e2625">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e2625"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e2625">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e2625"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -4230,10 +4276,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e2729">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e2729"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e2729">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e2729"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -4365,10 +4413,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e2830">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e2830"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e2830">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e2830"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -4496,10 +4546,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e2908">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e2908"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e2908">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e2908"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -4642,10 +4694,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e2984">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e2984"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e2984">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e2984"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -4791,10 +4845,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e3088">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e3088"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e3088">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e3088"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -4942,10 +4998,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e3193">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e3193"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e3193">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e3193"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -5091,10 +5149,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e3301">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e3301"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e3301">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e3301"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -5225,10 +5285,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e3409">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e3409"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e3409">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e3409"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -5368,10 +5430,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e3481">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e3481">قد [?] هذا الكتاب في مبك الفقير راجي [عضوعي]...</p>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e3481">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e3481"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -5514,10 +5578,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e3582">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e3582"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e3582">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e3582"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -5660,10 +5726,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e3689">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e3689"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e3689">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e3689"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -5806,10 +5874,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e3792">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e3792"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e3792">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e3792"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -5955,10 +6025,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e3896">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e3896"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e3896">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e3896"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -6100,10 +6172,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e4002">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e4002"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e4002">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e4002"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -6242,10 +6316,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e4104">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e4104"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e4104">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e4104"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -6394,10 +6470,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e4199">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e4199"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e4199">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e4199"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -6533,10 +6611,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e4307">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e4307"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e4307">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e4307"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -6679,10 +6759,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e4394">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e4394"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e4394">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e4394"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -6825,10 +6907,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e4497">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e4497"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e4497">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e4497"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -6969,10 +7053,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e4597">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e4597"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e4597">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e4597"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -7107,10 +7193,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e4698">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e4698"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e4698">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e4698"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -7244,10 +7332,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e4792">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e4792"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e4792">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e4792"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -7390,10 +7480,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e4868">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e4868"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e4868">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e4868"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -7530,10 +7622,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e4967">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e4967"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e4967">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e4967"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -7680,11 +7774,13 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e5064">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e5064">[استصحبه؟] الغفير [السيد ؟] عبد [الباط؟] بن الشيخ علي
                         الفاحوري الشافعي [البرويي؟] عنهم</p>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e5064">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e5064"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -7824,10 +7920,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e5164">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e5164"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e5164">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e5164"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -7968,10 +8066,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e5263">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e5263"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e5263">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e5263"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -8102,10 +8202,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e5360">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e5360"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e5360">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e5360"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -8238,10 +8340,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e5437">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e5437"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e5437">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e5437"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -8391,10 +8495,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e5515">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e5515"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e5515">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e5515"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -8538,10 +8644,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e5621">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e5621"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e5621">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e5621"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -8685,10 +8793,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e5730">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e5730"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e5730">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e5730"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -8819,10 +8929,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e5831">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e5831"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e5831">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e5831"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -8965,10 +9077,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e5906">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e5906"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e5906">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e5906"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -9113,10 +9227,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e6001">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e6001">من كتب محمد صالح...</p>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e6001">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e6001"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -9259,10 +9375,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e6109">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e6109"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e6109">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e6109"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -9407,10 +9525,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e6209">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e6209"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e6209">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e6209"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -9539,10 +9659,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e6313">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e6313"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e6313">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e6313"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -9687,10 +9809,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e6388">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e6388"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e6388">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e6388"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -9836,10 +9960,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e6491">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e6491"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e6491">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e6491"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -9968,10 +10094,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e6593">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e6593"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e6593">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e6593"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -10102,10 +10230,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e6668">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e6668"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e6668">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e6668"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -10244,10 +10374,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e6743">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e6743"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e6743">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e6743"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -10389,10 +10521,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e6836">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e6836"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e6836">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e6836"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -10535,10 +10669,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e6936">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e6936"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e6936">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e6936"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -10668,10 +10804,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e7034">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e7034"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e7034">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e7034"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -10813,10 +10951,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e7108">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e7108"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e7108">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e7108"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -10956,10 +11096,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e7211">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e7211"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e7211">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e7211"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -11091,10 +11233,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e7309">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e7309"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e7309">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e7309"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -11225,10 +11369,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e7386">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e7386"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e7386">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e7386"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -11358,10 +11504,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e7462">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e7462"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e7462">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e7462"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -11505,10 +11653,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e7538">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e7538"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e7538">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e7538"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -11649,10 +11799,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e7639">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e7639"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e7639">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e7639"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -11797,10 +11949,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e7735">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e7735"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e7735">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e7735"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -11943,10 +12097,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e7839">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e7839"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e7839">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e7839"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -12087,10 +12243,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e7939">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e7939"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e7939">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e7939"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -12219,10 +12377,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e8042">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e8042"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e8042">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e8042"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -12365,10 +12525,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e8119">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e8119"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e8119">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e8119"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -12509,10 +12671,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e8221">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e8221"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e8221">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e8221"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -12642,10 +12806,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e8321">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e8321"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e8321">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e8321"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -12787,11 +12953,13 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e8398">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e8398">[I believe this says from whom the book was purchased,
                         [..?] زكى محمد , not the owner]</p>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e8398">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e8398">1346</date>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -12920,10 +13088,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e8499">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e8499"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e8499">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e8499"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -13062,10 +13232,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e8576">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e8576"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e8576">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e8576"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -13204,10 +13376,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e8671">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e8671">J. R. Jewett, Beirut, Oct. 16th, 1884.</p>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e8671">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e8671">Oct. 16th, 1884.</date>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -13336,10 +13510,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e8770">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e8770"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e8770">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e8770"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -13479,10 +13655,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e8846">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e8846"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e8846">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e8846"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -13627,10 +13805,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e8944">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e8944"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e8944">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e8944"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -13776,10 +13956,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e9046">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e9046"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e9046">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e9046"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -13920,10 +14102,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e9151">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e9151"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e9151">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e9151"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -14052,10 +14236,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e9249">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e9249"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e9249">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e9249"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -14199,10 +14385,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e9326">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e9326"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e9326">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e9326"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -14331,10 +14519,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e9428">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e9428"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e9428">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e9428"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -14477,10 +14667,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e9504">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e9504"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e9504">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e9504"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -14619,10 +14811,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e9604">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e9604"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e9604">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e9604"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -14751,10 +14945,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e9700">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e9700"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e9700">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e9700"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -14896,10 +15092,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e9778">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e9778"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e9778">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e9778"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -15040,10 +15238,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e9882">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e9882"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e9882">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e9882"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -15186,10 +15386,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e9983">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e9983"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e9983">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e9983"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -15318,10 +15520,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e10087">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e10087"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e10087">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e10087"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -15465,10 +15669,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e10163">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e10163"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e10163">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e10163"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -15615,10 +15821,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e10263">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e10263">[likely, but difficult to read]</p>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e10263">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e10263"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -15759,10 +15967,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e10367">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e10367">[unlikely, but difficult to tell]</p>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e10367">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e10367"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -15903,10 +16113,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e10470">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e10470"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e10470">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e10470"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -16035,10 +16247,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e10568">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e10568"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e10568">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e10568"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -16183,10 +16397,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e10644">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e10644"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e10644">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e10644"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -16323,10 +16539,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e10747">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e10747"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e10747">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e10747"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -16468,10 +16686,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e10841">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e10841"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e10841">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e10841"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -16614,10 +16834,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e10938">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e10938"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e10938">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e10938"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -16748,10 +16970,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e11038">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e11038"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e11038">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e11038"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -16893,10 +17117,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e11118">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e11118">[unlikely, but difficult to tell]</p>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e11118">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e11118">1263</date>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -17025,10 +17251,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e11221">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e11221"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e11221">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e11221"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -17167,10 +17395,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e11298">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e11298"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e11298">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e11298"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -17302,10 +17532,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e11374">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e11374"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e11374">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e11374"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -17444,10 +17676,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e11450">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e11450">مختار عباسي</p>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e11450">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e11450"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -17579,10 +17813,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e11550">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e11550"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e11550">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e11550"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -17724,10 +17960,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e11627">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e11627"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e11627">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e11627"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -17856,10 +18094,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e11722">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e11722"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e11722">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e11722"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -18003,10 +18243,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e11800">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e11800"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e11800">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e11800"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -18137,10 +18379,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e11901">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e11901"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e11901">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e11901"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -18285,10 +18529,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e11977">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e11977">اديب [نطحى?]</p>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e11977">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e11977">1304</date>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -18431,10 +18677,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e12083">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e12083"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e12083">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e12083"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -18565,10 +18813,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e12181">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e12181"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e12181">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e12181"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -18713,10 +18963,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e12258">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e12258"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e12258">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e12258"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -18861,10 +19113,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e12360">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e12360"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e12360">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e12360"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -19009,10 +19263,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e12465">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e12465"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e12465">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e12465"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -19159,10 +19415,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e12568">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e12568"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e12568">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e12568"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -19302,10 +19560,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e12672">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e12672"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e12672">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e12672">1828</date>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -19435,10 +19695,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e12771">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e12771"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e12771">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e12771"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -19576,10 +19838,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e12849">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e12849"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e12849">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e12849"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -19722,10 +19986,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e12945">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e12945"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e12945">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e12945"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -19854,10 +20120,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e13050">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e13050"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e13050">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e13050"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -20002,10 +20270,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e13127">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e13127"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e13127">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e13127"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -20146,10 +20416,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e13228">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e13228"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e13228">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e13228"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -20290,10 +20562,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e13330">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e13330"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e13330">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e13330"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -20439,10 +20713,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e13426">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e13426"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e13426">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e13426"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -20586,10 +20862,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e13525">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e13525"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e13525">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e13525"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -20719,10 +20997,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e13626">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e13626"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e13626">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e13626"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -20868,10 +21148,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e13703">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e13703"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e13703">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e13703"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -21002,10 +21284,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e13806">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e13806"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e13806">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e13806"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -21148,10 +21432,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e13883">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e13883"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e13883">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e13883"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -21293,10 +21579,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e13990">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e13990"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e13990">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e13990"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -21439,10 +21727,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e14092">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e14092"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e14092">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e14092"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -21574,10 +21864,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e14194">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e14194"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e14194">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e14194"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -21715,10 +22007,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e14272">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e14272"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e14272">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e14272"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -21848,10 +22142,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e14367">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e14367"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e14367">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e14367"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -21983,10 +22279,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e14443">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e14443"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e14443">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e14443"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -22126,10 +22424,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e14520">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e14520"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e14520">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e14520"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -22259,10 +22559,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e14622">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e14622"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e14622">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e14622"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -22392,10 +22694,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e14700">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e14700"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e14700">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e14700"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -22526,10 +22830,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e14776">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e14776"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e14776">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e14776"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -22661,10 +22967,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e14854">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e14854"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e14854">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e14854"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -22795,10 +23103,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e14927">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e14927"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e14927">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e14927"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -22945,10 +23255,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e15005">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e15005"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e15005">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e15005"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -23099,10 +23411,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e15111">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e15111"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e15111">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e15111"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -23241,10 +23555,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e15217">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e15217"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e15217">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e15217"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -23391,10 +23707,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e15322">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e15322"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e15322">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e15322"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -23535,10 +23853,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e15428">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e15428"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e15428">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e15428"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -23668,10 +23988,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e15530">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e15530"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e15530">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e15530"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -23804,10 +24126,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e15607">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e15607"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e15607">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e15607"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -23949,10 +24273,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e15684">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e15684"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e15684">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e15684"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -24105,10 +24431,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e15777">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e15777"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e15777">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e15777"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -24254,10 +24582,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e15887">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e15887"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e15887">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e15887"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -24390,10 +24720,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e15995">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e15995"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e15995">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e15995"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -24526,10 +24858,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e16077">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e16077"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e16077">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e16077"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -24675,10 +25009,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e16153">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e16153"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e16153">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e16153"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -24810,10 +25146,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e16258">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e16258"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e16258">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e16258"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -24958,10 +25296,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e16335">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e16335"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e16335">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e16335"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -25093,10 +25433,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e16435">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e16435"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e16435">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e16435"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -25236,10 +25578,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e16512">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e16512"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e16512">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e16512"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -25387,10 +25731,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e16612">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e16612"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e16612">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e16612"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -25540,10 +25886,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e16720">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e16720"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e16720">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e16720"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -25673,10 +26021,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e16825">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e16825"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e16825">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e16825"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -25819,10 +26169,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e16903">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e16903"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e16903">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e16903"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -25953,10 +26305,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e17005">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e17005"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e17005">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e17005"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -26085,10 +26439,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e17083">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e17083"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e17083">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e17083"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -26234,10 +26590,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e17158">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e17158"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e17158">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e17158"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -26382,10 +26740,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e17258">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e17258"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e17258">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e17258"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -26514,10 +26874,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e17352">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e17352"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e17352">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e17352"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -26663,10 +27025,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e17427">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e17427"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e17427">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e17427"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -26799,10 +27163,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e17530">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e17530"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e17530">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e17530"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -26943,10 +27309,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e17606">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e17606"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e17606">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e17606"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -27075,10 +27443,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e17705">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e17705"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e17705">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e17705"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -27221,10 +27591,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e17780">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e17780"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e17780">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e17780"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -27367,10 +27739,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e17884">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e17884"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e17884">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e17884"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -27518,10 +27892,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e17985">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e17985"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e17985">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e17985"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -27650,10 +28026,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e18090">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e18090"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e18090">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e18090"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -27784,10 +28162,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e18164">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e18164"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e18164">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e18164"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -27934,10 +28314,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e18239">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e18239"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e18239">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e18239"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -28081,10 +28463,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e18338">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e18338"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e18338">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e18338"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -28215,10 +28599,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e18439">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e18439"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e18439">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e18439"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -28365,10 +28751,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e18514">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e18514">waqf of 'Umar al-Disūqī</p>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e18514">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e18514">1281</date>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -28511,10 +28899,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e18615">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e18615"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e18615">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e18615"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -28658,10 +29048,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e18717">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e18717"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e18717">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e18717"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -28790,10 +29182,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e18819">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e18819"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e18819">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e18819"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -28926,10 +29320,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e18895">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e18895"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e18895">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e18895"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -29061,10 +29457,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e18970">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e18970"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e18970">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e18970"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -29212,10 +29610,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e19045">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e19045"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e19045">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e19045"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -29355,10 +29755,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e19148">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e19148"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e19148">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e19148"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -29503,10 +29905,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e19248">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e19248"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e19248">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e19248"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -29635,10 +30039,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e19353">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e19353"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e19353">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e19353"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -29768,10 +30174,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e19428">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e19428"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e19428">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e19428"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -29913,10 +30321,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e19503">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e19503"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e19503">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e19503"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -30046,10 +30456,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e19601">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e19601"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e19601">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e19601"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -30198,10 +30610,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e19676">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e19676"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e19676">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e19676"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -30330,10 +30744,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e19785">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e19785"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e19785">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e19785"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -30464,10 +30880,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e19860">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e19860"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e19860">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e19860"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -30609,10 +31027,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e19937">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e19937"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e19937">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e19937"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -30743,10 +31163,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e20037">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e20037"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e20037">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e20037"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -30886,10 +31308,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e20112">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e20112"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e20112">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e20112"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -31021,10 +31445,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e20208">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e20208"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e20208">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e20208"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -31154,10 +31580,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e20284">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e20284"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e20284">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e20284"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -31300,10 +31728,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e20360">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e20360">عبده الكمال عبده؟</p>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e20360">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e20360">١١ جمادي الثاني ١٣٦١</date>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -31433,10 +31863,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e20535">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e20535"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e20535">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e20535"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -31565,10 +31997,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e20606">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e20606"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e20606">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e20606"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -31697,10 +32131,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e20676">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e20676"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e20676">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e20676"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -31830,10 +32266,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e20746">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e20746"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e20746">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e20746"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -31962,10 +32400,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e20816">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e20816"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e20816">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e20816"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -32094,10 +32534,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e20886">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e20886"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e20886">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e20886"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -32234,10 +32676,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e20957">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e20957"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e20957">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e20957"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -32377,10 +32821,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e21046">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e21046"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e21046">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e21046"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -32509,10 +32955,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e21142">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e21142"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e21142">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e21142"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -32640,10 +33088,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e21212">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e21212"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e21212">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e21212"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -32772,10 +33222,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e21283">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e21283"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e21283">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e21283"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -32912,10 +33364,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e21352">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e21352"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e21352">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e21352"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -33062,10 +33516,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e21515">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e21515"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e21515">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e21515"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -33203,10 +33659,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e21612">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e21612"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e21612">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e21612"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -33348,10 +33806,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e21705">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e21705"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e21705">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e21705"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -33491,10 +33951,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e21799">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e21799"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e21799">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e21799"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -33639,10 +34101,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e21889">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e21889"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e21889">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e21889"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -33771,10 +34235,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e21986">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e21986"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e21986">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e21986"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -33907,10 +34373,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e22057">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e22057"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e22057">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e22057"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -34040,10 +34508,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e22136">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e22136"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e22136">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e22136"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -34174,10 +34644,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e22207">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e22207"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e22207">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e22207"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -34306,10 +34778,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e22277">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e22277"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e22277">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e22277"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -34438,10 +34912,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e22348">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e22348"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e22348">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e22348"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -34571,10 +35047,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e22418">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e22418"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e22418">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e22418"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -34706,10 +35184,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e22565">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e22565"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e22565">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e22565"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -34849,10 +35329,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e22640">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e22640"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e22640">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e22640"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -34994,10 +35476,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e22737">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e22737"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e22737">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e22737"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -35128,10 +35612,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e22834">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e22834"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e22834">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e22834"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -35260,10 +35746,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e22909">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e22909"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e22909">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e22909"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -35392,10 +35880,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e22981">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e22981"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e22981">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e22981"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -35524,10 +36014,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e23056">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e23056"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e23056">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e23056"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -35668,10 +36160,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e23129">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e23129"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e23129">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e23129"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -35812,10 +36306,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e23233">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e23233"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e23233">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e23233"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -35944,10 +36440,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e23332">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e23332"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e23332">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e23332"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -36076,10 +36574,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e23405">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e23405"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e23405">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e23405"/>
                   </note>
                   <note type="conversation" xml:lang="en">
@@ -36208,10 +36708,12 @@
                   </note>
                   <note type="inscriptionsOfOwnership" xml:lang="en" source="#d1e23480">
                      <p xml:lang="en">Inscriptions of Ownership</p>
+                     <p xml:lang="ar">عبارة الملكية</p>
                      <p source="#d1e23480"/>
                   </note>
                   <note type="datesOfOwnershipInscriptions" source="#d1e23480">
                      <p xml:lang="en">Dates of Ownership Inscriptions</p>
+                     <p xml:lang="ar">تاريخ عبارة الملكية</p>
                      <date source="#d1e23480"/>
                   </note>
                   <note type="conversation" xml:lang="en">
